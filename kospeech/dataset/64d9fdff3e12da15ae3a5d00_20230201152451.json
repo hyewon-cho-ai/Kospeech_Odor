@@ -1,0 +1,257 @@
+{
+    "_id": "64d9fdff3e12da15ae3a5d00",
+    "audioPath": "20230814/Incheon/2023/02/01/075/converted_20230201152451_6-075.wav",
+    "recordId": "cecef7917f4b6df60f04",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 145200,
+    "utterances": [
+        {
+            "id": "0bd4ae63",
+            "startAt": 8,
+            "endAt": 743,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "d0b10129",
+            "startAt": 1805,
+            "endAt": 5055,
+            "text": "예, 수고하십니다 저기 자폐 아동인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "1b948810",
+            "startAt": 5464,
+            "endAt": 13356,
+            "text": "어 짐 저 흥분해가지고 지금 폭력 폭력성을 좀 띄는데 그 뭡니까 진정제를 좀",
+            "speaker": 1
+        },
+        {
+            "id": "9669d13d",
+            "startAt": 14199,
+            "endAt": 17334,
+            "text": "그 주사 할 수 있을지 혹시 여쭤보고 싶어서요.",
+            "speaker": 1
+        },
+        {
+            "id": "5af7b4ce",
+            "startAt": 17292,
+            "endAt": 24927,
+            "text": "진정제 뭐 그 저희가 안내해드릴 수 있는 거는 의료 상담 있고요. 구급차 통해서 응급실 가서 이렇게 하셔야 되긴 하거든요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qk7rt4s22eg",
+            "startAt": 26407,
+            "endAt": 34218,
+            "text": "응급실 이송에 예 현장에서는 진정돼는 놔드릴 수 없고요. 가게 되면은 이제 응급실로 가서 이제",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_56o46rm2keg",
+            "startAt": 35191,
+            "endAt": 36618,
+            "text": "입원 하는 수밖에 없죠. 예.",
+            "speaker": 0
+        },
+        {
+            "id": "c9750698",
+            "startAt": 37952,
+            "endAt": 48325,
+            "text": "지금 그 그 입원을 시킬려다가 무슨 병원에서 코로나 진단에 해서 코로나 양성 방응이 나와가지고 그",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tdlr0apl5s",
+            "startAt": 48383,
+            "endAt": 57183,
+            "text": "자가진단으로는 지금 한 2주가 지났습니다만 그를 병원에서 인정을 안 한다고 얘기해서 입원은 못 시키고 있는 상황입니다. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_odthbuhu128",
+            "startAt": 57742,
+            "endAt": 61755,
+            "text": "그래서 좀 너무 흥분하고 사 그니까 사람들 처메추",
+            "speaker": 1
+        },
+        {
+            "id": "99d3bd93",
+            "startAt": 60213,
+            "endAt": 66002,
+            "text": "아 그니까 아 제가 말씀드린 게 응급실 간 응급 입원이라는 게 응급실 아시잖아요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_alvnlumviog",
+            "startAt": 66392,
+            "endAt": 71667,
+            "text": "그 응급실에서 머 이거 두세 시간 진료받고 나오는 정도에 저희가 병원 이송 가능하구요.",
+            "speaker": 0
+        },
+        {
+            "id": "c1a9fbb1",
+            "startAt": 72860,
+            "endAt": 78445,
+            "text": "네, 예, 그것 좀 지금 경찰관님한테 저 전화는 했구요.",
+            "speaker": 1
+        },
+        {
+            "id": "564c4ddf",
+            "startAt": 78448,
+            "endAt": 79776,
+            "text": "경찰분한테 전화했어요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_007bvec56n",
+            "startAt": 80164,
+            "endAt": 80800,
+            "text": "예예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o4boc0b7s3g",
+            "startAt": 80800,
+            "endAt": 81491,
+            "text": "어오신대요?",
+            "speaker": 0
+        },
+        {
+            "id": "571d412f",
+            "startAt": 82099,
+            "endAt": 86572,
+            "text": "예, 오신다 출동 안신다고 그러셨는데 제가 볼때는 그 119 로 이동을 해서.",
+            "speaker": 1
+        },
+        {
+            "id": "42687d1a",
+            "startAt": 86300,
+            "endAt": 87200,
+            "text": "아 네.",
+            "speaker": 0
+        },
+        {
+            "id": "9019ea6a",
+            "startAt": 87260,
+            "endAt": 89360,
+            "text": "진정제를 맞는게",
+            "speaker": 1
+        },
+        {
+            "id": "1d811203",
+            "startAt": 88557,
+            "endAt": 95304,
+            "text": "음 어 알겠습니다. 그러면은 그 주소 좀 알려주세요. 구급차도 한번 가볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "9e851e98",
+            "startAt": 95667,
+            "endAt": 96782,
+            "text": "예 연수구 청.",
+            "speaker": 1
+        },
+        {
+            "id": "3c8a22b1",
+            "startAt": 96802,
+            "endAt": 97592,
+            "text": "청량로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_t3nk4kvc6qg",
+            "startAt": 97618,
+            "endAt": 98482,
+            "text": "청량로 ",
+            "speaker": 0
+        },
+        {
+            "id": "b09d6d1e",
+            "startAt": 99068,
+            "endAt": 100534,
+            "text": "네, 이 155",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9g7jdivfpio",
+            "startAt": 100555,
+            "endAt": 101164,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "c92d14cb",
+            "startAt": 101297,
+            "endAt": 102433,
+            "text": "155번길.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_afb07rjc98g",
+            "startAt": 102909,
+            "endAt": 104491,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "b3f19e48",
+            "startAt": 105059,
+            "endAt": 107352,
+            "text": "예, 다원 아동 발달센터입니다.",
+            "speaker": 1
+        },
+        {
+            "id": "db953be0",
+            "startAt": 107336,
+            "endAt": 109629,
+            "text": "다원 다원 아동 발달센터요, 다원? ",
+            "speaker": 0
+        },
+        {
+            "id": "9ee6479d",
+            "startAt": 109711,
+            "endAt": 110892,
+            "text": "예 다원",
+            "speaker": 1
+        },
+        {
+            "id": "1def0453",
+            "startAt": 110907,
+            "endAt": 114487,
+            "text": "다원아동발달센터? 잠깐만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ddp43uncpf8",
+            "startAt": 118628,
+            "endAt": 121992,
+            "text": "저 주소만 확인하고 바로 보내드릴게요. 잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rsm4bgi2oeo",
+            "startAt": 127070,
+            "endAt": 133385,
+            "text": "알겠습니다. 그쪽으로 구급차 보내드릴거구요. 네, 좀만 아아 출동한 구급대원 전화 좀 받아주세요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_t2gplefvh4o",
+            "startAt": 133355,
+            "endAt": 135430,
+            "text": "예예, 감사합니다, 네네",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

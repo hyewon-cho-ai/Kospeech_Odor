@@ -1,0 +1,362 @@
+{
+    "_id": "64d9fdff3e12da15ae3a5aa1",
+    "audioPath": "20230814/Incheon/2023/02/01/016/converted_20230201034445_4016-016.wav",
+    "recordId": "f5b73688d79af2b98ac6",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 105000,
+    "utterances": [
+        {
+            "id": "wavesurfer_snshr6di0i",
+            "startAt": 0,
+            "endAt": 1367,
+            "text": "119입니다",
+            "speaker": 0
+        },
+        {
+            "id": "58d0bdbc",
+            "startAt": 112,
+            "endAt": 1325,
+            "text": "미추홀구",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ub1a01ohlf8",
+            "startAt": 2183,
+            "endAt": 3333,
+            "text": "여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4k7fkp3aj2o",
+            "startAt": 3617,
+            "endAt": 6483,
+            "text": "예, 여기 미추홀 경찰서인데요",
+            "speaker": 1
+        },
+        {
+            "id": "18674480",
+            "startAt": 6545,
+            "endAt": 11208,
+            "text": "예, 지금 좀 팔이 많이 아프고 그래가지고 119 좀 선택할려고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t9hp8uqv9fg",
+            "startAt": 11817,
+            "endAt": 13417,
+            "text": "팔이 아파서 119를",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u8ejcun0fv8",
+            "startAt": 13067,
+            "endAt": 15467,
+            "text": "예 119 예 미추홀 경찰서",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7h9l4i2rv28",
+            "startAt": 15637,
+            "endAt": 17053,
+            "text": "경찰서로 가면 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sesqomvfbq",
+            "startAt": 17317,
+            "endAt": 18483,
+            "text": "예예 오시면 돼요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_maho1mki48",
+            "startAt": 18610,
+            "endAt": 21927,
+            "text": "뭐 경찰관분이 아픈 거예요? 뭐 아니면 다른 ",
+            "speaker": 0
+        },
+        {
+            "id": "52cbe280",
+            "startAt": 21689,
+            "endAt": 22672,
+            "text": "아 저기",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ej4o4it71j8",
+            "startAt": 23207,
+            "endAt": 25023,
+            "text": "그중에 한 사람이 와 있는데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lt0uhkin2b8",
+            "startAt": 25567,
+            "endAt": 27283,
+            "text": "지금 과잉 진압 때문에",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_l77mhp4ersg",
+            "startAt": 27363,
+            "endAt": 29030,
+            "text": "예예 상처를 많이 입어가지고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4ih1sh2p78o",
+            "startAt": 29150,
+            "endAt": 30817,
+            "text": "고거 출성하러 지금 가는 겁니다",
+            "speaker": 1
+        },
+        {
+            "id": "4d4f5f7d",
+            "startAt": 30852,
+            "endAt": 32476,
+            "text": "야간으로 예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2p39jv1rd9",
+            "startAt": 32527,
+            "endAt": 35293,
+            "text": "예, 그 미추홀 경찰서 어디로 가면 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_41gmntdtmeg",
+            "startAt": 35507,
+            "endAt": 36990,
+            "text": "미추홀 경찰서로 오시면 돼요",
+            "speaker": 1
+        },
+        {
+            "id": "b3196263",
+            "startAt": 37732,
+            "endAt": 39994,
+            "text": "경찰서 과가 여러 개 있지 않아요?",
+            "speaker": 0
+        },
+        {
+            "id": "cbc2aedc",
+            "startAt": 40304,
+            "endAt": 42057,
+            "text": "그냥 오시면 나갈게요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6u56o0qr18g",
+            "startAt": 42210,
+            "endAt": 45143,
+            "text": "으 알겠습니다 출동하겠습니다",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c0odtrtnkn",
+            "startAt": 44139,
+            "endAt": 46413,
+            "text": "예예 어 지금 이거는",
+            "speaker": 1
+        },
+        {
+            "id": "8d90047c",
+            "startAt": 47381,
+            "endAt": 51548,
+            "text": "경찰서에 있거나 없거나 그걸 떠나서.",
+            "speaker": 1
+        },
+        {
+            "id": "392cf1c3",
+            "startAt": 49585,
+            "endAt": 51558,
+            "text": "선생님 임시 경찰관 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_s0a1urqt1i",
+            "startAt": 51147,
+            "endAt": 53763,
+            "text": "아 있는데 예 있",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4ehjov7d6q8",
+            "startAt": 52667,
+            "endAt": 54567,
+            "text": "경찰관 바꿔주세요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_60b2sj6qsgo",
+            "startAt": 54813,
+            "endAt": 56030,
+            "text": "앉아보세요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fd90tkee59g",
+            "startAt": 55523,
+            "endAt": 59507,
+            "text": "사랑하지 이거 때문에 지금 변호사 갈려 하는거야 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jbnmn8qmrk",
+            "startAt": 59323,
+            "endAt": 61390,
+            "text": "여기 전화 안터지는데 아니잖아요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_249m3oast38",
+            "startAt": 61300,
+            "endAt": 63367,
+            "text": "아 그 전화 통화하는 중이잖아요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_615petrfm68",
+            "startAt": 63057,
+            "endAt": 66090,
+            "text": "아그니까",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qkl7bq754uo",
+            "startAt": 63830,
+            "endAt": 65530,
+            "text": "경찰관 바꿔 주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tho6536jka",
+            "startAt": 65497,
+            "endAt": 68713,
+            "text": "경찰관 바꿔 달래요 경찰관 바꿔 달래",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_paqitcvd5kg",
+            "startAt": 66757,
+            "endAt": 69657,
+            "text": "저쪽으로 저쪽으로 앉아 계세요",
+            "speaker": 1
+        },
+        {
+            "id": "99455c8d",
+            "startAt": 69333,
+            "endAt": 71746,
+            "text": "여 저기 아이 오시면 됩니다.",
+            "speaker": 1
+        },
+        {
+            "id": "209f6447",
+            "startAt": 71923,
+            "endAt": 73896,
+            "text": "경찰관 좀 바꿔달라고요.",
+            "speaker": 0
+        },
+        {
+            "id": "b36f1322",
+            "startAt": 73913,
+            "endAt": 76680,
+            "text": "아이 경찰 바꿔 이 사람들 안 받을라고해",
+            "speaker": 1
+        },
+        {
+            "id": "c2f99980",
+            "startAt": 76596,
+            "endAt": 78106,
+            "text": "바꿔주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "1dd09417",
+            "startAt": 78410,
+            "endAt": 79473,
+            "text": "예, 여보세요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ei2md940ee8",
+            "startAt": 79430,
+            "endAt": 81430,
+            "text": "예 선생님 119 예요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_n3cl03eihoo",
+            "startAt": 81310,
+            "endAt": 81977,
+            "text": "예",
+            "speaker": 1
+        },
+        {
+            "id": "32e2135a",
+            "startAt": 81547,
+            "endAt": 84307,
+            "text": "경찰관님 저희 뭐 출동 해야 되나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rem2sbv0vk",
+            "startAt": 84367,
+            "endAt": 87533,
+            "text": "아니요 뭐 차 타고 할 때 이거 수갑",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_anulgr8g5u",
+            "startAt": 87633,
+            "endAt": 91517,
+            "text": "찬 것 때문에 그러는데 뭐 특별한 외상은 없습니다 그렇게 그러고 끝났는데",
+            "speaker": 1
+        },
+        {
+            "id": "ce0558ae",
+            "startAt": 91396,
+            "endAt": 101270,
+            "text": "아 예, 그럼 필요하면은 그 신고한 그분한테 전화하지 말라고 하시고 필요하면은 경찰관님 전화 주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "5cd8320c",
+            "startAt": 101943,
+            "endAt": 102496,
+            "text": "예, ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_us6qpslp7c8",
+            "startAt": 102483,
+            "endAt": 103083,
+            "text": "예",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_s2qmp14biao",
+            "startAt": 102533,
+            "endAt": 104550,
+            "text": "섹스를 안 한 게 아니고 내가",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6029cjroneo",
+            "startAt": 103933,
+            "endAt": 104933,
+            "text": "전화 디스 번호",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "기타부정",
+    "symptom": [],
+    "triage": ""
+}

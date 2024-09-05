@@ -1,0 +1,159 @@
+{
+    "_id": "64d9fdff3e12da15ae3a5a67",
+    "audioPath": "20230814/Incheon/2023/02/05/085/converted_20230205014723_16-085.wav",
+    "recordId": "d0caf2f426c2bf80ffcc",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 95000,
+    "utterances": [
+        {
+            "id": "9e4601dc",
+            "startAt": 0,
+            "endAt": 546,
+            "text": "입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5jp48krsd7o",
+            "startAt": 809,
+            "endAt": 2309,
+            "text": "안녕하세요. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_m2kgdn2289",
+            "startAt": 2890,
+            "endAt": 8653,
+            "text": "저 죄송한데 제가 그 집 비밀번호 까먹었는데",
+            "speaker": 1
+        },
+        {
+            "id": "ac2c6614",
+            "startAt": 9101,
+            "endAt": 13573,
+            "text": "이 문 이가 저희 고양에 있거든요. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "052ba873",
+            "startAt": 13940,
+            "endAt": 14551,
+            "text": "근데 얘가",
+            "speaker": 1
+        },
+        {
+            "id": "df8dd136",
+            "startAt": 15775,
+            "endAt": 22845,
+            "text": "그니까 계속 우는데 이거 문 그 비밀번호 키를 네. 한 번만 이렇게 열어주시면 안 될까 해서.",
+            "speaker": 1
+        },
+        {
+            "id": "c32817b5",
+            "startAt": 22875,
+            "endAt": 27165,
+            "text": "저희는 뭐 열어드리거나 그런 업무는 하지 않구요, 예에.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_h475kalall",
+            "startAt": 27368,
+            "endAt": 32213,
+            "text": "저희는 뭐 안에 그 요구조자가 있을때 파괴하고 들어가는 거예요.",
+            "speaker": 0
+        },
+        {
+            "id": "7b8cf2f0",
+            "startAt": 32555,
+            "endAt": 39320,
+            "text": "예, 그니까 그 비밀번호 그 있잖아요, 그거? 그것만 한 번만 이렇게 빼주면 안 될까요?",
+            "speaker": 1
+        },
+        {
+            "id": "c2684ded",
+            "startAt": 39448,
+            "endAt": 48908,
+            "text": "거 고거는 저희가 해드리기는 힘들 거 같구요, 예, 그 열쇠집 전화번호를 알려드릴 테니까 그쪽에 한번 전화해보시는 게 맞는 거 같아요.",
+            "speaker": 0
+        },
+        {
+            "id": "68a01900",
+            "startAt": 49054,
+            "endAt": 52067,
+            "text": "아  전화 해봤는데 네, 안 된다고 하더라고요.",
+            "speaker": 1
+        },
+        {
+            "id": "3aa94389",
+            "startAt": 52052,
+            "endAt": 55102,
+            "text": "저희도 뭐 출건 요 출동 요건에는 맞지가 않아요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nf3fq163f8",
+            "startAt": 55732,
+            "endAt": 56787,
+            "text": "아 그래요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hv1naa5rek",
+            "startAt": 56633,
+            "endAt": 57296,
+            "text": "네네네.",
+            "speaker": 0
+        },
+        {
+            "id": "7d4dafd2",
+            "startAt": 57152,
+            "endAt": 58827,
+            "text": "그럼 어떻게 해야 되죠, 이거?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_g6pvnrvprvo",
+            "startAt": 59986,
+            "endAt": 61595,
+            "text": "제가 비밀번호",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1vdp80qm7eo",
+            "startAt": 61556,
+            "endAt": 64893,
+            "text": "추운데 지금 이거 못 들어가고 있어갖고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jfq16kjpb9g",
+            "startAt": 64678,
+            "endAt": 69159,
+            "text": "그 그 24시간 열쇠집이 저희한테 전화번호가 하나가 있어요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3go7cu0520g",
+            "startAt": 69424,
+            "endAt": 73905,
+            "text": "고거를 문자로 한번 보내드릴 테니까 네. 통화를 한번 해보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "fe48e95a",
+            "startAt": 74109,
+            "endAt": 77059,
+            "text": "예예, 문자로 한번 주세요. 네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}
