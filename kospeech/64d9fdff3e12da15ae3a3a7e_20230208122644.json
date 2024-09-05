@@ -1,0 +1,320 @@
+{
+    "_id": "64d9fdff3e12da15ae3a3a7e",
+    "audioPath": "20230814/Incheon/2023/02/08/013/converted_20230208122644_4013-013.wav",
+    "recordId": "b7f396262e8a6b47ec4e",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 93840,
+    "utterances": [
+        {
+            "id": "wavesurfer_b8bg83632ug",
+            "startAt": 8,
+            "endAt": 2272,
+            "text": "***[개인정보] ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8ka4iqrl1o",
+            "startAt": 833,
+            "endAt": 1650,
+            "text": "119 입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_eeejlm9su18",
+            "startAt": 2326,
+            "endAt": 6409,
+            "text": "예 여기 만수 2동 송원빌라인데요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7eg8k6ijong",
+            "startAt": 6367,
+            "endAt": 7034,
+            "text": "무슨 빌라요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gq12n7bvfq8",
+            "startAt": 7617,
+            "endAt": 8617,
+            "text": "송원빌라.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_np22k1mdl9g",
+            "startAt": 8617,
+            "endAt": 9584,
+            "text": "송은빌라.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_l4ece8tlmng",
+            "startAt": 9834,
+            "endAt": 13734,
+            "text": "예 저 다빈 어린이 바로 옆인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nuchikc3vvg",
+            "startAt": 12957,
+            "endAt": 14518,
+            "text": "송은빌라 몇 동 몇 호예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_d1tl9vft0f",
+            "startAt": 14984,
+            "endAt": 17201,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_98flbvdjpco",
+            "startAt": 17205,
+            "endAt": 19221,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_392vccav81g",
+            "startAt": 19308,
+            "endAt": 20091,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_u60cigtkgl",
+            "startAt": 20058,
+            "endAt": 23192,
+            "text": "송은빌라 안 나오는데요 선생님. 송은이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sv5hk60sk5g",
+            "startAt": 23725,
+            "endAt": 25642,
+            "text": "아 청산 송원 송원",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jccocb49ojo",
+            "startAt": 25448,
+            "endAt": 26632,
+            "text": "송원빌라?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_d0sjicrdvo",
+            "startAt": 26732,
+            "endAt": 27415,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4ja9jbv8npo",
+            "startAt": 27432,
+            "endAt": 28965,
+            "text": "네네네 확인되네요 에.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qt2sqdqgiug",
+            "startAt": 29152,
+            "endAt": 30024,
+            "text": "예 저기 아휴",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bb3tikldt1g",
+            "startAt": 30719,
+            "endAt": 31852,
+            "text": "누가 어디 아프신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vicblohlq2g",
+            "startAt": 32286,
+            "endAt": 36219,
+            "text": "네 이 저 저 술을  많이 먹고 몸이 안 좋아가지고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dsj974nj8pg",
+            "startAt": 36466,
+            "endAt": 39333,
+            "text": "음수를 못하는데 병원 가야 되거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_oogl9apud0o",
+            "startAt": 39466,
+            "endAt": 40100,
+            "text": "누가요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o47spk0gnqo",
+            "startAt": 40810,
+            "endAt": 41983,
+            "text": "아이 여기 저",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ft0fc8p9jio",
+            "startAt": 43538,
+            "endAt": 44393,
+            "text": "사람이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e7g4r85mrbg",
+            "startAt": 44693,
+            "endAt": 45838,
+            "text": "그 지금은",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_09k3s2kd9eg",
+            "startAt": 44700,
+            "endAt": 46017,
+            "text": "술을 많이 먹었다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_t1sn8lhtppo",
+            "startAt": 46510,
+            "endAt": 48510,
+            "text": "예 양아들이요 예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pc8324o3r5",
+            "startAt": 48570,
+            "endAt": 49837,
+            "text": "술을 많이 먹었다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_uhfs6aqeijg",
+            "startAt": 49950,
+            "endAt": 56051,
+            "text": "아이 술도 먹고 몸이 워, 원래 안 좋은데 병원 가야 되는데 이걸",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k97t6ru608g",
+            "startAt": 56387,
+            "endAt": 58728,
+            "text": "걸음을 잘 못 걸어가지고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t1imqltj13g",
+            "startAt": 58738,
+            "endAt": 61971,
+            "text": "그니까 원래 몸이 안 좋으신데 술을 많이 드셨다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8burc4deb8",
+            "startAt": 60871,
+            "endAt": 61404,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_scc6idsnmj",
+            "startAt": 62181,
+            "endAt": 63014,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_43i9e57o688",
+            "startAt": 63315,
+            "endAt": 65187,
+            "text": "어. 그래요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5c2vd4hppkg",
+            "startAt": 64507,
+            "endAt": 69795,
+            "text": "근데 괜찮아요. 그냥 데리고 가면 되죠 별로로 저거 어디로 가냐 하면은.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0gmvk7sp7j",
+            "startAt": 70015,
+            "endAt": 72332,
+            "text": "저 계산 병원 가면 돼요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dos5l0h0gco",
+            "startAt": 72438,
+            "endAt": 74539,
+            "text": "저희는 응급실로 이송해 드려요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_csp646iftsg",
+            "startAt": 74894,
+            "endAt": 75662,
+            "text": "119",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ndacep5tur",
+            "startAt": 75312,
+            "endAt": 82112,
+            "text": "응급실이 여 일, 119로 저 소방에서 119로 불러서 오라, 그러는데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9kk2fvflfmo",
+            "startAt": 82373,
+            "endAt": 85173,
+            "text": "저희 이 이, 저희 119는요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ek4p0oaf4ng",
+            "startAt": 85139,
+            "endAt": 86839,
+            "text": "응급실밖에 안 가요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_oprl3v5duj8",
+            "startAt": 86523,
+            "endAt": 89290,
+            "text": "예 응급실로 이동하는 게 선생님 원칙이라서",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hka1sv6l1j8",
+            "startAt": 87540,
+            "endAt": 92373,
+            "text": " 그러면 음 일단은 음 일단은 끊어요. 그럼 병원에다 전화해볼게요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_un3p2va9ur8",
+            "startAt": 92380,
+            "endAt": 93130,
+            "text": "네네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}
