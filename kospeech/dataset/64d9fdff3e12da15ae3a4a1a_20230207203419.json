@@ -1,0 +1,208 @@
+{
+    "_id": "64d9fdff3e12da15ae3a4a1a",
+    "audioPath": "20230814/Incheon/2023/02/07/003/converted_20230207203419_4003-003.wav",
+    "recordId": "10b223a7c359bdb9cc96",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 76960,
+    "utterances": [
+        {
+            "id": "wavesurfer_a5shp9f2fn",
+            "startAt": 577,
+            "endAt": 1327,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u50hgphv81g",
+            "startAt": 2155,
+            "endAt": 4423,
+            "text": "네 저 부산에",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_92ct3ka319g",
+            "startAt": 4494,
+            "endAt": 6552,
+            "text": "한웅 레포츠라는 곳에서",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k3klgcj3jbo",
+            "startAt": 6503,
+            "endAt": 8930,
+            "text": "오늘 낮 12시쯤에 네,",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_raka4pdgnsg",
+            "startAt": 9535,
+            "endAt": 13198,
+            "text": "실려가신 그 삼육 병원으로 실려가신",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_n58t31h05m",
+            "startAt": 13415,
+            "endAt": 15289,
+            "text": "90세 노인이신데요. 네,",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ssgnq2dgfpo",
+            "startAt": 16388,
+            "endAt": 20267,
+            "text": "혹시 그 구급대원분하고 통화를 좀 했으면 해서",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_elkqclhi9eo",
+            "startAt": 20411,
+            "endAt": 20753,
+            "text": "아",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_cooubq7its8",
+            "startAt": 20605,
+            "endAt": 21973,
+            "text": "아까 전화를 드렸더니",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1puacei9r1g",
+            "startAt": 21937,
+            "endAt": 23574,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rhtkaq3ccko",
+            "startAt": 23557,
+            "endAt": 26242,
+            "text": "전화를 하면 된다고 해서 전화를 계속하고 있는데 네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7te6bmlnrto",
+            "startAt": 26419,
+            "endAt": 29566,
+            "text": "통화가 안 돼서 다시 한번 더 이쪽으로 전화를 드린 거거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_di2om7q5mhg",
+            "startAt": 29645,
+            "endAt": 31850,
+            "text": "아, 이 부산에서 이동되셨어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ue9ddie9m8",
+            "startAt": 32610,
+            "endAt": 35942,
+            "text": "네 부산에 있는 그 부민동 한웅 사우나에서",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k1f36k3ubm",
+            "startAt": 36172,
+            "endAt": 37214,
+            "text": "네 그러시면",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_aqq6g2nh92o",
+            "startAt": 37761,
+            "endAt": 39335,
+            "text": "여기 인천 119라서요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c50iibqm28g",
+            "startAt": 39887,
+            "endAt": 42035,
+            "text": "저희가 부산 소방 연결해 드릴게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_l1okpnn8rog",
+            "startAt": 42307,
+            "endAt": 43307,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_h75e6v3vedo",
+            "startAt": 42776,
+            "endAt": 44772,
+            "text": "네 전화 끊지 말고 연결 기다리세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0ardvl3qof",
+            "startAt": 68830,
+            "endAt": 69499,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_086ru4n3hg",
+            "startAt": 70743,
+            "endAt": 71748,
+            "text": "네 신고자분",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7d4lctv4dn8",
+            "startAt": 71417,
+            "endAt": 71738,
+            "text": "지금",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vcdpr15uq28",
+            "startAt": 71981,
+            "endAt": 72960,
+            "text": "연결됐어요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4fjnvhrbl1",
+            "startAt": 73404,
+            "endAt": 74562,
+            "text": "예 감사합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kg8p1ueq7m8",
+            "startAt": 74967,
+            "endAt": 75957,
+            "text": "예 말씀하십시오",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2nhuu91agu8",
+            "startAt": 75120,
+            "endAt": 75625,
+            "text": "저",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_c8tgv9sia4",
+            "startAt": 76446,
+            "endAt": 76909,
+            "text": "오늘",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "중립",
+    "symptom": [],
+    "triage": ""
+}
