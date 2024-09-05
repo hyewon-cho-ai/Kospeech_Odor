@@ -1,0 +1,250 @@
+{
+    "_id": "64d9fdff3e12da15ae3a4c2b",
+    "audioPath": "20230814/Incheon/2023/02/01/071/converted_20230201030617_2-071.wav",
+    "recordId": "ca9efa322e74aee6445d",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 136400,
+    "utterances": [
+        {
+            "id": "1a361fc6",
+            "startAt": 0,
+            "endAt": 424,
+            "text": "에.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lnepptkt08",
+            "startAt": 345,
+            "endAt": 600,
+            "text": "아.",
+            "speaker": 1
+        },
+        {
+            "id": "accae852",
+            "startAt": 3273,
+            "endAt": 4150,
+            "text": "여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "12bd19ba",
+            "startAt": 5892,
+            "endAt": 10167,
+            "text": "조금 전에 통화했는데 선생님만 알고요, 죄송합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "72ab1cb7",
+            "startAt": 10265,
+            "endAt": 12472,
+            "text": "어, 네, 잠시만요, 선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "f7252e37",
+            "startAt": 13453,
+            "endAt": 15134,
+            "text": "그분 좀 바꿔줄주실수있나",
+            "speaker": 1
+        },
+        {
+            "id": "53ba31ac",
+            "startAt": 15529,
+            "endAt": 17083,
+            "text": "누구, 누구요 선생님?",
+            "speaker": 0
+        },
+        {
+            "id": "53a1646a",
+            "startAt": 17252,
+            "endAt": 21276,
+            "text": "좀 그 선생님 좀 바꿔주세요 선생님 좀",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_01e0nt8s0c8",
+            "startAt": 19729,
+            "endAt": 21220,
+            "text": "어떤 선생님?",
+            "speaker": 0
+        },
+        {
+            "id": "bd4de696",
+            "startAt": 22980,
+            "endAt": 30637,
+            "text": "기존에 전화 받 하셨던 분 말씀하시는 거예요? 선생님, 여기 119인데요.",
+            "speaker": 0
+        },
+        {
+            "id": "53891ea5",
+            "startAt": 31026,
+            "endAt": 32001,
+            "text": "네. 케이",
+            "speaker": 1
+        },
+        {
+            "id": "4766b529",
+            "startAt": 32017,
+            "endAt": 33212,
+            "text": "네, 무슨 일이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "c22e49af",
+            "startAt": 32842,
+            "endAt": 34698,
+            "text": "까 아까부터",
+            "speaker": 1
+        },
+        {
+            "id": "d592a9df",
+            "startAt": 37112,
+            "endAt": 39551,
+            "text": "선생님, 지금 그 전화가 뚝뚝 끊겨요.",
+            "speaker": 0
+        },
+        {
+            "id": "f06be7e9",
+            "startAt": 47018,
+            "endAt": 51392,
+            "text": "선생님, 저 죄송한데요. 전화 다시 걸어주실래요? 지금 전화가 툭툭 끊겨요.",
+            "speaker": 0
+        },
+        {
+            "id": "60263837",
+            "startAt": 52523,
+            "endAt": 52823,
+            "text": "니다.",
+            "speaker": 1
+        },
+        {
+            "id": "865a13d4",
+            "startAt": 54039,
+            "endAt": 56614,
+            "text": "선생님 급하신 용무 아니시면 다시 전화 주시겠어요?",
+            "speaker": 0
+        },
+        {
+            "id": "d848e229",
+            "startAt": 60578,
+            "endAt": 62838,
+            "text": "이까 똑같으 을수일다 저.",
+            "speaker": 1
+        },
+        {
+            "id": "5f500b3c",
+            "startAt": 63028,
+            "endAt": 66278,
+            "text": "선생님, 예, 지금 그분 안 계세요.",
+            "speaker": 0
+        },
+        {
+            "id": "fa7f794d",
+            "startAt": 66390,
+            "endAt": 67928,
+            "text": "크 딴 거를 지니.",
+            "speaker": 1
+        },
+        {
+            "id": "99efc347",
+            "startAt": 68298,
+            "endAt": 72082,
+            "text": "선생님, 죄송한데 좀 전에 전화받으신 분 안 계시거든요.",
+            "speaker": 0
+        },
+        {
+            "id": "57dc5d13",
+            "startAt": 73962,
+            "endAt": 82846,
+            "text": "에 좀 물어가겠습니다. 초보도 또, 옥 오래도 또래가라 좀 있고 고고.",
+            "speaker": 1
+        },
+        {
+            "id": "4b39443f",
+            "startAt": 82946,
+            "endAt": 89246,
+            "text": "선생님 죄송한데 제가 지금 정신 정신보건센터 전화번호 안내 도와드릴게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_v53cnjohnpg",
+            "startAt": 89300,
+            "endAt": 90127,
+            "text": "그런가요?",
+            "speaker": 1
+        },
+        {
+            "id": "63b71fa0",
+            "startAt": 90391,
+            "endAt": 91456,
+            "text": "예, 뭐라구요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_psq6nb55r6g",
+            "startAt": 90879,
+            "endAt": 95859,
+            "text": "친구 죽고왔는데 결국은 내가 죽었는데 연락할때가 없는 거 알겠어.",
+            "speaker": 1
+        },
+        {
+            "id": "4ce4db56",
+            "startAt": 96028,
+            "endAt": 99138,
+            "text": "어, 선생님, 제가 정신보건센터 연결 도와드려도 될까요?",
+            "speaker": 0
+        },
+        {
+            "id": "c01f8ac2",
+            "startAt": 97723,
+            "endAt": 101006,
+            "text": "아니 늘 아무 따른 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_am47316bd4g",
+            "startAt": 101107,
+            "endAt": 103298,
+            "text": "아무리 따라뿌 소용 없다니까요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_na2l2rt9go8",
+            "startAt": 103531,
+            "endAt": 107104,
+            "text": "선생님이 잘못이 어떠 까도 없었어요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b3cuanj5838",
+            "startAt": 111280,
+            "endAt": 115217,
+            "text": "선생님 때려 불끄라고 되었어야지 나한테 이래요",
+            "speaker": 1
+        },
+        {
+            "id": "52d770f0",
+            "startAt": 114693,
+            "endAt": 122538,
+            "text": "선생님, 무슨 말씀인지 제가 전혀 이해가 안가구요. 그 정신보건센터 전화번호 넣어드렸습니다. 그 문 문자 확인하세요",
+            "speaker": 0
+        },
+        {
+            "id": "de3e220b",
+            "startAt": 120996,
+            "endAt": 127912,
+            "text": "그러니까는 왜 이케 나 나를, 나 아이 참 그 그러면 안 되지.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}
