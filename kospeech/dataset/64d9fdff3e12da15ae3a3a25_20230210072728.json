@@ -1,0 +1,187 @@
+{
+    "_id": "64d9fdff3e12da15ae3a3a25",
+    "audioPath": "20230814/Incheon/2023/02/10/001/converted_20230210072728_4001-001.wav",
+    "recordId": "f0d9b667f5156f2ca789",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 56200,
+    "utterances": [
+        {
+            "id": "wavesurfer_hu1fdpg1s1o",
+            "startAt": 173,
+            "endAt": 1194,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_br3p7eapcto",
+            "startAt": 1746,
+            "endAt": 2773,
+            "text": "예 여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_h321s7l966g",
+            "startAt": 2646,
+            "endAt": 4054,
+            "text": "119입니다. 말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6lhp7hm0tbg",
+            "startAt": 4373,
+            "endAt": 6264,
+            "text": "네, 어 다른 게 아니라.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vfeai87h74",
+            "startAt": 6782,
+            "endAt": 11218,
+            "text": "친구가. 쓰러져가지고 간질처럼 발발 떨었, 떨었거든요. ",
+            "speaker": 1
+        },
+        {
+            "id": "0a23ca63",
+            "startAt": 11178,
+            "endAt": 14371,
+            "text": "쓰러지셔서 그 간질처럼 떨으 떠셨다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_h6nk13h0788",
+            "startAt": 14855,
+            "endAt": 16991,
+            "text": "네네, 거품도 살짝 나오고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9rcd8uam168",
+            "startAt": 15445,
+            "endAt": 16254,
+            "text": "네네네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u69vaauec5o",
+            "startAt": 17018,
+            "endAt": 17373,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5am27mtnl4",
+            "startAt": 17264,
+            "endAt": 20600,
+            "text": "그럴 때 대처를 어떻게 해야 되는지 알고 싶어가지고. 친구가 이제 이",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8r2raevk3j8",
+            "startAt": 19591,
+            "endAt": 20600,
+            "text": "조치요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2kbg5d4iqao",
+            "startAt": 20981,
+            "endAt": 21554,
+            "text": "네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_16dvivcromg",
+            "startAt": 21682,
+            "endAt": 24255,
+            "text": "어 선생님, 어떻게 뭐 지금 구급차는 필요 없으세요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_e12jpmcjiag",
+            "startAt": 24755,
+            "endAt": 30909,
+            "text": "네네. 구급차 불렀었는데 친구가 괜찮다고 일어나가지고 지금 멀쩡한 저기 뭐 상태거든요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o04rqilnccg",
+            "startAt": 30773,
+            "endAt": 32536,
+            "text": "어 그래요 선생님 그러면",
+            "speaker": 0
+        },
+        {
+            "id": "3b333709",
+            "startAt": 31632,
+            "endAt": 34512,
+            "text": "왜 또 이런 사항이 또 처해지면 어떻게 되는지 몰라서.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_du5nffsfbho",
+            "startAt": 33945,
+            "endAt": 37873,
+            "text": "아 네, 그면 응급조치만 좀 안내를 좀 도와드릴게요. ",
+            "speaker": 0
+        },
+        {
+            "id": "868e1f8e",
+            "startAt": 38243,
+            "endAt": 43163,
+            "text": "저희. 네네네네. 저희 그 안내 부서가 따로 있어서 그쪽으로 좀. 네. 돌려드릴게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ck6ef58sulo",
+            "startAt": 38300,
+            "endAt": 39309,
+            "text": "아 감사합니다",
+            "speaker": 1
+        },
+        {
+            "id": "2722466f",
+            "startAt": 43653,
+            "endAt": 45076,
+            "text": "네, 감사합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "a165caa2",
+            "startAt": 50974,
+            "endAt": 53550,
+            "text": "네, 응급처치 안내 원하십니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_h2s8213u53g",
+            "startAt": 52455,
+            "endAt": 54382,
+            "text": " 네. 네, 여보세요, ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gqvf9lglp5o",
+            "startAt": 54164,
+            "endAt": 55127,
+            "text": "네, 여보세요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_84jq17i3kj8",
+            "startAt": 55091,
+            "endAt": 56200,
+            "text": "예, 환자분이 쓰러.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}
