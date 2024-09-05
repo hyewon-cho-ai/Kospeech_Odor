@@ -1,0 +1,103 @@
+{
+    "_id": "64d9fdff3e12da15ae3a67e6",
+    "audioPath": "20230814/Incheon/2023/02/01/072/converted_20230201220600_3-072.wav",
+    "recordId": "793a0d8c9667d77d8a72",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 34600,
+    "utterances": [
+        {
+            "id": "wavesurfer_qvno7b8466",
+            "startAt": 0,
+            "endAt": 573,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ikgclsi6l48",
+            "startAt": 1227,
+            "endAt": 3545,
+            "text": "네, 그 시민 약국 좀 알 수 있을까요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e077kpc24jo",
+            "startAt": 4000,
+            "endAt": 5363,
+            "text": "시내 약국, 네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fvk02ghn2l",
+            "startAt": 5345,
+            "endAt": 6427,
+            "text": "지금 열려있는 약국이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_a4dh5o5m6bo",
+            "startAt": 6553,
+            "endAt": 7535,
+            "text": "예예예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lb072u2cuv8",
+            "startAt": 7007,
+            "endAt": 8944,
+            "text": "선생님 지금 간석동에 있는 거 맞을까요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nlhs9k4nnig",
+            "startAt": 9335,
+            "endAt": 11307,
+            "text": "예예, 간석동 홈플러스 쪽에 있습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "623c79e0",
+            "startAt": 11785,
+            "endAt": 13235,
+            "text": "예, 잠시만요.",
+            "speaker": 1
+        },
+        {
+            "id": "d01fa0a8",
+            "startAt": 22629,
+            "endAt": 23980,
+            "text": "네 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ciijdpgd25g",
+            "startAt": 23655,
+            "endAt": 24736,
+            "text": "네, 약국 문의입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7h49rios0o",
+            "startAt": 24755,
+            "endAt": 25955,
+            "text": "예, 여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dnrskqhkj9o",
+            "startAt": 26071,
+            "endAt": 26662,
+            "text": "예예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

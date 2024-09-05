@@ -1,0 +1,138 @@
+{
+    "_id": "64d9fdff3e12da15ae3a51f6",
+    "audioPath": "20230814/Incheon/2023/02/08/072/converted_20230208044038_3-072.wav",
+    "recordId": "4c6c79381550e73d2cd1",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 57560,
+    "utterances": [
+        {
+            "id": "wavesurfer_pp0udda41r",
+            "startAt": 12252,
+            "endAt": 13302,
+            "text": "여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_emb18t5nmig",
+            "startAt": 13286,
+            "endAt": 15319,
+            "text": "예, 선생님, 여기 소방서인데요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2nirqn344j8",
+            "startAt": 15436,
+            "endAt": 15886,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lhv2760rek8",
+            "startAt": 15839,
+            "endAt": 19457,
+            "text": "가스 냄새 난다고 뭐 경찰에 신고하신 게 있어서 저희도 나가보려고 하는데요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mb7uc5l891g",
+            "startAt": 19400,
+            "endAt": 20150,
+            "text": "예 예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_08qdce8a76",
+            "startAt": 19980,
+            "endAt": 22397,
+            "text": "거기 삼미 아파트가 몇 층까지 있는 건가요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qakdth57dkg",
+            "startAt": 22534,
+            "endAt": 23734,
+            "text": "5층에 있습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_md071hto42",
+            "startAt": 23469,
+            "endAt": 24686,
+            "text": "5층이예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3c6g1teb7h8",
+            "startAt": 24669,
+            "endAt": 26806,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rkk0tqmaano",
+            "startAt": 26778,
+            "endAt": 28178,
+            "text": "한동 짜린가요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_g4c5d3jqetg",
+            "startAt": 28296,
+            "endAt": 29007,
+            "text": "예, 한동짜리",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_m4fqpvf9ru8",
+            "startAt": 28957,
+            "endAt": 30129,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4kirlshbj58",
+            "startAt": 30712,
+            "endAt": 32529,
+            "text": "지금도 가스 냄새 나는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pcte9ngemlg",
+            "startAt": 32956,
+            "endAt": 34056,
+            "text": "예예예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_14q2fjim3mo",
+            "startAt": 34523,
+            "endAt": 37757,
+            "text": "베란다에서 베란다 하수구에서 너무 많이 나요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_56mfflq4le",
+            "startAt": 39250,
+            "endAt": 43801,
+            "text": "베란다 하수구에서 나오는 게 여기까지 흘러들어오는 거 같아요",
+            "speaker": 1
+        },
+        {
+            "id": "d759c6c8",
+            "startAt": 43356,
+            "endAt": 46219,
+            "text": "아 예, 알겠습니다. 네 저희 나가서 확인해볼게요, 네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

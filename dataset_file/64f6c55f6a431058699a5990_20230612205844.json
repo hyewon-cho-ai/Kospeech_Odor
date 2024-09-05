@@ -1,0 +1,285 @@
+{
+    "_id": "64f6c55f6a431058699a5990",
+    "audioPath": "20230829/Incheon/2023/06/12/013/converted_20230612205844_4013-013.wav",
+    "recordId": "3815dc7848af69ef0bbd",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 114680,
+    "utterances": [
+        {
+            "id": "792633a9",
+            "startAt": 244,
+            "endAt": 1384,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "b262736a",
+            "startAt": 1794,
+            "endAt": 5943,
+            "text": "아, 네, 지금 여기 뭔가 수도가 터진 거 같아가지고요.",
+            "speaker": 1
+        },
+        {
+            "id": "a9f16577",
+            "startAt": 5864,
+            "endAt": 6429,
+            "text": "수도가요?",
+            "speaker": 0
+        },
+        {
+            "id": "b7c84c52",
+            "startAt": 7271,
+            "endAt": 10393,
+            "text": "네, 지금 앞 그 원룸인데.",
+            "speaker": 1
+        },
+        {
+            "id": "a3c3640a",
+            "startAt": 10341,
+            "endAt": 10591,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "0eac5e09",
+            "startAt": 11774,
+            "endAt": 18688,
+            "text": "갑자기 무슨 팡 하는 소리가 나서 비가 오나 밖을 봤는데 아파트 여기 수도가 터진 거 같아가지고요.",
+            "speaker": 1
+        },
+        {
+            "id": "ffb1b908",
+            "startAt": 18688,
+            "endAt": 21179,
+            "text": "어디서 위에서 뭐 물이 흘르는 거예요.",
+            "speaker": 0
+        },
+        {
+            "id": "779af536",
+            "startAt": 23447,
+            "endAt": 31897,
+            "text": "어 아니요, 무슨 그니까 여기 라이프인데요. 주안동에 있는 라이프라는 원룸인데.",
+            "speaker": 1
+        },
+        {
+            "id": "3e80c4f0",
+            "startAt": 31967,
+            "endAt": 32247,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "619b0ffe",
+            "startAt": 32867,
+            "endAt": 39504,
+            "text": "지금 바닥 바닥이 완전 그냥 물바다가 될 정도로 수도가 터진 거 같아요.",
+            "speaker": 1
+        },
+        {
+            "id": "f5b51ca8",
+            "startAt": 39127,
+            "endAt": 46464,
+            "text": "그까 계수변을 잠그면 물은 빠지거든, 그니까 물은 안 나오거든요. 저기 뭐야 저기 그 계량기 함 어딨는지 모르세요?",
+            "speaker": 0
+        },
+        {
+            "id": "32288e6a",
+            "startAt": 47342,
+            "endAt": 51150,
+            "text": "아니, 그게 아니라 그냥 그 도로에 지금 물이",
+            "speaker": 1
+        },
+        {
+            "id": "2b1bc8c7",
+            "startAt": 50388,
+            "endAt": 52935,
+            "text": "도로에 원룸 앞에?",
+            "speaker": 0
+        },
+        {
+            "id": "d130a83d",
+            "startAt": 51495,
+            "endAt": 53906,
+            "text": "네네 길이 문제가 아니라.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e8625n2f008",
+            "startAt": 53754,
+            "endAt": 55363,
+            "text": "아, 원룸 앞 도로",
+            "speaker": 0
+        },
+        {
+            "id": "31d8e4a4",
+            "startAt": 56490,
+            "endAt": 59437,
+            "text": "도로는 땅에서 그러면 물이 나오는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "0364d905",
+            "startAt": 59757,
+            "endAt": 62754,
+            "text": "네, 사람들 지나다니는 아니요. 땅이 아니라",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kbll9mab3ng",
+            "startAt": 62746,
+            "endAt": 67429,
+            "text": "한 2, 3층 정도 되는 수도가 수도 같은 데서 터진거 같아요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_164mrcmssv8",
+            "startAt": 66599,
+            "endAt": 67845,
+            "text": "그니까 도로상에서",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_h500kh24pko",
+            "startAt": 68191,
+            "endAt": 69100,
+            "text": "네네네",
+            "speaker": 1
+        },
+        {
+            "id": "3bf6099a",
+            "startAt": 69356,
+            "endAt": 71678,
+            "text": "도로, 땅바닥에서 그니까 물이 나오는 거냐고요?",
+            "speaker": 0
+        },
+        {
+            "id": "98a424e7",
+            "startAt": 72093,
+            "endAt": 73346,
+            "text": "아니요, 아니요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pkegmh3h8eg",
+            "startAt": 72804,
+            "endAt": 73922,
+            "text": "그럼 어디서",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9vlpv7i5e18",
+            "startAt": 73400,
+            "endAt": 78084,
+            "text": " 아파트에 있는 수도꼭지 같은 데서 나오는 거 같아요.",
+            "speaker": 1
+        },
+        {
+            "id": "f4dfaf2d",
+            "startAt": 78289,
+            "endAt": 79897,
+            "text": "아파트 수도꼭지요?",
+            "speaker": 0
+        },
+        {
+            "id": "9c71aa3f",
+            "startAt": 81410,
+            "endAt": 85079,
+            "text": "어, 이거 어 사진을 찍어 드리면 알텐데",
+            "speaker": 1
+        },
+        {
+            "id": "54a3bf47",
+            "startAt": 84427,
+            "endAt": 87650,
+            "text": "그니까 건물에서 나온다는 거예요. 땅에서 나온다는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "c3e2d0e0",
+            "startAt": 87840,
+            "endAt": 90668,
+            "text": "건물에 있는 꼭지에서 터진 거 같아요.",
+            "speaker": 1
+        },
+        {
+            "id": "4f526508",
+            "startAt": 90850,
+            "endAt": 92857,
+            "text": "아, 건물 1층 쪽에?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_oc360fic6h",
+            "startAt": 93658,
+            "endAt": 94258,
+            "text": "아니요 한",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7gu4kp2e9h",
+            "startAt": 94229,
+            "endAt": 97693,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2vbmq4cb3ao",
+            "startAt": 97668,
+            "endAt": 98758,
+            "text": "지금 물이 나오고 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "a00b72e8",
+            "startAt": 99250,
+            "endAt": 100940,
+            "text": "네, 네, 가로등 있는 쪽이요.",
+            "speaker": 1
+        },
+        {
+            "id": "d6dc3cec",
+            "startAt": 101719,
+            "endAt": 105674,
+            "text": "아, 알겠어요 저희가 나가서 확인해보고 그 정확하게 주소가 혹시 알 수 있을까요?",
+            "speaker": 0
+        },
+        {
+            "id": "b3102ed1",
+            "startAt": 106503,
+            "endAt": 107389,
+            "text": "어 주안동",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_l00vpnak2i",
+            "startAt": 107343,
+            "endAt": 110662,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "879d68dd",
+            "startAt": 111223,
+            "endAt": 111795,
+            "text": "네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "e4f2705f",
+            "startAt": 111418,
+            "endAt": 113971,
+            "text": "알겠습니다  네",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 미추홀구 주안동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

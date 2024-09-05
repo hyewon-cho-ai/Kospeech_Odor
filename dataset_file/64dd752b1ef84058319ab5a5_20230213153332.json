@@ -1,0 +1,320 @@
+{
+    "_id": "64dd752b1ef84058319ab5a5",
+    "audioPath": "20230815/Incheon/2023/02/13/012/converted_20230213153332_4012-012.wav",
+    "recordId": "9d3671106a8684301e22",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 98360,
+    "utterances": [
+        {
+            "id": "cd97d96a",
+            "startAt": 404,
+            "endAt": 928,
+            "text": "119입니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tatjoll0kmo",
+            "startAt": 1314,
+            "endAt": 2095,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qf001367428",
+            "startAt": 2253,
+            "endAt": 2795,
+            "text": "119예요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_697vc5j9li",
+            "startAt": 3095,
+            "endAt": 3725,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_if22lp4nb5g",
+            "startAt": 3742,
+            "endAt": 4818,
+            "text": "예, 119에요 말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0sdnej91uqo",
+            "startAt": 5343,
+            "endAt": 7507,
+            "text": "예, 저  좀 도와주세요 저 그",
+            "speaker": 1
+        },
+        {
+            "id": "2a2a2fc7",
+            "startAt": 8115,
+            "endAt": 13113,
+            "text": "지금 수도 하수 물을 잘못했는데 물이 계속 나왔는데 이거 어떻게 못하겠어요. 아",
+            "speaker": 1
+        },
+        {
+            "id": "f95531af",
+            "startAt": 14083,
+            "endAt": 15512,
+            "text": "집에 수도 뭐 수도관이 터진 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "90b81660",
+            "startAt": 16326,
+            "endAt": 18467,
+            "text": "저 여기 그 잠깐만요 지금 잘  ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1515uepqi7o",
+            "startAt": 18500,
+            "endAt": 19496,
+            "text": "아",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jcdo2ak5bjg",
+            "startAt": 19768,
+            "endAt": 20383,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7go8en6i42",
+            "startAt": 20421,
+            "endAt": 20830,
+            "text": "예",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k0rg03holf",
+            "startAt": 21742,
+            "endAt": 23330,
+            "text": "네, 여기 성신빌라거든요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_aqnfjtia5bo",
+            "startAt": 23310,
+            "endAt": 24074,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "24c371eb",
+            "startAt": 25072,
+            "endAt": 26641,
+            "text": "그까 수도관이 터진 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "661dae89",
+            "startAt": 27157,
+            "endAt": 31670,
+            "text": "예, 이거 좀 도와주세요, 지금 연락하기 아  이거 힘들어가지고 좀 도와주세요, 아.",
+            "speaker": 1
+        },
+        {
+            "id": "e66d1d87",
+            "startAt": 32037,
+            "endAt": 32450,
+            "text": "어",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qb7r57cguv",
+            "startAt": 32792,
+            "endAt": 34078,
+            "text": "일단 주소 어떻게 된다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "0e125dba",
+            "startAt": 34587,
+            "endAt": 37902,
+            "text": "성신빌라 그 구월 4동 아 잠시만요 아 아파",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rpk2am91bk",
+            "startAt": 38432,
+            "endAt": 40594,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "e2905a05",
+            "startAt": 41831,
+            "endAt": 42361,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4pe6glfnufg",
+            "startAt": 42326,
+            "endAt": 42688,
+            "text": "아",
+            "speaker": 1
+        },
+        {
+            "id": "fdd8a2c2",
+            "startAt": 43469,
+            "endAt": 45949,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "cfee5b7a",
+            "startAt": 46824,
+            "endAt": 48494,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "633e632a",
+            "startAt": 48989,
+            "endAt": 50893,
+            "text": "네 아 이거 어떡하는거지?",
+            "speaker": 1
+        },
+        {
+            "id": "d4da4a14",
+            "startAt": 51525,
+            "endAt": 52219,
+            "text": "몇 동 몇 호예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k9ampd62nd8",
+            "startAt": 53042,
+            "endAt": 53509,
+            "text": "아",
+            "speaker": 1
+        },
+        {
+            "id": "a05f66c3",
+            "startAt": 53479,
+            "endAt": 54703,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_krmvohe9ek8",
+            "startAt": 54682,
+            "endAt": 55263,
+            "text": "도와주세요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hg76m4bducg",
+            "startAt": 55551,
+            "endAt": 57880,
+            "text": "아 아 아  하나 예?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ral8ro4i3v",
+            "startAt": 57980,
+            "endAt": 58714,
+            "text": "동이 하나에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rnq8u5l0gk",
+            "startAt": 59440,
+            "endAt": 59759,
+            "text": "예?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0nlejh5vkro",
+            "startAt": 60088,
+            "endAt": 63129,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ncldj12kh68",
+            "startAt": 63142,
+            "endAt": 64242,
+            "text": "도와주세요 지금",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tqlu78g1ku8",
+            "startAt": 64773,
+            "endAt": 66121,
+            "text": "집이 물 물난리에요.",
+            "speaker": 1
+        },
+        {
+            "id": "b8c790f2",
+            "startAt": 69411,
+            "endAt": 70549,
+            "text": "일단 예, 알았구요.",
+            "speaker": 0
+        },
+        {
+            "id": "1f23ddb1",
+            "startAt": 71096,
+            "endAt": 73093,
+            "text": "네, 지금 와주세요. 아 물이",
+            "speaker": 1
+        },
+        {
+            "id": "869aa1ca",
+            "startAt": 72394,
+            "endAt": 76225,
+            "text": "예, 가고 있습니다 가고 있는데 그거 말고 다른 거 뭐 다치시거나 그런 건 아니죠?",
+            "speaker": 0
+        },
+        {
+            "id": "26ce6a34",
+            "startAt": 76541,
+            "endAt": 78722,
+            "text": "네, 빨리 와주세요. 지금 죽을 거 같아 이거 어떡해 ",
+            "speaker": 1
+        },
+        {
+            "id": "1037ca64",
+            "startAt": 79236,
+            "endAt": 81410,
+            "text": "그 혼자 계신가요? 다른 가족 가족분들 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "3f2055b3",
+            "startAt": 81195,
+            "endAt": 83942,
+            "text": "혼자 있어요, 혼자 있어요 혼자있어요 혼자니깐 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "0b1b4d5a",
+            "startAt": 84614,
+            "endAt": 87886,
+            "text": "어 알았어요. 소방은 저 소방차 가고 있어요. 예 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7g6fn8ohb9o",
+            "startAt": 87859,
+            "endAt": 88823,
+            "text": "[개인정보]",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 남동구 구월동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

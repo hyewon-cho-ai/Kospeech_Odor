@@ -1,0 +1,201 @@
+{
+    "_id": "64d9fdff3e12da15ae3a61fc",
+    "audioPath": "20230814/Incheon/2023/02/11/008/converted_20230211191645_4008-008.wav",
+    "recordId": "9950e53f74af09bd57d0",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 60200,
+    "utterances": [
+        {
+            "id": "wavesurfer_n3cefhsrjk8",
+            "startAt": 200,
+            "endAt": 1336,
+            "text": "네 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6lsl6ta5jb8",
+            "startAt": 1582,
+            "endAt": 2764,
+            "text": "네 안녕하세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_i3i00ekbsig",
+            "startAt": 2755,
+            "endAt": 3191,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8v95fh4ulj",
+            "startAt": 3551,
+            "endAt": 7015,
+            "text": "아 예 저 인천광역시 하점면 고려산로",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fd8o0k75sc",
+            "startAt": 7013,
+            "endAt": 8840,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_c0h0o7o5d",
+            "startAt": 8809,
+            "endAt": 9936,
+            "text": "주민인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_511vspj0vs8",
+            "startAt": 9896,
+            "endAt": 11360,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7dbb5pjep5",
+            "startAt": 11845,
+            "endAt": 12382,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kqo4iqqa338",
+            "startAt": 12295,
+            "endAt": 12640,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7ubs2h72t0g",
+            "startAt": 13555,
+            "endAt": 17436,
+            "text": "여기 탄내가 탄 냄새가 많이 나가지고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jtaag376r5o",
+            "startAt": 17398,
+            "endAt": 22951,
+            "text": "요 주변으로도 해가지고 마 연기도 많은 거 같고 해가지고 혹시 신고된 거 있나 싶어서 연락을 드렸어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_72ibec6f3ho",
+            "startAt": 23591,
+            "endAt": 28156,
+            "text": "어 아니요. 그 신고된 건 없는데 불 그 뭐 동네에?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8qa16sl3j98",
+            "startAt": 27158,
+            "endAt": 33524,
+            "text": "아이 직접 요 불이 예예 직접적으로 불이 뭐 나거나 그런 건 아닌 거 같고 저희 제 눈에는 안 보이거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_juv3osuqtu8",
+            "startAt": 34242,
+            "endAt": 36187,
+            "text": "근데 연기가 너무 많이 나가지고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_v4k0235229o",
+            "startAt": 35640,
+            "endAt": 37093,
+            "text": "뭐 소각하는 거 같애요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9u3f4kh1v2o",
+            "startAt": 37698,
+            "endAt": 39389,
+            "text": "아 그런 거 같기도 하고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d890bebpbd",
+            "startAt": 39767,
+            "endAt": 40376,
+            "text": "아",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_den7l73l7t",
+            "startAt": 40736,
+            "endAt": 42164,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c7e3lg60h9",
+            "startAt": 42154,
+            "endAt": 44390,
+            "text": "가면은 보이나요? 여기?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_svnkfmpq0l",
+            "startAt": 44973,
+            "endAt": 47955,
+            "text": "아 여기 주변은 다 그런 거 같은데요 냄새가 확 나는 거 같은데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_apj9v85b8co",
+            "startAt": 48189,
+            "endAt": 49115,
+            "text": "아",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_b95vb78ktc8",
+            "startAt": 49707,
+            "endAt": 51533,
+            "text": "저희가 한번 가서 확인 좀 해볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_r435lk8vmjo",
+            "startAt": 51813,
+            "endAt": 55731,
+            "text": "아 예 부탁드리겠습니다. 이런 거 치 말씀을 드려도 되는 건가요? 신고를",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_btcgv83j3ag",
+            "startAt": 54967,
+            "endAt": 56949,
+            "text": "네네네 확인해볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_t3ov5natp4g",
+            "startAt": 56113,
+            "endAt": 58140,
+            "text": "아 네 알겠습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b8qdbmposq8",
+            "startAt": 57771,
+            "endAt": 58283,
+            "text": "네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 강화군 하점면",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

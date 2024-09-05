@@ -1,0 +1,138 @@
+{
+    "_id": "64ec27f62be6ffc66cc6b73e",
+    "audioPath": "20230827/Incheon/2023/06/22/014/converted_20230622165249_4014-014.wav",
+    "recordId": "f7b7279752e467602d89",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 38080,
+    "utterances": [
+        {
+            "id": "wavesurfer_1os626opibo",
+            "startAt": 0,
+            "endAt": 1473,
+            "text": "예 119입니다. 여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j7dign5j4eo",
+            "startAt": 1709,
+            "endAt": 2564,
+            "text": "예 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_06hlmb40mdo",
+            "startAt": 2427,
+            "endAt": 4009,
+            "text": "예, 119입니다. 말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6ifoumefc0g",
+            "startAt": 4427,
+            "endAt": 7736,
+            "text": "다른게 아니라 여기 뭐야 거 소방 비상등 있죠?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_krieu9tg8e",
+            "startAt": 7345,
+            "endAt": 8663,
+            "text": "예, 비상벨이 울려요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1m34f08ukno",
+            "startAt": 8892,
+            "endAt": 11638,
+            "text": "예, 그냥 그냥 계속 사이렌이라. 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vprua1kf7r8",
+            "startAt": 11761,
+            "endAt": 13988,
+            "text": "삐 소리가 계속 울리고 있거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qrmfkihq888",
+            "startAt": 13885,
+            "endAt": 16785,
+            "text": "혹시 그 연기나 냄새 이런거 연기 냄새 이런거 있나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mjceee47r08",
+            "startAt": 18263,
+            "endAt": 21372,
+            "text": "연기냄새 그런거까진 없는거 같은데요 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0ekmpgpqg4",
+            "startAt": 20574,
+            "endAt": 23982,
+            "text": "없다. 예 그 주소 좀 말씀해주세요. 제가 나가서 한번 확인해 보겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_d0m03flrkfo",
+            "startAt": 23626,
+            "endAt": 26853,
+            "text": "예 인천시 남동구 구월말로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7fh2186eu",
+            "startAt": 26730,
+            "endAt": 27902,
+            "text": "구월말로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5t21hu8k408",
+            "startAt": 27964,
+            "endAt": 29937,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nhf5ikfgqqg",
+            "startAt": 29919,
+            "endAt": 30701,
+            "text": "봉호빌딩.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_uamvlgrfsm8",
+            "startAt": 30673,
+            "endAt": 32964,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nd3tfqr8kpo",
+            "startAt": 33037,
+            "endAt": 33655,
+            "text": "예 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9pvms3papvo",
+            "startAt": 33382,
+            "endAt": 36273,
+            "text": "예 알겠습니다. 출동할게요.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 남동구 만수동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "중립",
+    "symptom": [],
+    "triage": ""
+}

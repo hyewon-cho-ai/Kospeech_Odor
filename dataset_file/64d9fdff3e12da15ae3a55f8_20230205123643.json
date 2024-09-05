@@ -1,0 +1,166 @@
+{
+    "_id": "64d9fdff3e12da15ae3a55f8",
+    "audioPath": "20230814/Incheon/2023/02/05/069/converted_20230205123643_0-069.wav",
+    "recordId": "93060ac428227d52fafb",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 51920,
+    "utterances": [
+        {
+            "id": "wavesurfer_jk90n4ep7f",
+            "startAt": 0,
+            "endAt": 700,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_shq13dfbih8",
+            "startAt": 1486,
+            "endAt": 3957,
+            "text": "아 네 제가 반지를 꼈는데 네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2inlhmsivjg",
+            "startAt": 4628,
+            "endAt": 7307,
+            "text": "이게 안 빠져요. 너무 아파요. 네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rdeo86400e8",
+            "startAt": 7782,
+            "endAt": 8928,
+            "text": "어떻게 해야 될까요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_11gq38deihg",
+            "startAt": 9404,
+            "endAt": 10877,
+            "text": "혹시 이동이 가능하세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_grtjlasetk8",
+            "startAt": 12471,
+            "endAt": 13571,
+            "text": "이동은 가능해요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_igk5sdb50ig",
+            "startAt": 13551,
+            "endAt": 16997,
+            "text": "이동 가능하세요? 거기 지금 계신 데가 계양 쪽이잖아요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7j4qcn1lis8",
+            "startAt": 17104,
+            "endAt": 17932,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_voeh9bfpe5o",
+            "startAt": 17142,
+            "endAt": 18452,
+            "text": "계양구청 쪽에 계시죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8j1um31ee58",
+            "startAt": 19350,
+            "endAt": 23541,
+            "text": "네 거기 옆에 가면 계양경찰서 옆에 보면 계양 소방서 있어요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jaqmgg6niko",
+            "startAt": 23819,
+            "endAt": 24246,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9k7ae9ngirg",
+            "startAt": 24263,
+            "endAt": 27790,
+            "text": "예 거기 가면은 빼줘요. 그 절단을 해줘요. 반지를",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2c4pn2b4fp",
+            "startAt": 28554,
+            "endAt": 30454,
+            "text": "아 네 알겠습니다. 네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_08avte15r8g",
+            "startAt": 30868,
+            "endAt": 32787,
+            "text": "뺌 소방서까지 가야된다는 거죠?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_oepqv9avggo",
+            "startAt": 32801,
+            "endAt": 35883,
+            "text": "예예예, 그냥 거기 가까우니까 조금만 걸어가시면은",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_i1b198v09ao",
+            "startAt": 35910,
+            "endAt": 37101,
+            "text": "24시간인가요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rpno66ok4e8",
+            "startAt": 37147,
+            "endAt": 37419,
+            "text": "네?",
+            "speaker": 0
+        },
+        {
+            "id": "7fb699c9",
+            "startAt": 37989,
+            "endAt": 39627,
+            "text": "24시간인가요? 소방서가?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1ejp12ps80o",
+            "startAt": 38710,
+            "endAt": 40338,
+            "text": "아 예 24시간이죠.",
+            "speaker": 0
+        },
+        {
+            "id": "73849b60",
+            "startAt": 40739,
+            "endAt": 41219,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a1eee2p97jo",
+            "startAt": 41283,
+            "endAt": 41929,
+            "text": "네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

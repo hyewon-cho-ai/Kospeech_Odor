@@ -1,0 +1,159 @@
+{
+    "_id": "64f6c4ed47ab07524fc488e4",
+    "audioPath": "20230829/Incheon/2023/06/05/072/converted_20230605093855_3-072.wav",
+    "recordId": "6ad09a0afd2e4e452181",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 80240,
+    "utterances": [
+        {
+            "id": "4be0fd11",
+            "startAt": 0,
+            "endAt": 534,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "de924345",
+            "startAt": 1046,
+            "endAt": 5544,
+            "text": "네, 수고하십니다. 저기 그 크리스탈로 74번길인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pb9ahjh1guo",
+            "startAt": 5000,
+            "endAt": 6690,
+            "text": "잠깐만요, 천천히, 크리스탈로",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4ujqs7mb8kg",
+            "startAt": 7443,
+            "endAt": 8742,
+            "text": "74번길",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tqevo1uh33",
+            "startAt": 9369,
+            "endAt": 9896,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1tvpgtfvtl",
+            "startAt": 9904,
+            "endAt": 16258,
+            "text": "어제 저희가 저희 집 주차장에 물이 차가지고 펌프를 요청해가지고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rceog92ffko",
+            "startAt": 16683,
+            "endAt": 26469,
+            "text": "어, 그 설치를 하셨다가 이제 이제 끝났거든요. 작업이 다 끝나가지고 이거 회수를 할 회수했 신청을 하는데",
+            "speaker": 1
+        },
+        {
+            "id": "e42fee90",
+            "startAt": 27095,
+            "endAt": 37354,
+            "text": "어, 조금 전에 그 상담 저 저기 전화 전화 드렸더니 어제 통화하신 분하고 통화하시면 된다 그랬는데 네, 그분이 교대해서 지금 주무실 거잖아요?",
+            "speaker": 1
+        },
+        {
+            "id": "6a1ac3e3",
+            "startAt": 37713,
+            "endAt": 39361,
+            "text": "전화했는데 전화를 안 받아서.",
+            "speaker": 1
+        },
+        {
+            "id": "8a83ee8a",
+            "startAt": 39254,
+            "endAt": 40929,
+            "text": "아, 개인 핸드폰 번호를 받으셨어요?",
+            "speaker": 0
+        },
+        {
+            "id": "3aa6b5b7",
+            "startAt": 41239,
+            "endAt": 44504,
+            "text": "네 예, 출동하실 때 왔던 번호가 있어가지고",
+            "speaker": 1
+        },
+        {
+            "id": "da098915",
+            "startAt": 44079,
+            "endAt": 46200,
+            "text": "아 그래요? 혹시 어제 출동했던 건가요?",
+            "speaker": 0
+        },
+        {
+            "id": "09a60d22",
+            "startAt": 46508,
+            "endAt": 53544,
+            "text": "어제 3시 한 한 20분? 20분경 제가 신고를 했거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "a8a9f6c7",
+            "startAt": 52575,
+            "endAt": 57806,
+            "text": "아 신고하셔서 배수 작업하셔서 그 펌프를 거기서 사용하시고",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2lg1j0g4ov",
+            "startAt": 57906,
+            "endAt": 61506,
+            "text": "지금 막 종료가 됐다는 거죠? 거의 다 물을 빼셨다는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u32abldma98",
+            "startAt": 59798,
+            "endAt": 60316,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "4a442b66",
+            "startAt": 61545,
+            "endAt": 64010,
+            "text": "네, 물 다 빼고 이제 수거해 달라고.",
+            "speaker": 1
+        },
+        {
+            "id": "41471a3b",
+            "startAt": 63945,
+            "endAt": 68804,
+            "text": "잠시만요, 확인 좀 하고요. 그 가져가라고 할게요. 저희가 안내하겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "27b6233a",
+            "startAt": 69201,
+            "endAt": 70629,
+            "text": "네, 안녕, 예 알겠습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nh9jtcvfs08",
+            "startAt": 69950,
+            "endAt": 70605,
+            "text": "네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 서구 청라동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

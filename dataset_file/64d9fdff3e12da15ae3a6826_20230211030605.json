@@ -1,0 +1,103 @@
+{
+    "_id": "64d9fdff3e12da15ae3a6826",
+    "audioPath": "20230814/Incheon/2023/02/11/013/converted_20230211030605_4013-013.wav",
+    "recordId": "ad91827ff76b54c6fbd6",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 44680,
+    "utterances": [
+        {
+            "id": "wavesurfer_al3bj7eh798",
+            "startAt": 900,
+            "endAt": 1664,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_orj7ictk9q",
+            "startAt": 2173,
+            "endAt": 6300,
+            "text": "네, 네, 여기 인천 의료원 근처인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cb9qvon69l8",
+            "startAt": 7022,
+            "endAt": 10976,
+            "text": "어, 딴 게 아니라 지금 병원에서 주사맞고 나왔거든요. 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kdcs83mog6o",
+            "startAt": 11885,
+            "endAt": 14985,
+            "text": "어 집에까지 데려다줄 수 있나요? ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0hrpb2vr7k8",
+            "startAt": 14717,
+            "endAt": 20235,
+            "text": "아. 저희가 집으로는 안 됩니다, 저희 구급차는요 가실 때 택시 타고 가시면 됩니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ihu1gl1lu7o",
+            "startAt": 21634,
+            "endAt": 25561,
+            "text": "어어 아 지금 너무 히 힘들어가지고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_om6ajlu3358",
+            "startAt": 25977,
+            "endAt": 27677,
+            "text": "저희가 병원에는 모셔다 드리는데요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3fm2l51pcuo",
+            "startAt": 28052,
+            "endAt": 28770,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b41om3m6pro",
+            "startAt": 28417,
+            "endAt": 33062,
+            "text": "병원에서 어 진료받고 나오시면은 어. 대중교통 이용해서 가셔야 됩니다.",
+            "speaker": 0
+        },
+        {
+            "id": "dbdff6e0",
+            "startAt": 34222,
+            "endAt": 35961,
+            "text": "지금 받고 왔어요 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mbp5no1rmoo",
+            "startAt": 35864,
+            "endAt": 37073,
+            "text": "지금 택시 타고 가셔야 된다고요.",
+            "speaker": 0
+        },
+        {
+            "id": "cc16f21d",
+            "startAt": 38012,
+            "endAt": 43399,
+            "text": "어 안되는구나? 알겠어요.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

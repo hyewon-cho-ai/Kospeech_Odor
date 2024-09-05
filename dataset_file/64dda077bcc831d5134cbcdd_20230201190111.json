@@ -1,0 +1,411 @@
+{
+    "_id": "64dda077bcc831d5134cbcdd",
+    "audioPath": "20230816/Incheon/2023/02/01/003/converted_20230201190111_4003-003.wav",
+    "recordId": "f0cd1242b85176617ad0",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 100600,
+    "utterances": [
+        {
+            "id": "wavesurfer_mfpkc6927j8",
+            "startAt": 100,
+            "endAt": 1073,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fogtuco4nm8",
+            "startAt": 1427,
+            "endAt": 5900,
+            "text": "아, 예. 죄송한데요. 아, 여기 간석3동.",
+            "speaker": 1
+        },
+        {
+            "id": "8daa7c95",
+            "startAt": 5894,
+            "endAt": 7365,
+            "text": "간석동 몇 번지세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_31gr7ar6j3g",
+            "startAt": 7955,
+            "endAt": 8919,
+            "text": "간석3동",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2i399pcdiqo",
+            "startAt": 8936,
+            "endAt": 11882,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8fhvl7g9mt",
+            "startAt": 11900,
+            "endAt": 16209,
+            "text": "네. 아 거기 지금 저기 뭐지. 가스레인지를 켜놓고 왔는데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_atklo00o6eo",
+            "startAt": 16227,
+            "endAt": 17273,
+            "text": "거 주택이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_busrd5j66io",
+            "startAt": 16964,
+            "endAt": 18336,
+            "text": "어떻게 하면 좋을까요?",
+            "speaker": 1
+        },
+        {
+            "id": "47d93618",
+            "startAt": 18453,
+            "endAt": 19324,
+            "text": "주택이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_t4s23guhjp8",
+            "startAt": 19709,
+            "endAt": 20300,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_suhhd8i5mk8",
+            "startAt": 20800,
+            "endAt": 21918,
+            "text": "비밀번호예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jm541tktpp8",
+            "startAt": 22209,
+            "endAt": 23109,
+            "text": "잠시만",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_05js47vpsg8",
+            "startAt": 22255,
+            "endAt": 23427,
+            "text": "디지털 때 예예.",
+            "speaker": 1
+        },
+        {
+            "id": "234ad641",
+            "startAt": 23570,
+            "endAt": 26105,
+            "text": "아, 잠시만요. 비밀번호 좀 알려주세요, 그럼.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_89pvvf9sco",
+            "startAt": 26791,
+            "endAt": 27564,
+            "text": "어, 저기",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jcdp52e4gh8",
+            "startAt": 27645,
+            "endAt": 28600,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "1e9945f7",
+            "startAt": 28585,
+            "endAt": 30192,
+            "text": "들어가는 현관은요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e3bimkruang",
+            "startAt": 30473,
+            "endAt": 32545,
+            "text": "아 뭐 그 비밀번호가 2개예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7o34jasl1c8",
+            "startAt": 33264,
+            "endAt": 33582,
+            "text": "예?",
+            "speaker": 1
+        },
+        {
+            "id": "8f466312",
+            "startAt": 33901,
+            "endAt": 35483,
+            "text": "비밀번호가 2개예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bm9089k6gdo",
+            "startAt": 35673,
+            "endAt": 36810,
+            "text": "어, 네. 집하고",
+            "speaker": 1
+        },
+        {
+            "id": "8afb3997",
+            "startAt": 36811,
+            "endAt": 37255,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_37iupt7345",
+            "startAt": 37218,
+            "endAt": 38182,
+            "text": "들어가는 거 하고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hk19r4nalro",
+            "startAt": 38091,
+            "endAt": 39182,
+            "text": "아, 네. 알려주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_s3ki5q0s6eo",
+            "startAt": 39182,
+            "endAt": 39518,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5014t2ujhpo",
+            "startAt": 39473,
+            "endAt": 40300,
+            "text": "현관부터",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qof1gffa41",
+            "startAt": 40655,
+            "endAt": 43618,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_g3rltvemtrg",
+            "startAt": 43827,
+            "endAt": 44818,
+            "text": "잠깐만요.",
+            "speaker": 0
+        },
+        {
+            "id": "129c0a2e",
+            "startAt": 45813,
+            "endAt": 47067,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9ltg8dp4qd",
+            "startAt": 47473,
+            "endAt": 48000,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_u10vpl82gb8",
+            "startAt": 48291,
+            "endAt": 49264,
+            "text": "그럼에 그",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3q7cb9g5udo",
+            "startAt": 49209,
+            "endAt": 50973,
+            "text": "그 다음에 이제 올라가시면",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nhk3nnprktg",
+            "startAt": 50955,
+            "endAt": 54791,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "8b9fd4e4",
+            "startAt": 55934,
+            "endAt": 59761,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_e47b8bkf598",
+            "startAt": 59991,
+            "endAt": 60509,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "5d4ed859",
+            "startAt": 60620,
+            "endAt": 64941,
+            "text": "잠깐만요, 언제 켜고 나왔어요?",
+            "speaker": 0
+        },
+        {
+            "id": "ceedc8ad",
+            "startAt": 65894,
+            "endAt": 71003,
+            "text": "엇. 아우 거 거의 1시간 됐는데 불을 약하게 넣긴 했는데 깜빡 잊고 나왔어요.",
+            "speaker": 1
+        },
+        {
+            "id": "b50ebefc",
+            "startAt": 71017,
+            "endAt": 73947,
+            "text": "아, 네. 알겠어요. 혹시 물어볼 거 생기면은",
+            "speaker": 0
+        },
+        {
+            "id": "c8ea67c6",
+            "startAt": 72047,
+            "endAt": 73344,
+            "text": "베란다에 있거든요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_iu97nbaonh8",
+            "startAt": 74073,
+            "endAt": 74582,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "318559e0",
+            "startAt": 74784,
+            "endAt": 78998,
+            "text": "저희가 또 전화 드릴 수 있으니까 다른 데 통화하지 마시고요. 전화 좀 받으세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ko54509dvj8",
+            "startAt": 78091,
+            "endAt": 78573,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_sdq7n9eomj8",
+            "startAt": 79182,
+            "endAt": 80145,
+            "text": "네. 선생님.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_92v1g6s00to",
+            "startAt": 80127,
+            "endAt": 80564,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_p45jthc2248",
+            "startAt": 80864,
+            "endAt": 83382,
+            "text": "베란다에. 베란다에 있거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "259b2faf",
+            "startAt": 83366,
+            "endAt": 84596,
+            "text": "아, 네. 알겠어요.",
+            "speaker": 0
+        },
+        {
+            "id": "9ed2f286",
+            "startAt": 85006,
+            "endAt": 86045,
+            "text": "베란다 가스렌",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6b4gepnooag",
+            "startAt": 86091,
+            "endAt": 86572,
+            "text": "거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "1b9d91ba",
+            "startAt": 87264,
+            "endAt": 88003,
+            "text": "브루스타를",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_j7u9th3tmk8",
+            "startAt": 87991,
+            "endAt": 89073,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cqsu76oobs",
+            "startAt": 89100,
+            "endAt": 89736,
+            "text": "신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "d15e7e65",
+            "startAt": 89733,
+            "endAt": 92004,
+            "text": "브루스타를 약하게 놓고 왔는데 깜빡 잊었어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_n92752g2s38",
+            "startAt": 92073,
+            "endAt": 93545,
+            "text": "아, 네. 알겠어요.",
+            "speaker": 0
+        },
+        {
+            "id": "7b114017",
+            "startAt": 93567,
+            "endAt": 94765,
+            "text": "몇 분 걸릴까요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hv0rt9jogf",
+            "startAt": 95100,
+            "endAt": 96782,
+            "text": "에, 금방 도착할 거예요.",
+            "speaker": 0
+        },
+        {
+            "id": "b8367428",
+            "startAt": 96829,
+            "endAt": 99045,
+            "text": "네네, 알겠습니다. 예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 남동구 간석동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

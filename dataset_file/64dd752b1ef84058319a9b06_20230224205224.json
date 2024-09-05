@@ -1,0 +1,488 @@
+{
+    "_id": "64dd752b1ef84058319a9b06",
+    "audioPath": "20230815/Incheon/2023/02/24/003/converted_20230224205224_4003-003.wav",
+    "recordId": "be4ec6b61a82684f2c40",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 116320,
+    "utterances": [
+        {
+            "id": "wavesurfer_1hfg0ogqlm",
+            "startAt": 9,
+            "endAt": 1236,
+            "text": "네 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_leec59vrrk8",
+            "startAt": 9,
+            "endAt": 1391,
+            "text": "여가 뭐라 그래야 되죠?",
+            "speaker": 1
+        },
+        {
+            "id": "cf3cdb1b",
+            "startAt": 1960,
+            "endAt": 3265,
+            "text": "119 불러.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_udkoac80sj8",
+            "startAt": 3009,
+            "endAt": 3964,
+            "text": "에 119 불러.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ur5vrjv7a48",
+            "startAt": 3955,
+            "endAt": 6073,
+            "text": "불 났 불 났었으니까.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2rk97ktsq9",
+            "startAt": 4209,
+            "endAt": 5355,
+            "text": "냄새나지.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_j6pu9u3506o",
+            "startAt": 5373,
+            "endAt": 6391,
+            "text": "여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nai9ukv0128",
+            "startAt": 6335,
+            "endAt": 8762,
+            "text": "불 났었으니까 여기 주소 알려줘요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d46crj5fvb8",
+            "startAt": 6709,
+            "endAt": 8091,
+            "text": "네 여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d5heictre2",
+            "startAt": 7409,
+            "endAt": 8100,
+            "text": "네네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_f60n4qusdno",
+            "startAt": 9058,
+            "endAt": 10513,
+            "text": "주소요? 원적로 원적로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fffjvq9btvg",
+            "startAt": 10527,
+            "endAt": 11373,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8hpcd32p2ho",
+            "startAt": 12031,
+            "endAt": 12934,
+            "text": "원적로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_m4o6m79r3do",
+            "startAt": 12931,
+            "endAt": 13849,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_g9m5lrit3fg",
+            "startAt": 13840,
+            "endAt": 14258,
+            "text": "원적로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_72rjo5um538",
+            "startAt": 14267,
+            "endAt": 15068,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "5d44e46c",
+            "startAt": 15074,
+            "endAt": 15867,
+            "text": "가좌동이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7n7263ha64g",
+            "startAt": 16159,
+            "endAt": 17032,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rq1p045u1jg",
+            "startAt": 17055,
+            "endAt": 17745,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_n56j2hn0u98",
+            "startAt": 17818,
+            "endAt": 19155,
+            "text": "예 추억 단란주점.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f0v2ofv1fl",
+            "startAt": 19200,
+            "endAt": 21273,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ruibvddr8go",
+            "startAt": 21706,
+            "endAt": 22342,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "cb93a3e1",
+            "startAt": 22325,
+            "endAt": 24106,
+            "text": "저기 철물점 있는데 맞아요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vkgsgu55dd",
+            "startAt": 24891,
+            "endAt": 25892,
+            "text": "선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_070qi2ds3vo",
+            "startAt": 26655,
+            "endAt": 27591,
+            "text": "여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tgg108c03p",
+            "startAt": 28837,
+            "endAt": 29691,
+            "text": "여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1cm7bjcreh8",
+            "startAt": 29673,
+            "endAt": 30610,
+            "text": "여보세요, 네. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2e3nfq8moc",
+            "startAt": 30291,
+            "endAt": 36100,
+            "text": "예 선생님 철물점 밑에 맞아요? 만물 철물, 만물 철물점 맞아요? 여의도 있는데.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6pjmcncoq18",
+            "startAt": 32855,
+            "endAt": 33273,
+            "text": "네?",
+            "speaker": 1
+        },
+        {
+            "id": "3ea0b396",
+            "startAt": 35449,
+            "endAt": 37929,
+            "text": "아니요 여기 지하, 지하 뭐라 그러셨어요?",
+            "speaker": 1
+        },
+        {
+            "id": "98b97eed",
+            "startAt": 39196,
+            "endAt": 40749,
+            "text": "추억 단란 주문점이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2ag78rk0tp",
+            "startAt": 40237,
+            "endAt": 42127,
+            "text": "아, 추억 노래주점? 무슨 일이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k6pmt1tj0po",
+            "startAt": 41454,
+            "endAt": 42135,
+            "text": "원적로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7haed14624g",
+            "startAt": 42168,
+            "endAt": 42886,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_97289mg7148",
+            "startAt": 42891,
+            "endAt": 45155,
+            "text": "예 저기 뭐야 불이 지하에, 그.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rd8vm03a9gg",
+            "startAt": 45264,
+            "endAt": 46610,
+            "text": "불이 나가지고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_v2mg5l3gd3g",
+            "startAt": 46284,
+            "endAt": 47376,
+            "text": "지하에 불이 났어요?",
+            "speaker": 0
+        },
+        {
+            "id": "b95c80c8",
+            "startAt": 47738,
+            "endAt": 50880,
+            "text": "예, 그니까 전기가 완전히 나가 나가가 혹시나 이차.",
+            "speaker": 1
+        },
+        {
+            "id": "0d0d9bd3",
+            "startAt": 49797,
+            "endAt": 52727,
+            "text": "선생님 지금, 선생님 불이 지금 난 거예요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nti9ue9gtp8",
+            "startAt": 52919,
+            "endAt": 55965,
+            "text": "아니요 지금 불이 그, 저 어째 처음엔 됐는데 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "35a2eafa",
+            "startAt": 55945,
+            "endAt": 57715,
+            "text": "전기가 완전히 안 들어오거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o0u6e3vbm98",
+            "startAt": 57546,
+            "endAt": 58774,
+            "text": "선생님 잠시만요 지금.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hphsvojm228",
+            "startAt": 58174,
+            "endAt": 60383,
+            "text": "혹시나 2차, 2차 불이 날까봐.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kvo2st1fq48",
+            "startAt": 58952,
+            "endAt": 59679,
+            "text": "전기가.",
+            "speaker": 0
+        },
+        {
+            "id": "71e093c7",
+            "startAt": 60542,
+            "endAt": 63576,
+            "text": "전기가 나간 거예요, 아니면은 그냥 불이 났다는 말.",
+            "speaker": 0
+        },
+        {
+            "id": "f43c32be",
+            "startAt": 63058,
+            "endAt": 66253,
+            "text": "불이, 불이 났다가 전기가 확 나갔어요 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p1ttu328k78",
+            "startAt": 65955,
+            "endAt": 67083,
+            "text": "불은 꺼졌어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1d8696kglq8",
+            "startAt": 67456,
+            "endAt": 68510,
+            "text": "예, 꺼졌어요.",
+            "speaker": 1
+        },
+        {
+            "id": "48359884",
+            "startAt": 68808,
+            "endAt": 72923,
+            "text": "불은 꺼졌고, 지금 그 그 소방차가 출동해야 되는 상황은 아닌 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "cdb5d9cc",
+            "startAt": 72896,
+            "endAt": 74190,
+            "text": "예, 그건 아니에요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cn0h2jeliq8",
+            "startAt": 74011,
+            "endAt": 75365,
+            "text": "났다가 꺼졌는데.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_t37hq35sns8",
+            "startAt": 75710,
+            "endAt": 78556,
+            "text": "네 지금 2차 사고 날까봐 전화 드린 거예요.",
+            "speaker": 1
+        },
+        {
+            "id": "f0f60216",
+            "startAt": 81193,
+            "endAt": 83287,
+            "text": "선생님 불이 났다가 전기가 꺼졌고?",
+            "speaker": 0
+        },
+        {
+            "id": "259b133d",
+            "startAt": 83778,
+            "endAt": 84454,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ps34510g23o",
+            "startAt": 85693,
+            "endAt": 88201,
+            "text": "합선 여부를 합선여부가.",
+            "speaker": 0
+        },
+        {
+            "id": "d739c528",
+            "startAt": 85821,
+            "endAt": 88190,
+            "text": "혹시 또 2차사고, 2차.",
+            "speaker": 1
+        },
+        {
+            "id": "710a93db",
+            "startAt": 88403,
+            "endAt": 89024,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_40m483ua22g",
+            "startAt": 88883,
+            "endAt": 89910,
+            "text": "예예 예예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tmj3o18oj8g",
+            "startAt": 90010,
+            "endAt": 93320,
+            "text": "그것도 알아야 되고 2차사고가 어떻게 될지 모르니까.",
+            "speaker": 1
+        },
+        {
+            "id": "4b59740e",
+            "startAt": 96113,
+            "endAt": 98924,
+            "text": "일단 선생님, 저희 그럼 소방차 한 대만 보내드릴 거고요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_83r626novv8",
+            "startAt": 98883,
+            "endAt": 99829,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "708967b8",
+            "startAt": 99196,
+            "endAt": 103624,
+            "text": "지금 합선 때문에 걱정이 되시는 거면 저희가 한전도 같이 요청을 할게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tb49p3ph5p8",
+            "startAt": 103011,
+            "endAt": 105665,
+            "text": "네 합, 예예 그게 걱정이 돼서 그래요.",
+            "speaker": 1
+        },
+        {
+            "id": "b5cdbcba",
+            "startAt": 105529,
+            "endAt": 108793,
+            "text": "일단 알겠습니다. 일단 저희가 소방차 하나 보내드리고 한전 보내드릴게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bhunvr47lqo",
+            "startAt": 105983,
+            "endAt": 107320,
+            "text": "합선, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lff9oemm90g",
+            "startAt": 109065,
+            "endAt": 109974,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ijsa47lo9og",
+            "startAt": 115609,
+            "endAt": 116318,
+            "text": "한전.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 서구 가좌동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

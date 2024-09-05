@@ -1,0 +1,117 @@
+{
+    "_id": "64ec361829e61fb514578e25",
+    "audioPath": "20230828/Incheon/2023/06/07/009/converted_20230607202510_4009-009.wav",
+    "recordId": "15583aa452b0598825e3",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 51360,
+    "utterances": [
+        {
+            "id": "790926f1",
+            "startAt": 1477,
+            "endAt": 2287,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5s42o0nno9g",
+            "startAt": 3009,
+            "endAt": 10281,
+            "text": "아, 네. 수고 많으십니다. 여기 인천시청 앞에 어, 건물 저기 뭐야? 도로, 건물 주소 미래로.  ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_i3jnjp1b8rg",
+            "startAt": 10444,
+            "endAt": 10999,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jedlg5neha8",
+            "startAt": 10951,
+            "endAt": 13169,
+            "text": "인천 남동구 구월동이에요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mul6k44ao1",
+            "startAt": 13154,
+            "endAt": 13508,
+            "text": "미래로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_78sn96aqjf8",
+            "startAt": 13500,
+            "endAt": 14364,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_td59360f4f",
+            "startAt": 14726,
+            "endAt": 22644,
+            "text": "네네네, 근데 여기 이 건물에서. 티릴, 이거. 이거 무슨 화재경보기 울리는 거 같은데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0bekdf3r4ro",
+            "startAt": 23762,
+            "endAt": 29135,
+            "text": "제가 지금 건물 내려와서 보니까 여기 가운데에. 몇 층이냐? ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ie3ssp2bchg",
+            "startAt": 29200,
+            "endAt": 34145,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rd674pdnkc8",
+            "startAt": 34715,
+            "endAt": 38887,
+            "text": "뭐가 주황색 불이 켜진 거 같기도 하고. 뭐, 불이 난 건지.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_c09lqso41ag",
+            "startAt": 37697,
+            "endAt": 41052,
+            "text": "아,일단, 일단 연기가 나요? 아니면 뭐 타는 냄새 나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_e8iab4nnlpg",
+            "startAt": 41570,
+            "endAt": 44615,
+            "text": "연기는 안 나고, 타는 냄새 나고. 지금 꺼졌어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_beokt4odfrg",
+            "startAt": 43761,
+            "endAt": 47142,
+            "text": "에. 예, 알겠어요. 저희 일단 한번 가볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_m13kict5dn8",
+            "startAt": 47415,
+            "endAt": 49042,
+            "text": " 네네네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 남동구 구월동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

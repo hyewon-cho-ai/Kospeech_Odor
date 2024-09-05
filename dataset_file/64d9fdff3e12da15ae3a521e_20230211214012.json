@@ -1,0 +1,145 @@
+{
+    "_id": "64d9fdff3e12da15ae3a521e",
+    "audioPath": "20230814/Incheon/2023/02/11/020/converted_20230211214012_4020-020.wav",
+    "recordId": "83947ffad8739589a8c8",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 76040,
+    "utterances": [
+        {
+            "id": "b6098368",
+            "startAt": 983,
+            "endAt": 1617,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3t4tm61eu4o",
+            "startAt": 2289,
+            "endAt": 6834,
+            "text": "안녕하세요, 저 5개월 아기가 지금 열이 39도까지",
+            "speaker": 1
+        },
+        {
+            "id": "cc89abca",
+            "startAt": 6777,
+            "endAt": 12043,
+            "text": "갑작스럽게 올랐거든요. 근데 제가 아기 대처를 어떻게 해야 할지 잘 모르겠네요.            ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mq40gcvghs8",
+            "startAt": 12068,
+            "endAt": 13568,
+            "text": "집에 혹시 해열제 있으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_r6so0phuugo",
+            "startAt": 13571,
+            "endAt": 17672,
+            "text": "어 네 해열제 챔프 빨간 색깔 2, 2PC 먹였어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_63t4pfsnsq",
+            "startAt": 17715,
+            "endAt": 19315,
+            "text": "아 먹이셨어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7m86bad7neo",
+            "startAt": 19275,
+            "endAt": 21009,
+            "text": "네 네 일단은 먹였어요.",
+            "speaker": 1
+        },
+        {
+            "id": "3c8a4485",
+            "startAt": 20857,
+            "endAt": 31627,
+            "text": "아 먹이셨으면 미온수 찜질하면서 조금 지켜보시구요. 미지근한 물수건 해서 겨드랑이랑 사타구니 이런데 좀 이렇게 때 밀듯이 문질러서 좀 닦아줘 보시고.",
+            "speaker": 0
+        },
+        {
+            "id": "4e4e42fa",
+            "startAt": 31024,
+            "endAt": 33587,
+            "text": "그럼 옷을 벗겨놔야 될까요?",
+            "speaker": 1
+        },
+        {
+            "id": "3f40b5ee",
+            "startAt": 33547,
+            "endAt": 36264,
+            "text": "애기 막 오한이 심해요? 부들부들 떨어요?",
+            "speaker": 0
+        },
+        {
+            "id": "92e954c9",
+            "startAt": 35549,
+            "endAt": 38282,
+            "text": "어 아니요 부들부들 떨지 않아요.",
+            "speaker": 1
+        },
+        {
+            "id": "a4676db1",
+            "startAt": 38032,
+            "endAt": 43729,
+            "text": "아 그러시면 옷 벗기시고 미지근한 물수건로 이렇게 문질러서 좀 닦아주세요. 너무 차지 않게 해주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "1ef6c812",
+            "startAt": 43799,
+            "endAt": 46335,
+            "text": "네, 겨드랑이랑 사타구니로 위에다가요?",
+            "speaker": 1
+        },
+        {
+            "id": "54292f63",
+            "startAt": 46215,
+            "endAt": 58750,
+            "text": "네 네, 그런데 위주로해가지고고 문질러서 좀 닦아주시면 좀 빨리 떨어지니까 그렇게 해보시고. 1시간 정도 지났는데도 애기 열이 전혀 안 떨어지고 혹시 쳐지거나 하면 병원 방문하셔야 되니까요. 일단은 그렇게 해보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "d768f392",
+            "startAt": 58834,
+            "endAt": 61617,
+            "text": "예, 그러면 병원 어디로 혹시 방문해야 될까요?",
+            "speaker": 1
+        },
+        {
+            "id": "f0ef2ded",
+            "startAt": 61567,
+            "endAt": 70364,
+            "text": "어 소아과 진로 가능한 데가 길병원하고 인하대 병원 있는데요. 길병원은 혹시 입원 치료가 필요할 경우는 입원 치료는 안 되세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8kgud44ni9o",
+            "startAt": 67513,
+            "endAt": 68863,
+            "text": "니가 안아 지금",
+            "speaker": 1
+        },
+        {
+            "id": "2dd83c68",
+            "startAt": 70437,
+            "endAt": 75137,
+            "text": "아, 예, 알겠습니다 네, 고맙습니다, 네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

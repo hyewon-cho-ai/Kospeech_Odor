@@ -1,0 +1,166 @@
+{
+    "_id": "64d9fdff3e12da15ae3a54a6",
+    "audioPath": "20230814/Incheon/2023/02/03/013/converted_20230203204109_4013-013.wav",
+    "recordId": "6543cfdecb1d463c658a",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 60520,
+    "utterances": [
+        {
+            "id": "wavesurfer_h6rk6vttt7g",
+            "startAt": 218,
+            "endAt": 1782,
+            "text": "네, 119입니다 말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3285qcecn6g",
+            "startAt": 2009,
+            "endAt": 3400,
+            "text": "거, 뭐 뭣 좀 물어봅시다",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_89rg79l0lbo",
+            "startAt": 3345,
+            "endAt": 4127,
+            "text": "네, 말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_oun6eeki568",
+            "startAt": 4561,
+            "endAt": 6925,
+            "text": "식당 뭐 혼자 들어가면 안 되는 거예요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4p83mhoi78",
+            "startAt": 6926,
+            "endAt": 7590,
+            "text": "어디요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ig201qvkb3",
+            "startAt": 7943,
+            "endAt": 8824,
+            "text": "식당",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4i8nmbca6c8",
+            "startAt": 8959,
+            "endAt": 9913,
+            "text": "식당에.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hq1pgv1devo",
+            "startAt": 10202,
+            "endAt": 12311,
+            "text": "예, 식당 혼자 들어가면 안 되냐고요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_80objl243t8",
+            "startAt": 12711,
+            "endAt": 13620,
+            "text": "그런 그런 게 어딨어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ete47q30bg8",
+            "startAt": 14038,
+            "endAt": 14956,
+            "text": "에 금방",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_62mtrv1t6oo",
+            "startAt": 14960,
+            "endAt": 21739,
+            "text": "나는 딴 사람은 영업하면 사람 있고 그러는데 나 들어가니까 영업 못한다 안 한다고 가라. 그러네 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jje2jm42tdg",
+            "startAt": 22259,
+            "endAt": 31977,
+            "text": "아 그 저희 소방서에서는 뭐 해드릴 수 있는 게 없고요. 고거 고거 관련해서는 어차피 식당 주인분이 판단하시는 거잖아요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_saps8biuu5g",
+            "startAt": 33701,
+            "endAt": 36292,
+            "text": "혼자 먹으면 밥 혼자 먹으면 안 되는 거여?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_44ca2qfer3",
+            "startAt": 33783,
+            "endAt": 34465,
+            "text": "고거.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ni6e5vifpj",
+            "startAt": 36939,
+            "endAt": 42239,
+            "text": "그거는 식당에 운영 지, 방침이지, 저희가 뭐 어떻게 도와드릴 수 있는 건 아닌 거 같습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_b7ocf269ino",
+            "startAt": 43137,
+            "endAt": 45773,
+            "text": "세상이 이렇게 이렇게 팍팍해요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_su9p81evguo",
+            "startAt": 46313,
+            "endAt": 48794,
+            "text": "아니요. 혼자 먹을 수 있는 식당으로 가시면 되잖아요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gappcud16no",
+            "startAt": 50229,
+            "endAt": 52019,
+            "text": "얌마야, 진짜 어이가 없네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dpqeg5l9m6o",
+            "startAt": 53135,
+            "endAt": 53990,
+            "text": "알았습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_it4d5tovmn",
+            "startAt": 53906,
+            "endAt": 55233,
+            "text": "네, 수고하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lqtkhboe3ng",
+            "startAt": 55733,
+            "endAt": 56370,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "기타부정",
+    "symptom": [],
+    "triage": ""
+}

@@ -1,0 +1,117 @@
+{
+    "_id": "64f6c538c6f121d380863ba0",
+    "audioPath": "20230829/Incheon/2023/06/10/004/converted_20230610141335_4004-004.wav",
+    "recordId": "0242b5f363a190b9e5aa",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 37880,
+    "utterances": [
+        {
+            "id": "b663bac7",
+            "startAt": 554,
+            "endAt": 1431,
+            "text": "예 119입니다",
+            "speaker": 0
+        },
+        {
+            "id": "002b2247",
+            "startAt": 1421,
+            "endAt": 5698,
+            "text": "네, 소화전 앞에 지금 주차하는, 아니 여러 대가 주차해 있어가지고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6lbpaio4roo",
+            "startAt": 5883,
+            "endAt": 9233,
+            "text": "어 지금 와서 한번 단속 한번 했었으면 좋겠거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "644f0ab3",
+            "startAt": 9824,
+            "endAt": 12504,
+            "text": "지금 그 메가커피 앞에 있는 건가요?",
+            "speaker": 0
+        },
+        {
+            "id": "46dcb86e",
+            "startAt": 12514,
+            "endAt": 22487,
+            "text": "아니, 아니요. 그 저기 제가 버스 타러 가다가 지금 그거 때문에 차도 많이 밀리고 그래서 좀 소 소방 소화전 주변 좀 단속 좀 해줬으면 좋겠어요",
+            "speaker": 1
+        },
+        {
+            "id": "e0c195ab",
+            "startAt": 22157,
+            "endAt": 23517,
+            "text": "어디로 가면 될까요?",
+            "speaker": 0
+        },
+        {
+            "id": "325502ee",
+            "startAt": 23577,
+            "endAt": 27444,
+            "text": "네, 그 인, 저기 씨유 신기촌 하나점 근처로 오시면 되시거든요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_i1ckcesk4vo",
+            "startAt": 27354,
+            "endAt": 28737,
+            "text": "씨유 신기촌이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4r9621tpo6g",
+            "startAt": 28471,
+            "endAt": 30187,
+            "text": "예, 씨유 신기촌 하나점.",
+            "speaker": 1
+        },
+        {
+            "id": "9a88acc6",
+            "startAt": 30477,
+            "endAt": 31397,
+            "text": "하나점이요?",
+            "speaker": 0
+        },
+        {
+            "id": "a1cebb19",
+            "startAt": 31400,
+            "endAt": 32014,
+            "text": "네, 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "492d0e0c",
+            "startAt": 32368,
+            "endAt": 33651,
+            "text": "예, 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "a5edef5a",
+            "startAt": 33408,
+            "endAt": 36211,
+            "text": "네, 그 근처에도 많이들 대있더라구요. 확인 좀 해주세요.",
+            "speaker": 1
+        },
+        {
+            "id": "f5406cb0",
+            "startAt": 36268,
+            "endAt": 37221,
+            "text": "예. 네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 미추홀구 주안동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "기타부정",
+    "symptom": [],
+    "triage": ""
+}

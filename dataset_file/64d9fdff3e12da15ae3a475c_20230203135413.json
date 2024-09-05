@@ -1,0 +1,117 @@
+{
+    "_id": "64d9fdff3e12da15ae3a475c",
+    "audioPath": "20230814/Incheon/2023/02/03/006/converted_20230203135413_4006-006.wav",
+    "recordId": "a2503d754c88ebac816b",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 35440,
+    "utterances": [
+        {
+            "id": "wavesurfer_ld2fu7853sg",
+            "startAt": 716,
+            "endAt": 1799,
+            "text": "네 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_e5e9svfcr5g",
+            "startAt": 2166,
+            "endAt": 5932,
+            "text": "네, 안녕하세요. 아침에 연막주사한다고 전화드렸었는데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_g20q1d9jb6",
+            "startAt": 6728,
+            "endAt": 10777,
+            "text": "여기 이제 그 당하초등학교는 끝났고 그 부근은 끝났고요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1e4j7t58tfg",
+            "startAt": 10609,
+            "endAt": 11542,
+            "text": "네, 어디로 가실 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lojlgiiv3k8",
+            "startAt": 12304,
+            "endAt": 15920,
+            "text": "네, 당화초등학교 쪽은 끝났고 완정사거리에서 완정사거리",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_eer7jb1gg78",
+            "startAt": 15879,
+            "endAt": 16679,
+            "text": "완정 사거리.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ldu05reqjeo",
+            "startAt": 17244,
+            "endAt": 20543,
+            "text": "완정 사거리 그 부근을 할건데.",
+            "speaker": 1
+        },
+        {
+            "id": "fd1a3a25",
+            "startAt": 21251,
+            "endAt": 22631,
+            "text": "네, 인근 여기.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d62hcfjd3cg",
+            "startAt": 23185,
+            "endAt": 23921,
+            "text": "원당대로",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_39esdk9tlpg",
+            "startAt": 23921,
+            "endAt": 28512,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kckh31h3ba",
+            "startAt": 29021,
+            "endAt": 29694,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2nihr6aiak",
+            "startAt": 29639,
+            "endAt": 30758,
+            "text": "네 알겠습니다",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ms5eo0sdero",
+            "startAt": 31040,
+            "endAt": 32612,
+            "text": "예 수고하세요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_smq1p3lnf28",
+            "startAt": 31549,
+            "endAt": 32658,
+            "text": "예 합니다",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "중립",
+    "symptom": [],
+    "triage": ""
+}

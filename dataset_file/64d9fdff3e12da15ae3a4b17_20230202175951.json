@@ -1,0 +1,313 @@
+{
+    "_id": "64d9fdff3e12da15ae3a4b17",
+    "audioPath": "20230814/Incheon/2023/02/02/069/converted_20230202175951_0-069.wav",
+    "recordId": "d953820eba3809fa2524",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 117480,
+    "utterances": [
+        {
+            "id": "000ad17d",
+            "startAt": 345,
+            "endAt": 3152,
+            "text": "여보세요, 여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bb0obts3sto",
+            "startAt": 3100,
+            "endAt": 4073,
+            "text": "여 여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vb0mfu4antg",
+            "startAt": 4118,
+            "endAt": 6518,
+            "text": "네 여보세요. 119상황실이에요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j3tvg87qvlg",
+            "startAt": 6699,
+            "endAt": 7636,
+            "text": "아 네 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1a4js6b293o",
+            "startAt": 7609,
+            "endAt": 10582,
+            "text": "네 혹시 그 화전면 망원리 사시는 분 맞으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sqj948ddado",
+            "startAt": 10709,
+            "endAt": 12482,
+            "text": "아니 여기 안 사는데요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_uh9s0c7o6h",
+            "startAt": 12491,
+            "endAt": 13491,
+            "text": "거기 아니에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j1358hccc68",
+            "startAt": 13752,
+            "endAt": 14352,
+            "text": "예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_912q0auaisg",
+            "startAt": 14954,
+            "endAt": 20491,
+            "text": "거기 지금 전화 받으신 데가 그 강화군 화전면 망원리가 아니에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ck7522bh14o",
+            "startAt": 20609,
+            "endAt": 22400,
+            "text": "네 여기 안산이에요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mre4adpf8l8",
+            "startAt": 21963,
+            "endAt": 23172,
+            "text": "안산이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7l5mrn9i41",
+            "startAt": 23318,
+            "endAt": 23845,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b5unj9ek548",
+            "startAt": 23800,
+            "endAt": 27099,
+            "text": "아 그 저희가 또 어떤 분이 신고를 주셨는데",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o0rav08m0so",
+            "startAt": 27940,
+            "endAt": 28513,
+            "text": "그래요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4ubp11q3dng",
+            "startAt": 28927,
+            "endAt": 34518,
+            "text": "아뇨, 어떤 분이 신고를 주셨는데 그 어린이 전화라 그러면서 이 번호로 알려 주셔 가지고",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kp0t3cam1v8",
+            "startAt": 34472,
+            "endAt": 37423,
+            "text": "아 아니에요 아",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0o91qqnvq8g",
+            "startAt": 34754,
+            "endAt": 38562,
+            "text": "저희가 통화를 해봐야 돼가지고 전화를 드렸거든요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_eddg4linlco",
+            "startAt": 37829,
+            "endAt": 39256,
+            "text": "아 네 네 네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_carveqnfvto",
+            "startAt": 39145,
+            "endAt": 41509,
+            "text": "아 일단 알겠습니다. 지금 전화번호가",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3phjplik6a8",
+            "startAt": 41505,
+            "endAt": 43187,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jtoktaeji7g",
+            "startAt": 43172,
+            "endAt": 43835,
+            "text": "맞으시죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9h3hla3cdp8",
+            "startAt": 43371,
+            "endAt": 44352,
+            "text": "네네 네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mjbmh3ieucg",
+            "startAt": 45081,
+            "endAt": 49763,
+            "text": "전화번호를 제가 몇 번을 확인했는데 이 번호를 알려주셔가지고. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_m27bm59t6v8",
+            "startAt": 47863,
+            "endAt": 50654,
+            "text": "아. 그렇군요. 아 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_i3g9r1c94no",
+            "startAt": 50007,
+            "endAt": 53525,
+            "text": "일단 알겠습니다. 관계 없으시다고요. 네 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_q29kp85stdg",
+            "startAt": 51836,
+            "endAt": 54463,
+            "text": "아 네네. 네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0hicjcc6878",
+            "startAt": 53820,
+            "endAt": 54974,
+            "text": "네 죄송합니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rusih5jqdn",
+            "startAt": 55600,
+            "endAt": 56737,
+            "text": "그 전화를 내가",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9c56l1hndj8",
+            "startAt": 75180,
+            "endAt": 76117,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tjputvnmmeo",
+            "startAt": 76135,
+            "endAt": 77953,
+            "text": "네 119 상황실이에요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lp66k4rbfd8",
+            "startAt": 78108,
+            "endAt": 81553,
+            "text": "저희 구급차가 지금 현장에 거의 도착했구요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5mi2lnhn3q",
+            "startAt": 81644,
+            "endAt": 83963,
+            "text": "지금 신고자 분이 전화번호를",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u8qk0kuhj58",
+            "startAt": 84218,
+            "endAt": 86167,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u8sq7frbnc",
+            "startAt": 86149,
+            "endAt": 87476,
+            "text": "불러 주신 거 맞죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ghi3k3ooepo",
+            "startAt": 87553,
+            "endAt": 88471,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7ran6bhadpo",
+            "startAt": 88944,
+            "endAt": 92789,
+            "text": "이분이 전화를 받았는데 자긴 관련 없는 사람이라고 그러는데?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_edpin4s4fv",
+            "startAt": 93872,
+            "endAt": 97571,
+            "text": "다른 분이 받으시는데, 전혀 다른 분이 받으시는데",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hrbn67dn468",
+            "startAt": 93910,
+            "endAt": 94955,
+            "text": "아 잠깐만요.",
+            "speaker": 1
+        },
+        {
+            "id": "9ede0a08",
+            "startAt": 98100,
+            "endAt": 100487,
+            "text": "잠깐만요 예, 잠깐만요 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a0un0md77l8",
+            "startAt": 101581,
+            "endAt": 103785,
+            "text": "내 전화번호를 가 잘못 가르쳐줬나",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_brlga002q9",
+            "startAt": 105727,
+            "endAt": 107985,
+            "text": "예 잠깐만요 좀 이따 다시 전화드릴게요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5n5qohhrnj",
+            "startAt": 108241,
+            "endAt": 108841,
+            "text": "네",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

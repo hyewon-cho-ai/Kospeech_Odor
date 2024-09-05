@@ -1,0 +1,124 @@
+{
+    "_id": "64d9fdff3e12da15ae3a4623",
+    "audioPath": "20230814/Incheon/2023/02/04/008/converted_20230204111723_4008-008.wav",
+    "recordId": "2f09156671e0164ae32d",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 124680,
+    "utterances": [
+        {
+            "id": "1f9a1e1b",
+            "startAt": 369,
+            "endAt": 1445,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "44ce89ad",
+            "startAt": 2008,
+            "endAt": 11728,
+            "text": "저기요 저번에 명절때 계산동에 문 연 치과의원을 소개해주셨거든요? 근데 그 상호가 뭐였죠?",
+            "speaker": 1
+        },
+        {
+            "id": "aa5da7fe",
+            "startAt": 12514,
+            "endAt": 13953,
+            "text": "치과의원.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2hs4rljnuog",
+            "startAt": 14226,
+            "endAt": 15676,
+            "text": "네 계산동에.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cof8uut4mh",
+            "startAt": 15273,
+            "endAt": 19273,
+            "text": "그 선생님 전화번호로 신고하셨어요? 그때도?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7do2l4hdk8g",
+            "startAt": 17630,
+            "endAt": 22313,
+            "text": "네네. 네네. 네 그래서 못 찾겠어요. 그 저기",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_oju12cp56j",
+            "startAt": 19896,
+            "endAt": 22379,
+            "text": "한번 찾아봐야 될 거 같아요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nodlh0pe76g",
+            "startAt": 24666,
+            "endAt": 26999,
+            "text": "잠시만요 한번 찾아볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_b4ue4htn5l8",
+            "startAt": 91751,
+            "endAt": 96184,
+            "text": "네. 여보세요? 어어어 네 말씀하세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fb4sueus1jo",
+            "startAt": 95847,
+            "endAt": 97381,
+            "text": "어 잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vgvr7fsl3p",
+            "startAt": 97427,
+            "endAt": 98127,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_v2f71v6gjpo",
+            "startAt": 113914,
+            "endAt": 119047,
+            "text": "어 선생님 이거 더 찾아봐야 될 거 같은데 제가 그쪽으로 전화 다시 드려도 될까요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_h1bs989hn3o",
+            "startAt": 119213,
+            "endAt": 120547,
+            "text": "네 그러세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_73dke8drkv8",
+            "startAt": 120663,
+            "endAt": 122930,
+            "text": "예. 다시 전화드릴게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_uk6ct2o05a",
+            "startAt": 121680,
+            "endAt": 124047,
+            "text": "네. 네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "중립",
+    "symptom": [],
+    "triage": ""
+}

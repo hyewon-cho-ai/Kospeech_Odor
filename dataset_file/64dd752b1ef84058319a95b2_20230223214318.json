@@ -1,0 +1,145 @@
+{
+    "_id": "64dd752b1ef84058319a95b2",
+    "audioPath": "20230815/Incheon/2023/02/23/009/converted_20230223214318_4009-009.wav",
+    "recordId": "72c5017d0e33d15e815e",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 46480,
+    "utterances": [
+        {
+            "id": "8310ef20",
+            "startAt": 1076,
+            "endAt": 2104,
+            "text": "119입니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pj7fv1m8qo",
+            "startAt": 2437,
+            "endAt": 4383,
+            "text": "네, 뭐 좀 여쭤볼려는데요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5us86bk41q8",
+            "startAt": 4410,
+            "endAt": 4728,
+            "text": "네?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_10b3ctg4jjg",
+            "startAt": 5319,
+            "endAt": 7574,
+            "text": "예 뭐 좀 여쭤볼려고 하는데요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dmuve7cnug",
+            "startAt": 7183,
+            "endAt": 7592,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_b10lod4828o",
+            "startAt": 8229,
+            "endAt": 11329,
+            "text": "그 애기가 지금 잠을 자려고 하는데 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_quj0bfne6c",
+            "startAt": 11740,
+            "endAt": 17514,
+            "text": "네 폐렴 폐렴 증상을 폐렴이라고 얘기는 들었었거든요. 병원을 가서 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_v3tq4nploi",
+            "startAt": 17157,
+            "endAt": 17948,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_94d9ug1hrmg",
+            "startAt": 18303,
+            "endAt": 23404,
+            "text": "근데 약 먹고 괜찮아져 가지고 있는데 좀 숨소리가 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o50j4shh2",
+            "startAt": 23676,
+            "endAt": 29032,
+            "text": "조금 더 빠르게 쉬는 이렇게 숨을 빠르게 쉬는 거 같거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "a1b672d2",
+            "startAt": 29354,
+            "endAt": 31984,
+            "text": "근데 컨디션은 다 괜찮고 한데 예",
+            "speaker": 1
+        },
+        {
+            "id": "73825b74",
+            "startAt": 32511,
+            "endAt": 36274,
+            "text": "제 이거를 두고 봐도 되는 건지 그게 좀 걱정이 되가지고 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kq6m4ndd2rg",
+            "startAt": 36287,
+            "endAt": 37588,
+            "text": "의료 상담 원하시는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_10pf9nvt5po",
+            "startAt": 37770,
+            "endAt": 38511,
+            "text": "네네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rnn39pl3t9o",
+            "startAt": 38197,
+            "endAt": 39470,
+            "text": "전화 돌려드릴 거예요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_srvrcpi674",
+            "startAt": 39624,
+            "endAt": 40215,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_52fgo9ot4og",
+            "startAt": 44752,
+            "endAt": 45625,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3e5mraunc6g",
+            "startAt": 45634,
+            "endAt": 46253,
+            "text": "의료 상담이요.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

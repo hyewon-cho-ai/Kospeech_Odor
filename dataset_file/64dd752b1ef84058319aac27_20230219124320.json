@@ -1,0 +1,278 @@
+{
+    "_id": "64dd752b1ef84058319aac27",
+    "audioPath": "20230815/Incheon/2023/02/19/008/converted_20230219124320_4008-008.wav",
+    "recordId": "6c79f29e619ebf4c2fb5",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 85000,
+    "utterances": [
+        {
+            "id": "c9714c34",
+            "startAt": 480,
+            "endAt": 1627,
+            "text": "네 119입니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jieh1hi9gh",
+            "startAt": 2337,
+            "endAt": 4773,
+            "text": "아 예, 여기 그 저기 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5k2347v4758",
+            "startAt": 5000,
+            "endAt": 5818,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "bd449d38",
+            "startAt": 5807,
+            "endAt": 11477,
+            "text": "현수막이 바람이 많이 불어서 떨어질 거 같은데 거기 세입자가",
+            "speaker": 1
+        },
+        {
+            "id": "1923daee",
+            "startAt": 12598,
+            "endAt": 14828,
+            "text": "그 해외가고 없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "e7a77389",
+            "startAt": 15408,
+            "endAt": 19238,
+            "text": "다음 달에 온다는데 저거를 어떻게 띨 수 없나요? 곧 떨어져서.",
+            "speaker": 1
+        },
+        {
+            "id": "5e7b6924",
+            "startAt": 19201,
+            "endAt": 21701,
+            "text": "지나가는 사람한테 지장이 될 거 같은데 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a0ac09o8po8",
+            "startAt": 21036,
+            "endAt": 21691,
+            "text": "네 혹시 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dqab9od59ig",
+            "startAt": 21682,
+            "endAt": 22091,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4b2ej2kdim",
+            "startAt": 22073,
+            "endAt": 22918,
+            "text": "어디에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_eq22j4dr3vo",
+            "startAt": 23621,
+            "endAt": 24421,
+            "text": "위치요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jvs275rhidg",
+            "startAt": 24548,
+            "endAt": 25366,
+            "text": "네 위치요",
+            "speaker": 0
+        },
+        {
+            "id": "4a5611fd",
+            "startAt": 26625,
+            "endAt": 29527,
+            "text": "예 인천 광역시 중구",
+            "speaker": 1
+        },
+        {
+            "id": "8ef6bfdb",
+            "startAt": 30534,
+            "endAt": 32432,
+            "text": "그 혹시 아파트 단지에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_baodmpsp9fo",
+            "startAt": 30902,
+            "endAt": 31757,
+            "text": "운남",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6u6frpc8pt",
+            "startAt": 32946,
+            "endAt": 33273,
+            "text": "예?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ld34j37kmco",
+            "startAt": 33310,
+            "endAt": 34501,
+            "text": "아파트 단지에요?",
+            "speaker": 0
+        },
+        {
+            "id": "7f01dd8c",
+            "startAt": 36614,
+            "endAt": 41047,
+            "text": "아니에요, 그냥 일반 그 저기 뭐야? 도로 옆에",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_15dhcrtmvfo",
+            "startAt": 41018,
+            "endAt": 41509,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_i12fj4gm0ro",
+            "startAt": 41491,
+            "endAt": 42273,
+            "text": "상가에요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_q0qs96fuflo",
+            "startAt": 42505,
+            "endAt": 46769,
+            "text": "아, 거기 주소 한번만 다시 말씀해 주시겠, 주시겠어요? 운남동 어디에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_uhmoi7hsec",
+            "startAt": 45568,
+            "endAt": 49331,
+            "text": "인천 광역시 중구 운남동로 3번",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7jp8ocalkt",
+            "startAt": 49311,
+            "endAt": 50339,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "ab26eee0",
+            "startAt": 50415,
+            "endAt": 51685,
+            "text": "운남동로에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_a1g82cfvo2o",
+            "startAt": 52290,
+            "endAt": 55008,
+            "text": "예, 운남동로 3번길",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_j1tovqejd5g",
+            "startAt": 54990,
+            "endAt": 58026,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9a8f618n6fg",
+            "startAt": 58021,
+            "endAt": 58704,
+            "text": "상가인데. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4obtevggt18",
+            "startAt": 58682,
+            "endAt": 59273,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1ck8munnvlg",
+            "startAt": 59300,
+            "endAt": 60991,
+            "text": "외벽이라는 말씀이신거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vdmg8koc4eo",
+            "startAt": 61087,
+            "endAt": 62788,
+            "text": "예, 여, 도로쪽이에요",
+            "speaker": 1
+        },
+        {
+            "id": "a604b8b2",
+            "startAt": 63285,
+            "endAt": 66288,
+            "text": "곧 떨어질 거 같애요, 오늘 바람이 많이 불어서.",
+            "speaker": 1
+        },
+        {
+            "id": "fb40cf0c",
+            "startAt": 66487,
+            "endAt": 68699,
+            "text": "아 네, 저희가 그러면",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_l023e2jmvcg",
+            "startAt": 69764,
+            "endAt": 70682,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_t87a5dv639",
+            "startAt": 70686,
+            "endAt": 73914,
+            "text": "음, 알겠습니다. 저희가 가서 한번 현장 확인 한번 해볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gqevqbvskq",
+            "startAt": 73605,
+            "endAt": 76132,
+            "text": "네네 얼마나 걸리실까요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_eubb8dgbne",
+            "startAt": 76903,
+            "endAt": 82295,
+            "text": "저희 가면은 뭐, 금방 가,아으, 도착할 것 같아요. 네네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_030cjosnu3",
+            "startAt": 80422,
+            "endAt": 83340,
+            "text": "아, 네예예, 예예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 중구 운남동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "중",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

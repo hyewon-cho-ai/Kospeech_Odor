@@ -1,0 +1,285 @@
+{
+    "_id": "64dd752b1ef84058319ac2e2",
+    "audioPath": "20230815/Incheon/2023/02/26/004/converted_20230226222957_4004-004.wav",
+    "recordId": "0a08166641553edca6a5",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 91560,
+    "utterances": [
+        {
+            "id": "75f69532",
+            "startAt": 319,
+            "endAt": 1647,
+            "text": "네. 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ge2974dl0s",
+            "startAt": 452,
+            "endAt": 1567,
+            "text": "이거만 잘 드세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_sckbj9s2u5",
+            "startAt": 2365,
+            "endAt": 3259,
+            "text": "아 여보세요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b31i0s6ueh8",
+            "startAt": 3294,
+            "endAt": 5462,
+            "text": "네 119입니다 신고자분 말씀하세요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2hm540tenu8",
+            "startAt": 5716,
+            "endAt": 7214,
+            "text": "아 네 여기 검암동",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9o1vp0mtgf",
+            "startAt": 7256,
+            "endAt": 8876,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t7dhmudj9do",
+            "startAt": 8761,
+            "endAt": 9791,
+            "text": "솔뫼아파트",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gbnvgijej3",
+            "startAt": 9812,
+            "endAt": 10795,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cunu469md4g",
+            "startAt": 10838,
+            "endAt": 12094,
+            "text": "솔뫼아파트요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jbqddvr9fgg",
+            "startAt": 11520,
+            "endAt": 15068,
+            "text": "거기서 말한다. 네 솔뫼아파트인데요 어",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9o302plqio8",
+            "startAt": 16162,
+            "endAt": 19336,
+            "text": "건물이 지금 가스 냄새가 꽤 가득 차서요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qm2f80ncifg",
+            "startAt": 19198,
+            "endAt": 20242,
+            "text": "몇 층에서 나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sfsg1s7ne3",
+            "startAt": 21355,
+            "endAt": 21737,
+            "text": "어.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ppsbosvvd98",
+            "startAt": 21754,
+            "endAt": 22663,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1t9113825mg",
+            "startAt": 22699,
+            "endAt": 23654,
+            "text": "시작된 거 같고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tvfb97ao5ao",
+            "startAt": 23653,
+            "endAt": 25935,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lvrmu83h918",
+            "startAt": 25951,
+            "endAt": 27201,
+            "text": "아 신고자 분은",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_842odcb7cmo",
+            "startAt": 26179,
+            "endAt": 27192,
+            "text": "네 아 근데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bkb5rcgc0vg",
+            "startAt": 27309,
+            "endAt": 28463,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_eo8mhp5c3eo",
+            "startAt": 29090,
+            "endAt": 29453,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1canf53vevo",
+            "startAt": 29753,
+            "endAt": 30517,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "2e796edf",
+            "startAt": 30565,
+            "endAt": 34681,
+            "text": "가스 냄새 확, 꽉 찼길래 내려오면서 보니까 그때야 좀 많이 차가더라고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vhf020lk878",
+            "startAt": 34735,
+            "endAt": 35653,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "dfb50847",
+            "startAt": 35668,
+            "endAt": 37189,
+            "text": "냄새가 많이 난다는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1h64b6qt99",
+            "startAt": 37475,
+            "endAt": 46706,
+            "text": "네네 근데 저희가 가스레인지를 쓰는 건물도 아니고 밑에 층은 쓸지도 모르겠지만 어쨌든 가스냄새 그 뭐 음식하는 냄새는 안 나고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_s2ib9m0vce8",
+            "startAt": 46919,
+            "endAt": 52806,
+            "text": "아 저희가 현장 나가서 한번 확인해볼게요 그 솔뫼아파트가 단 동짜리일까요, 검암동에?",
+            "speaker": 0
+        },
+        {
+            "id": "3c18aee4",
+            "startAt": 53353,
+            "endAt": 53860,
+            "text": "네네",
+            "speaker": 1
+        },
+        {
+            "id": "6b1be69d",
+            "startAt": 54273,
+            "endAt": 55260,
+            "text": "잠시만요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_miukdc5bgdo",
+            "startAt": 55773,
+            "endAt": 61313,
+            "text": "여기도 아마 그리고 심야전기로 돌리는 전기 보일러일 거예요 근데 가스 냄새가 나서",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1pjt5d7s2no",
+            "startAt": 61630,
+            "endAt": 65699,
+            "text": "어 신고자 분 솔뫼아파트가 뫼가 뫼 산 할 때 뫼 맞아요?",
+            "speaker": 0
+        },
+        {
+            "id": "9d0dfe54",
+            "startAt": 65909,
+            "endAt": 67971,
+            "text": "네 뫼 산 할 때 뫼 맞습니다",
+            "speaker": 1
+        },
+        {
+            "id": "1aeb872a",
+            "startAt": 69223,
+            "endAt": 72892,
+            "text": "잠시만요, 지번 다시 한 번만 불러봐 주시겠어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ml79hlavlf",
+            "startAt": 73581,
+            "endAt": 73774,
+            "text": "네?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kbu794oi2p8",
+            "startAt": 73888,
+            "endAt": 75024,
+            "text": "검암동 지번이요",
+            "speaker": 0
+        },
+        {
+            "id": "d57e3eb5",
+            "startAt": 75679,
+            "endAt": 77350,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "669bc273",
+            "startAt": 78973,
+            "endAt": 86682,
+            "text": "아 네, 알겠습니다 저희가 가서 한번 확인해보도록 하겠습니다. 대원분들이 가시면서 전화하실 수 있으니까 한번 제 어 전화 좀 잘 받아주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "f2d88868",
+            "startAt": 86852,
+            "endAt": 88393,
+            "text": "네 감사합니다",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_27phk343vdo",
+            "startAt": 87934,
+            "endAt": 88663,
+            "text": "네",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 서구 검암동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "중",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

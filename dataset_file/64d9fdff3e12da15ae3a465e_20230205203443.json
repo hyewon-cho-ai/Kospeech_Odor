@@ -1,0 +1,96 @@
+{
+    "_id": "64d9fdff3e12da15ae3a465e",
+    "audioPath": "20230814/Incheon/2023/02/05/006/converted_20230205203443_4006-006.wav",
+    "recordId": "391946f3fd41f315b33d",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 50400,
+    "utterances": [
+        {
+            "id": "19883f55",
+            "startAt": 711,
+            "endAt": 1617,
+            "text": "119입니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_p27g9p3bv6",
+            "startAt": 1855,
+            "endAt": 6373,
+            "text": "아 죄송합니다. 바쁘신데 아 별일은 아닌데요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0l5p9kl8fug",
+            "startAt": 6436,
+            "endAt": 11936,
+            "text": "그 저희가 제가 응급실에 전화했는데 그 전화를 안 받으셔서요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vtji5968up",
+            "startAt": 12164,
+            "endAt": 18836,
+            "text": "다른 게 아니고 이제 제가 내일 대장 내시경을 하는데 이제 배탈이 좀 났어요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f4099alodjo",
+            "startAt": 18866,
+            "endAt": 23338,
+            "text": "그래서 이제 내일 그 어 그 뭐죠?",
+            "speaker": 1
+        },
+        {
+            "id": "54bbe60e",
+            "startAt": 23132,
+            "endAt": 28910,
+            "text": "대장 내시경 하는 그 약을 먹어도 되는지, 안 되는지 그게 궁금해서.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9v3s4qlafsg",
+            "startAt": 29059,
+            "endAt": 30195,
+            "text": "아",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7f8a891btsg",
+            "startAt": 29993,
+            "endAt": 30571,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "067680fd",
+            "startAt": 31326,
+            "endAt": 42004,
+            "text": "아 저 저희 이제 문의 건 따로 이제 또 상담해주시는 분이 따로 계셔서 저희가 그쪽에다가 한번 넘겨드릴게요. 잠시만 기다려주세요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dma3vv55d5o",
+            "startAt": 41995,
+            "endAt": 43107,
+            "text": "감사합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5mausdp5eso",
+            "startAt": 42978,
+            "endAt": 43743,
+            "text": "감사합니다.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

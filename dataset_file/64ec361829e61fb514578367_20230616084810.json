@@ -1,0 +1,299 @@
+{
+    "_id": "64ec361829e61fb514578367",
+    "audioPath": "20230828/Incheon/2023/06/16/007/converted_20230616084810_4007-007.wav",
+    "recordId": "a06005d6bc3fec8b4708",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 124320,
+    "utterances": [
+        {
+            "id": "205320d8",
+            "startAt": 156,
+            "endAt": 1040,
+            "text": "119입니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_r2f6j27bjig",
+            "startAt": 1162,
+            "endAt": 2231,
+            "text": "네 연기가 오니까",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1eivkkqjms8",
+            "startAt": 2631,
+            "endAt": 3300,
+            "text": "여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "9b5419cf",
+            "startAt": 3284,
+            "endAt": 4426,
+            "text": "그",
+            "speaker": 1
+        },
+        {
+            "id": "73192f3c",
+            "startAt": 4979,
+            "endAt": 10562,
+            "text": "가 그 촉 가스레인지에서 그 불을 사용 안 했는데 갑자기 연기가 올라왔거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "6d24c230",
+            "startAt": 11526,
+            "endAt": 12419,
+            "text": "지금은 어때요?",
+            "speaker": 0
+        },
+        {
+            "id": "ff490a67",
+            "startAt": 12864,
+            "endAt": 19244,
+            "text": "지금 탄 내나 탄 냄새 계속 나고 연기는 안 올라오는데 가스레인지에서 갑자기 이러는데.",
+            "speaker": 1
+        },
+        {
+            "id": "bba14cb5",
+            "startAt": 20849,
+            "endAt": 21681,
+            "text": "탄 내가 나고.",
+            "speaker": 0
+        },
+        {
+            "id": "ce8d0a39",
+            "startAt": 22539,
+            "endAt": 25035,
+            "text": "네, 연기 연기가 올 계속 올라왔어요.",
+            "speaker": 1
+        },
+        {
+            "id": "4130b751",
+            "startAt": 25186,
+            "endAt": 26034,
+            "text": "지금은 안 나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5r6k3uvdeto",
+            "startAt": 26679,
+            "endAt": 32702,
+            "text": "네 지금 연기는 안 나는데 일단 가스는 밸브를 잠갔거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_88729jmd3eo",
+            "startAt": 34833,
+            "endAt": 37410,
+            "text": "어 연기 나는 거 같은데 아 연기 나요. 계속",
+            "speaker": 1
+        },
+        {
+            "id": "2f59605e",
+            "startAt": 38872,
+            "endAt": 43396,
+            "text": "하얀색 연기가 난다는 거예요, 뭐예요? 가스 위에 뭐 안 아무것도 안 올려놨어요?",
+            "speaker": 0
+        },
+        {
+            "id": "e9d7d36b",
+            "startAt": 44850,
+            "endAt": 49372,
+            "text": "아 프라이팬만 올려놓, 불을 사용은 안 했는데 연기가 계속 올라오고 그랬나.",
+            "speaker": 1
+        },
+        {
+            "id": "4513ef10",
+            "startAt": 51107,
+            "endAt": 52460,
+            "text": "잠갔어요? 중간 밸브",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_604f1ecn8vo",
+            "startAt": 52664,
+            "endAt": 53464,
+            "text": "네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cvmrgqr7qf",
+            "startAt": 54634,
+            "endAt": 58143,
+            "text": "아 이거, 꽉, 에 이거 밸브에서 나네, 요 안에서 가스 나잖아.",
+            "speaker": 1
+        },
+        {
+            "id": "efbf3c26",
+            "startAt": 60430,
+            "endAt": 65078,
+            "text": "그 가스레인지 그 올려놓는 곳에서 연기가 계속 나오거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "aab161d9",
+            "startAt": 65822,
+            "endAt": 69338,
+            "text": "그 중간 벨브 잠갔어요. 잠갔는데도 연기 나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0nn0vjr2j98",
+            "startAt": 67470,
+            "endAt": 68439,
+            "text": "네, 잠갔어요. ",
+            "speaker": 1
+        },
+        {
+            "id": "4aec1ab3",
+            "startAt": 70067,
+            "endAt": 70560,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "645e6090",
+            "startAt": 77557,
+            "endAt": 79029,
+            "text": "그 도시가스 쓰는 데에요?",
+            "speaker": 0
+        },
+        {
+            "id": "b6bd1517",
+            "startAt": 80052,
+            "endAt": 83879,
+            "text": "도시가스 써? 그렇다는데요.",
+            "speaker": 1
+        },
+        {
+            "id": "fd1045e1",
+            "startAt": 84506,
+            "endAt": 85869,
+            "text": "그 주소 좀 알려주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gie4svrnef8",
+            "startAt": 86207,
+            "endAt": 87199,
+            "text": "여기",
+            "speaker": 1
+        },
+        {
+            "id": "989df39e",
+            "startAt": 89262,
+            "endAt": 89855,
+            "text": "여기 주안동",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8m8p292gdjg",
+            "startAt": 89830,
+            "endAt": 92530,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5hmodm14e0o",
+            "startAt": 92763,
+            "endAt": 93394,
+            "text": "네네",
+            "speaker": 1
+        },
+        {
+            "id": "86bd281e",
+            "startAt": 95627,
+            "endAt": 97664,
+            "text": "빌 아 뭐예요? 거기 빌라예요?",
+            "speaker": 0
+        },
+        {
+            "id": "493d7be0",
+            "startAt": 98267,
+            "endAt": 99863,
+            "text": "올 올레오 아파트요, ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jba9vpihf78",
+            "startAt": 99652,
+            "endAt": 100513,
+            "text": "잠깐만요.",
+            "speaker": 0
+        },
+        {
+            "id": "016271fa",
+            "startAt": 104557,
+            "endAt": 105073,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "03f8ad76",
+            "startAt": 106680,
+            "endAt": 108061,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ju648kja1gg",
+            "startAt": 108233,
+            "endAt": 109203,
+            "text": "몇 호예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_amki98f3vco",
+            "startAt": 108526,
+            "endAt": 109187,
+            "text": "예",
+            "speaker": 1
+        },
+        {
+            "id": "6c48f0ae",
+            "startAt": 109664,
+            "endAt": 111441,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "d76fc42a",
+            "startAt": 111862,
+            "endAt": 117806,
+            "text": "지금 차가 볼 테니깐요 가스밸브 잠그시고 그 관리실 있으면 관리실에 전화 한번 하세요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_686ifs2g8g",
+            "startAt": 117922,
+            "endAt": 118645,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_es86g8b8m58",
+            "startAt": 118676,
+            "endAt": 120299,
+            "text": "그리고 나오세요, 밖으로",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_f9fokvk5ppo",
+            "startAt": 120552,
+            "endAt": 121352,
+            "text": "네, 네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 미추홀구 주안동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "중",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

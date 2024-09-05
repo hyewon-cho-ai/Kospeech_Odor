@@ -1,0 +1,138 @@
+{
+    "_id": "64d9fdff3e12da15ae3a4788",
+    "audioPath": "20230814/Incheon/2023/02/02/019/converted_20230202233216_4019-019.wav",
+    "recordId": "8f010473fbf00f3ba720",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 32360,
+    "utterances": [
+        {
+            "id": "wavesurfer_1vouigegvt",
+            "startAt": 1000,
+            "endAt": 2427,
+            "text": "네 구급상황입니다",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o2a5spistk",
+            "startAt": 1418,
+            "endAt": 2454,
+            "text": "병원안내요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_50vrr8afuj8",
+            "startAt": 2536,
+            "endAt": 3545,
+            "text": "네 여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_54tjc7fas8g",
+            "startAt": 2763,
+            "endAt": 5045,
+            "text": "여보세요 네 여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qclmn92vo4g",
+            "startAt": 5308,
+            "endAt": 7082,
+            "text": "여보세요? 이죠",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dt0nqal2nd8",
+            "startAt": 6054,
+            "endAt": 7436,
+            "text": "네네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k1q34e1suko",
+            "startAt": 7554,
+            "endAt": 8826,
+            "text": "애기가 몇 살이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4mhm3l9cibg",
+            "startAt": 8781,
+            "endAt": 10790,
+            "text": "아 지금 이제 9살 돼요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2vusq92ln18",
+            "startAt": 11726,
+            "endAt": 14862,
+            "text": "지금 소아과 인천성모는 진료 안 되구요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_r4m2vln56g8",
+            "startAt": 15016,
+            "endAt": 17271,
+            "text": "그 길병원이나 인하대나 아니면",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_e73mqvhdq6g",
+            "startAt": 17325,
+            "endAt": 19989,
+            "text": "순천향대 부천병원 가셔야 되세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ap6rjvadbpo",
+            "startAt": 19652,
+            "endAt": 20943,
+            "text": "아 길병원에요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_iile6pi091g",
+            "startAt": 21189,
+            "endAt": 24788,
+            "text": "네 네, 길병원은 응급실은 정상 운영하고 있으니까 진료 가능하구요,",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4709vhif908",
+            "startAt": 25061,
+            "endAt": 26497,
+            "text": "아 네네네 알",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_uknn504al4o",
+            "startAt": 26470,
+            "endAt": 28660,
+            "text": "문자 보내드리니까 그중에서 내원하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_n1vllm91neg",
+            "startAt": 28860,
+            "endAt": 30278,
+            "text": "네, 알겠습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rkltm87nlfo",
+            "startAt": 31187,
+            "endAt": 32315,
+            "text": "길병원에 가 길병",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

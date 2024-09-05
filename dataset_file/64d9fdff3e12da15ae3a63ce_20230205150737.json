@@ -1,0 +1,208 @@
+{
+    "_id": "64d9fdff3e12da15ae3a63ce",
+    "audioPath": "20230814/Incheon/2023/02/05/008/converted_20230205150737_4008-008.wav",
+    "recordId": "520c884281e7a4177a12",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 78600,
+    "utterances": [
+        {
+            "id": "bd2c39bd",
+            "startAt": 790,
+            "endAt": 1460,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0uni4bkoip",
+            "startAt": 2345,
+            "endAt": 5927,
+            "text": "예 안녕하세요. 여기가 미추홀구 수봉산인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_c28o0hpecb",
+            "startAt": 5935,
+            "endAt": 6553,
+            "text": "수봉산?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dgmi05h7cfo",
+            "startAt": 7022,
+            "endAt": 7767,
+            "text": "예. 네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o7v0f6k58c8",
+            "startAt": 8067,
+            "endAt": 10713,
+            "text": "여기 할머니 한 분께서 네,",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t5u792au1eo",
+            "startAt": 11155,
+            "endAt": 14073,
+            "text": "기운이 너무 없으시고 계속 땀을 흘리시면서 네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tf3tf1kbc78",
+            "startAt": 15144,
+            "endAt": 17944,
+            "text": "어 약간 혼절하시려고 하시는데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p4fnf5q9lfo",
+            "startAt": 17213,
+            "endAt": 18876,
+            "text": "아 기운이 없이 앉아계세요?",
+            "speaker": 0
+        },
+        {
+            "id": "85344b11",
+            "startAt": 19347,
+            "endAt": 21454,
+            "text": " 네, 네 선생님, 그분 병원 가신대요?",
+            "speaker": 0
+        },
+        {
+            "id": "43cb07dd",
+            "startAt": 22447,
+            "endAt": 24402,
+            "text": "혹시 병원 가실 거예요? 어머니",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hsqaimuo60g",
+            "startAt": 27080,
+            "endAt": 27662,
+            "text": "어",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rtp7jfh9ir",
+            "startAt": 30176,
+            "endAt": 33076,
+            "text": "일단 구급차는 그 인근으로 갈 건데요. 선생님,",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5n22luu8o7g",
+            "startAt": 33382,
+            "endAt": 34991,
+            "text": "네, 거기 주소가 어떻게 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5j883f6dat8",
+            "startAt": 35213,
+            "endAt": 38385,
+            "text": "가장 가까이 있는 주소가 아니면 거 버스정류장 눈 앞에 있죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j6ok2cabqng",
+            "startAt": 35480,
+            "endAt": 36071,
+            "text": "여기",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_c0nfbakurtg",
+            "startAt": 39155,
+            "endAt": 46500,
+            "text": "예, 저희가 이거 이제 저 대신 신고는 해드리겠다고 했는데 할머니께서 이제 비용이 자꾸 나오시냐고 여쭤보시는데",
+            "speaker": 1
+        },
+        {
+            "id": "5d754f9f",
+            "startAt": 46521,
+            "endAt": 48548,
+            "text": "제가 잘 몰라서 대답을 어떻게",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_g56k2vlqbi",
+            "startAt": 47260,
+            "endAt": 50351,
+            "text": "아 구급차는 비용은 안 나오지만 병원비는 내셔야 돼요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rbdm08n1648",
+            "startAt": 50625,
+            "endAt": 52516,
+            "text": "아 그래요, 그러면은 좀",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a7djs54qclg",
+            "startAt": 52840,
+            "endAt": 56385,
+            "text": "좀 와주실 수 있으세요? 여기가 공원장이라고 하는 덴데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_sqh7tmq4pbo",
+            "startAt": 56400,
+            "endAt": 57145,
+            "text": "공원장?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8rc93oq32l8",
+            "startAt": 57622,
+            "endAt": 64658,
+            "text": "네, 공원장이라는 그 중국집 쪽으로 입구가 하나 있는데 거 그쪽으로 조금 올라오시면 여기 바로",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_864ofgv6e6g",
+            "startAt": 64167,
+            "endAt": 65967,
+            "text": "아 공원장 인근이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_g6kf23fjp4g",
+            "startAt": 66285,
+            "endAt": 67685,
+            "text": "네, 인근입니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a102m862feo",
+            "startAt": 66791,
+            "endAt": 70318,
+            "text": "네 알겠습니다. 지금 그 구급차는 네, 가고 있고요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1u3lrf6vrrg",
+            "startAt": 70698,
+            "endAt": 74371,
+            "text": "네네, 가면서 전화드릴 거예요. 전화 잘 받고 계세요. 출동 중입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "0c88125d",
+            "startAt": 74745,
+            "endAt": 76365,
+            "text": "예, 감사합니다. 네,",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

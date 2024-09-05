@@ -1,0 +1,278 @@
+{
+    "_id": "64dd752b1ef84058319a90a7",
+    "audioPath": "20230815/Incheon/2023/02/16/003/converted_20230216204725_4003-003.wav",
+    "recordId": "19be59dd6489680cad54",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 72520,
+    "utterances": [
+        {
+            "id": "7f1ddae4",
+            "startAt": 0,
+            "endAt": 755,
+            "text": "입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_37cspmp8nfg",
+            "startAt": 1345,
+            "endAt": 6037,
+            "text": "아 네, 여기 지금 화재경보기가 잘못 작동된 거 같은데 어떻게 꺼야돼요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pqgppu74f1g",
+            "startAt": 4818,
+            "endAt": 7282,
+            "text": "아 화재경보기가 울렸어요, 화재경보기?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k69g5remea",
+            "startAt": 7737,
+            "endAt": 8318,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lcjib21b318",
+            "startAt": 8982,
+            "endAt": 10655,
+            "text": "혹시 옆에 계신 거예요? 수신반 옆에?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9b97d06cl4g",
+            "startAt": 11528,
+            "endAt": 12109,
+            "text": "아니요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7khgredcbio",
+            "startAt": 12746,
+            "endAt": 16737,
+            "text": "아 그럼 저희가 조치를 취해드릴 거고요. 혹시 지금 어디세요 위치가?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fhj6g5pea6o",
+            "startAt": 17628,
+            "endAt": 20573,
+            "text": "어 여기 석천사거리 쪽에.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_drm8knqjjq8",
+            "startAt": 21037,
+            "endAt": 22691,
+            "text": "주소를 좀 정확히 알려주실래요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_42mdgp2ccrg",
+            "startAt": 23646,
+            "endAt": 26928,
+            "text": "석천사거리 그 동호프라자.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7s0pdok3ovg",
+            "startAt": 27337,
+            "endAt": 27683,
+            "text": "네?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_d83f9qqnddg",
+            "startAt": 28292,
+            "endAt": 29473,
+            "text": "동호프라자.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dtdm8t5ob7",
+            "startAt": 29446,
+            "endAt": 31655,
+            "text": "동호프라자? 확인 좀 할게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k4kiqi79fr",
+            "startAt": 31701,
+            "endAt": 34137,
+            "text": "지금 관계자분이신거 관계자분 안 계세요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_drep6gavfb8",
+            "startAt": 34765,
+            "endAt": 35674,
+            "text": "네 안, 세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0l0175b9ijo",
+            "startAt": 35255,
+            "endAt": 36883,
+            "text": "경비아저씨가 지금 안 계세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_40p4d5qvss8",
+            "startAt": 37174,
+            "endAt": 37719,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1pfpklirnf",
+            "startAt": 37492,
+            "endAt": 39810,
+            "text": "아 동호 튼튼 약국 있는데 맞아요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pclunikc81o",
+            "startAt": 40392,
+            "endAt": 41346,
+            "text": "어디 약국이요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jidpdcuv1d",
+            "startAt": 41419,
+            "endAt": 43183,
+            "text": "구월동으로 나오, 구월동 맞아요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_f3jq0nlftmo",
+            "startAt": 43810,
+            "endAt": 44937,
+            "text": "구월동 맞아요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_in9n1oqud18",
+            "startAt": 44483,
+            "endAt": 48083,
+            "text": "아 구월동 맞아요? 혹시 그 서점 있는데 맞아요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o5c42bkgk58",
+            "startAt": 48874,
+            "endAt": 51165,
+            "text": "서점, 서, 파리바게트 건물 맞아요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_of1kknffr2o",
+            "startAt": 48919,
+            "endAt": 49583,
+            "text": "어떤거요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_n5crqts5dro",
+            "startAt": 51465,
+            "endAt": 52583,
+            "text": "아 맞아요 맞아요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_h0hgro25jcg",
+            "startAt": 52138,
+            "endAt": 54237,
+            "text": "아 파리바게트 건물 맞아요? 어.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hv8j2van6bg",
+            "startAt": 54200,
+            "endAt": 54632,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7nipot1f8pg",
+            "startAt": 54847,
+            "endAt": 55574,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qsjblih4jmg",
+            "startAt": 56665,
+            "endAt": 58192,
+            "text": "음 화재 징후는 없구요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5clb3oeot8",
+            "startAt": 59265,
+            "endAt": 60183,
+            "text": "화재 징후.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1jg17j26g1",
+            "startAt": 59292,
+            "endAt": 59665,
+            "text": "네?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_16pi4n7j4so",
+            "startAt": 61638,
+            "endAt": 62265,
+            "text": "어떤거요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8bavpg4ovhg",
+            "startAt": 62111,
+            "endAt": 63620,
+            "text": "화재 징후는 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_78kmdokv7eo",
+            "startAt": 63965,
+            "endAt": 64702,
+            "text": "없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hffhoslftdg",
+            "startAt": 64556,
+            "endAt": 66956,
+            "text": "아 그래요 선생님 저희 가서 확인 할거구요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8vopbrjtuo",
+            "startAt": 67211,
+            "endAt": 69202,
+            "text": "아 전화오면 전화 받으세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9pdja17bmko",
+            "startAt": 69474,
+            "endAt": 70893,
+            "text": "네. 네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 남동구 구월동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

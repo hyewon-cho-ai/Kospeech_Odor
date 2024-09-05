@@ -1,0 +1,229 @@
+{
+    "_id": "64f6b6118da7150deef29224",
+    "audioPath": "20230904/Incheon/2023/03/05/009/converted_20230305094634_4009-009.wav",
+    "recordId": "ba8c12a11118210d41ae",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 45920,
+    "utterances": [
+        {
+            "id": "bd62005a",
+            "startAt": 741,
+            "endAt": 1481,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "71778cb3",
+            "startAt": 2368,
+            "endAt": 5906,
+            "text": "예, 여기 지금 저 누수가 누수 때문에 물이 좀 넘쳐가지고요.",
+            "speaker": 1
+        },
+        {
+            "id": "f5127fec",
+            "startAt": 6891,
+            "endAt": 7781,
+            "text": "물이 넘쳐요?",
+            "speaker": 0
+        },
+        {
+            "id": "801b44e8",
+            "startAt": 8138,
+            "endAt": 9830,
+            "text": "예, 여기 물 좀.",
+            "speaker": 1
+        },
+        {
+            "id": "4515d0d7",
+            "startAt": 8980,
+            "endAt": 9709,
+            "text": "몇 층이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "e798253d",
+            "startAt": 10257,
+            "endAt": 10490,
+            "text": "예?",
+            "speaker": 1
+        },
+        {
+            "id": "43537fb4",
+            "startAt": 10527,
+            "endAt": 11312,
+            "text": "몇 층이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "67295025",
+            "startAt": 11762,
+            "endAt": 13454,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0c2rg8t3lh8",
+            "startAt": 13574,
+            "endAt": 14038,
+            "text": "예 예.",
+            "speaker": 1
+        },
+        {
+            "id": "bb868f72",
+            "startAt": 13589,
+            "endAt": 15448,
+            "text": "혹시 지금 물이 어느 정도까지 차 있나요?",
+            "speaker": 0
+        },
+        {
+            "id": "71087b73",
+            "startAt": 15795,
+            "endAt": 17090,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "bbf90069",
+            "startAt": 17039,
+            "endAt": 17571,
+            "text": "네, 네.",
+            "speaker": 0
+        },
+        {
+            "id": "24228cd8",
+            "startAt": 17855,
+            "endAt": 19718,
+            "text": "지금 발목 발목 정도까지 차 있습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "2d7cb05e",
+            "startAt": 19666,
+            "endAt": 20749,
+            "text": "발목 위쪽으로요?",
+            "speaker": 0
+        },
+        {
+            "id": "53225b76",
+            "startAt": 20954,
+            "endAt": 21489,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "7e01fff0",
+            "startAt": 21116,
+            "endAt": 24075,
+            "text": "그 지 선생님, 그쪽 주소가 어떻게 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "73e5c338",
+            "startAt": 24684,
+            "endAt": 25352,
+            "text": "여기 서해대로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vvtfg91o97o",
+            "startAt": 25338,
+            "endAt": 26192,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "77db5ca5",
+            "startAt": 26314,
+            "endAt": 27245,
+            "text": "서해대로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pceo4ru5f18",
+            "startAt": 27229,
+            "endAt": 28166,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "9c084fcc",
+            "startAt": 28391,
+            "endAt": 28898,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "90bda2c9",
+            "startAt": 29162,
+            "endAt": 30830,
+            "text": "어, 잠시만요, 확인 좀 할게요.",
+            "speaker": 0
+        },
+        {
+            "id": "0b0273eb",
+            "startAt": 31192,
+            "endAt": 31541,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "f1d19afc",
+            "startAt": 34905,
+            "endAt": 36952,
+            "text": "어, 여기가 그냥 건물이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "6fa300c1",
+            "startAt": 37231,
+            "endAt": 37870,
+            "text": "예예",
+            "speaker": 1
+        },
+        {
+            "id": "edd3f781",
+            "startAt": 38642,
+            "endAt": 39472,
+            "text": "아, 우선 서해대로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5olgkdcoqho",
+            "startAt": 39455,
+            "endAt": 40339,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fnmvucdm1fo",
+            "startAt": 40327,
+            "endAt": 41509,
+            "text": "가면 되는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "0ac8b108",
+            "startAt": 41406,
+            "endAt": 42127,
+            "text": "예, 맞습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "497c3201",
+            "startAt": 42366,
+            "endAt": 44712,
+            "text": "아 네, 알겠습니다. 네",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 중구 유동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

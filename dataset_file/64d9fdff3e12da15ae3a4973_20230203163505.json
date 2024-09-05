@@ -1,0 +1,187 @@
+{
+    "_id": "64d9fdff3e12da15ae3a4973",
+    "audioPath": "20230814/Incheon/2023/02/03/080/converted_20230203163505_11-080.wav",
+    "recordId": "24b72c29af4c5394c2e2",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 101760,
+    "utterances": [
+        {
+            "id": "wavesurfer_lj4c1kmek7",
+            "startAt": 29442,
+            "endAt": 30469,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4jtiq6u8388",
+            "startAt": 30161,
+            "endAt": 32079,
+            "text": "예, 119 예요 어르신.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fq7afrbq3hg",
+            "startAt": 33665,
+            "endAt": 35102,
+            "text": " 119 예요 어르신.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_56d89puu8pg",
+            "startAt": 35738,
+            "endAt": 36766,
+            "text": "네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gic1f9oo7p8",
+            "startAt": 36444,
+            "endAt": 38843,
+            "text": "구급차 보내드릴게 주소 좀 불러주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7e1c6b801m8",
+            "startAt": 40297,
+            "endAt": 41070,
+            "text": "주소.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pqdchoo0gv8",
+            "startAt": 42793,
+            "endAt": 43848,
+            "text": "가현대로",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cekb2bb1g2o",
+            "startAt": 43789,
+            "endAt": 47398,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "ba4940dc",
+            "startAt": 48139,
+            "endAt": 49262,
+            "text": "네 이",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a6mhe5p1lgg",
+            "startAt": 48739,
+            "endAt": 50130,
+            "text": "무슨 대로요? 무슨 대로?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_62daieqh1jg",
+            "startAt": 51603,
+            "endAt": 52812,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ej2s4jvfsu8",
+            "startAt": 53461,
+            "endAt": 54670,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rb2laf9k73o",
+            "startAt": 55473,
+            "endAt": 57501,
+            "text": "무슨대로예요 무슨대로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_glud8lno50g",
+            "startAt": 59555,
+            "endAt": 61483,
+            "text": "화장실을 못찾겠어.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lm7hjp3ddrg",
+            "startAt": 61802,
+            "endAt": 63557,
+            "text": "화장실을 못찾는 다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_umdu3emge2o",
+            "startAt": 63791,
+            "endAt": 64655,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qklfq6jsabg",
+            "startAt": 65481,
+            "endAt": 69354,
+            "text": "구급차가 필요하신 거예요? 아니면 화장실을 못 간다는 거예요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lst327omfeg",
+            "startAt": 70501,
+            "endAt": 73101,
+            "text": "화장실을 못 찾는다는거여.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_efaek4s86pg",
+            "startAt": 73792,
+            "endAt": 75610,
+            "text": "그 구급차 필요하지 않으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bfjhe3gj8j8",
+            "startAt": 76617,
+            "endAt": 79153,
+            "text": "아니요, 그렇지는 않을거에요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5linc2ld7oo",
+            "startAt": 78821,
+            "endAt": 80239,
+            "text": "구급차 필요하지 않으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_a20lkj06",
+            "startAt": 80654,
+            "endAt": 81554,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2hcstkrrn3g",
+            "startAt": 81277,
+            "endAt": 84377,
+            "text": "알겠습니다. 선생님, 혹시 구급자 필요하시면 다시 전화 한번 주세요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5htqtka661",
+            "startAt": 84893,
+            "endAt": 86075,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

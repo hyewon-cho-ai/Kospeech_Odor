@@ -1,0 +1,236 @@
+{
+    "_id": "64ec27f62be6ffc66cc69423",
+    "audioPath": "20230827/Incheon/2023/06/11/014/converted_20230611041653_4014-014.wav",
+    "recordId": "917efab9139a9af4e1a1",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 76720,
+    "utterances": [
+        {
+            "id": "c8d05f18",
+            "startAt": 389,
+            "endAt": 1277,
+            "text": "119입니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "13b54790",
+            "startAt": 1828,
+            "endAt": 3813,
+            "text": "네, 좀전에 제가 전화했던 사람인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_q5oo9co0r78",
+            "startAt": 3855,
+            "endAt": 5646,
+            "text": "아 잠깐만요, 신고자분 잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "f2a9d432",
+            "startAt": 7273,
+            "endAt": 9408,
+            "text": "아 네네, 말씀하세요. ",
+            "speaker": 0
+        },
+        {
+            "id": "3ab4d68e",
+            "startAt": 9345,
+            "endAt": 10331,
+            "text": "계산세로5번길 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2sd78virpe8",
+            "startAt": 10325,
+            "endAt": 11153,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "38d996c5",
+            "startAt": 11239,
+            "endAt": 12477,
+            "text": "잠깐만요, 몇 번 길이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5vucduuic4o",
+            "startAt": 12891,
+            "endAt": 14210,
+            "text": "계산세로5번길",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_j9qano8fsr8",
+            "startAt": 14209,
+            "endAt": 15191,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "9f751a21",
+            "startAt": 16940,
+            "endAt": 17932,
+            "text": "잠시만요,",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0u09up0ha4o",
+            "startAt": 19907,
+            "endAt": 21016,
+            "text": "계산세로",
+            "speaker": 0
+        },
+        {
+            "id": "e15763be",
+            "startAt": 21696,
+            "endAt": 23804,
+            "text": "계산세로 네 네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_emjirk56lt8",
+            "startAt": 24214,
+            "endAt": 24896,
+            "text": "5번길",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_l15bvd6qd08",
+            "startAt": 24885,
+            "endAt": 25812,
+            "text": "***[개인정보]\n",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vbk1suuojf",
+            "startAt": 27928,
+            "endAt": 28419,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_n2uadil2mjg",
+            "startAt": 28419,
+            "endAt": 32019,
+            "text": "예 여기 뭐 어린이집인지 어디 뭐 뭔지 모르겠는데 그 사이렌 소",
+            "speaker": 1
+        },
+        {
+            "id": "1151edfc",
+            "startAt": 31352,
+            "endAt": 34656,
+            "text": "어린이, 신고자분 어린이집이 하은어린이집 맞아요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nhj22m90c3g",
+            "startAt": 35426,
+            "endAt": 36008,
+            "text": "어디요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_oaq1v36t6io",
+            "startAt": 36283,
+            "endAt": 38592,
+            "text": "어린이집 이름이 하은어린이집 맞아요?",
+            "speaker": 0
+        },
+        {
+            "id": "5dbbaac2",
+            "startAt": 39429,
+            "endAt": 45031,
+            "text": "아 여 어두워서 간판이 안 보이는데 아 저 밖에 여기 집에 들어가다 사이렌 소리 나서 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rmccmhklim8",
+            "startAt": 45801,
+            "endAt": 46340,
+            "text": "네네,",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7lg0gh4pkp8",
+            "startAt": 46326,
+            "endAt": 47772,
+            "text": "지금 사이렌 소리 들리잖아요.",
+            "speaker": 1
+        },
+        {
+            "id": "f554510b",
+            "startAt": 47940,
+            "endAt": 50519,
+            "text": "네네, 그 현재 연기나 냄새 같은 건 없는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "17639ed4",
+            "startAt": 51601,
+            "endAt": 55897,
+            "text": "연기는 일단 없는 거 같기도 하고 소리가 나갖고 지금 제가 전화를 드린 거예요.",
+            "speaker": 1
+        },
+        {
+            "id": "62313d01",
+            "startAt": 55642,
+            "endAt": 57440,
+            "text": "아 그 중앙그린빌라 맞아요?",
+            "speaker": 0
+        },
+        {
+            "id": "910dcb1b",
+            "startAt": 58453,
+            "endAt": 61567,
+            "text": "중앙그린빌라 뒤쪽 대산맨션빌라 옆에 있는데. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1s4jfnv3158",
+            "startAt": 61738,
+            "endAt": 63256,
+            "text": "아 예, 알겠습니다 예",
+            "speaker": 0
+        },
+        {
+            "id": "52dcfc86",
+            "startAt": 63136,
+            "endAt": 64622,
+            "text": "제가 밖에 있으니깐요 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bhn7pn0emjg",
+            "startAt": 64638,
+            "endAt": 69693,
+            "text": "네네 출동하니깐요 신고자분 기다리고 계시고요. 예 연기나 냄새 같은 거는 안 난다는 말씀이신 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "e9b32bfc",
+            "startAt": 70134,
+            "endAt": 71283,
+            "text": "예, 안 나는 거 같아요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9a7tkcuhe4g",
+            "startAt": 71247,
+            "endAt": 72320,
+            "text": "예, 알겠습니다.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 계양구 계산동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

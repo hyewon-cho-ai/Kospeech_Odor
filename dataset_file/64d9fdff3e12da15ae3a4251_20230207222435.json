@@ -1,0 +1,180 @@
+{
+    "_id": "64d9fdff3e12da15ae3a4251",
+    "audioPath": "20230814/Incheon/2023/02/07/007/converted_20230207222435_4007-007.wav",
+    "recordId": "a6b1725ad31eb9ba5849",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 59000,
+    "utterances": [
+        {
+            "id": "36dbb8ab",
+            "startAt": 0,
+            "endAt": 374,
+            "text": "다.",
+            "speaker": 0
+        },
+        {
+            "id": "7f9c5eb0",
+            "startAt": 1413,
+            "endAt": 5223,
+            "text": "어 여기 인천 계양구 효성동인데요. 네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1g8b7j41l4o",
+            "startAt": 6264,
+            "endAt": 7009,
+            "text": "여기",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hp63sa8v2e8",
+            "startAt": 7545,
+            "endAt": 10064,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1kv74aq228",
+            "startAt": 10073,
+            "endAt": 10445,
+            "text": "예",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_322iqdve848",
+            "startAt": 10436,
+            "endAt": 13118,
+            "text": "현관에서 물이 계속 흘러나와가지고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_uqn4uaki1uo",
+            "startAt": 12668,
+            "endAt": 14877,
+            "text": "현관에서 물이 계속 흘러나오고 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_i9h9r0sdkf",
+            "startAt": 15341,
+            "endAt": 15904,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lagdv76ofrg",
+            "startAt": 16001,
+            "endAt": 17556,
+            "text": "아 빈집이에요, 거기?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_75ejs0puo2g",
+            "startAt": 18353,
+            "endAt": 20462,
+            "text": "문 두들겨봤는데 누가 나오진 않았어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_72ismllgopo",
+            "startAt": 20956,
+            "endAt": 26338,
+            "text": "어 선생님 우선은 저희가 한번 나와서 확인을 해볼 건데 저희가 좀 조치가 안될 수도 있거든요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5famcl2r4vg",
+            "startAt": 26665,
+            "endAt": 32375,
+            "text": "네, 우선은 그건 알고 계시고 고기 거주하는지 여부는 모르시는 거죠, 그러니까?",
+            "speaker": 0
+        },
+        {
+            "id": "04c9f6a0",
+            "startAt": 33150,
+            "endAt": 34226,
+            "text": "네, 모르겠어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8aj998tcc0g",
+            "startAt": 34210,
+            "endAt": 35283,
+            "text": "주소 어떻게 되세요?",
+            "speaker": 0
+        },
+        {
+            "id": "79bb60f2",
+            "startAt": 35944,
+            "endAt": 38461,
+            "text": "이 효성동 200 아 효성동",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5eem11et9mo",
+            "startAt": 38444,
+            "endAt": 41416,
+            "text": "[개인정보] ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_edc9cd66lk",
+            "startAt": 41765,
+            "endAt": 42792,
+            "text": "네 선일빌라요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ition7q0kag",
+            "startAt": 42757,
+            "endAt": 43939,
+            "text": "선일빌라요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c90vq37p4ko",
+            "startAt": 44155,
+            "endAt": 44636,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tat3cfpseh",
+            "startAt": 44630,
+            "endAt": 47112,
+            "text": "예 알겠습니다. 저희 한번 나가볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j79ro8igcqg",
+            "startAt": 48170,
+            "endAt": 50570,
+            "text": "네, 얼마나 걸릴까요? 저 좀 기다려야 될 거 같아서",
+            "speaker": 1
+        },
+        {
+            "id": "332ce9d6",
+            "startAt": 50577,
+            "endAt": 55582,
+            "text": "어 잠시만요. 한 10분 안에는 도착할 거예요. 아 경찰하고 같이 나아발, 나갈게요.",
+            "speaker": 0
+        },
+        {
+            "id": "d9aa8904",
+            "startAt": 55938,
+            "endAt": 57241,
+            "text": "네, 알겠습니다. 예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

@@ -1,0 +1,152 @@
+{
+    "_id": "64f6c4ed47ab07524fc489de",
+    "audioPath": "20230829/Incheon/2023/06/05/011/converted_20230605173808_4011-011.wav",
+    "recordId": "3aeaebf51db97a8f98f3",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 31960,
+    "utterances": [
+        {
+            "id": "2de97c2a",
+            "startAt": 786,
+            "endAt": 1584,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "c7769487",
+            "startAt": 2667,
+            "endAt": 4805,
+            "text": "예, 이거 소방벨이 갑자기 울려가지고.",
+            "speaker": 1
+        },
+        {
+            "id": "5beef5bb",
+            "startAt": 5151,
+            "endAt": 6467,
+            "text": "아, 잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "b40c64f3",
+            "startAt": 6794,
+            "endAt": 7205,
+            "text": "예예.",
+            "speaker": 1
+        },
+        {
+            "id": "1c5816c0",
+            "startAt": 9199,
+            "endAt": 10478,
+            "text": "불은 난 건 아니구요?",
+            "speaker": 0
+        },
+        {
+            "id": "4ac5aa68",
+            "startAt": 10995,
+            "endAt": 12305,
+            "text": "예, 그냥 오류 같애요.",
+            "speaker": 1
+        },
+        {
+            "id": "7a4b22f3",
+            "startAt": 13146,
+            "endAt": 15017,
+            "text": "위치가 어디에요? 주소?",
+            "speaker": 0
+        },
+        {
+            "id": "73554f94",
+            "startAt": 15123,
+            "endAt": 16220,
+            "text": "여기 동주길",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gak208k7iq",
+            "startAt": 16198,
+            "endAt": 17089,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "1111138c",
+            "startAt": 17232,
+            "endAt": 18323,
+            "text": "동주길이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_54idlqbcf1",
+            "startAt": 18880,
+            "endAt": 19343,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p5f45hd5re",
+            "startAt": 19343,
+            "endAt": 20161,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_aciniplv4a",
+            "startAt": 20143,
+            "endAt": 20634,
+            "text": "빌라예요?",
+            "speaker": 0
+        },
+        {
+            "id": "6bdbfe35",
+            "startAt": 20651,
+            "endAt": 22512,
+            "text": "예, 노래방이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_h8khocs1vn",
+            "startAt": 21256,
+            "endAt": 22501,
+            "text": "빌 빌딩이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "160477c2",
+            "startAt": 22815,
+            "endAt": 24757,
+            "text": "노래방? 잠깐만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_r41mp2eq008",
+            "startAt": 26589,
+            "endAt": 29534,
+            "text": "일단 알겠고요, 대원분들 가면서 연락드릴 거예요.",
+            "speaker": 0
+        },
+        {
+            "id": "eca114e9",
+            "startAt": 29499,
+            "endAt": 30341,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "d51dac1c",
+            "startAt": 30296,
+            "endAt": 31776,
+            "text": "여보여보 노래타운 맞아요?",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 미추홀구 주안동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

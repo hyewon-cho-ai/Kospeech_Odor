@@ -1,0 +1,166 @@
+{
+    "_id": "64ec27f62be6ffc66cc6c7f2",
+    "audioPath": "20230827/Incheon/2023/06/11/082/converted_20230611050154_13-082.wav",
+    "recordId": "cdde5ae6c8857cb8322f",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 75840,
+    "utterances": [
+        {
+            "id": "wavesurfer_nflaghjnlag",
+            "startAt": 0,
+            "endAt": 564,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "80c515c5",
+            "startAt": 931,
+            "endAt": 4064,
+            "text": " 네, 여기 여 인천 중구 신생동 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_67s5cof1t9",
+            "startAt": 4291,
+            "endAt": 5609,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_r4bm527av2g",
+            "startAt": 5609,
+            "endAt": 6891,
+            "text": "롯데 아파트거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6788vcjvjoo",
+            "startAt": 6837,
+            "endAt": 8319,
+            "text": "잠시만요, 신생동",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tsh8p85jbgo",
+            "startAt": 8310,
+            "endAt": 9755,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8m3sk8kvh4o",
+            "startAt": 9882,
+            "endAt": 11010,
+            "text": "롯데아파트요",
+            "speaker": 0
+        },
+        {
+            "id": "5fdcbf74",
+            "startAt": 11207,
+            "endAt": 15529,
+            "text": "잠시만요, 롯데아파트 몇 동 몇 호예요?",
+            "speaker": 1
+        },
+        {
+            "id": "3b673b2d",
+            "startAt": 15888,
+            "endAt": 19972,
+            "text": "네, 여기 이 한 동이에요. 인천여상 있는 데 거기 그런데 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_i5ef0tvjotg",
+            "startAt": 19928,
+            "endAt": 20837,
+            "text": "네 몇 호에요, 몇 호?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_r59qs6ohvg",
+            "startAt": 20501,
+            "endAt": 20774,
+            "text": "저",
+            "speaker": 1
+        },
+        {
+            "id": "426803b6",
+            "startAt": 21072,
+            "endAt": 22522,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "f15f23f9",
+            "startAt": 22908,
+            "endAt": 27941,
+            "text": "예, 네네, 네 근데 지금 저렇게 오작동인지 꽥꽥 저렇게 소리가 나요, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "bfd15ae9",
+            "startAt": 27377,
+            "endAt": 30028,
+            "text": "아 형니는 신고자 분 혹시 연기나 연기 같은 거나요?",
+            "speaker": 0
+        },
+        {
+            "id": "b8aa3b50",
+            "startAt": 30565,
+            "endAt": 36224,
+            "text": "아 연기 같은 거 이런 거는 아 그럼 자 모르겠 연기 같은 건 안 나는데 ",
+            "speaker": 1
+        },
+        {
+            "id": "9d642340",
+            "startAt": 36281,
+            "endAt": 37771,
+            "text": "예 이거 냄새도 안 나요 그러면?",
+            "speaker": 0
+        },
+        {
+            "id": "ed00ef2c",
+            "startAt": 38053,
+            "endAt": 46388,
+            "text": "예 예, 근데 이제 다들 나오지는 않아 연기 이런 건 없는데 네네, 계속 저 소리가 지금 한 15분째 나는 중이에요.",
+            "speaker": 1
+        },
+        {
+            "id": "5f21280d",
+            "startAt": 46373,
+            "endAt": 54583,
+            "text": "아예, 알겠습니다. 그 대원들 출동해서 확인해볼 테니깐요. 네, 예 제가요 혹시 전화 드리면 그 좀 잘 받아주세요, 대원들 전화 오면요.",
+            "speaker": 0
+        },
+        {
+            "id": "02436ebd",
+            "startAt": 54989,
+            "endAt": 59318,
+            "text": "아예, 근데 지금 예, 우선 알겠습니다. 몇 분 정도 걸릴까요?",
+            "speaker": 1
+        },
+        {
+            "id": "ff0834b7",
+            "startAt": 59802,
+            "endAt": 66787,
+            "text": "어 한 10분 정도해서 15분 정도 걸릴 수 있는데요. 예, 도로 사정 따라 좀 달라질 수 있으니깐요. 일단 기다리고 계세요 출동합니다.",
+            "speaker": 0
+        },
+        {
+            "id": "7e8d380d",
+            "startAt": 67138,
+            "endAt": 67909,
+            "text": "네네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 중구 신생동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

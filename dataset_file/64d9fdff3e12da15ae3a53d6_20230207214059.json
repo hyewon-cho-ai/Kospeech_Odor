@@ -1,0 +1,145 @@
+{
+    "_id": "64d9fdff3e12da15ae3a53d6",
+    "audioPath": "20230814/Incheon/2023/02/07/004/converted_20230207214059_4004-004.wav",
+    "recordId": "d997abe41eaac75e96cf",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 66760,
+    "utterances": [
+        {
+            "id": "wavesurfer_n7ehgc33vpo",
+            "startAt": 255,
+            "endAt": 1391,
+            "text": "예 119입니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_oinhm4nq5sg",
+            "startAt": 1700,
+            "endAt": 5118,
+            "text": "예, 저기 계양구 쪽인데요. 인천 예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_35q5pi0cob",
+            "startAt": 5845,
+            "endAt": 10381,
+            "text": "그 응급실을 갈려고 하는데 예 와이프가 좀 다쳐서 예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qu7tg559s9",
+            "startAt": 10848,
+            "endAt": 15848,
+            "text": "그 응급실 바로 진료가 됩니까 요새 코로나 그런 거 안하나요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6292rv6jjj8",
+            "startAt": 17670,
+            "endAt": 24733,
+            "text": "발열 증상이나 뭐 증상들이 있으시면 뭐 지 지체가 될 수가 있고요. 그 외에는 뭐 진료 가능하거든요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_v3fmcfs5o2g",
+            "startAt": 24931,
+            "endAt": 28340,
+            "text": "아 그냥 다른 거 증상 없다라고 하면요? 예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fen86ikp4eg",
+            "startAt": 28097,
+            "endAt": 29251,
+            "text": "체온 측정하고?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_he8t7b04pf8",
+            "startAt": 30331,
+            "endAt": 38331,
+            "text": "아 고 계양구에 한림병원 같은 경우도 옛날에 무슨 코로나 지정 이런 거였는데 이제 그런 건 없는 겁니까? ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_oim50q96u5g",
+            "startAt": 37974,
+            "endAt": 40898,
+            "text": "예, 요새는 지금 계속 저희도 구급차 이송하고 있어요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_h1h2j3lv3f",
+            "startAt": 41280,
+            "endAt": 43098,
+            "text": "아 그런 거 없다고요? 예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vfpkerjq668",
+            "startAt": 43298,
+            "endAt": 47161,
+            "text": "아까 말씀하셨듯이 그런 반응 없으면 그냥 바로 진료되는 거죠?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p0kqutrhu3",
+            "startAt": 47407,
+            "endAt": 51524,
+            "text": "더 자세한 사항이 궁금하시면 전화 한 번 저 해보고 가보세요. 그러면 한림병원에",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nohta6vi96o",
+            "startAt": 51083,
+            "endAt": 54064,
+            "text": "아 병원 쪽에 아 전화가 잘 안돼 갖고 예,",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3vkjdku6tsg",
+            "startAt": 54661,
+            "endAt": 58224,
+            "text": "일단 알겠습니다. 그 가서 뭐 가봐야죠 어쩔 수 없어 예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ltgoo7amfpg",
+            "startAt": 57442,
+            "endAt": 59260,
+            "text": "무 자차 이동 가능하신 건가요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_avhj7jmnkb8",
+            "startAt": 59433,
+            "endAt": 61151,
+            "text": "예, 가능합니다. 예 잠시만예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p3n2ko6pqf",
+            "startAt": 60678,
+            "endAt": 61742,
+            "text": "알겠습니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4e3equ8ner",
+            "startAt": 61842,
+            "endAt": 62333,
+            "text": "네",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

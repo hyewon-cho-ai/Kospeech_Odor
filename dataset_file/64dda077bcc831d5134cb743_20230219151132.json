@@ -1,0 +1,187 @@
+{
+    "_id": "64dda077bcc831d5134cb743",
+    "audioPath": "20230816/Incheon/2023/02/19/016/converted_20230219151132_4016-016.wav",
+    "recordId": "2c14c248a3da6dd31efa",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 48640,
+    "utterances": [
+        {
+            "id": "wavesurfer_oscsi0avngg",
+            "startAt": 64,
+            "endAt": 1100,
+            "text": "네. 119입니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_uos9kimatj",
+            "startAt": 1673,
+            "endAt": 4936,
+            "text": "예, 안녕하세요, 여기 그 인천 송림동요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_h9pcitl70kg",
+            "startAt": 4954,
+            "endAt": 5772,
+            "text": "예 송림동 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_eul0s5u0op8",
+            "startAt": 6336,
+            "endAt": 8081,
+            "text": "송림동, 잠시만요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_23p3rmil128",
+            "startAt": 8197,
+            "endAt": 12151,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "0a421918",
+            "startAt": 12154,
+            "endAt": 13310,
+            "text": "주택이에요. 빌라에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hp37jkhsudg",
+            "startAt": 13508,
+            "endAt": 19734,
+            "text": "여기가 어, 오피, 오피인데, 10층만 화재 경보기가 계속 울려요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f9d2biesblo",
+            "startAt": 19723,
+            "endAt": 21505,
+            "text": "오피스텔인데 화재 경보기 울리세요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8p6jep524b8",
+            "startAt": 21860,
+            "endAt": 22605,
+            "text": "예예",
+            "speaker": 1
+        },
+        {
+            "id": "f5a540bb",
+            "startAt": 22480,
+            "endAt": 23224,
+            "text": "몇 층만 몇 층?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2trfglm3t7",
+            "startAt": 23716,
+            "endAt": 24997,
+            "text": "10층이요, 10층이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hupvff8g40g",
+            "startAt": 24994,
+            "endAt": 25930,
+            "text": "10층에서 10층에서.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3rub633js5",
+            "startAt": 26401,
+            "endAt": 26973,
+            "text": "네. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ragbt5uvck",
+            "startAt": 27681,
+            "endAt": 31953,
+            "text": "저희 출동 한번 해볼 거고요. 뭐 타는 냄새나 연기 같은 건 없죠? 화재 징후",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jbghlfbqt9o",
+            "startAt": 31936,
+            "endAt": 34100,
+            "text": "예예, 밖에서 확인하니까 연기는 없어요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_n9i2nt2bbuo",
+            "startAt": 33933,
+            "endAt": 35796,
+            "text": "예, 알겠습니다, 저희 한번 가볼게요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_r4rbfsr75mg",
+            "startAt": 35900,
+            "endAt": 36545,
+            "text": "예. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a7se8pakifo",
+            "startAt": 36232,
+            "endAt": 37596,
+            "text": "네 그 혹시.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_05kaq4qdeng",
+            "startAt": 37605,
+            "endAt": 38987,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "61d51edb",
+            "startAt": 39481,
+            "endAt": 40137,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_al1gg2t6q9g",
+            "startAt": 40386,
+            "endAt": 42877,
+            "text": "어, 오피스텔 이름이 정확한 오피스텔 이름이 뭐예요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mrevnhfct6o",
+            "startAt": 42941,
+            "endAt": 44386,
+            "text": "아 노블리안 힐스요.",
+            "speaker": 1
+        },
+        {
+            "id": "5edd1434",
+            "startAt": 44391,
+            "endAt": 46223,
+            "text": "노블리안 힐스. 예, 알겠습니다",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_58ren4qgqdo",
+            "startAt": 46258,
+            "endAt": 46931,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 동구 송림동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

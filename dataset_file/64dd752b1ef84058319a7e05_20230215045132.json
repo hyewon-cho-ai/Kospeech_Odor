@@ -1,0 +1,166 @@
+{
+    "_id": "64dd752b1ef84058319a7e05",
+    "audioPath": "20230815/Incheon/2023/02/15/069/converted_20230215045132_0-069.wav",
+    "recordId": "e246ce14eddb9f5113ff",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 51000,
+    "utterances": [
+        {
+            "id": "wavesurfer_49jh6shf9cg",
+            "startAt": 0,
+            "endAt": 950,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5pp5vnpt1",
+            "startAt": 1374,
+            "endAt": 2799,
+            "text": "네. 여기 백범로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t20cni9b0b",
+            "startAt": 2800,
+            "endAt": 6900,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pe0vs6n62a8",
+            "startAt": 7041,
+            "endAt": 9775,
+            "text": "네, 거기 혹시 화재 신고 들어온 거 있나요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b4s506k8l1o",
+            "startAt": 9848,
+            "endAt": 11149,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_q378npsvbs",
+            "startAt": 11736,
+            "endAt": 14152,
+            "text": "따로 화재 신고 들어온 건 없는데요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dg20lrim84",
+            "startAt": 14301,
+            "endAt": 19184,
+            "text": "아 지금 건물에 화재경보 울려가지고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4o811smg1h8",
+            "startAt": 18732,
+            "endAt": 20632,
+            "text": "경보기가 계속 울리구요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fldlorkuorg",
+            "startAt": 20334,
+            "endAt": 21409,
+            "text": "네네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ek0mcn4k1ro",
+            "startAt": 20882,
+            "endAt": 23149,
+            "text": "어 연기나 냄새는 없구요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4fa7closi2g",
+            "startAt": 22980,
+            "endAt": 27071,
+            "text": "네, 아직까지 집에는 안 올라 왔는데 건물 전체에 울려서.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5jke1t3rmso",
+            "startAt": 27271,
+            "endAt": 29787,
+            "text": "네 저희 나가서 한번 확인해볼게요. 백범로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nmk16p990ig",
+            "startAt": 29800,
+            "endAt": 30342,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0fa2e99971o",
+            "startAt": 30329,
+            "endAt": 31642,
+            "text": "건물 이름 혹시 있나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jtjqsghnh9o",
+            "startAt": 31713,
+            "endAt": 32613,
+            "text": "도담이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ad2ur7vcak",
+            "startAt": 32894,
+            "endAt": 33711,
+            "text": "뭐 뭔 담?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4v303lu8908",
+            "startAt": 34100,
+            "endAt": 35643,
+            "text": "도담 오피스텔이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5avthf3o3lo",
+            "startAt": 35146,
+            "endAt": 36780,
+            "text": "아 도담 오피스텔.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hu2bi1fqpmo",
+            "startAt": 37311,
+            "endAt": 37844,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ffo0rfcmflo",
+            "startAt": 37647,
+            "endAt": 39413,
+            "text": "에, 그쪽으로 가볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_podb0t6svn8",
+            "startAt": 39465,
+            "endAt": 40266,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 남동구 간석동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

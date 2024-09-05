@@ -1,0 +1,145 @@
+{
+    "_id": "64d9fdff3e12da15ae3a450b",
+    "audioPath": "20230814/Incheon/2023/02/11/017/converted_20230211163244_4017-017.wav",
+    "recordId": "7f39bb47bb82c4715c1d",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 74760,
+    "utterances": [
+        {
+            "id": "6019b118",
+            "startAt": 1358,
+            "endAt": 2078,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "56e669e2",
+            "startAt": 2627,
+            "endAt": 6627,
+            "text": "네, 안녕하세요. 인천 강화군 그 덕포리 쪽에 엑센트 차량 빠져가지고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_25cp3t48qn",
+            "startAt": 7470,
+            "endAt": 8779,
+            "text": "어 잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_eghlcnqo0fo",
+            "startAt": 9242,
+            "endAt": 11496,
+            "text": "네, 저 보험사 직원입니다. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fhrvccgq0po",
+            "startAt": 15503,
+            "endAt": 19014,
+            "text": "음 아 네네네, 그 화도면 덕포리요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4vf4snolqg",
+            "startAt": 19439,
+            "endAt": 22230,
+            "text": "네네, 그 혹시 어디서 어디 관할에서 출동하신 거죠?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vt1diiemj7o",
+            "startAt": 24805,
+            "endAt": 27068,
+            "text": "어",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dk0puqpqp08",
+            "startAt": 29732,
+            "endAt": 30695,
+            "text": "저희 그 강화요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_it5542gin8g",
+            "startAt": 31886,
+            "endAt": 33704,
+            "text": "아이 제가 다른 게 아니고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_j5061mgpsr",
+            "startAt": 31950,
+            "endAt": 33550,
+            "text": "그 네. 네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_84btmtloqog",
+            "startAt": 33967,
+            "endAt": 37139,
+            "text": "운전자 누가 있는지를 좀 여부를 알아야 되가지고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_04vvvbm47f8",
+            "startAt": 37646,
+            "endAt": 39219,
+            "text": "아 잠시만요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rbe8fe7dp3",
+            "startAt": 39399,
+            "endAt": 40032,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4t93tjnkeg",
+            "startAt": 39534,
+            "endAt": 41016,
+            "text": "저희가",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_uer6batndvg",
+            "startAt": 46932,
+            "endAt": 52759,
+            "text": "그 구급차, 그 구급대원 번호를 알려드릴게요. 한번 그 통화해서 한번 여쭤보세요. 네네네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ipsnl19qit8",
+            "startAt": 53119,
+            "endAt": 54964,
+            "text": "네, 한번 알려주세요. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gpngbhq0a18",
+            "startAt": 59528,
+            "endAt": 70879,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "1cb1728b",
+            "startAt": 71184,
+            "endAt": 72956,
+            "text": "아 예, 감사합니다, 네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "중립",
+    "symptom": [],
+    "triage": ""
+}

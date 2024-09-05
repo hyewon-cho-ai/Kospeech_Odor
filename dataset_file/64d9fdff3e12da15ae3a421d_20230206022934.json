@@ -1,0 +1,208 @@
+{
+    "_id": "64d9fdff3e12da15ae3a421d",
+    "audioPath": "20230814/Incheon/2023/02/06/072/converted_20230206022934_3-072.wav",
+    "recordId": "76347d9235a7c8e22d43",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 52320,
+    "utterances": [
+        {
+            "id": "wavesurfer_gflnsargth8",
+            "startAt": 0,
+            "endAt": 209,
+            "text": "다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_f8se4p6hcl8",
+            "startAt": 955,
+            "endAt": 2727,
+            "text": "네, 아까 저기 마이웨이",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_r7a1cg0ftno",
+            "startAt": 2709,
+            "endAt": 4209,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_g1etkhr2vt",
+            "startAt": 4237,
+            "endAt": 5282,
+            "text": "신고했거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a3eqk4l8ing",
+            "startAt": 5364,
+            "endAt": 5955,
+            "text": "네네네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_son9grat038",
+            "startAt": 6789,
+            "endAt": 9534,
+            "text": "그, 머리 꼬매신 손님. 네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_318juna4lj",
+            "startAt": 10080,
+            "endAt": 12453,
+            "text": "어느 병원으로 가셨는지 알 수 있을까요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6hran50isso",
+            "startAt": 12714,
+            "endAt": 14050,
+            "text": "선생님 관계 어떻게 되세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u160fe6n1b8",
+            "startAt": 14591,
+            "endAt": 15001,
+            "text": "네?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_eo2nmp3vdb8",
+            "startAt": 15269,
+            "endAt": 16023,
+            "text": "선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_et2pjogp9g",
+            "startAt": 15728,
+            "endAt": 16728,
+            "text": "전 직원이에요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9lskp63jbl",
+            "startAt": 17110,
+            "endAt": 18028,
+            "text": "직원분이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_e08r952qv7",
+            "startAt": 18701,
+            "endAt": 23383,
+            "text": "병원은, 그 이송병원은 그거 개인정보에 해당돼가지고 알려드릴 수가 없어요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4re4j0i0ve",
+            "startAt": 18828,
+            "endAt": 19373,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hngng9i1iao",
+            "startAt": 23274,
+            "endAt": 24246,
+            "text": "어느 병원이요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a2anjtqg7f8",
+            "startAt": 24839,
+            "endAt": 29921,
+            "text": "이송병원은 개인정보에 네 해당돼서 네네 알려드릴 수가 없어요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8q2gmdv2p28",
+            "startAt": 30210,
+            "endAt": 31010,
+            "text": "아, 그래요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nsnhekjurk8",
+            "startAt": 31019,
+            "endAt": 31637,
+            "text": "네네네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9oaqurrvjvg",
+            "startAt": 33190,
+            "endAt": 34181,
+            "text": "알겠습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jsavhn2ue38",
+            "startAt": 33195,
+            "endAt": 35892,
+            "text": "전화를 한번, 네네. 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_go535bgk3do",
+            "startAt": 35267,
+            "endAt": 37040,
+            "text": "전화번호도 몰라서, 손님.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_68oc4liu148",
+            "startAt": 37090,
+            "endAt": 37926,
+            "text": "아, 그래요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9uok3tonqoo",
+            "startAt": 38363,
+            "endAt": 38790,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_br9ichl56pg",
+            "startAt": 38521,
+            "endAt": 41613,
+            "text": "이게 어차피 개인정보라서 알려드릴 수가 없어요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1m4vseen498",
+            "startAt": 40648,
+            "endAt": 43483,
+            "text": "아, 아 예, 알겠습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f1vv0lia0c",
+            "startAt": 43011,
+            "endAt": 43756,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_68nvh3tjj",
+            "startAt": 44011,
+            "endAt": 44392,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

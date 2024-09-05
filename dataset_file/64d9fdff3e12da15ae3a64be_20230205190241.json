@@ -1,0 +1,166 @@
+{
+    "_id": "64d9fdff3e12da15ae3a64be",
+    "audioPath": "20230814/Incheon/2023/02/05/071/converted_20230205190241_2-071.wav",
+    "recordId": "032dc4a536d61ba3c287",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 56600,
+    "utterances": [
+        {
+            "id": "e55316d3",
+            "startAt": 0,
+            "endAt": 5405,
+            "text": "그럼 아까 저희가 네. 어 4시쯤에 확인하고 갔었는데.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u0vphog1n8",
+            "startAt": 5571,
+            "endAt": 8043,
+            "text": "예 예, 그  6시 10분에 나고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9qf02te232g",
+            "startAt": 6502,
+            "endAt": 8074,
+            "text": "그 또났어요? 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vflq52kkp2o",
+            "startAt": 8271,
+            "endAt": 10614,
+            "text": "예, 그러고 지금 지금 소리 났대.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mqf100l2kk8",
+            "startAt": 10807,
+            "endAt": 13014,
+            "text": "소리 지금 또 나셨고.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k26m9d3fchg",
+            "startAt": 12702,
+            "endAt": 14738,
+            "text": "예, 폭발음 소리가 또 났어요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_46cdcronafo",
+            "startAt": 15214,
+            "endAt": 18493,
+            "text": "가셨. 아 네 알겠어요.다시 한번 나가서 확인해보라고 할게요.",
+            "speaker": 0
+        },
+        {
+            "id": "d2efb180",
+            "startAt": 18932,
+            "endAt": 23412,
+            "text": "예, 근데 이 근처 멀리서 나는지 좌우지간 그래요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2602a89blro",
+            "startAt": 22957,
+            "endAt": 24914,
+            "text": "음, 음 네 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8hok1q6jat8",
+            "startAt": 25660,
+            "endAt": 28981,
+            "text": "이 근처에서 나는데 집이 막 울려 그래갖고 어.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_l0gp7ut1n6o",
+            "startAt": 28229,
+            "endAt": 29400,
+            "text": "아, 집이 울려요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ojpa8ka40a",
+            "startAt": 29721,
+            "endAt": 30243,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "635fcf96",
+            "startAt": 31331,
+            "endAt": 36300,
+            "text": "아 네, 알겠어요. 저희 다시 출동해서 인근 한번 확인해보라고 전달할게요. 예.",
+            "speaker": 0
+        },
+        {
+            "id": "0942448f",
+            "startAt": 35404,
+            "endAt": 38772,
+            "text": "예. 지금 1 시간 됐는데 두 번 나온 거예요,",
+            "speaker": 1
+        },
+        {
+            "id": "c788734b",
+            "startAt": 38682,
+            "endAt": 40586,
+            "text": "아 네. 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ao8r8tc5dc",
+            "startAt": 40571,
+            "endAt": 41186,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1chgmcs0kjg",
+            "startAt": 41471,
+            "endAt": 42271,
+            "text": "신고자분?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fmk1cuabnfg",
+            "startAt": 42910,
+            "endAt": 47124,
+            "text": "네, 저희가 출동하면서 다시 전화드릴 수 있으니까 전화 좀 받아주세요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_98ne0bhosfg",
+            "startAt": 42943,
+            "endAt": 43550,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_v73e374030g",
+            "startAt": 47271,
+            "endAt": 48057,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0hp4601ptn8",
+            "startAt": 47990,
+            "endAt": 48662,
+            "text": "네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

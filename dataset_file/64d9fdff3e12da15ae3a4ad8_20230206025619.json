@@ -1,0 +1,152 @@
+{
+    "_id": "64d9fdff3e12da15ae3a4ad8",
+    "audioPath": "20230814/Incheon/2023/02/06/004/converted_20230206025619_4004-004.wav",
+    "recordId": "39f00b67c0c7f3aa87a7",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 38000,
+    "utterances": [
+        {
+            "id": "wavesurfer_bm3l93ofa",
+            "startAt": 489,
+            "endAt": 1478,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2pafj5llmig",
+            "startAt": 1956,
+            "endAt": 2822,
+            "text": "여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7mhhhr7140o",
+            "startAt": 2722,
+            "endAt": 4267,
+            "text": "119입니다 말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3po7sqof2n",
+            "startAt": 4400,
+            "endAt": 5633,
+            "text": "아 네 저기 그.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6rangagc3q",
+            "startAt": 6178,
+            "endAt": 7567,
+            "text": "지금 임산부인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_m7rnucl4r98",
+            "startAt": 7244,
+            "endAt": 8011,
+            "text": "네네네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_luqq0k9fp7g",
+            "startAt": 8789,
+            "endAt": 12211,
+            "text": "조 좀 갑자기 좀 하혈을 해서 그런는데 혹시 야간에.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_s8vnfu7r9sg",
+            "startAt": 12300,
+            "endAt": 14933,
+            "text": "그 진료 가능한 데 좀 알 수 있을까요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lru4jhnde4g",
+            "startAt": 14733,
+            "endAt": 16589,
+            "text": "병원 안내만 도와드리면 될까요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tu056hk6ipg",
+            "startAt": 17756,
+            "endAt": 18700,
+            "text": "네네 일단.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2kro5a4ne58",
+            "startAt": 19256,
+            "endAt": 22422,
+            "text": "어 네네 구급차는 필요 없으신 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_argg6m5dbv8",
+            "startAt": 23089,
+            "endAt": 24089,
+            "text": "아 네네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_17lh953rd4o",
+            "startAt": 24111,
+            "endAt": 27511,
+            "text": "네, 저희 병원 안내 부서가 따로 있어서 일단 돌려드릴게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vj416hs4ao8",
+            "startAt": 27967,
+            "endAt": 28656,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3bebvnvvgl",
+            "startAt": 32556,
+            "endAt": 32922,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ia009q99mro",
+            "startAt": 32567,
+            "endAt": 34322,
+            "text": "네 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6pu6iv215i",
+            "startAt": 33833,
+            "endAt": 35533,
+            "text": "병원 안내 원하십니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gehkcjluud8",
+            "startAt": 34933,
+            "endAt": 36500,
+            "text": "네 여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dp9krdooe28",
+            "startAt": 36733,
+            "endAt": 37844,
+            "text": "네네네 그 산",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

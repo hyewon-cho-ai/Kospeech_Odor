@@ -1,0 +1,166 @@
+{
+    "_id": "64d9fdff3e12da15ae3a53ce",
+    "audioPath": "20230814/Incheon/2023/02/11/021/converted_20230211010344_4021-021.wav",
+    "recordId": "e92cbdfb265eb2a8ae5a",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 61400,
+    "utterances": [
+        {
+            "id": "ae0a5b6c",
+            "startAt": 0,
+            "endAt": 2965,
+            "text": "예, 구급상황입니다. 예, 여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_iliulhppjo8",
+            "startAt": 373,
+            "endAt": 1736,
+            "text": "병원 문의 입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "a483ce34",
+            "startAt": 3279,
+            "endAt": 11983,
+            "text": "여보세요? 예, 네, 저기 넘어져가지고요, 이빨이 빠졌는데요. 예, 신랑이요 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hcgb5in586g",
+            "startAt": 12052,
+            "endAt": 15493,
+            "text": " 병원 뭐 지금 가서 뭐 할 수 있는 데가 있나요? ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0ifhqt9s11o",
+            "startAt": 15507,
+            "endAt": 17615,
+            "text": "차는 치과는 진료는 없어요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7m37ep3j7o",
+            "startAt": 17757,
+            "endAt": 18940,
+            "text": "아 없어요? ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p8ncfpjfcbg",
+            "startAt": 18942,
+            "endAt": 19533,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jkum9l9bbtg",
+            "startAt": 20342,
+            "endAt": 23642,
+            "text": "그러면 그냥 내일 저기 해야 되는 건가요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hv91rcc3598",
+            "startAt": 22645,
+            "endAt": 27547,
+            "text": "예 내일 하셔야 돼요. 뭐 출 지혈이 됐다, 그러면 내일 가시는 게 좋아요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gf9ca8jrd8g",
+            "startAt": 27555,
+            "endAt": 29588,
+            "text": " 지혈이 됐으면요. 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ei54ls8l52",
+            "startAt": 30100,
+            "endAt": 33776,
+            "text": "암 그럼 저거 이빨은 뭐 어떻게 하지?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gvt49oa5c4",
+            "startAt": 33022,
+            "endAt": 38013,
+            "text": " 이빨 저기 한 장으 살릴려 그런다면 우유에 담가놨다가 가져가셔야 되는데.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5e7rjcfvjho",
+            "startAt": 38117,
+            "endAt": 39575,
+            "text": "우유에다가요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ut8em9kn0h8",
+            "startAt": 38791,
+            "endAt": 40709,
+            "text": "알칼리성 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pcqfljk2kd8",
+            "startAt": 41617,
+            "endAt": 47158,
+            "text": "아 살릴 수 있을지는 모르시겠고 그 우유에다가 그냥 담궈나요? ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vv6d2evjofo",
+            "startAt": 45636,
+            "endAt": 47036,
+            "text": "예 우유에 담가나요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_192bflfv16",
+            "startAt": 47547,
+            "endAt": 51672,
+            "text": "그 뭐 저기 흙 같은 거 조금 묻은 거 같은데 그냥 위에다가 예 뭐.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_spq4cjg8qv8",
+            "startAt": 50183,
+            "endAt": 54267,
+            "text": "그냥 우유에 담가요 뭐 깎거나 그지 마시고 그냥 담궈놓으세요. 우유에다가.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gnqctks8ib8",
+            "startAt": 53974,
+            "endAt": 55365,
+            "text": "담궈놔요? 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_svs5q27hp3g",
+            "startAt": 55925,
+            "endAt": 58083,
+            "text": " 알겠습니다, 감사합니다. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qjbrqrdm7s8",
+            "startAt": 58142,
+            "endAt": 59675,
+            "text": "네, 수고하세요.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

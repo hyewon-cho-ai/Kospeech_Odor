@@ -1,0 +1,271 @@
+{
+    "_id": "64dd752b1ef84058319a7efb",
+    "audioPath": "20230815/Incheon/2023/02/23/017/converted_20230223081028_4017-017.wav",
+    "recordId": "211d14f1a92a2909406a",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 144440,
+    "utterances": [
+        {
+            "id": "763d3d51",
+            "startAt": 582,
+            "endAt": 1366,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c29skjvdhvg",
+            "startAt": 1918,
+            "endAt": 3582,
+            "text": "아, 예, 수고하십니다. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_51d96q9sfro",
+            "startAt": 4218,
+            "endAt": 10116,
+            "text": "예, 저희 집사람이 21일날 화요일날 확진 받았거든요. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lm5phfmnb4",
+            "startAt": 10625,
+            "endAt": 16894,
+            "text": "근데 목이 너무 아파가지고 약도 못 삼키고 먹지를 못하거든요 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vgiipsv8pf",
+            "startAt": 17709,
+            "endAt": 22226,
+            "text": "네, 이럴 경우 어떻게 뭐 입원 치료가 가능한지 좀 여쭤볼려고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_otkb72sk3f8",
+            "startAt": 22905,
+            "endAt": 24586,
+            "text": "어 입원 치료요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_icpb8qcj7j",
+            "startAt": 24663,
+            "endAt": 25363,
+            "text": "예",
+            "speaker": 1
+        },
+        {
+            "id": "c8afb0b2",
+            "startAt": 25380,
+            "endAt": 33020,
+            "text": "어, 일단 그 코로나 확진자를 그래서 그 치료받을 수 있는 병원은 알고 계세요?",
+            "speaker": 0
+        },
+        {
+            "id": "f029016d",
+            "startAt": 33361,
+            "endAt": 33936,
+            "text": "아니요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_q649i02c1d",
+            "startAt": 34243,
+            "endAt": 36260,
+            "text": "어, 잠시만요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6qrp8dhkdp",
+            "startAt": 37006,
+            "endAt": 44007,
+            "text": "이게 이제 입원 이 그냥 방문 치료가 아니라 입원 치료 같은 경우는.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_78sdfegfa8o",
+            "startAt": 44013,
+            "endAt": 44995,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5ft70jnadc8",
+            "startAt": 44978,
+            "endAt": 52396,
+            "text": "어, 현재는 제가 지금 잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_771nkk03la8",
+            "startAt": 52785,
+            "endAt": 60889,
+            "text": "네, 입원 같은 경우는 확진자들은 병상 배정이란 거를 받아야 돼요. 근데 이제 그거는 이제 보건소 쪽에서 이제 통해서 하는데 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bd9p47gjfvg",
+            "startAt": 61296,
+            "endAt": 64623,
+            "text": "보통 이게 증상에 따라 좀 달라지거든요. 네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_q1vkv14cj48",
+            "startAt": 64668,
+            "endAt": 71141,
+            "text": "어 현재 그 응급실 가서 진료를 받으실 수 있는 분들 같은 경우는 될 수 있으면은.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6nv8bupvht8",
+            "startAt": 70939,
+            "endAt": 72621,
+            "text": "입원 치료가 좀 어려워서.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nd7bt9f5vso",
+            "startAt": 73201,
+            "endAt": 78419,
+            "text": "이런 경우는 응급실로 직접 가가지고 그쪽에다 한번 문의를 한번 해보셔야 될 거예요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j6eafrj31qg",
+            "startAt": 78670,
+            "endAt": 79242,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tq2a11edl4",
+            "startAt": 78988,
+            "endAt": 83760,
+            "text": "현재 그 확진자분들 지정병원 같은 경우",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_l0pkb1g508g",
+            "startAt": 83573,
+            "endAt": 89431,
+            "text": "서구 검단 탑병원이랑, 그리고 부평에 혜림병원, 그리고 류성민 병원 아세요?",
+            "speaker": 0
+        },
+        {
+            "id": "5a1f8efd",
+            "startAt": 90951,
+            "endAt": 91766,
+            "text": "아니요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f330o7tsc6",
+            "startAt": 92102,
+            "endAt": 94711,
+            "text": "아 서구에 또 류성민병원이라고 있는데",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_msusii40evo",
+            "startAt": 94373,
+            "endAt": 99264,
+            "text": "현재 이 세 병원이 그 코로나 확진자 전담병원이에요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pu8pj89u6m",
+            "startAt": 99237,
+            "endAt": 99818,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_05himbi3j48",
+            "startAt": 99900,
+            "endAt": 102700,
+            "text": "그래서 이쪽에다 한번 연락을 해보시고",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mhapr6fjs8g",
+            "startAt": 102603,
+            "endAt": 109194,
+            "text": "그리고 내원을 해서 진료를 받아보셔서 상담을 받아봐야지, 입원이 가능한지 아닌지가 아마 나올 거예요.",
+            "speaker": 0
+        },
+        {
+            "id": "fcfb16cc",
+            "startAt": 109536,
+            "endAt": 112783,
+            "text": "아 예, 이쪽에 연수구 쪽에는 없나요? ",
+            "speaker": 1
+        },
+        {
+            "id": "f3a10b6f",
+            "startAt": 112864,
+            "endAt": 115978,
+            "text": "예, 그쪽에는 코로나 전담병원은 없구요",
+            "speaker": 0
+        },
+        {
+            "id": "a4c37d07",
+            "startAt": 115515,
+            "endAt": 117092,
+            "text": "서구에만 있는 거네요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_95ilopa2pcg",
+            "startAt": 116923,
+            "endAt": 122559,
+            "text": "네, 부평이랑 서구 서구에 현재 있는데 제가 지금 잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2l5lrk7nol",
+            "startAt": 122569,
+            "endAt": 130567,
+            "text": "병원 안내해주시는 분을 다시 한번 연결을 해드릴 테니까, 아마 그쪽에서 더 자세하게 아마 설명을 해주실 거예요. 잠시만 기다려주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6qtmll9ahbg",
+            "startAt": 130457,
+            "endAt": 131002,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_23110pj4dkg",
+            "startAt": 140582,
+            "endAt": 142073,
+            "text": "네, 구급 상황 센터 입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dr0rl4bhkoo",
+            "startAt": 141636,
+            "endAt": 143191,
+            "text": "아, 네 병원 문의 입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_98bboq1aac",
+            "startAt": 142855,
+            "endAt": 143927,
+            "text": "네, 여보세요.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

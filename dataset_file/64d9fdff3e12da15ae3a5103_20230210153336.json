@@ -1,0 +1,418 @@
+{
+    "_id": "64d9fdff3e12da15ae3a5103",
+    "audioPath": "20230814/Incheon/2023/02/10/008/converted_20230210153336_4008-008.wav",
+    "recordId": "5c3391168ae897b1a85f",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 155880,
+    "utterances": [
+        {
+            "id": "wavesurfer_re29u3msap8",
+            "startAt": 346,
+            "endAt": 1328,
+            "text": "네 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ta147erc79o",
+            "startAt": 1955,
+            "endAt": 3518,
+            "text": "예 여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_h11niskbfbo",
+            "startAt": 3936,
+            "endAt": 5545,
+            "text": "119죠?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fu2ecekbrdg",
+            "startAt": 6045,
+            "endAt": 8809,
+            "text": "예 저희 지금 뭐 하나 신고 좀 할게요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5efcbe5i888",
+            "startAt": 9154,
+            "endAt": 13363,
+            "text": "여기 주안 서울여성병원 그 뒤쪽인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_526jpu9edbo",
+            "startAt": 13645,
+            "endAt": 15291,
+            "text": "서울여성병원 뒤쪽이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rnlfnffi0ro",
+            "startAt": 14045,
+            "endAt": 14536,
+            "text": "그.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k0g29akf6b8",
+            "startAt": 15600,
+            "endAt": 19518,
+            "text": "예 여기 재개발이라 빈집이신 것 같은데 옥상 우리가 여기.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_i1ssjmr6a",
+            "startAt": 19654,
+            "endAt": 24500,
+            "text": "병원에서 지금 이렇게 높은 데서 보니까 수도가 터졌는지 물이 계속 나와요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9sng7eg5mog",
+            "startAt": 24656,
+            "endAt": 25574,
+            "text": "옥상에서.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gkba6qkulgg",
+            "startAt": 25245,
+            "endAt": 26445,
+            "text": "옥상에서.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_r28876vvoto",
+            "startAt": 27736,
+            "endAt": 30254,
+            "text": "그니까 그 물이 터진 그 집이 어디예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gjc29haoodo",
+            "startAt": 31309,
+            "endAt": 33263,
+            "text": "집 주소는 모르고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9qniin56b68",
+            "startAt": 33363,
+            "endAt": 35609,
+            "text": "좋은글방 옆이에요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gcqmp4k411",
+            "startAt": 35354,
+            "endAt": 35845,
+            "text": "네?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jia2t8gs3c",
+            "startAt": 36572,
+            "endAt": 39572,
+            "text": "좋은글방이라고 써져있어 서울여성병.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4gov0tp1fdg",
+            "startAt": 38263,
+            "endAt": 38918,
+            "text": "좋은.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7p4eu3eqrc",
+            "startAt": 40290,
+            "endAt": 41900,
+            "text": "좋은글방.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tf5gror47t8",
+            "startAt": 41727,
+            "endAt": 43472,
+            "text": "좋은글방 건물이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kihltoi1lng",
+            "startAt": 43790,
+            "endAt": 45954,
+            "text": "네 건물, 예 옆 건물이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_os83247ghc8",
+            "startAt": 47654,
+            "endAt": 51663,
+            "text": "여 옥상에서 계속 지금 물이 저거 몇 시간 째 저러고 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_j498rta3kv8",
+            "startAt": 52427,
+            "endAt": 54145,
+            "text": "탱크가 터졌나봐요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0plm9c6jtrg",
+            "startAt": 56763,
+            "endAt": 59881,
+            "text": "옥, 그 건, 그 건물 옥상에서.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vnft1hactho",
+            "startAt": 61608,
+            "endAt": 62954,
+            "text": "탱크가 터진 것 같아요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_h7epdp6inrg",
+            "startAt": 61726,
+            "endAt": 62635,
+            "text": "네 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_skjue8ib6p",
+            "startAt": 63436,
+            "endAt": 67899,
+            "text": "아니 뭐 뭐가 터졌는진 모르는데 물이 계속 저거 몇 시간째 저렇게 나오고 있.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_leo5v3kk608",
+            "startAt": 68681,
+            "endAt": 69517,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f5hq8rv8et",
+            "startAt": 69526,
+            "endAt": 70681,
+            "text": "물이 쏟아져요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qnfe03gqsko",
+            "startAt": 71045,
+            "endAt": 72326,
+            "text": "예예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_emn8bch75to",
+            "startAt": 73790,
+            "endAt": 77754,
+            "text": "빈 집인 것 같아요. 재개발할라고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ho7ecn7tku",
+            "startAt": 78445,
+            "endAt": 80217,
+            "text": "이 주안4동이래요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0j703vms7v",
+            "startAt": 80990,
+            "endAt": 81690,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hvv5s2jtv68",
+            "startAt": 83354,
+            "endAt": 89944,
+            "text": "그러면 그 서울여성병원 어느 쪽으로 뒤, 그 좋은글방을 쳐도 안 나오거든요 지도에?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6c5e2s3lupo",
+            "startAt": 89763,
+            "endAt": 90644,
+            "text": "아 그러면.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_87ibjuh0m7g",
+            "startAt": 90772,
+            "endAt": 94581,
+            "text": "서울여성병원 뒤쪽이에요 그니까 뒤쪽이면은.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bi7usn633tg",
+            "startAt": 105526,
+            "endAt": 107271,
+            "text": "옛날 태충원?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_aikn54s4asg",
+            "startAt": 108089,
+            "endAt": 110926,
+            "text": " 대풍원? 대풍원 중국집이 있대요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_eatu1t9qu1o",
+            "startAt": 111426,
+            "endAt": 112135,
+            "text": "뒷 건.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5s6344htcr",
+            "startAt": 112217,
+            "endAt": 114326,
+            "text": "선생님 우선은.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2v87huhu9f",
+            "startAt": 112289,
+            "endAt": 113189,
+            "text": "얘기 좀 해.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5rh7pplb06g",
+            "startAt": 114471,
+            "endAt": 117480,
+            "text": "저희 대원들이 전화할 거니까요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2b0r09ivvh8",
+            "startAt": 118280,
+            "endAt": 123889,
+            "text": "그 주소 좀 그, 그 위치 좀 안내를 좀 해주, 아니면 내려와서 좀 알려주실 순 없나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3sc8fj6es18",
+            "startAt": 123628,
+            "endAt": 125982,
+            "text": "아니 환자, 여기 대부분 환자들이에요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rta4q7m7obg",
+            "startAt": 125644,
+            "endAt": 127299,
+            "text": "여기요 요양병원이에요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lvpg5nrva0o",
+            "startAt": 126293,
+            "endAt": 126839,
+            "text": "예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b7d0fatf7n8",
+            "startAt": 127380,
+            "endAt": 130398,
+            "text": "암환자라 내려갈 수는 없구요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_r39v8fsbvq8",
+            "startAt": 129653,
+            "endAt": 132926,
+            "text": "아 선생님들이 입원해계신 분이라 그건 조금 어려워요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_b962bdkb5kg",
+            "startAt": 132653,
+            "endAt": 135108,
+            "text": "방그래병원이요 방그래병원이에요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_aj4ojb5c6bo",
+            "startAt": 134880,
+            "endAt": 137562,
+            "text": "그까 지금 방그래병원에서 보고 신고하시는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_18lv1t8p1q8",
+            "startAt": 135109,
+            "endAt": 137273,
+            "text": "네 이제 병원. 아 글쎄",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fjncdp6mrd8",
+            "startAt": 137726,
+            "endAt": 140498,
+            "text": "예 네 맞은 편 길 건너쪽에.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2dpuctl9f9g",
+            "startAt": 140189,
+            "endAt": 141099,
+            "text": "아.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_thaaq1sjeio",
+            "startAt": 141598,
+            "endAt": 143789,
+            "text": "대풍원이라고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ut3g199v83",
+            "startAt": 144302,
+            "endAt": 145184,
+            "text": "예",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_of990ufb95",
+            "startAt": 144534,
+            "endAt": 146416,
+            "text": "중국집 하나 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k8eka6pmrsg",
+            "startAt": 147326,
+            "endAt": 153180,
+            "text": "우선은요 저희가 대원들이 다시 전화 좀 하라고 할게요. 서울여성병원 뒤쪽으로 우선 가면서 전화드릴게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_p392qkhri7o",
+            "startAt": 153280,
+            "endAt": 153844,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 미추홀구 주안동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

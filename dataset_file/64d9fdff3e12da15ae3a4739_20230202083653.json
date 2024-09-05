@@ -1,0 +1,110 @@
+{
+    "_id": "64d9fdff3e12da15ae3a4739",
+    "audioPath": "20230814/Incheon/2023/02/02/079/converted_20230202083653_10-079.wav",
+    "recordId": "e0ca0e1ea80b305dbb1e",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 39760,
+    "utterances": [
+        {
+            "id": "wavesurfer_c82ma2nffeg",
+            "startAt": 9,
+            "endAt": 1350,
+            "text": "선생님 근데 62번길.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_t10i03nrq9o",
+            "startAt": 1336,
+            "endAt": 2190,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_edt3mvvf2og",
+            "startAt": 2163,
+            "endAt": 2590,
+            "text": "맞아요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8e1baf70kt8",
+            "startAt": 3477,
+            "endAt": 3831,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rs4t7nv2hfg",
+            "startAt": 4561,
+            "endAt": 6894,
+            "text": "아 이것도 안나오는데요? 62번길.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3bbbaif3uso",
+            "startAt": 6848,
+            "endAt": 7656,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "d53cb5eb",
+            "startAt": 9330,
+            "endAt": 10727,
+            "text": "22번길.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_l6simdb70dg",
+            "startAt": 11444,
+            "endAt": 13734,
+            "text": "여기 전화 번호 좀 적어줄게요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_s08oqiqnp38",
+            "startAt": 13733,
+            "endAt": 14314,
+            "text": "예예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_eh334uutc78",
+            "startAt": 15134,
+            "endAt": 23286,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ng3ick51kqg",
+            "startAt": 24095,
+            "endAt": 26731,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_v0v3so7uji",
+            "startAt": 27245,
+            "endAt": 31850,
+            "text": "알겠습니다. 구급차는 출발 했고요, 아까 주소 다시 한번 말씀해 주세요. 석삼로",
+            "speaker": 0
+        },
+        {
+            "id": "9b05e4b0",
+            "startAt": 32821,
+            "endAt": 33554,
+            "text": "잠깐만요.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

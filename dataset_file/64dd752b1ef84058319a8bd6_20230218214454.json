@@ -1,0 +1,103 @@
+{
+    "_id": "64dd752b1ef84058319a8bd6",
+    "audioPath": "20230815/Incheon/2023/02/18/005/converted_20230218214454_4005-005.wav",
+    "recordId": "5b2b04d1f9e247f33b40",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 37120,
+    "utterances": [
+        {
+            "id": "wavesurfer_8dn155gfm58",
+            "startAt": 236,
+            "endAt": 882,
+            "text": "119입니다",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ci7s6l94ut8",
+            "startAt": 1485,
+            "endAt": 10464,
+            "text": "아 네, 안녕하세요, 그 저 뭐 좀 여쭤볼라 그러는데요, 저희 건물에 오피스텔인데 그 화재 경보가 올라 울렸거든요 지금",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t0rlpb5oko",
+            "startAt": 9582,
+            "endAt": 11237,
+            "text": "예예 신명 오피스텔 아닌가요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_706rs5dsq0g",
+            "startAt": 11564,
+            "endAt": 12419,
+            "text": "아 네 맞습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kgkupq16pi",
+            "startAt": 12110,
+            "endAt": 15673,
+            "text": "지금 가고 있어, 소방차 지금 확인하러 지금 출동 중에 있습니다",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pdnptbkn0j8",
+            "startAt": 14374,
+            "endAt": 17129,
+            "text": "아 아 네 감사합니다",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_i8iifum6oh8",
+            "startAt": 16155,
+            "endAt": 19083,
+            "text": "혹시 화재 징후는 없죠? 뭐 연기가 나거나 탄 냄새가 난다거나?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_big282ulceo",
+            "startAt": 19467,
+            "endAt": 21949,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_osk4knivg48",
+            "startAt": 21957,
+            "endAt": 27975,
+            "text": "일단은 만약에 그게 거의 이제 아닐 경우가 많긴 많지만, 그래도 화재 경보기가 울리면 일단 밖에 나가서",
+            "speaker": 0
+        },
+        {
+            "id": "85172286",
+            "startAt": 28181,
+            "endAt": 32965,
+            "text": "대피를 하시는 게 맞습니다. 그리고 소방요원 도착해서 안전이 확인되면 그때 이제 들어가셔도 돼요. 네",
+            "speaker": 0
+        },
+        {
+            "id": "7b433f0a",
+            "startAt": 33056,
+            "endAt": 34992,
+            "text": "아 네, 알겠습니다, 감사합니다",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_isboji9g84g",
+            "startAt": 33855,
+            "endAt": 35719,
+            "text": "네네 고맙습니다 네",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

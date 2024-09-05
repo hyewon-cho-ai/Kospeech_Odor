@@ -1,0 +1,166 @@
+{
+    "_id": "64d9fdff3e12da15ae3a660a",
+    "audioPath": "20230814/Incheon/2023/02/08/011/converted_20230208232513_4011-011.wav",
+    "recordId": "5d298d665c2ca55e0c5b",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 46440,
+    "utterances": [
+        {
+            "id": "wavesurfer_glhkm7a7bl8",
+            "startAt": 546,
+            "endAt": 2137,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rui6r24gfeo",
+            "startAt": 2209,
+            "endAt": 5100,
+            "text": "아. 여기, 저기, 인천시 경인로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tu3qaqk1bl8",
+            "startAt": 5073,
+            "endAt": 5855,
+            "text": "경인로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nanca58q5eo",
+            "startAt": 5955,
+            "endAt": 7055,
+            "text": "남동구 경인로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dsd9gt37klg",
+            "startAt": 7028,
+            "endAt": 10310,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_432knqn2v28",
+            "startAt": 10311,
+            "endAt": 11019,
+            "text": "번길 없고.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gptrogtdmno",
+            "startAt": 10612,
+            "endAt": 10990,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_j74arb1emeg",
+            "startAt": 11021,
+            "endAt": 12851,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hsj942u72cg",
+            "startAt": 12854,
+            "endAt": 18465,
+            "text": "근데 여기, 저기 안내방송에 화재가 발생했다고, 피하라고 나왔는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_525qeqa12",
+            "startAt": 17974,
+            "endAt": 20201,
+            "text": "어, 타는 냄새나 연기 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8tfrbkqvud",
+            "startAt": 20492,
+            "endAt": 25846,
+            "text": "어, 냄새는 없어요. 나, 내려왔는데도 사람들도 안 내려와 있는 거 같애서. 혹시나 겁이 나서.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_r5irgc43k9",
+            "startAt": 24581,
+            "endAt": 25845,
+            "text": "거기가 오피앙이에",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_n0nh9ch24po",
+            "startAt": 25840,
+            "endAt": 26318,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dcklmf6mdm",
+            "startAt": 26343,
+            "endAt": 26708,
+            "text": "오피앙.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_blvs7klcod",
+            "startAt": 26715,
+            "endAt": 27051,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fpf88evau28",
+            "startAt": 27071,
+            "endAt": 28670,
+            "text": "맞아요 예예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a37adtnavl8",
+            "startAt": 28821,
+            "endAt": 29218,
+            "text": "오피앙.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rv62dfp6e6o",
+            "startAt": 29226,
+            "endAt": 30344,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pe7bl28ovbg",
+            "startAt": 30348,
+            "endAt": 39949,
+            "text": "예. 저희 소방차가 나가서 확인할 거고요. 혹시 관리사무소 있으면, 어, 조금 한번 문, 어 연락 한번 취해주세요. 출동합니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pcgorfm66so",
+            "startAt": 39339,
+            "endAt": 43021,
+            "text": "아, 예. 저희도 관리사무소 가봤더니 문이 닫혀있어요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_aknn9ao0gvo",
+            "startAt": 45949,
+            "endAt": 46440,
+            "text": "알겠습니.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 남동구 간석동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

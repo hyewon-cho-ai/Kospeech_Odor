@@ -1,0 +1,138 @@
+{
+    "_id": "64dd752b1ef84058319a90aa",
+    "audioPath": "20230815/Incheon/2023/02/26/004/converted_20230226030327_4004-004.wav",
+    "recordId": "23f53e241b484f20cf37",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 32479.999999999996,
+    "utterances": [
+        {
+            "id": "wavesurfer_uoirm22vb5",
+            "startAt": 645,
+            "endAt": 1573,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qmd93ihm46g",
+            "startAt": 2045,
+            "endAt": 3727,
+            "text": "예 수고하십니다, 여기가",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bcs83deo808",
+            "startAt": 3727,
+            "endAt": 4791,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ibhfga6tgl8",
+            "startAt": 4791,
+            "endAt": 8763,
+            "text": "하수구가 물이 역류 돼갖고 막 뒤로 넘치는데 어떻게 해야 돼요? ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kapdj37ba78",
+            "startAt": 9009,
+            "endAt": 11017,
+            "text": "그 주소가 부평동",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ekkejbvc84",
+            "startAt": 11002,
+            "endAt": 12011,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_t996rar2eo",
+            "startAt": 12056,
+            "endAt": 12657,
+            "text": "맞습니까?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_51a7qritdn8",
+            "startAt": 12927,
+            "endAt": 13700,
+            "text": "부평구",
+            "speaker": 1
+        },
+        {
+            "id": "b23b5b0d",
+            "startAt": 13690,
+            "endAt": 14823,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p4823sk062g",
+            "startAt": 15386,
+            "endAt": 16686,
+            "text": "주부토로 말씀하시는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9mmlsj0v4ug",
+            "startAt": 16494,
+            "endAt": 17057,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6sra2pon74g",
+            "startAt": 17786,
+            "endAt": 19150,
+            "text": "아 근데 선생님",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_cj7jjl6qrn8",
+            "startAt": 19163,
+            "endAt": 20826,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dgiit9t529",
+            "startAt": 21299,
+            "endAt": 23417,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jtug7iudgd",
+            "startAt": 23421,
+            "endAt": 25448,
+            "text": "물이 새갖고 지금 일로 막 들어와요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gobq0n5olng",
+            "startAt": 25504,
+            "endAt": 29213,
+            "text": "음, 알겠습니다. 제가 저희가 나가서 한번 조치 한번 취해볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_836spcqeotg",
+            "startAt": 29249,
+            "endAt": 29922,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 부평구 부평동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

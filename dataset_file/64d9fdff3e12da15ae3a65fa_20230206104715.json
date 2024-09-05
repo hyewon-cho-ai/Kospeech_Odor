@@ -1,0 +1,327 @@
+{
+    "_id": "64d9fdff3e12da15ae3a65fa",
+    "audioPath": "20230814/Incheon/2023/02/06/006/converted_20230206104715_4006-006.wav",
+    "recordId": "191c04082b19cee9486d",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 120560,
+    "utterances": [
+        {
+            "id": "48823945",
+            "startAt": 2277,
+            "endAt": 3262,
+            "text": "네, 말씀하십시오.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lcfirahj4v8",
+            "startAt": 3396,
+            "endAt": 4847,
+            "text": "네, 충북입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7lklqg23fco",
+            "startAt": 3955,
+            "endAt": 4738,
+            "text": "예 여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "d6155bc7",
+            "startAt": 4904,
+            "endAt": 10118,
+            "text": "네, 아까 송도 바이오 관련해서 예방순찰 관련해서 전화 넘겨드렸었는데요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_a3a8j3a5cig",
+            "startAt": 10331,
+            "endAt": 15336,
+            "text": "네, 그 처음에 저 저한테 전화 넘겨받으신 분이랑 대화하기 원하셔가지고요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nqtng2d6kc",
+            "startAt": 15299,
+            "endAt": 15890,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "994656ad",
+            "startAt": 16174,
+            "endAt": 18141,
+            "text": "네, 그 민원인 전화번호는 여기.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fg2c8k06qro",
+            "startAt": 18154,
+            "endAt": 20355,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_es7jp370d58",
+            "startAt": 20360,
+            "endAt": 20936,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_liso4hvu1o8",
+            "startAt": 21307,
+            "endAt": 21945,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "0185dd6a",
+            "startAt": 22360,
+            "endAt": 23181,
+            "text": "여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_r7o9s14cj9o",
+            "startAt": 23890,
+            "endAt": 24785,
+            "text": "예 여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qihsmgulrcg",
+            "startAt": 25448,
+            "endAt": 26704,
+            "text": "예 말씀하십시오 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_f53npq18bpg",
+            "startAt": 25925,
+            "endAt": 28669,
+            "text": "아까 주 주소, 주소는.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_df5hr32vv68",
+            "startAt": 29681,
+            "endAt": 31487,
+            "text": "정확히 모르겠고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7g3hcn8mvj",
+            "startAt": 32437,
+            "endAt": 37132,
+            "text": "그 현장명만 알고 있 있거든요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e8scsiv9rjg",
+            "startAt": 37817,
+            "endAt": 41317,
+            "text": "그 뭐 인천 송도 바이오.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jaf77aa335o",
+            "startAt": 42076,
+            "endAt": 45562,
+            "text": "거기가 그 원청은 반도건설이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ic501tqpib",
+            "startAt": 46086,
+            "endAt": 47361,
+            "text": "예 반도건설요, 네네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5ia9sig1qfo",
+            "startAt": 48304,
+            "endAt": 48759,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_h5h6orfpb8g",
+            "startAt": 49933,
+            "endAt": 51285,
+            "text": "그것만 알고 있거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mlftc8aitmo",
+            "startAt": 52123,
+            "endAt": 54709,
+            "text": "잠시만요, 순찰을 원 원하신다는 말씀이신거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c79hleutfm",
+            "startAt": 55316,
+            "endAt": 55939,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_sg65k0183hg",
+            "startAt": 57991,
+            "endAt": 58412,
+            "text": "그.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gn5jp8kf6j",
+            "startAt": 58244,
+            "endAt": 61136,
+            "text": "거기 위험성이 많아요. 지금, 화재 위험성이.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qkgdeqef08g",
+            "startAt": 61236,
+            "endAt": 65442,
+            "text": "아 선생님 죄송한데 그 대상명 다시 한번 말씀해주세요. 한번 검색 한번만 해볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_di535eqd9rg",
+            "startAt": 65861,
+            "endAt": 66224,
+            "text": "예?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mfets57epo8",
+            "startAt": 66925,
+            "endAt": 70339,
+            "text": "아까 말씀하셨던 그 회사명 다시 말씀해주세요. 제가 검색 한번 해보게.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gghb5dnacco",
+            "startAt": 69657,
+            "endAt": 70630,
+            "text": "반도건설이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fs5ih4f8nv8",
+            "startAt": 70501,
+            "endAt": 71705,
+            "text": "반도건설요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3f38fgeuo38",
+            "startAt": 72387,
+            "endAt": 72833,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_86ijsimh8ro",
+            "startAt": 73833,
+            "endAt": 76648,
+            "text": "반도, 반도건설이라고 잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6m8tlnv4jjg",
+            "startAt": 80400,
+            "endAt": 84540,
+            "text": "그리고 그 하청이 대한ENG요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b306gmf9dmo",
+            "startAt": 85743,
+            "endAt": 90690,
+            "text": "그 송도 해양경찰청 옆에 있는 건물 맞나요, 혹시? 반도건설?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ng0vv8l0uso",
+            "startAt": 90158,
+            "endAt": 91829,
+            "text": "그런거는 잘 모르겠고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ucavkbt87so",
+            "startAt": 92308,
+            "endAt": 94641,
+            "text": "아 위치를 알아야 저희가 순찰을 나가잖아요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hcprf22f5dg",
+            "startAt": 96055,
+            "endAt": 98205,
+            "text": "그냥 반도건설이라고만 아시는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3m6ihiqmmao",
+            "startAt": 98935,
+            "endAt": 101812,
+            "text": "그 송도바이오요. 그 건물 옆에 있는 거예요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0bpjma4rrpg",
+            "startAt": 102076,
+            "endAt": 104030,
+            "text": "송도바이오건물 옆에 있다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7df9ki211gg",
+            "startAt": 105082,
+            "endAt": 105589,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p3nqjok452o",
+            "startAt": 105845,
+            "endAt": 107529,
+            "text": "구월동 바이오 건물이거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_c7urq94ptr",
+            "startAt": 113122,
+            "endAt": 114900,
+            "text": "예 저희가 한번 확인해보겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4vg027f4ga8",
+            "startAt": 116025,
+            "endAt": 116641,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2q5ed89euco",
+            "startAt": 116482,
+            "endAt": 117008,
+            "text": "예.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 연수구 송도동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

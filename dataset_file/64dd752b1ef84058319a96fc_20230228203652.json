@@ -1,0 +1,89 @@
+{
+    "_id": "64dd752b1ef84058319a96fc",
+    "audioPath": "20230815/Incheon/2023/02/28/071/converted_20230228203652_2-071.wav",
+    "recordId": "b63ecbf2e4d399c6d8c6",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 55360,
+    "utterances": [
+        {
+            "id": "wavesurfer_5pjhfq30u9",
+            "startAt": 5,
+            "endAt": 826,
+            "text": "119입니다",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bp2r5o6ao4",
+            "startAt": 3100,
+            "endAt": 3874,
+            "text": "여보세요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rr3havm006o",
+            "startAt": 4061,
+            "endAt": 5945,
+            "text": "저  다름이 아니라 저거 토 토타",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ihn36r3pf18",
+            "startAt": 5960,
+            "endAt": 6496,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "9fa4a3ed",
+            "startAt": 6504,
+            "endAt": 10536,
+            "text": "있으 근처에 토스카 한대 지나가면서 어떤 강아지 지금 쳤어요 지금",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vmci8qp7qh8",
+            "startAt": 10589,
+            "endAt": 13770,
+            "text": "지금 선생님 죄송한데요 선생님 진정하시",
+            "speaker": 0
+        },
+        {
+            "id": "9d5e556a",
+            "startAt": 13768,
+            "endAt": 16820,
+            "text": "전혀 나한테 팔도 안 써야지 근데 토스카 힐스 근처에서 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_edqo31av938",
+            "startAt": 16917,
+            "endAt": 21148,
+            "text": "경찰차 한 대 지나가면서 강아지여 피가 있다고 지금 변 새끼가",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_s0sp7fgul6",
+            "startAt": 25647,
+            "endAt": 27128,
+            "text": "미친놈 아이 진짜",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_g0ab09lhqs",
+            "startAt": 33553,
+            "endAt": 34487,
+            "text": "아 구월 여섯 여기",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "기타부정",
+    "symptom": [],
+    "triage": ""
+}

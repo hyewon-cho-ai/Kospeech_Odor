@@ -1,0 +1,257 @@
+{
+    "_id": "64ec361829e61fb514579455",
+    "audioPath": "20230828/Incheon/2023/06/20/009/converted_20230620102118_4009-009.wav",
+    "recordId": "5b081b7bb4b0f6832f4f",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 89840,
+    "utterances": [
+        {
+            "id": "6309cab5",
+            "startAt": 0,
+            "endAt": 670,
+            "text": "입니다",
+            "speaker": 0
+        },
+        {
+            "id": "c068cdf2",
+            "startAt": 1200,
+            "endAt": 5893,
+            "text": "아 네 불난 건 아니고 그 화재 경보기 땜에 여쭤보고 싶은데",
+            "speaker": 1
+        },
+        {
+            "id": "e1d88b56",
+            "startAt": 5860,
+            "endAt": 7516,
+            "text": "문의사항이 있으신 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_v903iv2h4m8",
+            "startAt": 7580,
+            "endAt": 8844,
+            "text": "예예 하",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_uimmvb2qaeg",
+            "startAt": 8186,
+            "endAt": 10196,
+            "text": "아 문의 말씀해주시겠어요?",
+            "speaker": 0
+        },
+        {
+            "id": "7cc3832a",
+            "startAt": 10614,
+            "endAt": 17151,
+            "text": "아 예 저는 복지관 사람이구요 제가 이제 돌보는 어르신 집에 지금 안 가봤는데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fp4cp623mt",
+            "startAt": 17345,
+            "endAt": 21736,
+            "text": "그 어르신 방에 있는 화재 경보기에서 자꾸 삑삑 소리가 난대요",
+            "speaker": 1
+        },
+        {
+            "id": "bcb0ce8d",
+            "startAt": 21627,
+            "endAt": 22343,
+            "text": "주소요",
+            "speaker": 0
+        },
+        {
+            "id": "2c1d9227",
+            "startAt": 22835,
+            "endAt": 24226,
+            "text": "예 잠시만요",
+            "speaker": 1
+        },
+        {
+            "id": "2a237922",
+            "startAt": 25809,
+            "endAt": 28024,
+            "text": "제가 보면서 얘기 드려야 되가지고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6f4he5kbpi",
+            "startAt": 27425,
+            "endAt": 28234,
+            "text": "예",
+            "speaker": 0
+        },
+        {
+            "id": "80da7ade",
+            "startAt": 28455,
+            "endAt": 29014,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6oc35tpjjtg",
+            "startAt": 29586,
+            "endAt": 30986,
+            "text": "불이 난 건 아니라죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4op5tegsa7g",
+            "startAt": 31740,
+            "endAt": 36631,
+            "text": "아 예 불난 불난 건 아니고 인천광역시 남동구 남촌동로",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_og68j0trbk",
+            "startAt": 31759,
+            "endAt": 32896,
+            "text": "선생님 예에",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_57p23dudovo",
+            "startAt": 36607,
+            "endAt": 38117,
+            "text": "남촌동로",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0k32fkfhu8g",
+            "startAt": 38324,
+            "endAt": 40642,
+            "text": "예 46번길",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gmv4ikkkma8",
+            "startAt": 41242,
+            "endAt": 44343,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gq8fg32hlng",
+            "startAt": 44571,
+            "endAt": 47935,
+            "text": "예 남촌 남촌동 유진빌라",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5o5hkmibalg",
+            "startAt": 48431,
+            "endAt": 50113,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5ljmq2vpmoo",
+            "startAt": 50102,
+            "endAt": 52075,
+            "text": "어르신 연락처 하나 알려주세요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tdb53k3k9po",
+            "startAt": 52343,
+            "endAt": 53343,
+            "text": "예 어르신",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1ao9f683i3",
+            "startAt": 53296,
+            "endAt": 60952,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f852adup4s8",
+            "startAt": 61029,
+            "endAt": 63029,
+            "text": "예 그 한번 가볼게요 소방차",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_04r6toopp08",
+            "startAt": 63261,
+            "endAt": 65571,
+            "text": "예 아이 소방차 말고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_16h10naccs8",
+            "startAt": 65842,
+            "endAt": 72397,
+            "text": "이거는 그 어르신댁에 어르신한테 설명드려야 되는데 뭐 배터리가 부족해서 그런 건지 어쩐 건지 제가 알",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k7qkm76a4hg",
+            "startAt": 66573,
+            "endAt": 67019,
+            "text": "불을",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_50r9e06362",
+            "startAt": 71186,
+            "endAt": 72204,
+            "text": "그렇죠 그렇죠",
+            "speaker": 1
+        },
+        {
+            "id": "aff93ee3",
+            "startAt": 72451,
+            "endAt": 77586,
+            "text": "수가 없고 제가 어떻게 도와드릴 수 있는 게 아니라서 소방대 나가서 확인하고 안내해드릴 거예요",
+            "speaker": 0
+        },
+        {
+            "id": "6ab795b4",
+            "startAt": 78085,
+            "endAt": 81087,
+            "text": "예 그 불난 건 아니에요 정확히 예 그러면 혹시",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bm81kri9hdg",
+            "startAt": 80081,
+            "endAt": 81145,
+            "text": "예 전화할 수",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8a17r5k3pb",
+            "startAt": 81054,
+            "endAt": 84136,
+            "text": "죄송하지만 예 언제쯤에 오실까요 대충",
+            "speaker": 1
+        },
+        {
+            "id": "695087c0",
+            "startAt": 82851,
+            "endAt": 86672,
+            "text": "어 지금 출동 했으니까 오래 걸리지 않아요 한 10분 안에 갈 거예요",
+            "speaker": 0
+        },
+        {
+            "id": "c704cd98",
+            "startAt": 86897,
+            "endAt": 88972,
+            "text": "예 감사합니다 네",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 남동구 남촌동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

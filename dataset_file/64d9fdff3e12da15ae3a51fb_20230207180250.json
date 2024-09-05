@@ -1,0 +1,166 @@
+{
+    "_id": "64d9fdff3e12da15ae3a51fb",
+    "audioPath": "20230814/Incheon/2023/02/07/014/converted_20230207180250_4014-014.wav",
+    "recordId": "65f2e0d78e98de263f98",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 52400,
+    "utterances": [
+        {
+            "id": "wavesurfer_em0bkb1gt7g",
+            "startAt": 6067,
+            "endAt": 7450,
+            "text": "여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_eshbbfgbdfg",
+            "startAt": 6767,
+            "endAt": 8333,
+            "text": "네 선생님 여기 119 입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dbnatk4p808",
+            "startAt": 8467,
+            "endAt": 8950,
+            "text": "네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gakj2fma958",
+            "startAt": 8817,
+            "endAt": 10517,
+            "text": "문자 신고 때문에 전화 드렸고요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vnsn4art6e",
+            "startAt": 10583,
+            "endAt": 11283,
+            "text": "아 네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_usu8u46pssg",
+            "startAt": 10850,
+            "endAt": 13733,
+            "text": "혹시 위치가 어디가 될까요? 거기가 지금 살고 있는 데가",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7qsmesd2cdo",
+            "startAt": 16560,
+            "endAt": 20537,
+            "text": "여기가 그 전봇대로 알려드리면 되나요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d2q0fv7h4d8",
+            "startAt": 20457,
+            "endAt": 22383,
+            "text": "전봇대 번호 딱 혹시 있으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_87ok4nv128o",
+            "startAt": 22910,
+            "endAt": 25124,
+            "text": "네 어 어떻게 봐야 될까요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_srjqb7q5t48",
+            "startAt": 24067,
+            "endAt": 28033,
+            "text": "어 지 근처에 있는 건물 주소 말씀해주시면 돼요. 어차피 그 앞으로 대원들 가니까",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8qka3grs5dg",
+            "startAt": 28307,
+            "endAt": 30513,
+            "text": "아 그 모연 홈마트라고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a61bnosrrs8",
+            "startAt": 30047,
+            "endAt": 33113,
+            "text": "모현 홈마트 잠시만요, 모현 홈마트요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ahkp91k719",
+            "startAt": 33383,
+            "endAt": 34317,
+            "text": "연이요 연",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d8859nvmuao",
+            "startAt": 34583,
+            "endAt": 35533,
+            "text": "모연?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_27rfcnoua9",
+            "startAt": 35770,
+            "endAt": 36273,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "9cfd6720",
+            "startAt": 36229,
+            "endAt": 37969,
+            "text": "아 무슨 동에 있는 건가요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_cefooc7i4q",
+            "startAt": 41000,
+            "endAt": 42817,
+            "text": "간석동",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mm7li0765sg",
+            "startAt": 41950,
+            "endAt": 43533,
+            "text": "간석동 모연 홈마트?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_aphtgi0l6o8",
+            "startAt": 43817,
+            "endAt": 46547,
+            "text": "예 아마 맞을거에요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o7tdlvn6br8",
+            "startAt": 46417,
+            "endAt": 49150,
+            "text": "예 알겠습니다 찾아보고 제가 한번 나 나가보겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "7975f527",
+            "startAt": 49150,
+            "endAt": 50699,
+            "text": "네, 감사합니다,",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "중립",
+    "symptom": [],
+    "triage": ""
+}

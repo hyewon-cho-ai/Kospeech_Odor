@@ -1,0 +1,201 @@
+{
+    "_id": "64dd752b1ef84058319a9315",
+    "audioPath": "20230815/Incheon/2023/02/15/006/converted_20230215224338_4006-006.wav",
+    "recordId": "04a9b009b6ae3012545a",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 83440,
+    "utterances": [
+        {
+            "id": "7872cf64",
+            "startAt": 1640,
+            "endAt": 3103,
+            "text": "119입니다. 여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8a6bmbg8uq",
+            "startAt": 3631,
+            "endAt": 4977,
+            "text": "네 여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rba0vgofpug",
+            "startAt": 4695,
+            "endAt": 5649,
+            "text": "네 말씀하세요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_liehgqcbo4o",
+            "startAt": 5860,
+            "endAt": 11364,
+            "text": "예 죄송한데요. 아 딱히 물어 볼 데가 없어서 전화 드렸어요. 뭐 좀 여쭤볼게요, ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k04i3b40388",
+            "startAt": 11262,
+            "endAt": 12131,
+            "text": "말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tjjlvg76o3",
+            "startAt": 12204,
+            "endAt": 16659,
+            "text": "예 이게 가스 냄새인지, 휘발유 냄새인지는 모르겠어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_36cddand3k8",
+            "startAt": 16544,
+            "endAt": 17063,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_e8m763l706o",
+            "startAt": 17399,
+            "endAt": 22917,
+            "text": "냄새가 많이 나서, 이걸 냄새 나는 데라 어디다 여쭤봐야 될지 몰라서 119에 여쭤봅니다.",
+            "speaker": 1
+        },
+        {
+            "id": "521179f3",
+            "startAt": 26415,
+            "endAt": 27959,
+            "text": "어떤 냄새가 나는데요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_23lchtlsm4g",
+            "startAt": 26425,
+            "endAt": 27052,
+            "text": "여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d8aqo4d69k8",
+            "startAt": 28585,
+            "endAt": 34702,
+            "text": "이게 뭐 어떤 냄새인지는 모 모르겠어요. 가스 냄새인지 휘발유 냄새인 거 같기도 하고 그래요.",
+            "speaker": 1
+        },
+        {
+            "id": "e71d86a1",
+            "startAt": 37510,
+            "endAt": 40614,
+            "text": "아 어머니 여기 주소 어떻게 돼 있는데요? ",
+            "speaker": 0
+        },
+        {
+            "id": "48aa6778",
+            "startAt": 41140,
+            "endAt": 42589,
+            "text": "아 여기 안남로",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_19v6v22a76g",
+            "startAt": 42560,
+            "endAt": 44460,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "914e9cdc",
+            "startAt": 48717,
+            "endAt": 50372,
+            "text": "집에 안에서 나는 거예요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_67mr55h5qog",
+            "startAt": 50739,
+            "endAt": 52993,
+            "text": "밖에도 나고 이게 밖에서",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_v0khaht29hg",
+            "startAt": 52960,
+            "endAt": 54269,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6jkivuirr7g",
+            "startAt": 54670,
+            "endAt": 56615,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "f5dff843",
+            "startAt": 58550,
+            "endAt": 59988,
+            "text": "그 건물 이름이 뭐예요?",
+            "speaker": 0
+        },
+        {
+            "id": "e28523a2",
+            "startAt": 60401,
+            "endAt": 61780,
+            "text": "미추홀드림빌",
+            "speaker": 1
+        },
+        {
+            "id": "02e30381",
+            "startAt": 62830,
+            "endAt": 63860,
+            "text": "몇 동 몇 호예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ehr21r4siqg",
+            "startAt": 64734,
+            "endAt": 67252,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ooeh2no3vsg",
+            "startAt": 67388,
+            "endAt": 71207,
+            "text": "거 6차 뉴서울6차 옆에 있는 미추홀드림빌입니다. ",
+            "speaker": 1
+        },
+        {
+            "id": "e83ca707",
+            "startAt": 74480,
+            "endAt": 77466,
+            "text": "네 알겠습니다. 저희가 나가서 한번 확인해 볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1130abv4d1g",
+            "startAt": 77652,
+            "endAt": 78398,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "4ed1a772",
+            "startAt": 81395,
+            "endAt": 83366,
+            "text": "조사 나와서 아 여기서 나와서 확인한.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 계양구 효성동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

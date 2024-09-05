@@ -1,0 +1,180 @@
+{
+    "_id": "64ec27f62be6ffc66cc6a781",
+    "audioPath": "20230827/Incheon/2023/06/24/084/converted_20230624232830_15-084.wav",
+    "recordId": "609d18ea309967a99518",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 56240,
+    "utterances": [
+        {
+            "id": "wavesurfer_cnvh609lpag",
+            "startAt": 0,
+            "endAt": 764,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_36sghjilpb8",
+            "startAt": 1046,
+            "endAt": 2055,
+            "text": "아 네, 안녕하세요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bc53sjko6t",
+            "startAt": 2437,
+            "endAt": 5046,
+            "text": "여기 옥련, 옥련동에, ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qu0tqaj5in",
+            "startAt": 5519,
+            "endAt": 7664,
+            "text": "명쾌 한방 병원인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tk9klgphrug",
+            "startAt": 6691,
+            "endAt": 8155,
+            "text": "어디 병원이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1hhhf1fib98",
+            "startAt": 8619,
+            "endAt": 9873,
+            "text": "그 명쾌 한방 병원이요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o8l4sj20ajg",
+            "startAt": 9942,
+            "endAt": 10488,
+            "text": "명",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bghge96kefo",
+            "startAt": 10973,
+            "endAt": 11901,
+            "text": "명쾌",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_eh16nl4mrd8",
+            "startAt": 11995,
+            "endAt": 13495,
+            "text": "명쾌 한방 병원?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dlktd2ghbig",
+            "startAt": 13817,
+            "endAt": 14308,
+            "text": "예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ck87pu3nj98",
+            "startAt": 14199,
+            "endAt": 15372,
+            "text": "예 무슨일이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_llu9eigae8o",
+            "startAt": 15663,
+            "endAt": 17117,
+            "text": "아니, 이게 소화전이 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jkdk5anfj8",
+            "startAt": 18076,
+            "endAt": 23252,
+            "text": "갑자기 그 누가 불도 안 났고 건드리지도 않았는데 엄청 크게 울리는데 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_chkipa0toao",
+            "startAt": 23742,
+            "endAt": 26205,
+            "text": "경, 경보기가 울린다는거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_29177lj0obg",
+            "startAt": 26400,
+            "endAt": 27127,
+            "text": "예예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gdtj3ql0lc",
+            "startAt": 26798,
+            "endAt": 28744,
+            "text": "어, 화재징후는 없다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kgejgqi8cn8",
+            "startAt": 28787,
+            "endAt": 29706,
+            "text": "네네네",
+            "speaker": 1
+        },
+        {
+            "id": "a388bf9e",
+            "startAt": 29149,
+            "endAt": 31860,
+            "text": "아, 예, 알겠습니다. 나가서 확인해볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8tq1pg141mo",
+            "startAt": 31929,
+            "endAt": 33139,
+            "text": "네, 감사합니다. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ae8m2ofgd38",
+            "startAt": 33282,
+            "endAt": 36201,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "90a34a32",
+            "startAt": 36233,
+            "endAt": 37892,
+            "text": "습니다, 확인해볼게요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_999dhfbfbro",
+            "startAt": 37524,
+            "endAt": 38415,
+            "text": "네, 감사합니다",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_encbtm1m2vg",
+            "startAt": 46388,
+            "endAt": 48616,
+            "text": "공영 펌프기 경보기 확인 출동",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 연수구 옥련동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

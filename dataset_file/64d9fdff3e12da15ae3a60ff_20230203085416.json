@@ -1,0 +1,292 @@
+{
+    "_id": "64d9fdff3e12da15ae3a60ff",
+    "audioPath": "20230814/Incheon/2023/02/03/011/converted_20230203085416_4011-011.wav",
+    "recordId": "94434d176f5516715462",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 112440,
+    "utterances": [
+        {
+            "id": "062e75d5",
+            "startAt": 0,
+            "endAt": 1090,
+            "text": "네, 119입니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_64qhn0j17go",
+            "startAt": 1609,
+            "endAt": 5501,
+            "text": "아, 예, 안녕하세요, 뭐 좀 여쭤볼 게 있는데요. 네. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kk86til8s3",
+            "startAt": 4000,
+            "endAt": 5528,
+            "text": "네, 말씀하세요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jlkg04kofr",
+            "startAt": 5592,
+            "endAt": 12511,
+            "text": "그 만약에 119 걸어서 사람이, 그 지역을 지역 위치를 잘 몰라서 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k9daqd27nvg",
+            "startAt": 9151,
+            "endAt": 9551,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3qqe4goek6g",
+            "startAt": 12131,
+            "endAt": 12477,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "1671aca6",
+            "startAt": 12820,
+            "endAt": 16562,
+            "text": "그 문자로 보내갖고 그것도 확인할 수 있는 건가요? 119에서?",
+            "speaker": 1
+        },
+        {
+            "id": "8c0da16e",
+            "startAt": 16526,
+            "endAt": 24575,
+            "text": "문자로도 신고를 하실 수 있는데, 위치는 그 지피에스나 와이파이 값이기 때문에 정확한 위치가 나온 건 아니구요. 그 인근으로 나오긴 하거든요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_essk75tekkg",
+            "startAt": 18310,
+            "endAt": 19401,
+            "text": "아, 그래요?",
+            "speaker": 1
+        },
+        {
+            "id": "83534409",
+            "startAt": 25069,
+            "endAt": 28033,
+            "text": "아, 그래요? 아 그렇게 신고가 가능한가요? 그 문자로도? ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_078jpk5paeo",
+            "startAt": 28072,
+            "endAt": 33654,
+            "text": "문자로도 신고 가능하고요. 문자로 근데 위치는 아마 위치를 파악해야 될 거 같아요. ",
+            "speaker": 0
+        },
+        {
+            "id": "961c16f4",
+            "startAt": 33616,
+            "endAt": 36350,
+            "text": "문자로 신고를, 위치를 몰라서 문자로 신고한다는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "03fd4ebe",
+            "startAt": 36770,
+            "endAt": 41686,
+            "text": "예, 예, 만약에 그렇게 가능한지 제가 여쭤보 여쭙고. 전화드렸거든요. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dncd8dj14",
+            "startAt": 39431,
+            "endAt": 42468,
+            "text": "문자로 신고를 하면 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_irr87tfun88",
+            "startAt": 41801,
+            "endAt": 42583,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "6f34dd03",
+            "startAt": 45014,
+            "endAt": 49485,
+            "text": "어떤 동인지도 모르고 그냥 아예 모르는 위치인 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "52746aed",
+            "startAt": 49793,
+            "endAt": 57436,
+            "text": "아니, 지금 만약에 제가 만약에 긴, 긴급 상황이 나와서 119 전화 걸었는데, 그 전화 건 사람이 위치를 잘 몰라요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_br2qmiun09o",
+            "startAt": 54978,
+            "endAt": 55478,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_71nsjo5p1ag",
+            "startAt": 57468,
+            "endAt": 63842,
+            "text": "예, 그러면은 어쨌든 문자로 하든 핸드폰 전화를 걸든 그 둘 다 다 신고는 가능합니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7oed1cbd0a",
+            "startAt": 58707,
+            "endAt": 59407,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pm8dr5u7hvg",
+            "startAt": 60668,
+            "endAt": 61141,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ck2dqb8hafo",
+            "startAt": 61658,
+            "endAt": 62222,
+            "text": "예예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7pb5mbc43u",
+            "startAt": 63549,
+            "endAt": 67831,
+            "text": "근데 위치는 나오는데 시간이 좀 걸릴 수 있어요. 문자 같은 경우는 전화가 바로 온 게 아니라서 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tlnmur3rh68",
+            "startAt": 66094,
+            "endAt": 67267,
+            "text": "아, 그래요?",
+            "speaker": 1
+        },
+        {
+            "id": "e7f66c00",
+            "startAt": 68034,
+            "endAt": 71903,
+            "text": "위치를 파악하고 나서 또 해야 되는 상황이라 네 둘 다 신고는 가능합니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_npegauc5sg8",
+            "startAt": 68092,
+            "endAt": 68928,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9qhj4k6f1bg",
+            "startAt": 70682,
+            "endAt": 71592,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e2r0u04gg2",
+            "startAt": 72335,
+            "endAt": 77435,
+            "text": "그럼 전화를 드리고 위치를 문자로 보내드리면 그럼 저희 바로 가능한 건가요? 그렇게 되면?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lanveabllb8",
+            "startAt": 77588,
+            "endAt": 82525,
+            "text": "예, 그럴 수도 있고요. 선생님, 일단 통화 가능하시면 통화하셔서 위치를 파악할 수도 있고요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9ajjq8bta18",
+            "startAt": 82694,
+            "endAt": 87831,
+            "text": "그니까 어쨌든 위치 파악은 지금 선생님, 아마 지금 똑같이 지금 문자가 갔을 거예요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_898ueh5inao",
+            "startAt": 82721,
+            "endAt": 84267,
+            "text": "아, 그래요? 예.",
+            "speaker": 1
+        },
+        {
+            "id": "60335e09",
+            "startAt": 88048,
+            "endAt": 96914,
+            "text": "지금 전화 거시면서 문자 왔을건데 선생님의 긴급 구조 위해서 위치 조회했습니다. 나오는데 지금 선생님 위치는 부천구청 맞은편 그쪽으로 나오네요, 선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0tnd87pg2gg",
+            "startAt": 88087,
+            "endAt": 89323,
+            "text": "아, 예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "759bd5ba",
+            "startAt": 97509,
+            "endAt": 100692,
+            "text": "아, 그래요? 아 예, 알겠습니다. 신고할 수 있다고요? 예.",
+            "speaker": 1
+        },
+        {
+            "id": "8fae3cad",
+            "startAt": 98932,
+            "endAt": 104668,
+            "text": "지금 GPS 이렇게 나오고요. 예, 혹시라도 나중에 필요하시면 그렇게 신고하시면 돼요. 어떤 방법으로든 신고하시면 되세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_d1um2baq9oo",
+            "startAt": 105242,
+            "endAt": 107743,
+            "text": "아, 예, 알겠습니다, 감사합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_u2k9hgmmn38",
+            "startAt": 106906,
+            "endAt": 107734,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "30a7d1a2",
+            "startAt": 107890,
+            "endAt": 109981,
+            "text": "예, 감사합니다 네. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bvmf73jihhg",
+            "startAt": 108834,
+            "endAt": 109379,
+            "text": "네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "중립",
+    "symptom": [],
+    "triage": ""
+}

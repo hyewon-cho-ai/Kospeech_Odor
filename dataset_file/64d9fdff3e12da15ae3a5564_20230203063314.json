@@ -1,0 +1,138 @@
+{
+    "_id": "64d9fdff3e12da15ae3a5564",
+    "audioPath": "20230814/Incheon/2023/02/03/020/converted_20230203063314_4020-020.wav",
+    "recordId": "8942798e4b1055c41b0c",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 73840,
+    "utterances": [
+        {
+            "id": "3a2e2b00",
+            "startAt": 213,
+            "endAt": 3688,
+            "text": "네, 네, 여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7ie0bn8lqeg",
+            "startAt": 764,
+            "endAt": 2209,
+            "text": "예 약국 문의입니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_v7ua44co21",
+            "startAt": 4382,
+            "endAt": 4818,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "454bbf03",
+            "startAt": 4790,
+            "endAt": 7515,
+            "text": "네 신고자분 지금 갈 수 있는데 찾으시는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "5b0249a1",
+            "startAt": 8002,
+            "endAt": 8452,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "4125561a",
+            "startAt": 8872,
+            "endAt": 11112,
+            "text": "잠시만요, 송조동 맞으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "f7b0520f",
+            "startAt": 12299,
+            "endAt": 13707,
+            "text": "네. 네 네.",
+            "speaker": 1
+        },
+        {
+            "id": "d5fad191",
+            "startAt": 18316,
+            "endAt": 25989,
+            "text": "지금 약국 가실 수 있는 데가 없어요. 이게 제 송도에서 제일 맞 늦게까지 하던 약국이 새벽 1시까지만 해요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c756trpok4",
+            "startAt": 26701,
+            "endAt": 30256,
+            "text": "보통은 8시 정도는 돼야 문 열거든요.",
+            "speaker": 0
+        },
+        {
+            "id": "00afe171",
+            "startAt": 31624,
+            "endAt": 36344,
+            "text": "네, 그 송 인천 어 아무데나 뭐 갈 수 있는데 없어요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_q7njaltlc4g",
+            "startAt": 32428,
+            "endAt": 33228,
+            "text": "네 지",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ulm52k3k56g",
+            "startAt": 36578,
+            "endAt": 38396,
+            "text": "잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "fce50a52",
+            "startAt": 42080,
+            "endAt": 49588,
+            "text": "통화 한 번 해보시고 가시고요. 신고자분. 구월동이나 아니면 그 중구 쪽에 있어요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_cia0vo34uhg",
+            "startAt": 49591,
+            "endAt": 58228,
+            "text": "제가 전화번호랑 주소랑 같이 드릴 테니까요. 갑자기 약국 사정상 또 문 못 열거나 하는 상황도 있어서 꼭 통화 한 번 해보시고 가세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_iafuo1mfuig",
+            "startAt": 58225,
+            "endAt": 59807,
+            "text": "두 군데만 가능해요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_b58c4m5grt",
+            "startAt": 61148,
+            "endAt": 61730,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "9bc785ca",
+            "startAt": 61750,
+            "endAt": 62381,
+            "text": "네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

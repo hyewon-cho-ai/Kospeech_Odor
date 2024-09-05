@@ -1,0 +1,187 @@
+{
+    "_id": "64d9fdff3e12da15ae3a372c",
+    "audioPath": "20230814/Incheon/2023/02/01/071/converted_20230201053721_2-071.wav",
+    "recordId": "52aabb3d19f099d4af7b",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 55640,
+    "utterances": [
+        {
+            "id": "wavesurfer_ol2n1dgqg4o",
+            "startAt": 218,
+            "endAt": 1527,
+            "text": "네 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ashjf1sl7qg",
+            "startAt": 1782,
+            "endAt": 6945,
+            "text": "아 네 안녕하세요. 여기 스카이 스테이트인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ttbf5uj1v78",
+            "startAt": 6781,
+            "endAt": 9717,
+            "text": "주소를 정확히 알려주실래요? 숭의동 몇 번지예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_n2bnv69sa08",
+            "startAt": 9688,
+            "endAt": 10597,
+            "text": "경인로",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3jhot46vrm",
+            "startAt": 12170,
+            "endAt": 13560,
+            "text": "스카이 스테이트요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p014ngjr598",
+            "startAt": 13485,
+            "endAt": 13976,
+            "text": "경인로",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7n9m9u64eqg",
+            "startAt": 13974,
+            "endAt": 15256,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_os020pd2tdo",
+            "startAt": 15273,
+            "endAt": 17064,
+            "text": "스카이 스카이 스테이트 오피스텔?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6jf5gkk3mtg",
+            "startAt": 17331,
+            "endAt": 17976,
+            "text": "네네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ria3po0lj48",
+            "startAt": 17758,
+            "endAt": 19240,
+            "text": "네. 무슨 일이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vukmgbu6u48",
+            "startAt": 19484,
+            "endAt": 22311,
+            "text": "여기 화재경보기가 계속 울려가지고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_omcgfja8gl",
+            "startAt": 21476,
+            "endAt": 24303,
+            "text": "아 화재경보기 저희 그거 출동 갔어요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rfi6kf55k8",
+            "startAt": 22723,
+            "endAt": 23250,
+            "text": "에.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9tohlqk2q1",
+            "startAt": 24321,
+            "endAt": 25848,
+            "text": "아 얼마나 걸릴까요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_89dk34b66eg",
+            "startAt": 27612,
+            "endAt": 28630,
+            "text": "잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_r263naqcpig",
+            "startAt": 28628,
+            "endAt": 35867,
+            "text": "최초 신고자가 전화를 5시 32분에 전화주셨어요. 좀 전에 출동했거든요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_l4akrkjaf88",
+            "startAt": 28650,
+            "endAt": 29014,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8rllv4qt7n",
+            "startAt": 36069,
+            "endAt": 36742,
+            "text": "아 네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_j3pojp9jsvo",
+            "startAt": 36106,
+            "endAt": 37660,
+            "text": "좀 기다려주시겠어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sarv4uauip",
+            "startAt": 37727,
+            "endAt": 38900,
+            "text": "네 감사합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lr6a3a8hpp8",
+            "startAt": 38333,
+            "endAt": 40142,
+            "text": "네 화재 징후는 없죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_f157oq322d8",
+            "startAt": 40185,
+            "endAt": 40803,
+            "text": "네네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_j6rn17j3hg",
+            "startAt": 40320,
+            "endAt": 42256,
+            "text": "아 그래요 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_uc35c9fmag8",
+            "startAt": 42040,
+            "endAt": 42685,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

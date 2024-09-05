@@ -1,0 +1,96 @@
+{
+    "_id": "64d9fdff3e12da15ae3a4c8a",
+    "audioPath": "20230814/Incheon/2023/02/07/076/converted_20230207205606_7-076.wav",
+    "recordId": "569a3962aa923ed4401e",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 34880,
+    "utterances": [
+        {
+            "id": "wavesurfer_ec4q0fgblmo",
+            "startAt": 954,
+            "endAt": 2618,
+            "text": "네 여기 파크원인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_h8hfgbrs77g",
+            "startAt": 2582,
+            "endAt": 4363,
+            "text": "파크원 몇 동 몇 호세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_i829oca1d4",
+            "startAt": 3882,
+            "endAt": 4318,
+            "text": "응?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ufetg5fdv5g",
+            "startAt": 6227,
+            "endAt": 6745,
+            "text": "하지 마?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_aat2lchik3g",
+            "startAt": 19786,
+            "endAt": 20677,
+            "text": "네 여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_c9ecahe44s8",
+            "startAt": 19943,
+            "endAt": 20997,
+            "text": "여보세요? 네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qqb4nj71f2g",
+            "startAt": 21048,
+            "endAt": 21421,
+            "text": "아니",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mtgg81qnk6o",
+            "startAt": 21813,
+            "endAt": 22868,
+            "text": "무슨 일 있으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_a9ln8ppo2ro",
+            "startAt": 22050,
+            "endAt": 24168,
+            "text": "아니에요. 괜찮아 괜찮은 거 같아요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6slsn923iag",
+            "startAt": 23777,
+            "endAt": 25577,
+            "text": "아 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k4k2r26h87",
+            "startAt": 25024,
+            "endAt": 26979,
+            "text": "다시 저기하면 전화드릴게요. 예 네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "중립",
+    "symptom": [],
+    "triage": ""
+}

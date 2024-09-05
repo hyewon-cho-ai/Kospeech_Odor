@@ -1,0 +1,229 @@
+{
+    "_id": "64dd752b1ef84058319abfcd",
+    "audioPath": "20230815/Incheon/2023/02/15/075/converted_20230215194826_6-075.wav",
+    "recordId": "4e50f466b68e96324964",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 89920,
+    "utterances": [
+        {
+            "id": "wavesurfer_guloc8mfos8",
+            "startAt": 0,
+            "endAt": 918,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_cq5of97kb58",
+            "startAt": 1618,
+            "endAt": 4418,
+            "text": "아, 예 이게 제가 전화를 걸로 하는 게 맞는지 모르겠는데. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f01sqci7f1o",
+            "startAt": 4036,
+            "endAt": 4655,
+            "text": "아, 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u4rtvnrv6gg",
+            "startAt": 5150,
+            "endAt": 10799,
+            "text": "여기 지금 그, 경인고속도로에서 이제 가좌로 빠지는 데거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5mtlii8u3o",
+            "startAt": 10449,
+            "endAt": 13112,
+            "text": "예, 가좌 IC 쪽으로 빠지는 곳이요? 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o82q0f8ii7",
+            "startAt": 12999,
+            "endAt": 17962,
+            "text": "예. 가좌 IC 빠지는 데 바로 앞에 지금 승용차 한 대가 하나 서 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5b5ln2nbl8g",
+            "startAt": 17724,
+            "endAt": 18611,
+            "text": "아, 예예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0t10vnop",
+            "startAt": 19199,
+            "endAt": 25124,
+            "text": "네, 승용차 한 대가 거기 빠지는데, 그 고속도로 그 1차에서 가좌 빠지는 데 1차선 쪽에 서있어가지고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_097n4nscc68",
+            "startAt": 25074,
+            "endAt": 26711,
+            "text": "저기 가좌 IC에서",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_261u0a8t7p8",
+            "startAt": 27223,
+            "endAt": 27986,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_njdmqnhftm8",
+            "startAt": 27623,
+            "endAt": 32086,
+            "text": "어, 저기 동인천 쪽이 아니라 그 고가도로 올라가는 쪽인가요? 거기가?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vklm5877eag",
+            "startAt": 32036,
+            "endAt": 37723,
+            "text": "예, 그렇죠. 가좌로 빠지는 데 바로 앞에 이제 그쪽으로 동인천 쪽으로 가고 가좌로 빠지는 게 있지 않습니까?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1a0k55n2rd8",
+            "startAt": 36923,
+            "endAt": 39698,
+            "text": "예예예, 두 번째가 가좌 빠지는 곳이잖아요. 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_h4nefvu9gbo",
+            "startAt": 39760,
+            "endAt": 46447,
+            "text": "네. 가좌 빠지는 데 바로 앞에 차가 하나 뭐 라이트도 안 켜 있고 그 빈 승용택시, 승용차인 거 같은데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8v9n9uuun7",
+            "startAt": 41935,
+            "endAt": 43035,
+            "text": "아, 멈춰 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_184kg9u1o4",
+            "startAt": 46397,
+            "endAt": 46872,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7gu01ouc6m",
+            "startAt": 47335,
+            "endAt": 49110,
+            "text": "어, 하나 서있어요. 굉장히 위험해요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ger7fs5ifgg",
+            "startAt": 49060,
+            "endAt": 54097,
+            "text": "아, 저희가 한 번 나가서 확인을 해볼게요. 그니까 선생님도 지나가시다 보신 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tk45tm1j5mo",
+            "startAt": 52222,
+            "endAt": 53047,
+            "text": "네, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_apfsusv069o",
+            "startAt": 54722,
+            "endAt": 59034,
+            "text": "예. 저 이제 가좌로 진입하려고 하는데 보니까 차가 있어가지고 이 봤는데. 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mvqnng9b83g",
+            "startAt": 57197,
+            "endAt": 59634,
+            "text": "예. 저 차종은 보셨어요? 차종?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rrsppk370p8",
+            "startAt": 60409,
+            "endAt": 63321,
+            "text": "차종은 모르겠고 그냥, 그 소형 승용차예요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pa9amhpsu7",
+            "startAt": 63284,
+            "endAt": 63921,
+            "text": "승용차?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_g5vbeahb2lo",
+            "startAt": 64371,
+            "endAt": 66984,
+            "text": "예, 소형 승용차. 굉장히 위험해요, 거기.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k20b7lmp2j8",
+            "startAt": 65234,
+            "endAt": 69409,
+            "text": "음, 저 색깔도, 예. 색깔도 지금 못 보셨죠? 색깔까지는",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_36dggs6a72o",
+            "startAt": 68784,
+            "endAt": 74283,
+            "text": "색깔은 그냥 뭐 으, 은색, 뭐, 잿빛, 잿, 잿빛 색깔 같은 건데 껌껌해가지고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0da9mt4uv2o",
+            "startAt": 71871,
+            "endAt": 76571,
+            "text": "음, 예예예. 아, 예. 알겠습니다. 저희 한 번 나가서 확인 좀 해볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ujvbbn32ato",
+            "startAt": 76708,
+            "endAt": 78983,
+            "text": "예. 바로 확인 해보세요. 그거 굉장히 위험해요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_sgrc89pp4b",
+            "startAt": 78421,
+            "endAt": 79721,
+            "text": "음, 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_42p34o7kiu",
+            "startAt": 79933,
+            "endAt": 80671,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 서구 가좌동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

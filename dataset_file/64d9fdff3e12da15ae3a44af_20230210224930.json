@@ -1,0 +1,194 @@
+{
+    "_id": "64d9fdff3e12da15ae3a44af",
+    "audioPath": "20230814/Incheon/2023/02/10/020/converted_20230210224930_4020-020.wav",
+    "recordId": "a19cd8a590de974539dd",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 85520,
+    "utterances": [
+        {
+            "id": "wavesurfer_kcjnn3novj8",
+            "startAt": 218,
+            "endAt": 1464,
+            "text": "네, 소아과 문의하십니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hic6r6u29og",
+            "startAt": 1618,
+            "endAt": 3000,
+            "text": "네, 여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hp26ugvmrl8",
+            "startAt": 3125,
+            "endAt": 4116,
+            "text": "네, 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_amp65bmso9o",
+            "startAt": 4150,
+            "endAt": 5550,
+            "text": "신고자분, 애기 어디 아파요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_arsi66gugoo",
+            "startAt": 6291,
+            "endAt": 7646,
+            "text": "지금 열이 많이 나거든요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_n86geskchrg",
+            "startAt": 7689,
+            "endAt": 10526,
+            "text": "열 많이 나요, 애기 몇 살이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6lb3jcq4qs8",
+            "startAt": 10960,
+            "endAt": 12287,
+            "text": "지금 15개월 됐어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vh2klphscs",
+            "startAt": 12386,
+            "endAt": 13404,
+            "text": "15개월.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_trplsju0id8",
+            "startAt": 13678,
+            "endAt": 19749,
+            "text": "에 어머니 지금 인천에는 소아응급실 있는 데는 길병원하고 인하대 병원 두 군데 있구요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5ql7su1ootg",
+            "startAt": 20264,
+            "endAt": 26014,
+            "text": "지금 제일 가까운 데는 인천 성모병원 제일 가까우실 텐데 인천 성모병원 소아 진료를 아예 안 하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7t8q3vghof8",
+            "startAt": 26032,
+            "endAt": 30150,
+            "text": "아니면은 국제성모병원도 소아 진료는 가능하시거든요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_340vo4fkar",
+            "startAt": 30759,
+            "endAt": 37760,
+            "text": "국제성모나 아니시면은 저기 부천에 순천향대 제가 지금 네, 부천에 순천향대병원",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2qerfuto96o",
+            "startAt": 34495,
+            "endAt": 36077,
+            "text": "어 순천향?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_u9fsna0v1b8",
+            "startAt": 38286,
+            "endAt": 46432,
+            "text": "제가 우선 네 군데 문자 넣어드릴거구요. 네, 길병원이나 인하대 병원은 소아응급실이 따로 있는데",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_15spvh2fnf8",
+            "startAt": 46765,
+            "endAt": 53901,
+            "text": "부천 순천향대나 국제성모병원에서는 그냥 응급의학과 선생님 소아 진료하는 거니까 고거 참고하시구요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_35mjrh4m51o",
+            "startAt": 54146,
+            "endAt": 61173,
+            "text": "제가 우선 네 군데 문자 넣어드릴게요. 그리고 어머니 애기 열나기 때문에 격리실 진료 보셔야 돼요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nc14elhdrao",
+            "startAt": 61443,
+            "endAt": 67425,
+            "text": "대기는 좀 길 수 있으니까 대기하실 거 감안하셔서 가시고요. 애기 해열제는 먹고 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rqanhufkkrg",
+            "startAt": 67568,
+            "endAt": 68468,
+            "text": "네 먹였어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_53a4h6k6he8",
+            "startAt": 68116,
+            "endAt": 69635,
+            "text": "아 많이 쳐져요 어머니?",
+            "speaker": 0
+        },
+        {
+            "id": "76ce883a",
+            "startAt": 70120,
+            "endAt": 72740,
+            "text": "네, 많이 쳐지고 지금 계속 끙끙거리거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nbs0d6bijeg",
+            "startAt": 72777,
+            "endAt": 78083,
+            "text": "많이 쳐지면 진료 보시는 게 맞으세요. 좀 기다리시더라도 진료 보시는 게 맞구요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0fc428v8hgo",
+            "startAt": 77964,
+            "endAt": 82209,
+            "text": "제가 지금 네 군데 문자 보내드렸으니까 참고하셔서 진료보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_233ei2hks5o",
+            "startAt": 82546,
+            "endAt": 83600,
+            "text": "네, 감사합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3o4sj73861g",
+            "startAt": 83509,
+            "endAt": 84018,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o3tl133iq5o",
+            "startAt": 84564,
+            "endAt": 84964,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

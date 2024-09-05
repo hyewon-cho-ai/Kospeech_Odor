@@ -1,0 +1,183 @@
+{
+    "_id": "64dd752b1ef84058319a7c0f",
+    "audioPath": "20230815/Incheon/2023/02/16/004/converted_20230216160907_4004-004.wav",
+    "recordId": "351414f1500d3debdc93",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 48680,
+    "utterances": [
+        {
+            "id": "wavesurfer_hfgs0daglrg",
+            "startAt": 0,
+            "endAt": 373,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d6k63s86rfo",
+            "startAt": 391,
+            "endAt": 1318,
+            "text": "119 입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jhrthv3s2",
+            "startAt": 1855,
+            "endAt": 4618,
+            "text": "아, 예, 안녕하세요. 여기 바다의별 요양원인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qp8aohours",
+            "startAt": 4291,
+            "endAt": 5164,
+            "text": "예, 예. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_r11ueelbu28",
+            "startAt": 5525,
+            "endAt": 11906,
+            "text": "예, 지금 어르신 상태가요. 지금 항문 출혈이 심하셔가지고 응급실 진료를 받아야 돼서요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mbo6k382bgo",
+            "startAt": 11627,
+            "endAt": 12318,
+            "text": "예, 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j3nv7p5oit",
+            "startAt": 12845,
+            "endAt": 15217,
+            "text": "아, 그래서 저희 구급차 이렇게 차량이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k1nae572aug",
+            "startAt": 15245,
+            "endAt": 20054,
+            "text": "아, 예, 알겠습니다. 그 바다의별 요양원 몇 층이, 몇 층으로 가면 됩니까?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_41plkcf44l8",
+            "startAt": 20200,
+            "endAt": 21527,
+            "text": "아, 저희가 있을게요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_inc68gednvg",
+            "startAt": 21545,
+            "endAt": 22899,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5d7d19qqtvo",
+            "startAt": 23326,
+            "endAt": 24363,
+            "text": "예, 저희가.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3appl77b39o",
+            "startAt": 23445,
+            "endAt": 24299,
+            "text": "아, 예, 알.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_17kj5juvu5o",
+            "startAt": 24472,
+            "endAt": 26490,
+            "text": "1층에 있을게요. 안내 앞 있을게요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_r74p18ajquo",
+            "startAt": 26335,
+            "endAt": 30953,
+            "text": "아, 예, 예. 알겠습니다. 그 어르신 혹시 뭐 평소에 뭐 지병 같은 거 있으셨습니까?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7tjiijhttfg",
+            "startAt": 31562,
+            "endAt": 35217,
+            "text": "뭐, 지병 고혈압, 치매 있구요. 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vuhj20n89oo",
+            "startAt": 33826,
+            "endAt": 35217,
+            "text": "고혈압? 예, 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hnpsh6jfc48",
+            "startAt": 35717,
+            "endAt": 39408,
+            "text": "예, 그리고 전에 뭐 출혈은 없었는데 오늘이 처음이라 가지구. 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_116klt1r2j",
+            "startAt": 39026,
+            "endAt": 39808,
+            "text": "예, 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c7j7vi5hfro",
+            "startAt": 40135,
+            "endAt": 44826,
+            "text": "아, 알겠습니다. 저희가 출동대원이, 출동하면서 연락드리라고 하겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gqdn0s0r6ug",
+            "startAt": 40144,
+            "endAt": 40471,
+            "text": "응.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pnhkei4ghlo",
+            "startAt": 44944,
+            "endAt": 46180,
+            "text": "아, 예, 감사합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bi7d7o8nfag",
+            "startAt": 46162,
+            "endAt": 47053,
+            "text": "감사합니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_aqe3v3v3os",
+            "startAt": 47126,
+            "endAt": 47544,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 강화군 선원면",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "중",
+    "sentiment": "중립",
+    "symptom": [
+        "그 밖의출혈",
+        "기타"
+    ],
+    "triage": "응급증상"
+}

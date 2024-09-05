@@ -1,0 +1,257 @@
+{
+    "_id": "64dda077bcc831d5134cf270",
+    "audioPath": "20230816/Incheon/2023/02/01/009/converted_20230201094744_4009-009.wav",
+    "recordId": "9da921b97b553fa05e90",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 95200,
+    "utterances": [
+        {
+            "id": "3092fdee",
+            "startAt": 458,
+            "endAt": 1456,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gr7f9ro5fno",
+            "startAt": 1891,
+            "endAt": 10463,
+            "text": "아 네, 안녕하세요. 여기 계양 세무서입니다. 네네, 저희가 예전에 그 지하 주차장에 물이 차갖고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lcpefcbblog",
+            "startAt": 10518,
+            "endAt": 11145,
+            "text": "네. 네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9d1nn9vglm8",
+            "startAt": 11074,
+            "endAt": 14956,
+            "text": "그 소방서에다가 수선펌프가 있어갖고 요청을 한번 했었거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "220284bb",
+            "startAt": 14929,
+            "endAt": 15761,
+            "text": "배수펌프요?",
+            "speaker": 0
+        },
+        {
+            "id": "0a76b139",
+            "startAt": 16215,
+            "endAt": 21435,
+            "text": "네네, 배수펌프 배수 1미터 짜리가 하나 오셨는데 오늘도 좀 긴급하게 요청 좀 하려고요.",
+            "speaker": 1
+        },
+        {
+            "id": "50ea1949",
+            "startAt": 21390,
+            "endAt": 22885,
+            "text": "얼마나 찼나요, 지금?",
+            "speaker": 0
+        },
+        {
+            "id": "4ef22962",
+            "startAt": 23364,
+            "endAt": 26774,
+            "text": "어, 저희 그냥 기계실 패드까진 찼어요.",
+            "speaker": 1
+        },
+        {
+            "id": "b882986e",
+            "startAt": 26832,
+            "endAt": 29843,
+            "text": "기계실 패드요? 그니까 몇 높이가 몇 cm 정도 되나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7b8ojrloo3g",
+            "startAt": 28081,
+            "endAt": 29008,
+            "text": "네. 그.",
+            "speaker": 1
+        },
+        {
+            "id": "7c7e477c",
+            "startAt": 30247,
+            "endAt": 33951,
+            "text": "어, 높이는 한 10cm 정도 될 거 같은데.",
+            "speaker": 1
+        },
+        {
+            "id": "ba0f221a",
+            "startAt": 33742,
+            "endAt": 34686,
+            "text": "10cm요?",
+            "speaker": 0
+        },
+        {
+            "id": "cc0e429c",
+            "startAt": 35059,
+            "endAt": 39229,
+            "text": "네. 근데 저희 저 옆 집수정 안에 그 펌프, 그.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4ls2taelp1",
+            "startAt": 39550,
+            "endAt": 42586,
+            "text": "집수정 안쪽으로 해서 수선펌프 넣고 물 좀 빼려고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pou4v8pbppo",
+            "startAt": 42609,
+            "endAt": 45027,
+            "text": "아, 우선 저기 정확한 주소 말씀해주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_njg3hbq8b1g",
+            "startAt": 45475,
+            "endAt": 47384,
+            "text": "인천 광역시 계양구",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_uvv922i5nq",
+            "startAt": 47366,
+            "endAt": 48312,
+            "text": "계양구.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3tmeha74p5o",
+            "startAt": 48820,
+            "endAt": 49656,
+            "text": "효서로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_su0p07h77fg",
+            "startAt": 49695,
+            "endAt": 50686,
+            "text": "효서로.",
+            "speaker": 0
+        },
+        {
+            "id": "7406f4f1",
+            "startAt": 51083,
+            "endAt": 56345,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "d66423ea",
+            "startAt": 56866,
+            "endAt": 57338,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2tjn3nokt9",
+            "startAt": 58238,
+            "endAt": 58829,
+            "text": "그거예요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_l1kj5c8vao",
+            "startAt": 58951,
+            "endAt": 60696,
+            "text": "아 이 건물이죠? 빌딩이죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gpi58smki5g",
+            "startAt": 60915,
+            "endAt": 62143,
+            "text": "네, 네네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rmk63pqa4",
+            "startAt": 61434,
+            "endAt": 67151,
+            "text": "어, 저기 우선 위치 한 번 확인해볼게요. 잠시만 기다려 주세요. 예전에도 그 펌프차 한 대 한 대만 갔었나요?",
+            "speaker": 0
+        },
+        {
+            "id": "76fc9b45",
+            "startAt": 67758,
+            "endAt": 70410,
+            "text": "펌프가 1대밖에 없다고 하더라고요. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "db4d7140",
+            "startAt": 70349,
+            "endAt": 75362,
+            "text": "어, 확인됐고요. 여기가 계양 세무서구나. 몇 층으로 몇 층이죠? 그쪽이 지하예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k7g1rt2o1dg",
+            "startAt": 75355,
+            "endAt": 77419,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jh657g084eo",
+            "startAt": 77401,
+            "endAt": 78473,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_39svnk7fa2g",
+            "startAt": 78455,
+            "endAt": 80464,
+            "text": "출동대원이 아마 전화할 거예요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_v61nv22ubq8",
+            "startAt": 78527,
+            "endAt": 79736,
+            "text": "네, 그리고 선.",
+            "speaker": 1
+        },
+        {
+            "id": "fe93593b",
+            "startAt": 80671,
+            "endAt": 88647,
+            "text": "네, 선생님, 그리고 저번에 왔을 때 미스 난 게 그 호스 길이가 너무 짧았거든요. 호스 길이 엄청 긴 걸로 갖고 오셔야 된다고 말씀해주세요.",
+            "speaker": 1
+        },
+        {
+            "id": "248b1127",
+            "startAt": 89727,
+            "endAt": 92097,
+            "text": "아, 우선은 우선은 그 참고할게요.",
+            "speaker": 0
+        },
+        {
+            "id": "14030726",
+            "startAt": 92597,
+            "endAt": 94637,
+            "text": "네, 알겠습니다. 네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 계양구 작전동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

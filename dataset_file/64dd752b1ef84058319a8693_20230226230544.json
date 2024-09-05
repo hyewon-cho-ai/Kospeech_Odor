@@ -1,0 +1,236 @@
+{
+    "_id": "64dd752b1ef84058319a8693",
+    "audioPath": "20230815/Incheon/2023/02/26/021/converted_20230226230544_4021-021.wav",
+    "recordId": "920b114dec36300f04af",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 100520,
+    "utterances": [
+        {
+            "id": "47d8cf54",
+            "startAt": 0,
+            "endAt": 2418,
+            "text": "예 구급상황입니다 예 여보세요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3sdut2q3bkg",
+            "startAt": 6,
+            "endAt": 1522,
+            "text": "네 의료상담입니다",
+            "speaker": 0
+        },
+        {
+            "id": "470f3490",
+            "startAt": 3222,
+            "endAt": 7393,
+            "text": "예, 여보세요. 혹시 의 의약 의약품 관련해서 상담도 가능할까요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tvujmun8148",
+            "startAt": 7425,
+            "endAt": 8669,
+            "text": "의약품이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_msvst3tiopg",
+            "startAt": 8774,
+            "endAt": 10207,
+            "text": "네 일반의약품",
+            "speaker": 1
+        },
+        {
+            "id": "b2b92052",
+            "startAt": 8788,
+            "endAt": 11595,
+            "text": "어떤 약품, 어떤 약품인데요?",
+            "speaker": 0
+        },
+        {
+            "id": "59cba858",
+            "startAt": 10699,
+            "endAt": 16120,
+            "text": "어 이벤 캡슐이라는 구내염 치료제인데요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ho1qjbc2s0g",
+            "startAt": 16594,
+            "endAt": 24400,
+            "text": "제가 모르고 이게 어 하루에 한 알 먹는 건데 이거 두 알을 한꺼번에 같이 먹었는데 이게 상관없는 건지.",
+            "speaker": 1
+        },
+        {
+            "id": "6c9f1e28",
+            "startAt": 23873,
+            "endAt": 26018,
+            "text": "두 알 하루에 하나씩 먹는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "d542b8a7",
+            "startAt": 26626,
+            "endAt": 27775,
+            "text": "네, 그런가 봐요",
+            "speaker": 1
+        },
+        {
+            "id": "b77b1452",
+            "startAt": 28053,
+            "endAt": 28984,
+            "text": "이름이 뭐라구요?",
+            "speaker": 0
+        },
+        {
+            "id": "274a0bb1",
+            "startAt": 29606,
+            "endAt": 31041,
+            "text": "이벤 캡슐이요",
+            "speaker": 1
+        },
+        {
+            "id": "169a4d0a",
+            "startAt": 31191,
+            "endAt": 34551,
+            "text": "이벤 캡슐이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1jjjkqtmgfg",
+            "startAt": 32681,
+            "endAt": 33292,
+            "text": "벤",
+            "speaker": 1
+        },
+        {
+            "id": "6df39272",
+            "startAt": 34921,
+            "endAt": 35421,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "865eb302",
+            "startAt": 36605,
+            "endAt": 38064,
+            "text": "어이에요 그게?",
+            "speaker": 0
+        },
+        {
+            "id": "7dbea8f6",
+            "startAt": 38685,
+            "endAt": 39575,
+            "text": "네, 어이에요.",
+            "speaker": 1
+        },
+        {
+            "id": "4a97d690",
+            "startAt": 39603,
+            "endAt": 41214,
+            "text": "으 이벤 캡슐이요?",
+            "speaker": 0
+        },
+        {
+            "id": "5df67b70",
+            "startAt": 41755,
+            "endAt": 42235,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "7e49accc",
+            "startAt": 44511,
+            "endAt": 45744,
+            "text": "이벤캡슐",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_cd9mjgrferg",
+            "startAt": 46542,
+            "endAt": 48865,
+            "text": "노란색 이건?",
+            "speaker": 0
+        },
+        {
+            "id": "95682b28",
+            "startAt": 47642,
+            "endAt": 49488,
+            "text": "네, 맞아요 네 네 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qhpjr5tp6c",
+            "startAt": 49993,
+            "endAt": 54032,
+            "text": "이 이거는",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o5j6ind439g",
+            "startAt": 64948,
+            "endAt": 72506,
+            "text": "이게 보통 이제 1회 1회에 한 캡슐 해갖고 보통 1일에 한 알 내지 2회 하루 내지 두 번 복용하기 때문에",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9dvsfkkl5j",
+            "startAt": 72476,
+            "endAt": 79619,
+            "text": "두 번 한꺼번에 먹었어. 하루 용량은 초과 거가 되지 않아서 다음에 먹자 그거 오늘은 이제",
+            "speaker": 0
+        },
+        {
+            "id": "cf3ce4e1",
+            "startAt": 80146,
+            "endAt": 89716,
+            "text": "안 먹고 그 까 보통 하루에 두 알 정도는 먹을 수 있어서 어 뭐 크게 저기할 건 아닌 거 같아요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mh3eov5u1v8",
+            "startAt": 86435,
+            "endAt": 86935,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "c00456e8",
+            "startAt": 89868,
+            "endAt": 92976,
+            "text": "아 그래요? 2개 같이 먹어도 상관없다는 말씀이시죠?",
+            "speaker": 1
+        },
+        {
+            "id": "da9fd132",
+            "startAt": 91722,
+            "endAt": 95316,
+            "text": "예, 일단은 하루 용량 초과는 안 됐으니까.",
+            "speaker": 0
+        },
+        {
+            "id": "9734da72",
+            "startAt": 95508,
+            "endAt": 98268,
+            "text": "아 네, 알겠습니다. 감사합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_n1c4r1n5l38",
+            "startAt": 96688,
+            "endAt": 98127,
+            "text": "네 네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

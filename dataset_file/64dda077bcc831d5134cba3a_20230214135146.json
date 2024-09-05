@@ -1,0 +1,201 @@
+{
+    "_id": "64dda077bcc831d5134cba3a",
+    "audioPath": "20230816/Incheon/2023/02/14/007/converted_20230214135146_4007-007.wav",
+    "recordId": "bebaf44db783ec186147",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 59360,
+    "utterances": [
+        {
+            "id": "0630aaa6",
+            "startAt": 533,
+            "endAt": 1852,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "e387f770",
+            "startAt": 2044,
+            "endAt": 4746,
+            "text": "예, 수고하십니다. 뭐 좀 부탁 좀 드릴라고요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rrlc1c7vleg",
+            "startAt": 5082,
+            "endAt": 7995,
+            "text": "여기 그 가좌 3동 상아아파트인데요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4a0toi9f3a",
+            "startAt": 7877,
+            "endAt": 8750,
+            "text": "상아아파트요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hb8r1rblkh8",
+            "startAt": 9084,
+            "endAt": 14047,
+            "text": "예, 예. 그 우리가 지금 누수 관련해가지고 상수도 공사를 하다 보니까",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_j563koho0m8",
+            "startAt": 14299,
+            "endAt": 16217,
+            "text": "이게 지연되고 이렇게 돌다 보니까 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hs6kqe91jio",
+            "startAt": 16187,
+            "endAt": 16732,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lhjsut2dcp8",
+            "startAt": 16734,
+            "endAt": 18698,
+            "text": "지하에 지금 물이 차있더라고요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_sd3q702qc2g",
+            "startAt": 18671,
+            "endAt": 18971,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vadumqrn81g",
+            "startAt": 18942,
+            "endAt": 19406,
+            "text": "지하에?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_unv6fm248v",
+            "startAt": 19624,
+            "endAt": 23783,
+            "text": "예, 예, 예. 그래가지고 음, 발목 조금 더 차는데 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_iusomcdo008",
+            "startAt": 23980,
+            "endAt": 27641,
+            "text": "아, 그것 좀, 좀 부탁 좀 드립자고 제가 좀 허리 치",
+            "speaker": 1
+        },
+        {
+            "id": "e2781f7b",
+            "startAt": 26893,
+            "endAt": 28190,
+            "text": "저 그",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5pb39613qbg",
+            "startAt": 28362,
+            "endAt": 29562,
+            "text": "예, 예. 말씀하세요, 예.",
+            "speaker": 0
+        },
+        {
+            "id": "527abf1f",
+            "startAt": 30176,
+            "endAt": 31219,
+            "text": "어, 상아 아파트",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b0dpjgv8ukg",
+            "startAt": 31162,
+            "endAt": 32880,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ot43389ijv8",
+            "startAt": 32910,
+            "endAt": 34183,
+            "text": "지하",
+            "speaker": 1
+        },
+        {
+            "id": "42327347",
+            "startAt": 35055,
+            "endAt": 36657,
+            "text": "그니깐 그러치 예, 예,  ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_trf85j5o6r8",
+            "startAt": 36775,
+            "endAt": 39537,
+            "text": "배수 관련해서 말씀하시는 거죠? 그니까 배수",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4hpk86ubos",
+            "startAt": 38761,
+            "endAt": 40498,
+            "text": "예, 예. 물, 물 펌프요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5j6h3j61ci",
+            "startAt": 40484,
+            "endAt": 43266,
+            "text": "아, 알겠습니, 저희 한번 나가볼 거고요.",
+            "speaker": 0
+        },
+        {
+            "id": "f2cf9ccd",
+            "startAt": 43391,
+            "endAt": 46691,
+            "text": "예, 예, 큰 펌프는 저기 그 상관없, 안 해도 상관없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "a1c87fa7",
+            "startAt": 47098,
+            "endAt": 52704,
+            "text": "네, 조그만 펌프로 저희 한번 나가서 확인해볼게요. 선생님, 거기에 계시는 거죠? 지금 현장에?",
+            "speaker": 0
+        },
+        {
+            "id": "2ec5aa2c",
+            "startAt": 53076,
+            "endAt": 53834,
+            "text": "예, 예, 예,",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_aqpk5f0q4po",
+            "startAt": 53711,
+            "endAt": 54838,
+            "text": "예. 알겠습니다, ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_r8fdfd5bf1g",
+            "startAt": 54993,
+            "endAt": 57174,
+            "text": "예, 부탁 좀 드리겠습니다, 예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 서구 가좌동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "중",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

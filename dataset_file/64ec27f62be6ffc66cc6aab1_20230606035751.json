@@ -1,0 +1,117 @@
+{
+    "_id": "64ec27f62be6ffc66cc6aab1",
+    "audioPath": "20230827/Incheon/2023/06/06/007/converted_20230606035751_4007-007.wav",
+    "recordId": "179b6ba5a76b85327127",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 41720,
+    "utterances": [
+        {
+            "id": "19780b77",
+            "startAt": 166,
+            "endAt": 1437,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jl73tp25k3",
+            "startAt": 1582,
+            "endAt": 2919,
+            "text": "저 여기 간석 엘에이",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_odjueda4vg",
+            "startAt": 2910,
+            "endAt": 6201,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ocgtieggbu8",
+            "startAt": 6326,
+            "endAt": 10736,
+            "text": "예, 여기 배관이 터졌는데 이게 배관이 안 잠겨서 지금 물 바다고 난리 났어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t0hd7k69re8",
+            "startAt": 11729,
+            "endAt": 14439,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ij7h6vso318",
+            "startAt": 16779,
+            "endAt": 17970,
+            "text": "어디 배관이 터졌어요?",
+            "speaker": 0
+        },
+        {
+            "id": "73fbfbaf",
+            "startAt": 18195,
+            "endAt": 22594,
+            "text": "아 그 아 지금 빨리 와주세요, 지금 난리 났어요. 아이",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_aupo4llsv58",
+            "startAt": 23607,
+            "endAt": 25344,
+            "text": "배관 잠그셔야 될 거 아니에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mcq91o4go3",
+            "startAt": 25323,
+            "endAt": 27805,
+            "text": "아 배관이 저 안 잠겨요, 터졌나 봐요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p045gm8ue4",
+            "startAt": 28904,
+            "endAt": 31886,
+            "text": "아 좀 빨리 좀 와주세요. 아 미칠 거 같아.",
+            "speaker": 1
+        },
+        {
+            "id": "47c8fe13",
+            "startAt": 34824,
+            "endAt": 36525,
+            "text": "아 좀만 도와주세요. 빨리",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nei6709h5kg",
+            "startAt": 37067,
+            "endAt": 38822,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_95p2gtdsaig",
+            "startAt": 38895,
+            "endAt": 40032,
+            "text": "네 이",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_btp7oc0319g",
+            "startAt": 39277,
+            "endAt": 40086,
+            "text": "예.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 남동구 간석동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

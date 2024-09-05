@@ -1,0 +1,257 @@
+{
+    "_id": "64d9fdff3e12da15ae3a48f1",
+    "audioPath": "20230814/Incheon/2023/02/03/016/converted_20230203180328_4016-016.wav",
+    "recordId": "f50a72c2672be31cac79",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 109520,
+    "utterances": [
+        {
+            "id": "441df465",
+            "startAt": 729,
+            "endAt": 1729,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "365a2bb1",
+            "startAt": 2319,
+            "endAt": 4879,
+            "text": "네, 안녕하세요. 저기 인천공항인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "8bb8ccf8",
+            "startAt": 5099,
+            "endAt": 6179,
+            "text": "인천공항, 예.",
+            "speaker": 0
+        },
+        {
+            "id": "6d5c226b",
+            "startAt": 6916,
+            "endAt": 12974,
+            "text": "네, 지금 일본에서 저기 모야모야병 진단받고 지금 오는 환자가 하나 있는데.",
+            "speaker": 1
+        },
+        {
+            "id": "78aa8a63",
+            "startAt": 13202,
+            "endAt": 15521,
+            "text": "모야모야병이요? 네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fe738f53eb",
+            "startAt": 13264,
+            "endAt": 14700,
+            "text": "지금 조금",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_509d9fao7i8",
+            "startAt": 15800,
+            "endAt": 16609,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jooib6qrr6o",
+            "startAt": 16882,
+            "endAt": 21964,
+            "text": "지금 환자가 조금 이동하기에는 지금 퇴근시간이고 이래갖고 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kv67g8uvkhg",
+            "startAt": 22300,
+            "endAt": 28728,
+            "text": "좀 멀리 좀 갈라 그러는데, 혹시 가능 상담 좀 아니 상담이래 가능할까요? 이송이 서울대병원까지?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_g1pimsosqgo",
+            "startAt": 28810,
+            "endAt": 30564,
+            "text": "어, 선생님, 일단은",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7tlvccd9dko",
+            "startAt": 30746,
+            "endAt": 31237,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_r1fl1jkfkg8",
+            "startAt": 31528,
+            "endAt": 35964,
+            "text": "그 저희 그 치료 가능한 가까운 병원으로 가는 게 원칙이에요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c6ucu38g6io",
+            "startAt": 36282,
+            "endAt": 36719,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mrkpg7gkmpg",
+            "startAt": 36773,
+            "endAt": 43846,
+            "text": "네, 그렇기 때문에 그 병원 선정 관련해서는 그 여기서 선정하는 게 아니고",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5mbentc7lr",
+            "startAt": 41773,
+            "endAt": 42164,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_phpnhbgohng",
+            "startAt": 43855,
+            "endAt": 48801,
+            "text": "출동 대원이 환자분 상태 보고 인근에 치료 가능한 병원으로 이송은 도와드릴 순 있어요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4087n0vb60o",
+            "startAt": 44092,
+            "endAt": 44546,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_72697t9i00g",
+            "startAt": 49499,
+            "endAt": 50462,
+            "text": "아",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4el637si548",
+            "startAt": 50774,
+            "endAt": 53010,
+            "text": "오산자, 예, 말씀하세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ghhqi3tjcm",
+            "startAt": 50801,
+            "endAt": 52301,
+            "text": "보통은, 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0mo1qh7j1gg",
+            "startAt": 53065,
+            "endAt": 61819,
+            "text": "보통은 이제 장거리나 뭐 다른 뭐 지방이나 뭐 서울이나 이렇게 멀리 가시는 경우는 종종 이제 사설 구급차도 이용은 하시거든요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2kiimafdns8",
+            "startAt": 62365,
+            "endAt": 66574,
+            "text": "아, 사설이 없다 그래갖고요 제가 마지막으로 전화드린 건데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4vmckrnjt28",
+            "startAt": 66756,
+            "endAt": 68474,
+            "text": "사설이 없다는 게 무슨 말씀이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_442009sru08",
+            "startAt": 68437,
+            "endAt": 72574,
+            "text": "현재 차가 다 나가있어서 출동이 불가능하단 답변만 받았거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2tdgg8r7g8g",
+            "startAt": 72574,
+            "endAt": 74574,
+            "text": "어디에, 어디랑 통화하신 건데요?",
+            "speaker": 0
+        },
+        {
+            "id": "d2361c6d",
+            "startAt": 75680,
+            "endAt": 79121,
+            "text": "인터넷에 있는데 한 두 군데 업체랑 통화를 했거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fa4416dektg",
+            "startAt": 79183,
+            "endAt": 88929,
+            "text": "아, 네, 그래서 저희가 사설 혹시나 이제 사설 번호 사설 그 앰뷸런스 번호가 필요하시면은 저희가 그 안내해 드릴 순 있어요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_l2p3f2m2ie",
+            "startAt": 87229,
+            "endAt": 87738,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_154gndn65cg",
+            "startAt": 89411,
+            "endAt": 91547,
+            "text": "아, 그러면 연락처 좀 받을 수 있을까요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_56sq2445jeg",
+            "startAt": 91847,
+            "endAt": 92774,
+            "text": "잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u4oa78s06bg",
+            "startAt": 93165,
+            "endAt": 93711,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lbc5pp52ch8",
+            "startAt": 98265,
+            "endAt": 104829,
+            "text": "저희 그 상담 부서 한 번 더 연결을 해드릴게요. 지금 연결이 많아, 콜이 많아서 좀 지연될 수 있어요. 좀 끊지말고 기다려주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_60ucv85udq",
+            "startAt": 100938,
+            "endAt": 101447,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9att88l61lo",
+            "startAt": 104947,
+            "endAt": 105438,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

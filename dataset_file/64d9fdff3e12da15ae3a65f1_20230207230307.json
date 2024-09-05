@@ -1,0 +1,152 @@
+{
+    "_id": "64d9fdff3e12da15ae3a65f1",
+    "audioPath": "20230814/Incheon/2023/02/07/071/converted_20230207230307_2-071.wav",
+    "recordId": "a4d19d93b0f26e6fd0ab",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 74720,
+    "utterances": [
+        {
+            "id": "f02a0e95",
+            "startAt": 0,
+            "endAt": 460,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "153a16af",
+            "startAt": 1185,
+            "endAt": 2931,
+            "text": "네, 안녕하세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_50gs620oek",
+            "startAt": 2969,
+            "endAt": 5119,
+            "text": "음 저 죄송한데 저기",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pnl3460in7",
+            "startAt": 8063,
+            "endAt": 15038,
+            "text": "어 저 어정말 죄송한데요. 네, 제가 몸이 안 좋기도 하고 술도 많이 마셔가지고 알코 중독이기도 한데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o6n94i6a4c8",
+            "startAt": 15216,
+            "endAt": 19641,
+            "text": "집을 집에서 지금 한 5, 6키로가 떨어져 있거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "c5e5fc65",
+            "startAt": 20300,
+            "endAt": 26538,
+            "text": "근데 여기가 이제 김포에서 벗어나가지고 이제 버스가 택시가 안 잡히는 곳이 있더라고요.",
+            "speaker": 1
+        },
+        {
+            "id": "694798ca",
+            "startAt": 27461,
+            "endAt": 35140,
+            "text": "그래가지고 아 죄송하지만 저기 병원은 안 가도 될 거 같긴 한데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_s9hqjn2e3so",
+            "startAt": 35388,
+            "endAt": 38138,
+            "text": "그냥 쓰러져 누울 거 같아가지고. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o8cp7gt9ec8",
+            "startAt": 38613,
+            "endAt": 44176,
+            "text": "그때 경찰서나 아니면 어떻게 도움 받을 수 있을까요?",
+            "speaker": 1
+        },
+        {
+            "id": "6927ed88",
+            "startAt": 44258,
+            "endAt": 48116,
+            "text": "앞전에도 몇 번인가 도움을 많이 받았었거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a0uulo4fg7g",
+            "startAt": 44335,
+            "endAt": 45429,
+            "text": "아 그러시면",
+            "speaker": 0
+        },
+        {
+            "id": "d9932ae0",
+            "startAt": 48004,
+            "endAt": 54067,
+            "text": "아 저희 구급차는 응급실 긴급하게 네 이송하는 역할이구요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6llfqjktjb8",
+            "startAt": 54420,
+            "endAt": 54901,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_s8u3a3mm4",
+            "startAt": 54592,
+            "endAt": 57710,
+            "text": "그럴 이럴 경우는 경찰에 한 번 문의해 해보셔야 돼요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_l858pulobp8",
+            "startAt": 57813,
+            "endAt": 59251,
+            "text": "경찰서에요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8qdk47arnuo",
+            "startAt": 59323,
+            "endAt": 62717,
+            "text": "네 앞전에도 그렇게 했었는데, 네 알겠습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_777gvaltdog",
+            "startAt": 62739,
+            "endAt": 63176,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jv23vg90jeg",
+            "startAt": 63185,
+            "endAt": 64010,
+            "text": "고맙습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ko44o006bq8",
+            "startAt": 64032,
+            "endAt": 64501,
+            "text": "네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

@@ -1,0 +1,194 @@
+{
+    "_id": "64dd752b1ef84058319a8603",
+    "audioPath": "20230815/Incheon/2023/02/14/006/converted_20230214204024_4006-006.wav",
+    "recordId": "dc08296704168b098ed2",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 65040.00000000001,
+    "utterances": [
+        {
+            "id": "wavesurfer_te6vkcgkiag",
+            "startAt": 1709,
+            "endAt": 2837,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hi6t1o58kr8",
+            "startAt": 3015,
+            "endAt": 6915,
+            "text": "네 뭐 좀 물어볼게요. 차에서 지금 계속 소리가 나가지고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vo3eacgdv2",
+            "startAt": 6351,
+            "endAt": 7506,
+            "text": "예 뭐라고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_usqta2rtmd",
+            "startAt": 7717,
+            "endAt": 10790,
+            "text": "제 차에서 지금 계속 이렇게 소리가 나가지고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8fcsp5elu08",
+            "startAt": 11470,
+            "endAt": 13452,
+            "text": "긍까 경보기 소리 난다는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bfgqbngrph",
+            "startAt": 13586,
+            "endAt": 14923,
+            "text": "네네네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qa75v5bcemg",
+            "startAt": 14195,
+            "endAt": 16059,
+            "text": "타는 냄새나 연기 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dh9tnijop8",
+            "startAt": 16310,
+            "endAt": 18828,
+            "text": "아 그런 건 없는데 지금 계속 소리가 나서",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_46tbafmergg",
+            "startAt": 17556,
+            "endAt": 19256,
+            "text": "주소 좀 불러주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jq25f9mq7t8",
+            "startAt": 19834,
+            "endAt": 21507,
+            "text": "여기 논현동이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ik48sl3ccrg",
+            "startAt": 21763,
+            "endAt": 23718,
+            "text": "주소를 부르시라고요. 신고자분.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_n1cqaptaubg",
+            "startAt": 24292,
+            "endAt": 28620,
+            "text": "주소 여기가, 여기가 논현 소래포구역이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_149qsi454vo",
+            "startAt": 29500,
+            "endAt": 32873,
+            "text": "소래포구 역사에서 울리는 건 아니잖아요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rh0utmgnfag",
+            "startAt": 32920,
+            "endAt": 35684,
+            "text": "네네. 제 차, 제 차가 소래포구역 앞에 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ve9rknc342g",
+            "startAt": 36002,
+            "endAt": 40102,
+            "text": "긍까 건물, 어느 건물인지를 말씀하셔야 돼요 신고자분.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k7g8i335jio",
+            "startAt": 40693,
+            "endAt": 45021,
+            "text": "아 소래포구역에 있다고요. 소래포구역 앞에 있다고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_todg2q6g7p8",
+            "startAt": 43753,
+            "endAt": 45199,
+            "text": "네 네 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_drkjcgh56f",
+            "startAt": 47646,
+            "endAt": 49346,
+            "text": "차에서 소리가 나는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_59rcal89cgo",
+            "startAt": 49175,
+            "endAt": 50794,
+            "text": "네네, 네네네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1ka3d4onpu",
+            "startAt": 51519,
+            "endAt": 53774,
+            "text": "신고자분 차에서 소리가 난다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3sm6ss4t3g",
+            "startAt": 53418,
+            "endAt": 55181,
+            "text": "네네, 네네네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_srfonqefmgg",
+            "startAt": 55852,
+            "endAt": 59652,
+            "text": "차에서 소리가, 차에서 이 소리가 나는 건 저희가",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_oh7mkurpsp",
+            "startAt": 60116,
+            "endAt": 61871,
+            "text": "아 그래요? 여기다 하면 안 되나요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gern9anaeug",
+            "startAt": 61834,
+            "endAt": 62443,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lt7c8v79dg8",
+            "startAt": 62062,
+            "endAt": 64071,
+            "text": "어 알겠어요. 그러면. 네네네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

@@ -1,0 +1,131 @@
+{
+    "_id": "64d9fdff3e12da15ae3a61f7",
+    "audioPath": "20230814/Incheon/2023/02/04/085/converted_20230204182441_16-085.wav",
+    "recordId": "ec2bd0e15531ac6c3ffc",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 64920,
+    "utterances": [
+        {
+            "id": "f32405ca",
+            "startAt": 0,
+            "endAt": 630,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jfjk9nj4lkg",
+            "startAt": 854,
+            "endAt": 2663,
+            "text": "아. 예, 경찰인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ok199n584u",
+            "startAt": 2871,
+            "endAt": 7543,
+            "text": "그 계산역에 비행기라는데 뭐, 드론을 얘기하는 거예요. 무슨 비행기예요, 헬기예요? 어떤 거예요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6o9nhkfd1sg",
+            "startAt": 7632,
+            "endAt": 14604,
+            "text": "저희도 그 신고자 말로는 비행기인지 잘 모르겠는데 그 비행기인지 그 추락 추락했다고 하고 전화를 지금 계속 안 받고 있어요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_i6ocpha2ma8",
+            "startAt": 14906,
+            "endAt": 16842,
+            "text": "저희 계속 전화하고 있는데",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qe5phq2gvo8",
+            "startAt": 16976,
+            "endAt": 23112,
+            "text": "혹시 비행기 그니까 제가 처음에 봤을 때, 비행기라고 하면은 뭐 얼 무슨 비행기인지 처음에 드론인지 헬기인지 뭐",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sn5e2jv3528",
+            "startAt": 23139,
+            "endAt": 28866,
+            "text": "저희도 파악을 할려고 전화 계속 연결 중인데 이분이 계속해서 전화를 안 받으세요. 그래서 일단 저희도 출동했거든요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2birkia9m7g",
+            "startAt": 29351,
+            "endAt": 36387,
+            "text": "그래, 그래서 접수 중 한데 이게 지금 큰 만약 예, 비행기면 이게 큰일이라 이게 무슨 언제 회계인지 지금 이게",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4m7uv2lsc2g",
+            "startAt": 29392,
+            "endAt": 32455,
+            "text": "찾아보는데, 네 여기 뭐 들어온 건 없죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ut2rs06l7kg",
+            "startAt": 34883,
+            "endAt": 35411,
+            "text": "아",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_t1rus6tf65o",
+            "startAt": 36545,
+            "endAt": 39490,
+            "text": "저희도 군부대 쪽 다 확인해봤는데 아직 뭐 들어온 건 없어요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7rn4kgto5fo",
+            "startAt": 39810,
+            "endAt": 40755,
+            "text": "군부대는 없구요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6hporhekgmo",
+            "startAt": 40259,
+            "endAt": 40786,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6ud3abn7vc",
+            "startAt": 40821,
+            "endAt": 42957,
+            "text": "어, 일단 어",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_iid1af0flvo",
+            "startAt": 40845,
+            "endAt": 43072,
+            "text": "그래서 일단 저희 나가서 확인해봐야 될 거 같아요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ss3rl20fiog",
+            "startAt": 43266,
+            "endAt": 45529,
+            "text": "일단 알겠습니다. 네. 예예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

@@ -1,0 +1,152 @@
+{
+    "_id": "64d9fdff3e12da15ae3a4d5a",
+    "audioPath": "20230814/Incheon/2023/02/10/003/converted_20230210234124_4003-003.wav",
+    "recordId": "142c9a12d0471f814d58",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 50240,
+    "utterances": [
+        {
+            "id": "40054697",
+            "startAt": 18756,
+            "endAt": 19096,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "42fd0b3a",
+            "startAt": 19846,
+            "endAt": 21701,
+            "text": "그 119 소방서인데요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5usgt1e88s8",
+            "startAt": 21978,
+            "endAt": 22511,
+            "text": "예예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0fh8fmjrkvo",
+            "startAt": 22440,
+            "endAt": 24974,
+            "text": "경남아파트 맞은편 공원이라고 하셨잖아요?",
+            "speaker": 0
+        },
+        {
+            "id": "2b9ff531",
+            "startAt": 26554,
+            "endAt": 27642,
+            "text": "예예예예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t7leuqutn5o",
+            "startAt": 27437,
+            "endAt": 29237,
+            "text": "아파트 혹시 몇 동이 보여요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gelbmqi0ce",
+            "startAt": 29862,
+            "endAt": 32563,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pfctmgpjei",
+            "startAt": 32617,
+            "endAt": 33650,
+            "text": "맞은편이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_d0o7og46e3",
+            "startAt": 33742,
+            "endAt": 34667,
+            "text": "예예예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_l5js058sdno",
+            "startAt": 34555,
+            "endAt": 36013,
+            "text": "아, 공원 내에 계세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_cbfpuhoggsg",
+            "startAt": 36517,
+            "endAt": 37301,
+            "text": "예예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2nhljf5mop8",
+            "startAt": 37205,
+            "endAt": 38197,
+            "text": "알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vfbpft02o3",
+            "startAt": 38105,
+            "endAt": 39780,
+            "text": "예예. 기, 여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8s2kfnupcdo",
+            "startAt": 39789,
+            "endAt": 40580,
+            "text": "네, 말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_91cslro2vc8",
+            "startAt": 41026,
+            "endAt": 43593,
+            "text": "여. 그 도로 옆에 도로변",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dqnlpgv7li8",
+            "startAt": 43852,
+            "endAt": 47027,
+            "text": "도로, 그니까 그 맞은편에 있는 도로상에 있다는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5ghdc5d8kqo",
+            "startAt": 46669,
+            "endAt": 48802,
+            "text": "예예, 그렇, 예, 그렇죠, 예예. 예예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2sqp5arge9g",
+            "startAt": 47619,
+            "endAt": 49027,
+            "text": "아 예, 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_l9t8q8mrl0g",
+            "startAt": 49002,
+            "endAt": 49519,
+            "text": "예예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

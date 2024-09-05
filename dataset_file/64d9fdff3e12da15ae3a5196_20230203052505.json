@@ -1,0 +1,502 @@
+{
+    "_id": "64d9fdff3e12da15ae3a5196",
+    "audioPath": "20230814/Incheon/2023/02/03/069/converted_20230203052505_0-069.wav",
+    "recordId": "b4fde87d1513a15084ad",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 158240,
+    "utterances": [
+        {
+            "id": "3d0de849",
+            "startAt": 0,
+            "endAt": 626,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_e46miufi69g",
+            "startAt": 1236,
+            "endAt": 4073,
+            "text": "네, 좀 전에 전화했던 사람인데요. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "05e9d1c7",
+            "startAt": 4424,
+            "endAt": 6206,
+            "text": "제일병원. 왜 안 오실까?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tfosc98rub",
+            "startAt": 6668,
+            "endAt": 7496,
+            "text": "잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qe5vp4ne7k8",
+            "startAt": 10369,
+            "endAt": 13460,
+            "text": "저희가 간다고 얘기한 적이 없는데요? 구급차가 나간 게 없어요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_je1d2hvhtvo",
+            "startAt": 14685,
+            "endAt": 15612,
+            "text": "그래요",
+            "speaker": 1
+        },
+        {
+            "id": "0f5fd688",
+            "startAt": 14762,
+            "endAt": 16702,
+            "text": "무슨, 뭘 뭘 신고를 하셨는데요?",
+            "speaker": 0
+        },
+        {
+            "id": "19b3d290",
+            "startAt": 17325,
+            "endAt": 18637,
+            "text": "응급실 갈려고요.",
+            "speaker": 1
+        },
+        {
+            "id": "346a7e6e",
+            "startAt": 18875,
+            "endAt": 20959,
+            "text": "응급실 가신다고요? 지금 어디 계신데요?",
+            "speaker": 0
+        },
+        {
+            "id": "b15dd3a8",
+            "startAt": 21475,
+            "endAt": 24608,
+            "text": "지금 길병원, 저기 암센타. 예.",
+            "speaker": 1
+        },
+        {
+            "id": "fa9eb855",
+            "startAt": 25122,
+            "endAt": 30299,
+            "text": "저기. 심 숙 여기가 어디",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lv75gn437eo",
+            "startAt": 30285,
+            "endAt": 31356,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7tecd2smpro",
+            "startAt": 32450,
+            "endAt": 32826,
+            "text": "뭐",
+            "speaker": 0
+        },
+        {
+            "id": "b1f575d6",
+            "startAt": 32813,
+            "endAt": 33759,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_c7rv05n5kqo",
+            "startAt": 33860,
+            "endAt": 35543,
+            "text": "환자신 거예요? 아니면은",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_d3a5rs288ng",
+            "startAt": 35809,
+            "endAt": 36410,
+            "text": "환자요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3me8gabu8a",
+            "startAt": 36095,
+            "endAt": 37414,
+            "text": "보 보호자신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "0c950a9f",
+            "startAt": 38534,
+            "endAt": 40786,
+            "text": "보호실 신고지 그러니까 환자.",
+            "speaker": 1
+        },
+        {
+            "id": "df2be9f3",
+            "startAt": 41758,
+            "endAt": 44261,
+            "text": "아니, 병원에 입원해 계신데, 응급실을 가신다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "18c94e2f",
+            "startAt": 44817,
+            "endAt": 45369,
+            "text": "예예예.",
+            "speaker": 1
+        },
+        {
+            "id": "5bf16042",
+            "startAt": 46356,
+            "endAt": 48984,
+            "text": "그거 간호사한테 얘기를 하셔야죠, 거기 간호사한테.",
+            "speaker": 0
+        },
+        {
+            "id": "c0620ec7",
+            "startAt": 49442,
+            "endAt": 50467,
+            "text": "어. 그랬으믄.",
+            "speaker": 1
+        },
+        {
+            "id": "adf10b6b",
+            "startAt": 51337,
+            "endAt": 51649,
+            "text": "네?",
+            "speaker": 0
+        },
+        {
+            "id": "e9830d24",
+            "startAt": 52391,
+            "endAt": 54047,
+            "text": "못 믿어워서. 간호사들.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fsjaaqcaau",
+            "startAt": 54435,
+            "endAt": 58335,
+            "text": "아이 그게 무슨 말씀이세요? 병원에 계신데 간호사가 못 믿덥다고 119에다가",
+            "speaker": 0
+        },
+        {
+            "id": "b93dbe34",
+            "startAt": 58834,
+            "endAt": 62176,
+            "text": "병원에서 병원 10층 가는 걸 신고하시는 사람이 어딨어요?",
+            "speaker": 0
+        },
+        {
+            "id": "e0a91577",
+            "startAt": 62970,
+            "endAt": 67795,
+            "text": "그럼 뭐. 못 나가게 하는데 어떡해 신고를 해야지. 여기 못 나가게 해요.",
+            "speaker": 1
+        },
+        {
+            "id": "9f02f376",
+            "startAt": 69113,
+            "endAt": 69798,
+            "text": "신고자분.",
+            "speaker": 0
+        },
+        {
+            "id": "f8b51f81",
+            "startAt": 70440,
+            "endAt": 70710,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "fcc82988",
+            "startAt": 72522,
+            "endAt": 76821,
+            "text": "그걸 여기다가 얘기하셔봐야 여기서 권한이 없으니까 간호사랑 얘기하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "ba520516",
+            "startAt": 75948,
+            "endAt": 77574,
+            "text": "그럼 어다가  어따가 얘길해?",
+            "speaker": 1
+        },
+        {
+            "id": "e3038da7",
+            "startAt": 78162,
+            "endAt": 80599,
+            "text": "아니, 간호사한테 얘기를 하시라고요, 의료진한테. 네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_q91sdthkl38",
+            "startAt": 78354,
+            "endAt": 78827,
+            "text": "그래서",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lh2j80i008o",
+            "startAt": 81199,
+            "endAt": 83881,
+            "text": "그러면은 여기 담당자.",
+            "speaker": 1
+        },
+        {
+            "id": "acd7dbae",
+            "startAt": 82614,
+            "endAt": 84492,
+            "text": "신고자분 이름, 이름 뭐예요? 이름.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_t388ibdch7g",
+            "startAt": 85375,
+            "endAt": 85985,
+            "text": "누 누구요?",
+            "speaker": 1
+        },
+        {
+            "id": "884ab1ac",
+            "startAt": 86137,
+            "endAt": 87841,
+            "text": "본인 이름, 어떻게 되세요? 본인 이름?",
+            "speaker": 0
+        },
+        {
+            "id": "d7bd4535",
+            "startAt": 88750,
+            "endAt": 89487,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_do4pol9o0o8",
+            "startAt": 89739,
+            "endAt": 92903,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9okq34f1tso",
+            "startAt": 91011,
+            "endAt": 91893,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_f04lpc2isbg",
+            "startAt": 93334,
+            "endAt": 93779,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cok8180gpk8",
+            "startAt": 94086,
+            "endAt": 95113,
+            "text": "어",
+            "speaker": 1
+        },
+        {
+            "id": "79ac456a",
+            "startAt": 95082,
+            "endAt": 96016,
+            "text": "옆에 누구예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_83hd5fc60d",
+            "startAt": 96622,
+            "endAt": 97749,
+            "text": "간호사에요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7kr2cdvopqo",
+            "startAt": 96940,
+            "endAt": 100995,
+            "text": "간호사에요. 간호사가 또.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nojf71v4ef8",
+            "startAt": 98223,
+            "endAt": 98968,
+            "text": "바꿔주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_221129p519g",
+            "startAt": 101399,
+            "endAt": 105336,
+            "text": "병원인데 거기 응급실이 왜 내려가냐고. 못내려가게 한다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vj7rd96m0qg",
+            "startAt": 103972,
+            "endAt": 106290,
+            "text": "아니, 신고자분 신고자분.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_klrdh2jc94g",
+            "startAt": 105824,
+            "endAt": 106252,
+            "text": "왜.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7td8f9helho",
+            "startAt": 106284,
+            "endAt": 115212,
+            "text": "그니까. 아니, 그러니까. 그러면은 지금 전화받으시는 분이 제 담당 의사가 척추센터거든요? 거기서",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jn669f5id3o",
+            "startAt": 114384,
+            "endAt": 115257,
+            "text": "신고자분.",
+            "speaker": 0
+        },
+        {
+            "id": "70137711",
+            "startAt": 115910,
+            "endAt": 120152,
+            "text": "백 백 저기 교수님이세요, 그분을 좀 연결해주세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4t1k22tbsro",
+            "startAt": 120034,
+            "endAt": 120798,
+            "text": "여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "c2b358fd",
+            "startAt": 120983,
+            "endAt": 122443,
+            "text": "안 나왔어.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_m1n8i26p7p8",
+            "startAt": 122415,
+            "endAt": 122769,
+            "text": "여보.",
+            "speaker": 0
+        },
+        {
+            "id": "a39ab234",
+            "startAt": 122885,
+            "endAt": 124850,
+            "text": "저기 새벽에 나한테 왔었어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_j03bi6htoho",
+            "startAt": 124833,
+            "endAt": 126088,
+            "text": "여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "7b54744e",
+            "startAt": 124839,
+            "endAt": 127678,
+            "text": "할머니 선생님 새벽에 어제 왔으니까 오늘은 자야지.",
+            "speaker": 1
+        },
+        {
+            "id": "c026d81a",
+            "startAt": 129644,
+            "endAt": 132890,
+            "text": "여보세요. 바꿔보세요, 빨리.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fcvqj0r1kbo",
+            "startAt": 130201,
+            "endAt": 133746,
+            "text": "바꿔달라구요? 예 예 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_n1lm0fb838",
+            "startAt": 134878,
+            "endAt": 135678,
+            "text": "어머나 참.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jsh3n1ltv98",
+            "startAt": 135655,
+            "endAt": 137264,
+            "text": "네, 전화받았습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vjto0ceco0o",
+            "startAt": 136619,
+            "endAt": 140020,
+            "text": "네, 119인데요. 뭐 이분 치매예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_b8ibssvqd0g",
+            "startAt": 138544,
+            "endAt": 140035,
+            "text": "네, 알겠어 안갔",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e7uejkchbno",
+            "startAt": 140653,
+            "endAt": 143880,
+            "text": "지금 수술하시고 선망 오셔가지고요. 죄송해요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_45fmn1h1h6",
+            "startAt": 142564,
+            "endAt": 145110,
+            "text": "아, 선망 증세예요? 어 아니에요, 괜찮아요.",
+            "speaker": 0
+        },
+        {
+            "id": "acf9f5c7",
+            "startAt": 145373,
+            "endAt": 150283,
+            "text": "예. 네네. 아닙니다, 괜찮습니다. 네 네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_js19n7q2cc",
+            "startAt": 145899,
+            "endAt": 147790,
+            "text": "보호자분들 다 알고 계시고요. 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k3dcp729ic8",
+            "startAt": 149829,
+            "endAt": 150292,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

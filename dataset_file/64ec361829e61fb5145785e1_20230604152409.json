@@ -1,0 +1,278 @@
+{
+    "_id": "64ec361829e61fb5145785e1",
+    "audioPath": "20230828/Incheon/2023/06/04/071/converted_20230604152409_2-071.wav",
+    "recordId": "e5e1a5180f7ffa94525a",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 101680,
+    "utterances": [
+        {
+            "id": "wavesurfer_j1fsp86heeg",
+            "startAt": 9,
+            "endAt": 309,
+            "text": "요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_il5th1g2p5o",
+            "startAt": 618,
+            "endAt": 2000,
+            "text": "여기 수고하십니다. 여기.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8js1d4uo10o",
+            "startAt": 2409,
+            "endAt": 2764,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_45pr7oc059o",
+            "startAt": 2781,
+            "endAt": 4636,
+            "text": "여 크리스탈로 74번길",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tritu5msi58",
+            "startAt": 4682,
+            "endAt": 6927,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ckk2401rop",
+            "startAt": 7073,
+            "endAt": 8309,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qiu44t48eso",
+            "startAt": 8588,
+            "endAt": 9716,
+            "text": "잠깐만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vidgl6gucgg",
+            "startAt": 11654,
+            "endAt": 13372,
+            "text": "예 말씀하세요. 무슨 일이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_csq097h6m2o",
+            "startAt": 13050,
+            "endAt": 16941,
+            "text": "네 여기 지금 오피스텔 지하 수조에.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bcp5n09q628",
+            "startAt": 16904,
+            "endAt": 17368,
+            "text": "지하.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pmc7317tp9g",
+            "startAt": 17909,
+            "endAt": 18909,
+            "text": "지하 저수조.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3k0qe24qkm8",
+            "startAt": 19038,
+            "endAt": 20584,
+            "text": "저수조 네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o60go8hhcn",
+            "startAt": 20341,
+            "endAt": 21713,
+            "text": "예 예 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_u1cl4mdj5o",
+            "startAt": 22427,
+            "endAt": 25818,
+            "text": "어 급수가 터진거 같아요 그래가지고. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ogc27qs0pa",
+            "startAt": 25927,
+            "endAt": 27836,
+            "text": "물이 지금 많이 차가지고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hak3aveinmo",
+            "startAt": 27815,
+            "endAt": 29606,
+            "text": "아 높이가 어느정도 찼어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ngv7fp8shg8",
+            "startAt": 30318,
+            "endAt": 31509,
+            "text": "아 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_83631r5kq8g",
+            "startAt": 32418,
+            "endAt": 34863,
+            "text": "대충 보기에 한 40cm 찬거 같은데. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rpa0ghacc9",
+            "startAt": 35261,
+            "endAt": 38906,
+            "text": "지금 여기에 쇼크 쇼크나면은 이제 다 죽어버리거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kfitkunrbd8",
+            "startAt": 39504,
+            "endAt": 40940,
+            "text": "아 잠깐만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1hq3hosbl18",
+            "startAt": 39924,
+            "endAt": 40915,
+            "text": "배수 배수.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3hblupsdqhg",
+            "startAt": 41838,
+            "endAt": 43629,
+            "text": "배수 좀 빨리 해야될거같은데.",
+            "speaker": 1
+        },
+        {
+            "id": "17d4f8dd",
+            "startAt": 43688,
+            "endAt": 45626,
+            "text": "그니까 높이가 무릎 정도 와요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_es0ltji4cao",
+            "startAt": 46799,
+            "endAt": 47554,
+            "text": "그정도.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rqlg6qvqdrg",
+            "startAt": 48808,
+            "endAt": 50963,
+            "text": "아 지하 몇 층으로 가면 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_paabthjtds",
+            "startAt": 53836,
+            "endAt": 54836,
+            "text": "여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bndg14u9dog",
+            "startAt": 55988,
+            "endAt": 56669,
+            "text": "그면요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2u832k4elqo",
+            "startAt": 58603,
+            "endAt": 59603,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7k8dbh0olmg",
+            "startAt": 58708,
+            "endAt": 61226,
+            "text": "여보세요. 예 지하 몇 층으로 가면 될까요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6bos4c72cv",
+            "startAt": 61469,
+            "endAt": 62597,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_64sska5gavg",
+            "startAt": 62803,
+            "endAt": 64712,
+            "text": "이게 마지막이고. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a3i599ionag",
+            "startAt": 65151,
+            "endAt": 66897,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o05gugtd89g",
+            "startAt": 67892,
+            "endAt": 69237,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pb12dd2qd8g",
+            "startAt": 69581,
+            "endAt": 71017,
+            "text": "집주정이거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3eet88l9u4",
+            "startAt": 71051,
+            "endAt": 78287,
+            "text": "어 우선은 저희 출동조치는 했고요. 그 출동대원이 전화 드릴수 있으니까 전화좀 받아주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nk4q5m5ce7",
+            "startAt": 78471,
+            "endAt": 79708,
+            "text": "네. 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jgb7ct84kv8",
+            "startAt": 89607,
+            "endAt": 93326,
+            "text": "아 청라 펌프 배수 관련 지원 출동입니다.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 서구 청라동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

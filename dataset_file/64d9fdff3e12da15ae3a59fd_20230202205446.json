@@ -1,0 +1,243 @@
+{
+    "_id": "64d9fdff3e12da15ae3a59fd",
+    "audioPath": "20230814/Incheon/2023/02/02/009/converted_20230202205446_4009-009.wav",
+    "recordId": "efabaa96dd2230c544ee",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 54960,
+    "utterances": [
+        {
+            "id": "65e27cb5",
+            "startAt": 440,
+            "endAt": 1630,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "c1fc3f92",
+            "startAt": 2950,
+            "endAt": 6818,
+            "text": "네, 아까 전화해갖고 여자분하고 했는데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3l14111fgso",
+            "startAt": 7263,
+            "endAt": 9727,
+            "text": "아프다는거, 실신 하고 아프다는거.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_c1j57do3ito",
+            "startAt": 7300,
+            "endAt": 7999,
+            "text": "아 바",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kvkse9645rg",
+            "startAt": 9572,
+            "endAt": 10672,
+            "text": "아프다는거요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9jfg3r79mpg",
+            "startAt": 10963,
+            "endAt": 11499,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fpaguam7f38",
+            "startAt": 11681,
+            "endAt": 12308,
+            "text": "어.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6kvfc3r9ocg",
+            "startAt": 12654,
+            "endAt": 14272,
+            "text": "누가 아프신거죠? 예 예 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_71enhpjd93o",
+            "startAt": 12926,
+            "endAt": 13463,
+            "text": "그래?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gr6be5qufq",
+            "startAt": 14317,
+            "endAt": 16399,
+            "text": "아니 근데 으, 그냥, 그냥 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a0oeqsc4o7g",
+            "startAt": 17053,
+            "endAt": 18244,
+            "text": "그냥 계셔요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0la2gpaeac8",
+            "startAt": 18444,
+            "endAt": 19844,
+            "text": "나중에 내가.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_04b9lho2t4g",
+            "startAt": 19681,
+            "endAt": 20662,
+            "text": "네 네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1mdps4tibkg",
+            "startAt": 20044,
+            "endAt": 20608,
+            "text": "응.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hqiku12gjcg",
+            "startAt": 20708,
+            "endAt": 23180,
+            "text": "좀 더, 더하고 그러거나 그런지 그러면 내가.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_oho313kt81",
+            "startAt": 23489,
+            "endAt": 24607,
+            "text": "전화 드릴게.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rlcoabopnvo",
+            "startAt": 24380,
+            "endAt": 29562,
+            "text": "아 그러면 지금은 도움, 그, 도음필요 없으시고 좀 경과를 지켜 보시겠다는거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_crgjdvsh3vo",
+            "startAt": 24735,
+            "endAt": 25253,
+            "text": "예?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_evhtr65mcs8",
+            "startAt": 29616,
+            "endAt": 30671,
+            "text": "네 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f2jplkqau98",
+            "startAt": 30380,
+            "endAt": 32661,
+            "text": "지금 괜찮고, 조금 더 지켜보겠다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_emgs9teb1",
+            "startAt": 32880,
+            "endAt": 35179,
+            "text": "네, 지금 지, 지투파 가지고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ifnr6fejqs",
+            "startAt": 36116,
+            "endAt": 37152,
+            "text": "네 그러니깐.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1vemvkp6qoo",
+            "startAt": 37307,
+            "endAt": 39488,
+            "text": "그렇게 알, 그렇게 알고 계시라고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_riko509m43g",
+            "startAt": 39279,
+            "endAt": 42134,
+            "text": "에, 네 저희 구급차 이런거 안나가도 되는거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pkcvgf6qv7",
+            "startAt": 42334,
+            "endAt": 42924,
+            "text": "네?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_40l38opkhhg",
+            "startAt": 42888,
+            "endAt": 44633,
+            "text": "구급차 이런거 안나가도 되는거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c0mna6htjug",
+            "startAt": 44624,
+            "endAt": 45688,
+            "text": "네 네 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0pppt379vv8",
+            "startAt": 45433,
+            "endAt": 46606,
+            "text": "아, 네 알겠습.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pcrfammgbf",
+            "startAt": 45979,
+            "endAt": 46961,
+            "text": "그건 아니구요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_uf8t0v99n9o",
+            "startAt": 46961,
+            "endAt": 47588,
+            "text": "네. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_um7ej6mjk7g",
+            "startAt": 47460,
+            "endAt": 50315,
+            "text": "경과 지켜 보시고, 힘드시면 119에 재신고 해주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k5jtejjhrdo",
+            "startAt": 50569,
+            "endAt": 53606,
+            "text": "네 네, 알겠습니다. 네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

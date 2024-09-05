@@ -1,0 +1,201 @@
+{
+    "_id": "64d9fdff3e12da15ae3a48ea",
+    "audioPath": "20230814/Incheon/2023/02/03/076/converted_20230203023450_7-076.wav",
+    "recordId": "8fbadac4dcd143915bbb",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 96240,
+    "utterances": [
+        {
+            "id": "wavesurfer_3m8ape5017g",
+            "startAt": 873,
+            "endAt": 4645,
+            "text": "아 그게 좀 여쭤볼 게 있어서 전화드렸는데요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_aidgielg79",
+            "startAt": 3581,
+            "endAt": 3927,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_svdjqnd1f28",
+            "startAt": 5872,
+            "endAt": 12380,
+            "text": "그 제가 친구랑 아까 어제 좀 어제 저녁 쯤에 넘어졌는데 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_utd1921kubg",
+            "startAt": 9063,
+            "endAt": 9444,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1b4ood4hbco",
+            "startAt": 12044,
+            "endAt": 12553,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hjihtondu4g",
+            "startAt": 13758,
+            "endAt": 20502,
+            "text": "좀 친구는 좀 심하게 넘어졌고 저는 넘어지면서 이제 손이랑 골반 쪽이 좀 쓸렸어요. 바닥에",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f29dvvbs3go",
+            "startAt": 20511,
+            "endAt": 20802,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jogdhl5eov8",
+            "startAt": 21314,
+            "endAt": 25986,
+            "text": "근데 인제 학교 선생님들이 아시고 119를 불러가지고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_agdpepajopg",
+            "startAt": 25894,
+            "endAt": 26276,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kdqfdkkvn38",
+            "startAt": 26652,
+            "endAt": 31415,
+            "text": "119분들 오셔서 보긴 보고 가시긴 하셨거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cbgkjofdhto",
+            "startAt": 30952,
+            "endAt": 31434,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ikufj3bta1o",
+            "startAt": 32330,
+            "endAt": 38675,
+            "text": "근데 이거 소독하고 뭐, 거즈도 붙여놨었고 연고도 발라놨었는데 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jcjp5mfkmbo",
+            "startAt": 38657,
+            "endAt": 38957,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_859n17kg77",
+            "startAt": 40010,
+            "endAt": 46936,
+            "text": "이게 손바닥 저는 손바닥 하나랑 골반에 하나가 쓸렸는데 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0g73vf7lc6g",
+            "startAt": 46936,
+            "endAt": 47245,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_r856afle25g",
+            "startAt": 47836,
+            "endAt": 50445,
+            "text": "손, 골반은 괜찮거든요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ba200vhier",
+            "startAt": 51004,
+            "endAt": 57604,
+            "text": "근데 손바닥 쪽이 움, 이제 손 움직이는 부위라 그런진 모르겠는데, ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nsi79d3eqkg",
+            "startAt": 58415,
+            "endAt": 65642,
+            "text": "여기는 손바닥이 계속 약간 피랑 약간 물 같은 게 같이 나오면서 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vip58ch4kg",
+            "startAt": 65369,
+            "endAt": 66124,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nmvuvv2jrk8",
+            "startAt": 67474,
+            "endAt": 73327,
+            "text": "물 같은 게 같이 나오다 보니까, 피가 나는 것처럼 계속 그렇게 돼 있어갖고",
+            "speaker": 1
+        },
+        {
+            "id": "3cee7b98",
+            "startAt": 74063,
+            "endAt": 75950,
+            "text": "그 의료 상담을 원하시는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_md3s7p4km4",
+            "startAt": 76460,
+            "endAt": 76815,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_i9mvee9bn3g",
+            "startAt": 76969,
+            "endAt": 79142,
+            "text": "아, 연결 도와드릴게요, 전화 끊지 마세요.",
+            "speaker": 0
+        },
+        {
+            "id": "0ecee0a2",
+            "startAt": 79710,
+            "endAt": 80024,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "c7319de3",
+            "startAt": 84811,
+            "endAt": 86373,
+            "text": "네, 의료 상담입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "6075f406",
+            "startAt": 87105,
+            "endAt": 88397,
+            "text": "아, 그",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

@@ -1,0 +1,299 @@
+{
+    "_id": "64dd752b1ef84058319a8c27",
+    "audioPath": "20230815/Incheon/2023/02/23/007/converted_20230223104256_4007-007.wav",
+    "recordId": "ea2a0a4af26279622a32",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 90120,
+    "utterances": [
+        {
+            "id": "90d99719",
+            "startAt": 120,
+            "endAt": 930,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "77f1e6d6",
+            "startAt": 2018,
+            "endAt": 5009,
+            "text": "아, 네, 수고하십니다. 저희 여기 갈산동인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_i3san74m1n",
+            "startAt": 4925,
+            "endAt": 5859,
+            "text": "갈산동 네, ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_n9iibqcfoa",
+            "startAt": 6609,
+            "endAt": 12478,
+            "text": "아니 아 이거 그 소화전에 그 우, 벨이 계속 울리는데 이거 어떻게 꺼야 될까 해서.",
+            "speaker": 1
+        },
+        {
+            "id": "69fad727",
+            "startAt": 10956,
+            "endAt": 13746,
+            "text": "아 불이 날 것 같나요?",
+            "speaker": 0
+        },
+        {
+            "id": "1be40ac5",
+            "startAt": 13928,
+            "endAt": 16761,
+            "text": "아니요, 아니요, 소리가 갑자기 나네요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gti9qmvi1i8",
+            "startAt": 16924,
+            "endAt": 17296,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "74d89483",
+            "startAt": 17384,
+            "endAt": 19723,
+            "text": "비상벨 화재 징후는 없는거네요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ht8i40ubrj8",
+            "startAt": 19634,
+            "endAt": 20901,
+            "text": "냄새도 안 나는 거죠.?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1781cqd3c3o",
+            "startAt": 19743,
+            "endAt": 20133,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "41ffd964",
+            "startAt": 21531,
+            "endAt": 25008,
+            "text": "아 네네네 건들진 않았는데 소리가 계속 나서요.",
+            "speaker": 1
+        },
+        {
+            "id": "1bdf0416",
+            "startAt": 27344,
+            "endAt": 32527,
+            "text": "알겠습니다 저 일단 그 차량 어쨌든 저희가 벨이 울리고 있기 때문에 저희 현장 확인을 해야 되거든요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7ait7ir0nfg",
+            "startAt": 27420,
+            "endAt": 27910,
+            "text": "여기.",
+            "speaker": 1
+        },
+        {
+            "id": "3b8882e0",
+            "startAt": 32579,
+            "endAt": 34594,
+            "text": "아 끌, 이게 저희가 끌 수는 없어요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1dv4u6vue0g",
+            "startAt": 35146,
+            "endAt": 38879,
+            "text": "어, 끄셔도 되는데 이게 또 혹시 모르니까 저희가 일단 출동을 할 거예요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c4gv7igtn6",
+            "startAt": 39385,
+            "endAt": 43418,
+            "text": "아 네네 아 간다고 뭐 큰 문제는 생기는 거 아니니까.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j9vmomtbg7o",
+            "startAt": 39404,
+            "endAt": 41136,
+            "text": "아 그래요? 네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0bmqlkb48pg",
+            "startAt": 43318,
+            "endAt": 46272,
+            "text": "네 일단은 주소 갈산동 어디로 가면 되나요?",
+            "speaker": 0
+        },
+        {
+            "id": "c1777484",
+            "startAt": 46256,
+            "endAt": 48927,
+            "text": "아 저희 평천, 평천로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ur4pqagbteg",
+            "startAt": 49153,
+            "endAt": 51144,
+            "text": "네. 평천, 평천로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4fj5rbs443o",
+            "startAt": 51962,
+            "endAt": 52860,
+            "text": "평천이네요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_g2mk5ao5q5g",
+            "startAt": 52961,
+            "endAt": 53536,
+            "text": "평천로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hmmjsnecs6o",
+            "startAt": 53519,
+            "endAt": 55744,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "d24cf258",
+            "startAt": 56855,
+            "endAt": 58737,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_df4aj5h4hi8",
+            "startAt": 58776,
+            "endAt": 59536,
+            "text": "네네네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8t55154kam",
+            "startAt": 59444,
+            "endAt": 62527,
+            "text": "예, 알겠습니다. 이쪽으로 가가지고 확인을 할게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_f4p32ptaem8",
+            "startAt": 62542,
+            "endAt": 64317,
+            "text": "아 네 고맙습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "c2a8b977",
+            "startAt": 63353,
+            "endAt": 65595,
+            "text": "네 그 건물 이름이 뭐예요?",
+            "speaker": 0
+        },
+        {
+            "id": "32ebadda",
+            "startAt": 65597,
+            "endAt": 70183,
+            "text": "아 저희 여기 어 편한? 여기 뭐지?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4hj3nn2nsgo",
+            "startAt": 70987,
+            "endAt": 71520,
+            "text": "이.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dv5tp8r78jg",
+            "startAt": 71952,
+            "endAt": 74102,
+            "text": "24시 무슨 빌딩이로 나오네요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_462mr835k58",
+            "startAt": 72090,
+            "endAt": 72530,
+            "text": "서.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lfuaqugaiuo",
+            "startAt": 74167,
+            "endAt": 75175,
+            "text": "빌딩이 뭐지? ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9s1fnav7ji8",
+            "startAt": 75194,
+            "endAt": 77444,
+            "text": "아아 네예 네, 아무튼 알, 알겠.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_646tbqjlhg",
+            "startAt": 75737,
+            "endAt": 78629,
+            "text": "빌딩 이름 뭐지? 아, 21세기 빌딩.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ue5h66o80i8",
+            "startAt": 79769,
+            "endAt": 81027,
+            "text": "아, 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_udeal7ta72g",
+            "startAt": 81378,
+            "endAt": 83003,
+            "text": "아, 네 고맙습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_748gcssdft",
+            "startAt": 82470,
+            "endAt": 86487,
+            "text": "전화 수 들어올 수도 있는데, 그 잘 받아주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ere5ou93fb",
+            "startAt": 86486,
+            "endAt": 88316,
+            "text": "그 네네 네.",
+            "speaker": 0
+        },
+        {
+            "id": "c3bc80e9",
+            "startAt": 86530,
+            "endAt": 88430,
+            "text": "아 예 알겠습니 네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 부평구 갈산동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

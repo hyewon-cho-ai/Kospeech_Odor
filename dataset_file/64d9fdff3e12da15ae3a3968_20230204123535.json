@@ -1,0 +1,166 @@
+{
+    "_id": "64d9fdff3e12da15ae3a3968",
+    "audioPath": "20230814/Incheon/2023/02/04/069/converted_20230204123535_0-069.wav",
+    "recordId": "b43163fdc2af709a8443",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 81280,
+    "utterances": [
+        {
+            "id": "wavesurfer_je0mpkneheo",
+            "startAt": 0,
+            "endAt": 250,
+            "text": "다.",
+            "speaker": 0
+        },
+        {
+            "id": "ce8c271f",
+            "startAt": 640,
+            "endAt": 8090,
+            "text": "아 네, 여기 투썸플레이스 인천 간석점 앞인데요. 사람이 갑자기 쓰러지셨어요.",
+            "speaker": 1
+        },
+        {
+            "id": "eec897d7",
+            "startAt": 9515,
+            "endAt": 11702,
+            "text": "갑자기 쓰러졌어요? 의식 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_032f2h177o8",
+            "startAt": 10823,
+            "endAt": 11666,
+            "text": "에.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_u9qdboj7vbg",
+            "startAt": 12262,
+            "endAt": 13882,
+            "text": "에, 잠깐만요. 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d0pcukthti8",
+            "startAt": 16912,
+            "endAt": 21142,
+            "text": "어, 네네, 의식은 있으신 거 같애요.",
+            "speaker": 1
+        },
+        {
+            "id": "78c506f8",
+            "startAt": 20666,
+            "endAt": 23906,
+            "text": "아, 예, 혹시 뭐 어디가 아프다고 말씀은 하시나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fg5pjjksifo",
+            "startAt": 24346,
+            "endAt": 27162,
+            "text": "아. 잠시만요. 예 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k3dcve1b6a8",
+            "startAt": 27406,
+            "endAt": 28755,
+            "text": "어디 아프세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kujbptnf16",
+            "startAt": 28772,
+            "endAt": 31039,
+            "text": "119 지금 불렀는데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_sbre8315pgg",
+            "startAt": 36422,
+            "endAt": 44225,
+            "text": "아. 아 그러면은. 지금 아 누가. 부인이 나오실 거 같은데. 그냥 넘어지셨나봐요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_56t2e40snrg",
+            "startAt": 41148,
+            "endAt": 42765,
+            "text": "구급 출동. 구급 출동.",
+            "speaker": 0
+        },
+        {
+            "id": "dd6d2900",
+            "startAt": 44244,
+            "endAt": 46931,
+            "text": "아. 그면 구급차가 필요한 상황이 아니에요, 그러면?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_530mep8ec78",
+            "startAt": 47730,
+            "endAt": 50060,
+            "text": "아, 잠깐만요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tsjn6nt9uoo",
+            "startAt": 51434,
+            "endAt": 56240,
+            "text": "네, 일어나셨거든요. 네네, 괜찮으실 거 같긴 한데요.",
+            "speaker": 1
+        },
+        {
+            "id": "ea4b9846",
+            "startAt": 56444,
+            "endAt": 59098,
+            "text": "그니까 구급차가 가야 되는 거예요. 아니면?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_aac7slahkjo",
+            "startAt": 58331,
+            "endAt": 60648,
+            "text": "아니요 안 오셔도 될거 같애요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ou57n29hcrg",
+            "startAt": 60214,
+            "endAt": 64167,
+            "text": "예. 그러면 일단은 출동 하지 않을 테니까 혹시 필요하시면 다시 전화 주세요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_n87etuuh688",
+            "startAt": 61030,
+            "endAt": 61880,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "c51a2440",
+            "startAt": 64297,
+            "endAt": 65771,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "f01bcde5",
+            "startAt": 68460,
+            "endAt": 73340,
+            "text": "간석 여섯 비번하지 마세요, 간석 여섯 비번하지 마세요. 그 신고 접수 중 신고 취소예요.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

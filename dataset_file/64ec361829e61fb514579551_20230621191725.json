@@ -1,0 +1,187 @@
+{
+    "_id": "64ec361829e61fb514579551",
+    "audioPath": "20230828/Incheon/2023/06/21/003/converted_20230621191725_4003-003.wav",
+    "recordId": "9c7a21814ef9721a392b",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 46920,
+    "utterances": [
+        {
+            "id": "wavesurfer_av5ej1cjnk",
+            "startAt": 9,
+            "endAt": 1109,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rotol85m2b",
+            "startAt": 2009,
+            "endAt": 2872,
+            "text": "녜.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cdkrnl9h71o",
+            "startAt": 2927,
+            "endAt": 3999,
+            "text": "네, 여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o24jputmkpo",
+            "startAt": 4728,
+            "endAt": 7382,
+            "text": "지하실에 물이 차 가지고 물 좀 빼려고 그러는데요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8a1cbgm44p8",
+            "startAt": 7539,
+            "endAt": 9966,
+            "text": "아, 혹시 어, 어느 정도 찼어요, 물이?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_807mn109kt8",
+            "startAt": 10467,
+            "endAt": 13566,
+            "text": "전기 인, 전기가 있는 데까지 위험해서.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_efugdon1afg",
+            "startAt": 13836,
+            "endAt": 16999,
+            "text": "혹시 사람, 뭐 무릎 정도까지 높이가 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ai5otjnjui8",
+            "startAt": 17532,
+            "endAt": 18677,
+            "text": "무릎 넘어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ja29iuv40no",
+            "startAt": 18786,
+            "endAt": 19659,
+            "text": "무릎 넘어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_p133s34ijko",
+            "startAt": 19936,
+            "endAt": 21145,
+            "text": "어디예요? 주소요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_njm4fllhhrg",
+            "startAt": 19941,
+            "endAt": 20668,
+            "text": "에.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b5v6pnblplg",
+            "startAt": 22360,
+            "endAt": 23814,
+            "text": "여기 청천로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mk58189hmbg",
+            "startAt": 23831,
+            "endAt": 24840,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bf3uurr6t8",
+            "startAt": 24852,
+            "endAt": 25734,
+            "text": "대신빌라.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nai6da6ivgg",
+            "startAt": 25105,
+            "endAt": 26141,
+            "text": "청천로?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mb0eh9q64fo",
+            "startAt": 28822,
+            "endAt": 29713,
+            "text": "청천로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a8p7pd5dtl",
+            "startAt": 29656,
+            "endAt": 30174,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fcl96dtgtq8",
+            "startAt": 31704,
+            "endAt": 34449,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a73upsdu5v",
+            "startAt": 34457,
+            "endAt": 35358,
+            "text": "몇 동이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dospnoc41n",
+            "startAt": 35709,
+            "endAt": 39446,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vtoomj75nbg",
+            "startAt": 39444,
+            "endAt": 41180,
+            "text": "몇 호로 가면 돼요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4ht2lgedep",
+            "startAt": 41235,
+            "endAt": 42226,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nfmjhjpjucg",
+            "startAt": 42271,
+            "endAt": 44498,
+            "text": "음, 네. 알겠어요, 출동했습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "2f80ca2c",
+            "startAt": 44715,
+            "endAt": 45610,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 부평구 갈산동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "중",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

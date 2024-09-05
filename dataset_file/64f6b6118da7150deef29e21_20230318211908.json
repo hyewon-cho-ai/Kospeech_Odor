@@ -1,0 +1,194 @@
+{
+    "_id": "64f6b6118da7150deef29e21",
+    "audioPath": "20230904/Incheon/2023/03/18/004/converted_20230318211908_4004-004.wav",
+    "recordId": "c572985dba3b7bb9379e",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 48680,
+    "utterances": [
+        {
+            "id": "a5828c6d",
+            "startAt": 410,
+            "endAt": 1482,
+            "text": "네 119입니다",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_t6ge80bs6e8",
+            "startAt": 2000,
+            "endAt": 5573,
+            "text": "예, 여기 소방도로에 주차해놔갖고 신고 좀 할려고요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bqqrcbe3lf8",
+            "startAt": 5222,
+            "endAt": 6103,
+            "text": "뭐 뭐라고요?",
+            "speaker": 0
+        },
+        {
+            "id": "f174ade0",
+            "startAt": 6689,
+            "endAt": 10830,
+            "text": "소방도로에 주차를 해놔갖고 신고 좀 할려고요.",
+            "speaker": 1
+        },
+        {
+            "id": "e9ae1e41",
+            "startAt": 10760,
+            "endAt": 14261,
+            "text": "소방도로? 아, 그 어디에, 어디에 주차 누가 해놨어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kfhotu35l28",
+            "startAt": 11800,
+            "endAt": 12527,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "9b7050a0",
+            "startAt": 14305,
+            "endAt": 15706,
+            "text": "그 만수동이고요.",
+            "speaker": 1
+        },
+        {
+            "id": "1d13d27d",
+            "startAt": 15622,
+            "endAt": 16501,
+            "text": "만수동 예.",
+            "speaker": 0
+        },
+        {
+            "id": "c2a39062",
+            "startAt": 16852,
+            "endAt": 18534,
+            "text": "용천로 4번길",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5s01uc1a5k",
+            "startAt": 18545,
+            "endAt": 19545,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "e6924314",
+            "startAt": 19574,
+            "endAt": 20430,
+            "text": "용천로요?",
+            "speaker": 0
+        },
+        {
+            "id": "7fa28630",
+            "startAt": 21036,
+            "endAt": 21507,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "37aae38e",
+            "startAt": 21382,
+            "endAt": 22292,
+            "text": "용천로.",
+            "speaker": 0
+        },
+        {
+            "id": "cdc9e647",
+            "startAt": 23066,
+            "endAt": 23446,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "88dac428",
+            "startAt": 23691,
+            "endAt": 25227,
+            "text": "아, 용천로 다음 불러주시라고요.",
+            "speaker": 0
+        },
+        {
+            "id": "e20509ec",
+            "startAt": 25477,
+            "endAt": 27054,
+            "text": "용천로 4번길 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9hlm4uttstg",
+            "startAt": 27059,
+            "endAt": 29441,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o80qq1364do",
+            "startAt": 29744,
+            "endAt": 30799,
+            "text": "예예",
+            "speaker": 1
+        },
+        {
+            "id": "2f78a768",
+            "startAt": 30207,
+            "endAt": 32420,
+            "text": "그게 뭐 소화전에 대놓은 거예요? 아니 뭐.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1hcvtnj5chg",
+            "startAt": 32406,
+            "endAt": 33751,
+            "text": "센터 앞에 대놓은 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_d8jl6i7ups8",
+            "startAt": 32848,
+            "endAt": 38657,
+            "text": "소화전이 아니고 소화 그 소방 도로인데 거기에 차를 댔어요, 다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1h0aei6c388",
+            "startAt": 38406,
+            "endAt": 39615,
+            "text": "아, 차를 댔다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qd8faqjecio",
+            "startAt": 39802,
+            "endAt": 40548,
+            "text": "예예",
+            "speaker": 1
+        },
+        {
+            "id": "12657472",
+            "startAt": 40243,
+            "endAt": 44201,
+            "text": "아, 일단은 알겠어요 저희 가서 한번 확인해볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_400bnvh11j",
+            "startAt": 44587,
+            "endAt": 46242,
+            "text": "예예 알겠습니다",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 남동구 구월동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "중립",
+    "symptom": [],
+    "triage": ""
+}

@@ -1,0 +1,201 @@
+{
+    "_id": "64ec361829e61fb514578e19",
+    "audioPath": "20230828/Incheon/2023/06/27/008/converted_20230627041903_4008-008.wav",
+    "recordId": "fc1ebf615b4b112e9785",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 51240,
+    "utterances": [
+        {
+            "id": "wavesurfer_1us28or6qvg",
+            "startAt": 936,
+            "endAt": 1927,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c4houpi9sug",
+            "startAt": 2100,
+            "endAt": 4509,
+            "text": "아, 네 안녕하세요. 방제업체 속보입니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mqeu3c0cvf",
+            "startAt": 5067,
+            "endAt": 10556,
+            "text": "그 다름이 아니라 부평동에 현대관리아파트, 그 현대관리빌딩이 있습니다. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rb6bs6n5epo",
+            "startAt": 10278,
+            "endAt": 11978,
+            "text": "현대관리빌딩이요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kkblb4kcf1",
+            "startAt": 12659,
+            "endAt": 14405,
+            "text": "어, 예. 주소 불러드려도 될까요? ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2hu2llqfvko",
+            "startAt": 13879,
+            "endAt": 14388,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mn5p860gp08",
+            "startAt": 14864,
+            "endAt": 16195,
+            "text": "네, 부평구 문화로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_prei8dp5svg",
+            "startAt": 16172,
+            "endAt": 17344,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_umshm7av5k8",
+            "startAt": 17331,
+            "endAt": 17668,
+            "text": "문화로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_otporu1fbqo",
+            "startAt": 17665,
+            "endAt": 18392,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sc66n8sdp0g",
+            "startAt": 18358,
+            "endAt": 18840,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c222ik615f8",
+            "startAt": 18797,
+            "endAt": 22018,
+            "text": "네, 여기 화재 경보가 저희 뜨는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_83sjmc6oheg",
+            "startAt": 23937,
+            "endAt": 27172,
+            "text": "이상은 없는 거 같은데, 화재가 복구가 안 되더라고요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f0t8o0pro9g",
+            "startAt": 26961,
+            "endAt": 29132,
+            "text": "아, 잠깐만요. 선생님. 부평문화로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_l6dsq8lgpj8",
+            "startAt": 29112,
+            "endAt": 29576,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5s5q3val21",
+            "startAt": 29559,
+            "endAt": 30040,
+            "text": "맞죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_uk815po0fbo",
+            "startAt": 30478,
+            "endAt": 31027,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_21au754sfdo",
+            "startAt": 31026,
+            "endAt": 34832,
+            "text": "거기가 로로메디칼타워 주차장이고요? 아.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vk9gkc5d2f",
+            "startAt": 34678,
+            "endAt": 35542,
+            "text": "네, 맞아요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_v3a48ap5mog",
+            "startAt": 35875,
+            "endAt": 38749,
+            "text": "그 지금 소방경보대비가 작동한다는 거예요? 선생님?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jhviecrgqvg",
+            "startAt": 38623,
+            "endAt": 39668,
+            "text": "네, 맞습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hma9vkjvjlo",
+            "startAt": 39358,
+            "endAt": 41012,
+            "text": "혹시 뭐 타는 냄새나 연기 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kugcmr4muqo",
+            "startAt": 41393,
+            "endAt": 42199,
+            "text": "없습니다. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1u18sirdju",
+            "startAt": 41999,
+            "endAt": 44372,
+            "text": "아, 네. 알겠습니다, 출동하겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7b1ji9e2a0g",
+            "startAt": 44354,
+            "endAt": 45335,
+            "text": "감사합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mk5tq04ks6",
+            "startAt": 45135,
+            "endAt": 45762,
+            "text": "네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 부평구 부평동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

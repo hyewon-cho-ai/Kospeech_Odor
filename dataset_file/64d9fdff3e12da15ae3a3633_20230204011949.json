@@ -1,0 +1,285 @@
+{
+    "_id": "64d9fdff3e12da15ae3a3633",
+    "audioPath": "20230814/Incheon/2023/02/04/075/converted_20230204011949_6-075.wav",
+    "recordId": "e189fee854233cf8c27f",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 167080,
+    "utterances": [
+        {
+            "id": "20769036",
+            "startAt": 0,
+            "endAt": 1094,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_km17vdqc8e",
+            "startAt": 1636,
+            "endAt": 3750,
+            "text": "네, 문의 좀 드리겠습니다. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_v7dhj6usk9g",
+            "startAt": 5214,
+            "endAt": 10413,
+            "text": "저기 1톤 트럭, 그 탑차가 지하 주차장을 들어가다가.",
+            "speaker": 1
+        },
+        {
+            "id": "a28a4325",
+            "startAt": 11050,
+            "endAt": 15917,
+            "text": "그 높이를 생각 못 하고 들어가다가 지금 그 구조물에 그 탑이 끼었어요.",
+            "speaker": 1
+        },
+        {
+            "id": "e37a6105",
+            "startAt": 15776,
+            "endAt": 16857,
+            "text": "아, 예 예 예 예.",
+            "speaker": 0
+        },
+        {
+            "id": "0eac3238",
+            "startAt": 17205,
+            "endAt": 24664,
+            "text": "근데 이게 저희 보험회사에서 보험처리 하려다 보니까 지금 너무 더디 되는데 여기 주민들이 지금 입고를 못해가지고. 차들이.",
+            "speaker": 1
+        },
+        {
+            "id": "eb1bb2a0",
+            "startAt": 23605,
+            "endAt": 25924,
+            "text": "네, 아 들어가지를 못하고 있는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "e82384b7",
+            "startAt": 25862,
+            "endAt": 36571,
+            "text": "예 근데 보니까. 예. 그 차량을 어떻게 할 수는 없구요. 그 보조물을 잠깐 철거했다가 다시 차를 뺀 다음에 이 그걸 해야 되는데. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hmgoft3ml5o",
+            "startAt": 36754,
+            "endAt": 43536,
+            "text": "네, 저희가 지 연장도 없고 이게 지금 이 시간 어디 공업사를 부를 수도 없고 말입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_des58ru272g",
+            "startAt": 43464,
+            "endAt": 44721,
+            "text": "예, 예, 예, 예.",
+            "speaker": 0
+        },
+        {
+            "id": "a245f1f6",
+            "startAt": 45097,
+            "endAt": 50897,
+            "text": "그래서 혹시 여기 볼트 같은 거를 좀 해체했다가 다시 올리는 작업인데 좀 도움 받을 수 있을까 해가지고요.",
+            "speaker": 1
+        },
+        {
+            "id": "372f7894",
+            "startAt": 50661,
+            "endAt": 58475,
+            "text": "어, 그게 저기 높이가 그냥 작업이 가능한 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_slj39rgac1g",
+            "startAt": 57155,
+            "endAt": 57942,
+            "text": "높이",
+            "speaker": 1
+        },
+        {
+            "id": "942f4f7c",
+            "startAt": 58946,
+            "endAt": 66633,
+            "text": "높이는 아, 조그만한 사다리가 있으면은 될 정도 높이입니다. 한 높이가 한 2.3m 되거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "e50a762e",
+            "startAt": 66640,
+            "endAt": 72593,
+            "text": "그니까 구조물을 해체했다가 다시 구조물 설치까지 저희가 해달라고 하신 말씀이세요, 혹시?",
+            "speaker": 0
+        },
+        {
+            "id": "d2399e82",
+            "startAt": 73250,
+            "endAt": 78353,
+            "text": "지금 저 혼자는 도저히 할 수 없는 무게 그. 음 네예예.",
+            "speaker": 1
+        },
+        {
+            "id": "bff950ff",
+            "startAt": 79385,
+            "endAt": 85676,
+            "text": "우선은 저 지금 구조상으로는 확인이 안 되니까 우선 출동해가지고 확인을 해볼게요. 저희도 그러면요.",
+            "speaker": 0
+        },
+        {
+            "id": "c4914c58",
+            "startAt": 85936,
+            "endAt": 92293,
+            "text": " 스패너나 몽키 같은 거 하구요. 혹시 모르니까 절단기 같은 거 있으면 좋을 거 같은데.",
+            "speaker": 1
+        },
+        {
+            "id": "f99375d0",
+            "startAt": 92467,
+            "endAt": 103061,
+            "text": "저희가 우선은 구조대가 한번 나가볼게요. 여기 조금 시간은 걸릴 거 같긴 해요. 저희 그 부평 IC 쪽에서 나가야 되거든요. 조금만 기다려주시고 위치가 어디세요?",
+            "speaker": 0
+        },
+        {
+            "id": "5baa2cc2",
+            "startAt": 103472,
+            "endAt": 107761,
+            "text": "잠시만요. 어, 지코바 치킨.",
+            "speaker": 1
+        },
+        {
+            "id": "48e7eb39",
+            "startAt": 108018,
+            "endAt": 109367,
+            "text": "지코바 치킨.",
+            "speaker": 0
+        },
+        {
+            "id": "8bc5b458",
+            "startAt": 110161,
+            "endAt": 113549,
+            "text": "아, 저기, 노블레스 빌딩이라는데요.",
+            "speaker": 1
+        },
+        {
+            "id": "0aaa6b99",
+            "startAt": 113402,
+            "endAt": 117668,
+            "text": "노블레스 빌딩 잠시만요. 네, 확인 좀 해볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "031bf23d",
+            "startAt": 118042,
+            "endAt": 122488,
+            "text": "[개인정보] ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hedsciqnqr",
+            "startAt": 122502,
+            "endAt": 123231,
+            "text": "부평동",
+            "speaker": 0
+        },
+        {
+            "id": "860ae592",
+            "startAt": 123219,
+            "endAt": 126213,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "1eedd83b",
+            "startAt": 126914,
+            "endAt": 129780,
+            "text": "어, 여기 지하주차장 들어가는 곳이죠. 그니까?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tf23hihk7oo",
+            "startAt": 129908,
+            "endAt": 130802,
+            "text": "예, 맞습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9ber127veu",
+            "startAt": 130786,
+            "endAt": 134027,
+            "text": "아, 알겠습니다. 한 번 어 나온 어 부평동",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_72bbqcoupf8",
+            "startAt": 134021,
+            "endAt": 135638,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "4a5f15cf",
+            "startAt": 136144,
+            "endAt": 139913,
+            "text": "예, 여기 경찰관 님도 또 와 계신데 예 119에 한번 도움 요청해보라 해가지고 ",
+            "speaker": 1
+        },
+        {
+            "id": "04d567de",
+            "startAt": 139839,
+            "endAt": 145362,
+            "text": "응 알겠습니다. 한번 나가보고. 어 죄송한데.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dh546vi53s8",
+            "startAt": 145628,
+            "endAt": 146396,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3f8anu02n9o",
+            "startAt": 146380,
+            "endAt": 148179,
+            "text": "찍히지가 않아가지고 그러는데요.",
+            "speaker": 0
+        },
+        {
+            "id": "46c8b893",
+            "startAt": 148895,
+            "endAt": 151338,
+            "text": "아니면은 지코바 치킨 부평 1호점이요.",
+            "speaker": 1
+        },
+        {
+            "id": "93d322c9",
+            "startAt": 151291,
+            "endAt": 155271,
+            "text": "부평 1호점 예, 이걸로 찍고서 한 번 나와볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ur1hi28gbco",
+            "startAt": 155655,
+            "endAt": 156864,
+            "text": "네, 감사합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0mi30ff4fdg",
+            "startAt": 157853,
+            "endAt": 158607,
+            "text": "여보세요.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

@@ -1,0 +1,131 @@
+{
+    "_id": "64dd752b1ef84058319ab21c",
+    "audioPath": "20230815/Incheon/2023/02/27/001/converted_20230227143400_4001-001.wav",
+    "recordId": "118e38d225096b9e5c58",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 53520,
+    "utterances": [
+        {
+            "id": "wavesurfer_tr4fhok8j6g",
+            "startAt": 12069,
+            "endAt": 12715,
+            "text": "여보세요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o677jfocqsg",
+            "startAt": 12703,
+            "endAt": 13693,
+            "text": "네 여보세요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kgc8q5ls6uo",
+            "startAt": 13539,
+            "endAt": 17473,
+            "text": "예 저희 119예요. 예 여기 승강기에 갇히셨어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_proralmesoo",
+            "startAt": 17858,
+            "endAt": 18458,
+            "text": "예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6uht5eklnto",
+            "startAt": 18422,
+            "endAt": 21204,
+            "text": "네, 그래서 저희 출동 구조대 출동시켰고",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6431v45816o",
+            "startAt": 21332,
+            "endAt": 23713,
+            "text": "지금 선생님 혼자 계신 거예요, 안에?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_shj4nhc71dg",
+            "startAt": 23768,
+            "endAt": 25278,
+            "text": "아, 아니 둘이 있어요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6qb43hvcvoo",
+            "startAt": 25478,
+            "endAt": 26060,
+            "text": "집에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rvj0o6hcrr8",
+            "startAt": 26748,
+            "endAt": 28424,
+            "text": "두 명 있어요 두 명",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vpl3obhk1bo",
+            "startAt": 27733,
+            "endAt": 28806,
+            "text": "아 두 명 있다고",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7s0fsf8pnng",
+            "startAt": 29091,
+            "endAt": 29606,
+            "text": "예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gupop3dibh",
+            "startAt": 29579,
+            "endAt": 34271,
+            "text": "네 알겠습니다 지금 가고 있으니까 조금만 계시고요. 한 몇 층 쯤에 멈췄어요?",
+            "speaker": 0
+        },
+        {
+            "id": "c370c722",
+            "startAt": 34849,
+            "endAt": 37715,
+            "text": "이게 4층 누르고 올라왔는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ch75refqsrg",
+            "startAt": 38335,
+            "endAt": 40369,
+            "text": "4층에서 멈춰있어요 지금",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_h9eg5kq18g",
+            "startAt": 39908,
+            "endAt": 46546,
+            "text": "아 네, 알겠습니다. 지금 가고 있으니까 혹시나 저희 가다가 중간에 뭐 열리면은 네 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dg9ki100oa",
+            "startAt": 46591,
+            "endAt": 52365,
+            "text": "119로 전화 한 번만 주세요. 네, 예 저희 지금 출동 중입니다. 네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 부평구 산곡동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

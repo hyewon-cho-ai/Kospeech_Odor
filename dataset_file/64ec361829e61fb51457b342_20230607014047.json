@@ -1,0 +1,145 @@
+{
+    "_id": "64ec361829e61fb51457b342",
+    "audioPath": "20230828/Incheon/2023/06/07/005/converted_20230607014047_4005-005.wav",
+    "recordId": "2c43b0a8b2b81c360498",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 30600,
+    "utterances": [
+        {
+            "id": "wavesurfer_8g2k589jk0o",
+            "startAt": 337,
+            "endAt": 1455,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_64q8eppv658",
+            "startAt": 1727,
+            "endAt": 2945,
+            "text": "아 여기 석바위로",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kr2r79v8j7g",
+            "startAt": 2964,
+            "endAt": 3864,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_60apiju9pio",
+            "startAt": 3909,
+            "endAt": 5418,
+            "text": "조은하우스인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2cdhm2smuk",
+            "startAt": 5246,
+            "endAt": 5763,
+            "text": "석바위로",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sqahr2pn3i8",
+            "startAt": 5782,
+            "endAt": 6173,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_m30f92kt27g",
+            "startAt": 6191,
+            "endAt": 7118,
+            "text": "다음에 뭐예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lo3pns54mfg",
+            "startAt": 7409,
+            "endAt": 8745,
+            "text": "조은하우스",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f1v8tjbjrno",
+            "startAt": 8673,
+            "endAt": 9955,
+            "text": "몇 동 몇 호?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tmps3ppd9l",
+            "startAt": 10233,
+            "endAt": 14333,
+            "text": "아니, 건물 자체에서 지금 경보기가 화재 경보기가.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lsenrbtc6l8",
+            "startAt": 14345,
+            "endAt": 14973,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gqb0723h7lo",
+            "startAt": 14985,
+            "endAt": 16339,
+            "text": "계속 울리는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1nnbol2vvjo",
+            "startAt": 15827,
+            "endAt": 18918,
+            "text": "경보기 계속 울린다. 그 혹시 뭐 탄내나",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ndgpsn97ca",
+            "startAt": 19240,
+            "endAt": 19849,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_j0edj54r4vo",
+            "startAt": 19255,
+            "endAt": 21145,
+            "text": "불꽃 같은 게 혹시 보이나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jk7k9do81e8",
+            "startAt": 21628,
+            "endAt": 26001,
+            "text": "아직은 모르겠는데 좀 나는 거 같기 모르겠어요. 사람들은 나와있는데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p5bugkklsq8",
+            "startAt": 25556,
+            "endAt": 29165,
+            "text": "정확히 모르겠어요? 가서 한번 확인해볼게요. 출동합니다. 네.",
+            "speaker": 0
+        },
+        {
+            "id": "e95cb590",
+            "startAt": 28933,
+            "endAt": 29924,
+            "text": "예예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 미추홀구 주안동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "중",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

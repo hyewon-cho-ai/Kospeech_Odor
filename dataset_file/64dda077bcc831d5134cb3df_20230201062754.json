@@ -1,0 +1,173 @@
+{
+    "_id": "64dda077bcc831d5134cb3df",
+    "audioPath": "20230816/Incheon/2023/02/01/011/converted_20230201062754_4011-011.wav",
+    "recordId": "0d1eaa0915c89eb958ca",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 80280,
+    "utterances": [
+        {
+            "id": "49577045",
+            "startAt": 90,
+            "endAt": 1000,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rqff00mfpg",
+            "startAt": 1910,
+            "endAt": 2718,
+            "text": "부평동",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9gk1ea7pc8g",
+            "startAt": 2722,
+            "endAt": 17423,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2t6m62vnjb8",
+            "startAt": 17441,
+            "endAt": 18040,
+            "text": "부평동?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_20cmp5nod8",
+            "startAt": 17903,
+            "endAt": 18649,
+            "text": "네. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "068d399e",
+            "startAt": 19243,
+            "endAt": 20823,
+            "text": "예. 여기 건물이?",
+            "speaker": 0
+        },
+        {
+            "id": "f3b5f4bf",
+            "startAt": 21458,
+            "endAt": 22608,
+            "text": "아이형 아파트요.",
+            "speaker": 1
+        },
+        {
+            "id": "ed55e720",
+            "startAt": 23840,
+            "endAt": 29469,
+            "text": "잠시만요, 예, 아이홈 아파트 예.",
+            "speaker": 0
+        },
+        {
+            "id": "69abc678",
+            "startAt": 30669,
+            "endAt": 34875,
+            "text": "지금은 화재경보인지, 뭔지 화재경보가. 이거로 암",
+            "speaker": 1
+        },
+        {
+            "id": "11be8b96",
+            "startAt": 33936,
+            "endAt": 36171,
+            "text": "화재경보기가 울렸어요. 아, 타는 냄새나 연기 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "fd197f5b",
+            "startAt": 36887,
+            "endAt": 44627,
+            "text": "아니, 그런 거 없구요, 그 뭐지 그 화재 바람 나오는 거 있잖아요. 그게 안 멈, 아, 아예 안 멈춰요 계속.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f08tja4b3qg",
+            "startAt": 41235,
+            "endAt": 42744,
+            "text": "네 그 제한설명",
+            "speaker": 0
+        },
+        {
+            "id": "6f245682",
+            "startAt": 45007,
+            "endAt": 47662,
+            "text": "응, 그래요? 제연장비가 작동되고 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "631deea6",
+            "startAt": 48232,
+            "endAt": 49047,
+            "text": "네, 계속.",
+            "speaker": 1
+        },
+        {
+            "id": "14660aae",
+            "startAt": 51230,
+            "endAt": 56700,
+            "text": "알겠습니다. 저희 어, 습 거기 혹시 관리사무소가 없는 덴가요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gf09a29969o",
+            "startAt": 57357,
+            "endAt": 59007,
+            "text": "있어요. 근데 관리",
+            "speaker": 1
+        },
+        {
+            "id": "8080ddfd",
+            "startAt": 58763,
+            "endAt": 59774,
+            "text": "없 그 사람이 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_h75dkd16qj",
+            "startAt": 60260,
+            "endAt": 62056,
+            "text": "네, 사람이 지금 이 시간에 없죠. ",
+            "speaker": 1
+        },
+        {
+            "id": "0ca17c64",
+            "startAt": 65200,
+            "endAt": 67385,
+            "text": "예, 저희 소방차 출동했습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "2bb60023",
+            "startAt": 67997,
+            "endAt": 70172,
+            "text": "냄새는 안 나는데 저희 대피해야 될까요?",
+            "speaker": 1
+        },
+        {
+            "id": "61be2e4f",
+            "startAt": 71381,
+            "endAt": 77541,
+            "text": "응, 일단은 뭐, 그 냄새가 나지 않으면 집에서 대기하셔도 될 거 같습니다. 예.",
+            "speaker": 0
+        },
+        {
+            "id": "72312cbc",
+            "startAt": 77116,
+            "endAt": 79626,
+            "text": "네네. 알겠습니다, 네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 부평구 부평동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

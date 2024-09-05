@@ -1,0 +1,208 @@
+{
+    "_id": "64f6c58397d692c34d9bceba",
+    "audioPath": "20230829/Incheon/2023/06/14/005/converted_20230614172438_4005-005.wav",
+    "recordId": "ed4618734e985bb2dd77",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 71080,
+    "utterances": [
+        {
+            "id": "45ed6b4f",
+            "startAt": 1554,
+            "endAt": 2434,
+            "text": "네 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "c737cce1",
+            "startAt": 3024,
+            "endAt": 4487,
+            "text": "여기 119죠?",
+            "speaker": 1
+        },
+        {
+            "id": "89080da0",
+            "startAt": 5167,
+            "endAt": 7776,
+            "text": "아예, 인천대학교 있는덴데요.",
+            "speaker": 1
+        },
+        {
+            "id": "444f1c74",
+            "startAt": 8579,
+            "endAt": 11920,
+            "text": "아, 여기 버스여서 기름이 줄줄줄줄 새네?",
+            "speaker": 1
+        },
+        {
+            "id": "6c805b88",
+            "startAt": 12860,
+            "endAt": 13690,
+            "text": "버스에서요?",
+            "speaker": 0
+        },
+        {
+            "id": "29ca9b87",
+            "startAt": 14126,
+            "endAt": 15769,
+            "text": "예, 거 위험해가지고",
+            "speaker": 1
+        },
+        {
+            "id": "ad8d61d7",
+            "startAt": 16308,
+            "endAt": 16863,
+            "text": "아",
+            "speaker": 0
+        },
+        {
+            "id": "873691ed",
+            "startAt": 16356,
+            "endAt": 19086,
+            "text": "아, 기름, 아, 기름 냄새가 진동을 하네.",
+            "speaker": 1
+        },
+        {
+            "id": "9fdb66f3",
+            "startAt": 18907,
+            "endAt": 22587,
+            "text": "아, 저희 한번 나가볼게요. 그 위치 좀 정확히 하게 알려주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "81c3a9a8",
+            "startAt": 23097,
+            "endAt": 25194,
+            "text": "어, 인천소방고등학교 있죠?",
+            "speaker": 1
+        },
+        {
+            "id": "5ba01851",
+            "startAt": 25467,
+            "endAt": 26992,
+            "text": "인천 소방고등학교?",
+            "speaker": 0
+        },
+        {
+            "id": "26b46825",
+            "startAt": 27424,
+            "endAt": 27868,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "f5118beb",
+            "startAt": 27862,
+            "endAt": 28292,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "d341a5bb",
+            "startAt": 28954,
+            "endAt": 30249,
+            "text": "예, 그 앞에에요.",
+            "speaker": 1
+        },
+        {
+            "id": "e8a9f437",
+            "startAt": 31066,
+            "endAt": 32783,
+            "text": "소방고등학교 바로 앞이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "507e4991",
+            "startAt": 33216,
+            "endAt": 36757,
+            "text": "예, 예, 거기 그 저기 저 언, 언덕있는데",
+            "speaker": 1
+        },
+        {
+            "id": "16c51fc9",
+            "startAt": 37439,
+            "endAt": 40046,
+            "text": "잠시만요, 위치 확인 좀 해볼게요, 잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "955d7163",
+            "startAt": 40585,
+            "endAt": 41171,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "2cd7ca8e",
+            "startAt": 49113,
+            "endAt": 52393,
+            "text": "예, 그 학교 바로 앞에 길 말씀하시는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "c00c623b",
+            "startAt": 52698,
+            "endAt": 53787,
+            "text": "예, 예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "07a49ef4",
+            "startAt": 53775,
+            "endAt": 54393,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "54e14527",
+            "startAt": 55347,
+            "endAt": 57485,
+            "text": "아이 그, 버스가 쭉 세워져 있는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_di0jr5ueb3g",
+            "startAt": 55393,
+            "endAt": 56020,
+            "text": "알겠",
+            "speaker": 0
+        },
+        {
+            "id": "c8d109e6",
+            "startAt": 57604,
+            "endAt": 59820,
+            "text": "예, 거기서 기름이 샌다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "627f39b5",
+            "startAt": 60264,
+            "endAt": 63828,
+            "text": "예, 버스에서 줄줄줄 새네, 그래 저까지 흘렀네.",
+            "speaker": 1
+        },
+        {
+            "id": "0e77a8ac",
+            "startAt": 63458,
+            "endAt": 67417,
+            "text": "아, 알겠습니다, 저희 확인해볼게요, 전화 좀 잘 받아주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "19cee4ae",
+            "startAt": 67888,
+            "endAt": 69245,
+            "text": "알겠습니다.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 미추홀구 도화동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

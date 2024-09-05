@@ -1,0 +1,208 @@
+{
+    "_id": "64ec361829e61fb514578686",
+    "audioPath": "20230828/Incheon/2023/06/20/016/converted_20230620034833_4016-016.wav",
+    "recordId": "9710ef8eb29234782bcd",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 104560,
+    "utterances": [
+        {
+            "id": "90cc899a",
+            "startAt": 473,
+            "endAt": 1613,
+            "text": "예 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "eacc1a9c",
+            "startAt": 1891,
+            "endAt": 9728,
+            "text": "네, 여보세요, 말씀 좀 여쭙겠습니다. 예, 저 스프링쿨러에서 저 아파트인데요. 스프링쿨러에서 물이 계속 떨어지는데 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_c2fuupi8qdg",
+            "startAt": 9701,
+            "endAt": 16574,
+            "text": "가전제품은 우선 치웠거든요. 주변에요. 어 근데 이제 어떻게 처리해야 될지 한번 여쭤볼려고 전화드렸습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "061726b4",
+            "startAt": 16086,
+            "endAt": 18399,
+            "text": "아 지 지금 자택에서 그러신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_70mr4ajlmi",
+            "startAt": 18978,
+            "endAt": 19906,
+            "text": "네? 네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b67m41fgkmg",
+            "startAt": 19069,
+            "endAt": 22388,
+            "text": "집 안에서 집안에서 그러신 거고 터진 건 아니고 새고 있어요, 물이?",
+            "speaker": 0
+        },
+        {
+            "id": "1226af53",
+            "startAt": 22765,
+            "endAt": 28386,
+            "text": "물이 스프링쿨러에서 계속 물이 떨어졌는데, 한 밑에 흥건한 게 한 두세 시간 된 거 같습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "3b4ba237",
+            "startAt": 28588,
+            "endAt": 31497,
+            "text": "아 그 업체에 점검 받으셔야 되거든요.",
+            "speaker": 0
+        },
+        {
+            "id": "fedae5ce",
+            "startAt": 31922,
+            "endAt": 32956,
+            "text": "아 네.",
+            "speaker": 1
+        },
+        {
+            "id": "031f44cd",
+            "startAt": 32338,
+            "endAt": 38727,
+            "text": "해당 업체요, 그 관리사무소 쪽 연락하시면 그 아파트에 계시죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_diajs6jfnng",
+            "startAt": 39204,
+            "endAt": 40186,
+            "text": "네 맞습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_m10ou2lnic",
+            "startAt": 40166,
+            "endAt": 46057,
+            "text": "그쪽 연계된 소방업체 있을 거예요. 네, 그쪽 통해서 점검을 받으셔야 돼요.",
+            "speaker": 0
+        },
+        {
+            "id": "41f11a57",
+            "startAt": 46313,
+            "endAt": 52325,
+            "text": "아 지금 새벽 시간이라서 그냥 이 이대로 그대로 놔둬도 상관은 없을까요? 한 몇 시간? ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tctmoruvcpo",
+            "startAt": 52957,
+            "endAt": 56557,
+            "text": "저 지금 전화 가능하 해도 되나요? 잘 몰라서.",
+            "speaker": 1
+        },
+        {
+            "id": "9e7f8dba",
+            "startAt": 56621,
+            "endAt": 62245,
+            "text": "지금 새벽 시간이라 통화는 힘드실 거 같은데 새는 양이 좀 많은 상태에요?",
+            "speaker": 0
+        },
+        {
+            "id": "1d2cde5f",
+            "startAt": 63329,
+            "endAt": 69496,
+            "text": "어 지 2, 3, 4, 5, 6. 이렇게 해서 물이 계속 떨어져요. 이정도씩.",
+            "speaker": 1
+        },
+        {
+            "id": "eaf63445",
+            "startAt": 69848,
+            "endAt": 70625,
+            "text": "아.",
+            "speaker": 0
+        },
+        {
+            "id": "a9e8ad6a",
+            "startAt": 72348,
+            "endAt": 80359,
+            "text": "현장은 젖어있고 그 다음에 물이 어 그 형광등 있죠, 형광등까지 그쪽으로 이렇게 샜어요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t7jm2p9rbs",
+            "startAt": 80993,
+            "endAt": 84693,
+            "text": "그래서 이제 그쪽도 여기 전원을 꺼야 될지, 아니면 어떻게 해야 될지.",
+            "speaker": 1
+        },
+        {
+            "id": "d25ee30f",
+            "startAt": 85093,
+            "endAt": 89632,
+            "text": "아 저희가 지금 출동을 한번 해볼 거고요. 송도 어디 계시죠?",
+            "speaker": 0
+        },
+        {
+            "id": "51bd1d64",
+            "startAt": 90377,
+            "endAt": 92655,
+            "text": "송도 그린워크 3차",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mvtemqidppg",
+            "startAt": 92798,
+            "endAt": 94262,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lharnp4g7m8",
+            "startAt": 94453,
+            "endAt": 95016,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lofouqr1kgo",
+            "startAt": 95262,
+            "endAt": 97553,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "c209144c",
+            "startAt": 97955,
+            "endAt": 98482,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e4tqhpn37b",
+            "startAt": 98380,
+            "endAt": 99889,
+            "text": "예, 한번 소방차 한번 가볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "29aeca16",
+            "startAt": 100425,
+            "endAt": 102089,
+            "text": "네, 감사합니다. 예",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 연수구 송도동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

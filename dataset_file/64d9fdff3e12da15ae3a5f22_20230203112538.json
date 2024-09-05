@@ -1,0 +1,131 @@
+{
+    "_id": "64d9fdff3e12da15ae3a5f22",
+    "audioPath": "20230814/Incheon/2023/02/03/075/converted_20230203112538_6-075.wav",
+    "recordId": "2d9d58f89331033c1f3d",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 45480,
+    "utterances": [
+        {
+            "id": "befc66be",
+            "startAt": 0,
+            "endAt": 1029,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "7528e955",
+            "startAt": 2527,
+            "endAt": 3632,
+            "text": "신고 좀 하려는데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6tu13joa3ug",
+            "startAt": 3718,
+            "endAt": 4371,
+            "text": "네 네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j8m6lo1bbag",
+            "startAt": 5919,
+            "endAt": 7967,
+            "text": "제가 응급 입원을 했는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kk9ik4461tg",
+            "startAt": 7961,
+            "endAt": 8331,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_btefdvre3e8",
+            "startAt": 8731,
+            "endAt": 9535,
+            "text": "입원 후에.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gnsc2tcf7hg",
+            "startAt": 10044,
+            "endAt": 11362,
+            "text": "응급 입원 중이신거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ec157hnh28o",
+            "startAt": 11862,
+            "endAt": 14748,
+            "text": "아니 됐는데 지났어요 근데 72시간 후에",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tntep8tt1a",
+            "startAt": 15819,
+            "endAt": 16852,
+            "text": "어떻게 되는 거예요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_uog37nh7j3",
+            "startAt": 18736,
+            "endAt": 22413,
+            "text": "응급 입원 하셨고 지금 어떻게 되는 건지 뭐 여쭤보시는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lgf4o2poag8",
+            "startAt": 22697,
+            "endAt": 22949,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vcrkaggi5t",
+            "startAt": 23955,
+            "endAt": 24470,
+            "text": "일단은",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pc84ue3ireo",
+            "startAt": 25269,
+            "endAt": 25531,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mue3e3rm9ag",
+            "startAt": 29671,
+            "endAt": 32733,
+            "text": "어 잠시만요, 이거 삼성병원에서 지금 연락 주신 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vmhdu0it6ao",
+            "startAt": 33212,
+            "endAt": 33631,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hl0q33nur5",
+            "startAt": 33986,
+            "endAt": 34772,
+            "text": "아, 잠시만요",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

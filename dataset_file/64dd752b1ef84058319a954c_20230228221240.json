@@ -1,0 +1,187 @@
+{
+    "_id": "64dd752b1ef84058319a954c",
+    "audioPath": "20230815/Incheon/2023/02/28/011/converted_20230228221240_4011-011.wav",
+    "recordId": "29e46e3bc4d0887a85fc",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 48480,
+    "utterances": [
+        {
+            "id": "wavesurfer_43k64ve162o",
+            "startAt": 8,
+            "endAt": 925,
+            "text": "예, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_etpp3cmbrlg",
+            "startAt": 1417,
+            "endAt": 5341,
+            "text": "아, 저 다름이 아니고요. 저희 여기 도로 한가운, 앗, 여기",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qd6tm2dc0og",
+            "startAt": 2875,
+            "endAt": 3558,
+            "text": "예, 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j1qaku4lcn8",
+            "startAt": 5816,
+            "endAt": 9041,
+            "text": "골목 한가운데 고양이가 로드킬을 당했거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0vnk56dc5ig",
+            "startAt": 9016,
+            "endAt": 11608,
+            "text": "거기 차, 2차 사고 위험 있나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_runu1038ht8",
+            "startAt": 12141,
+            "endAt": 12416,
+            "text": "네?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_s7220so9rjo",
+            "startAt": 12749,
+            "endAt": 15466,
+            "text": "2차 사고 위험 있을까요? 그 고양이를 위해서 차량이나",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u760r7qfkj",
+            "startAt": 14266,
+            "endAt": 16141,
+            "text": "아, 그러진 않아요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_l5iuqsmri5",
+            "startAt": 16116,
+            "endAt": 16999,
+            "text": "아, 그래요? 그럼.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o3bguc7tgt",
+            "startAt": 16632,
+            "endAt": 19532,
+            "text": "완전 한가운데서 지금 죽어 있어가지고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4a21d5jdg1o",
+            "startAt": 19711,
+            "endAt": 27173,
+            "text": "아, 제가 여쭤보는 이유는 그 차도가 좀 커서 다른 차들이 그 차를 피하다가 다른 차 사고가 날 수 있는지 여쭤보는 건데, 골목길이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ml49lgf4bko",
+            "startAt": 22940,
+            "endAt": 23315,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_usvcgamr858",
+            "startAt": 24828,
+            "endAt": 25528,
+            "text": "아.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k8b53g608ho",
+            "startAt": 27515,
+            "endAt": 29728,
+            "text": "네. 골목길에 완전 한가운데 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o0h2fbnppp8",
+            "startAt": 29691,
+            "endAt": 31003,
+            "text": "한가운데? 가운데?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_m98df86947",
+            "startAt": 31316,
+            "endAt": 31678,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3fim5kpfau8",
+            "startAt": 31366,
+            "endAt": 33816,
+            "text": "골목길 차 한 대 정도 지나갈 수 있는 곳인 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_72apq8i0v48",
+            "startAt": 33841,
+            "endAt": 34879,
+            "text": "네, 맞아요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ivblmqafd98",
+            "startAt": 34504,
+            "endAt": 38829,
+            "text": "아, 그러면은, 이거는 로드킬 같은 경우는 구청에서 처리합니다, 선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_r6qo1rfe49",
+            "startAt": 38917,
+            "endAt": 39679,
+            "text": "아, 네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e4vggvlrt7o",
+            "startAt": 39367,
+            "endAt": 44717,
+            "text": "예, 120번 전화하시면 되시고요. 혹시라도 조치가 안 된다고 하시면 다시 한 번 연락을 주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tdu6l1vddi8",
+            "startAt": 41567,
+            "endAt": 42017,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_r2rlh1f8tr",
+            "startAt": 44730,
+            "endAt": 46192,
+            "text": "네, 감사합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_u75jb1007ig",
+            "startAt": 45705,
+            "endAt": 46430,
+            "text": "네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

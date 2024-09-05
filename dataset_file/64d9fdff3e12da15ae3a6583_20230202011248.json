@@ -1,0 +1,341 @@
+{
+    "_id": "64d9fdff3e12da15ae3a6583",
+    "audioPath": "20230814/Incheon/2023/02/02/011/converted_20230202011248_4011-011.wav",
+    "recordId": "450b0e4a893740f66613",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 146920,
+    "utterances": [
+        {
+            "id": "1f756c9b",
+            "startAt": 251,
+            "endAt": 1055,
+            "text": "네 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "011e3cdd",
+            "startAt": 1611,
+            "endAt": 5025,
+            "text": "네, 우리 저기 저 아파트 앞에 있는데요. 예, ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_46on6a3e13g",
+            "startAt": 5500,
+            "endAt": 6555,
+            "text": "문이 안 열려요.",
+            "speaker": 1
+        },
+        {
+            "id": "9ab93881",
+            "startAt": 7171,
+            "endAt": 7608,
+            "text": "문이요?",
+            "speaker": 0
+        },
+        {
+            "id": "89effe8b",
+            "startAt": 8191,
+            "endAt": 8549,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "b6ec7fdf",
+            "startAt": 9051,
+            "endAt": 12864,
+            "text": "저 죄송한데 문개방은 그 열쇠집 등을 이용하셔야 됩니다.",
+            "speaker": 0
+        },
+        {
+            "id": "8b10606b",
+            "startAt": 13081,
+            "endAt": 14161,
+            "text": "어떻게 어떻게 해야 돼요?",
+            "speaker": 1
+        },
+        {
+            "id": "15139281",
+            "startAt": 14771,
+            "endAt": 18808,
+            "text": "열쇠집 뭐 한 뭐 열쇠 집이요?",
+            "speaker": 0
+        },
+        {
+            "id": "1142f3a5",
+            "startAt": 19984,
+            "endAt": 23634,
+            "text": "그럼 새벽에 지금 1시에 열쇠가 저기 연 연락하면 와요?",
+            "speaker": 1
+        },
+        {
+            "id": "e52fee2e",
+            "startAt": 23834,
+            "endAt": 27884,
+            "text": "어 지금 뭐 24시 열쇠집이 하나 번호가 있는데 안내 좀 해드릴까요?",
+            "speaker": 0
+        },
+        {
+            "id": "4e62ac5a",
+            "startAt": 28710,
+            "endAt": 32913,
+            "text": "그니까요 지금 내가 관리사무실에 얘기하니까 119를 하라 그더라고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_c2o7dphjb9o",
+            "startAt": 32991,
+            "endAt": 41082,
+            "text": "아 정말 죄송하게 119는 인명피해 우려가 있거나 화재 발생 등이 됐을 때 긴급 구조 목적으로 문을 부수면서 강제로 들어가는 경우는 있지만.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5l486ceudp",
+            "startAt": 41446,
+            "endAt": 45355,
+            "text": "지금처럼 단순히 문이 안 열리는 걸로 개방을 도와드릴 순는 없구요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_956bjahflh",
+            "startAt": 41473,
+            "endAt": 41982,
+            "text": "지금처럼",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vjlleuuksh8",
+            "startAt": 45973,
+            "endAt": 46419,
+            "text": "예",
+            "speaker": 1
+        },
+        {
+            "id": "d1575c13",
+            "startAt": 46543,
+            "endAt": 50550,
+            "text": "예, 24시 열쇠집이 있는데 전화번호 원하시면 좀 안내를 해드리겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_p35tqmcvle8",
+            "startAt": 51119,
+            "endAt": 52710,
+            "text": "아하, 아 그래요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_eg6p68otfto",
+            "startAt": 52901,
+            "endAt": 53401,
+            "text": "네네",
+            "speaker": 0
+        },
+        {
+            "id": "632a0622",
+            "startAt": 54193,
+            "endAt": 56019,
+            "text": "관리사무소는 도움이 안 돼요?",
+            "speaker": 1
+        },
+        {
+            "id": "132621d9",
+            "startAt": 56211,
+            "endAt": 56461,
+            "text": "네?",
+            "speaker": 0
+        },
+        {
+            "id": "3f6cf07c",
+            "startAt": 57016,
+            "endAt": 58944,
+            "text": "관리사무소는 왜 도움이 안 되나요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8jm69jqcq1",
+            "startAt": 59428,
+            "endAt": 65455,
+            "text": "어 정말 죄. 제가 그쪽까지는 정확히 모르니까 119에 대해서 도움을 드릴 수 있는 사항만 좀 말씀을 드릴 수가 있는데요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jbc7032skdg",
+            "startAt": 65864,
+            "endAt": 66319,
+            "text": "예",
+            "speaker": 1
+        },
+        {
+            "id": "33796a91",
+            "startAt": 65979,
+            "endAt": 70980,
+            "text": "지금 단순히 이제 문이 이제 개방이 안돼서 못 들어가시는 거는 저희가 좀 도와드리기가 힘들 거 같아요.",
+            "speaker": 0
+        },
+        {
+            "id": "f6c42155",
+            "startAt": 73905,
+            "endAt": 79794,
+            "text": "그니까 그 뭐가 지금 내 집 앞에 와 있는데 못 들어간다는게 좀 이상이잖아요. 집 기가. 예.",
+            "speaker": 1
+        },
+        {
+            "id": "f596d915",
+            "startAt": 80527,
+            "endAt": 83336,
+            "text": "선생님, 어떻게 24시간 열쇠집 번호를 좀 안내를 해드릴까요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_33dn73eu23g",
+            "startAt": 85583,
+            "endAt": 86719,
+            "text": "음",
+            "speaker": 1
+        },
+        {
+            "id": "6da1d847",
+            "startAt": 89694,
+            "endAt": 96307,
+            "text": "그니까 그러면 뭐 비상같은 뭐 그거 뭘로 좀 알려 줘세요, 집을 들가야 될 거 아니에요 지금. 문 안이 열리는데",
+            "speaker": 1
+        },
+        {
+            "id": "dfe0451a",
+            "startAt": 94543,
+            "endAt": 97629,
+            "text": "예, 그 전화번호 좀 말씀 좀 말씀드리겠습니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_re619coulhg",
+            "startAt": 97665,
+            "endAt": 99010,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "2c02768a",
+            "startAt": 103112,
+            "endAt": 104051,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "14b562f7",
+            "startAt": 104051,
+            "endAt": 106202,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "61cacf0a",
+            "startAt": 107419,
+            "endAt": 110690,
+            "text": "여기가 저기 뭐야 여 이 이 앞에 내려가야 되는거야?",
+            "speaker": 1
+        },
+        {
+            "id": "7fce4814",
+            "startAt": 110898,
+            "endAt": 113687,
+            "text": "네, 이쪽으로 전화 하시면은 열쇠집이 연결이 됩니다 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ho6b56lnd1o",
+            "startAt": 113692,
+            "endAt": 116611,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gsoq0jrksao",
+            "startAt": 118856,
+            "endAt": 120865,
+            "text": "예 그것도 기억도 잘 안 나는데.",
+            "speaker": 1
+        },
+        {
+            "id": "69ec635c",
+            "startAt": 123146,
+            "endAt": 123865,
+            "text": "잠깐만",
+            "speaker": 1
+        },
+        {
+            "id": "83c2475b",
+            "startAt": 123874,
+            "endAt": 129113,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "8adf8e94",
+            "startAt": 133315,
+            "endAt": 133951,
+            "text": "여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0qiti391ef8",
+            "startAt": 133870,
+            "endAt": 134570,
+            "text": "네네네",
+            "speaker": 0
+        },
+        {
+            "id": "fee1bb1f",
+            "startAt": 134591,
+            "endAt": 137530,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_aa10k3g51m",
+            "startAt": 138465,
+            "endAt": 139565,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "a12c4a7f",
+            "startAt": 140468,
+            "endAt": 141435,
+            "text": "24시간이에요? ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hpet99d60j",
+            "startAt": 141474,
+            "endAt": 142193,
+            "text": "예예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9ekjebnd1u8",
+            "startAt": 143793,
+            "endAt": 144902,
+            "text": "예, 알았어요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lstjllcvetg",
+            "startAt": 144929,
+            "endAt": 145456,
+            "text": " 예.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

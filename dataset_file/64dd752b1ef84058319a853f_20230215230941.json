@@ -1,0 +1,110 @@
+{
+    "_id": "64dd752b1ef84058319a853f",
+    "audioPath": "20230815/Incheon/2023/02/15/020/converted_20230215230941_4020-020.wav",
+    "recordId": "a351619a0ef28fcc5c39",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 47880,
+    "utterances": [
+        {
+            "id": "wavesurfer_o5pnjkh00dg",
+            "startAt": 0,
+            "endAt": 1209,
+            "text": "의료 상담입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "480d9c7a",
+            "startAt": 1505,
+            "endAt": 3968,
+            "text": "예, 지금. 여보세요, 저기. 음. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "256efe16",
+            "startAt": 4505,
+            "endAt": 7013,
+            "text": "그 뭐 맥주를요. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ellk4dtcido",
+            "startAt": 7151,
+            "endAt": 12014,
+            "text": "굉장히 많이 마셔요. 이 사람이 마시고 싶어서 그런 게 아니라 이렇게",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3s9i9isc2ng",
+            "startAt": 12553,
+            "endAt": 17161,
+            "text": "누가 막 마시게 시키고 그런 게 있는데 제가 이렇게 얘기하면 또 괴롭히거든요. 아무튼간.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t0apcr7b92",
+            "startAt": 17538,
+            "endAt": 22083,
+            "text": "근데 굉장히 많이 마셨을 때요. 눈두덩이만 이렇게 부을 수가 있어요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gged5phk6vo",
+            "startAt": 23226,
+            "endAt": 24354,
+            "text": "그렇진 않죠.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4imjp4a8jho",
+            "startAt": 25517,
+            "endAt": 29272,
+            "text": "그 눈두덩이만 붓는 것은 그 신장이 안 좋아서 그럴 수가 있어요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rdjefvpe5no",
+            "startAt": 29343,
+            "endAt": 32688,
+            "text": "검사를 해봐야 알겠죠? 아 네. 눈두덩이가 붙는 원인이 뭔지",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_93p0bk47evg",
+            "startAt": 32699,
+            "endAt": 39462,
+            "text": "피검사나 여러 가지 검사를 해봐야 할 거 같아요. 전화만으로는 확인이 불가능하니까요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6oceudgs6a",
+            "startAt": 32741,
+            "endAt": 33877,
+            "text": "그럴 수도 있겠죠?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_sniaa4rnaj8",
+            "startAt": 39669,
+            "endAt": 40642,
+            "text": "엑스레이요?",
+            "speaker": 1
+        },
+        {
+            "id": "744154ff",
+            "startAt": 40989,
+            "endAt": 47847,
+            "text": "한번 피 검사나 혈액 검사나 여러 가지 검사해봐야지 알죠. 술 많이 드셔서 그런 건지, 아니면 다른 원인 때문에 붓는 건지.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

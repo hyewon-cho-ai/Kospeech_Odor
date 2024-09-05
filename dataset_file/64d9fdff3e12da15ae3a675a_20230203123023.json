@@ -1,0 +1,110 @@
+{
+    "_id": "64d9fdff3e12da15ae3a675a",
+    "audioPath": "20230814/Incheon/2023/02/03/070/converted_20230203123023_1-070.wav",
+    "recordId": "99b8211350d2ec1ecfd0",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 42960,
+    "utterances": [
+        {
+            "id": "8ff06065",
+            "startAt": 9354,
+            "endAt": 9923,
+            "text": "여보세요? ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8rd8gbtj6kg",
+            "startAt": 10054,
+            "endAt": 16953,
+            "text": "네, 선생님. 저희 119구요, 그 구급차 지금 현재 가고 있는데, 그 구월초등학교 뒤편에 있는 대림아파트 맞나요?",
+            "speaker": 0
+        },
+        {
+            "id": "0843bcc5",
+            "startAt": 18558,
+            "endAt": 22346,
+            "text": "도원, 여기 저기 어디냐면, 그. 한국교회 건너편에 있는 거요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vvd9ht82o",
+            "startAt": 22516,
+            "endAt": 24543,
+            "text": "한국교회 건너편이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sbc7pdtgc6g",
+            "startAt": 24580,
+            "endAt": 25034,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "b5a9751d",
+            "startAt": 24759,
+            "endAt": 27695,
+            "text": "아. 그쪽이시구나.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lhdomolioco",
+            "startAt": 27843,
+            "endAt": 28561,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vle1uptvjuo",
+            "startAt": 29079,
+            "endAt": 29907,
+            "text": "그 부평동.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tfvfutfigu8",
+            "startAt": 29925,
+            "endAt": 31426,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ea4a80lou6o",
+            "startAt": 31422,
+            "endAt": 31868,
+            "text": "맞아요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dvjqdskajc8",
+            "startAt": 31846,
+            "endAt": 33197,
+            "text": "네네, 맞아요. 예, 거기요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_04moa2j97ko",
+            "startAt": 32425,
+            "endAt": 33597,
+            "text": "네, 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9hs90hb516o",
+            "startAt": 33443,
+            "endAt": 33852,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "중립",
+    "symptom": [],
+    "triage": ""
+}

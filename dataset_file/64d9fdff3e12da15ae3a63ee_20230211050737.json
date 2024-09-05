@@ -1,0 +1,264 @@
+{
+    "_id": "64d9fdff3e12da15ae3a63ee",
+    "audioPath": "20230814/Incheon/2023/02/11/017/converted_20230211050737_4017-017.wav",
+    "recordId": "088297384681846b7005",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 98960,
+    "utterances": [
+        {
+            "id": "wavesurfer_ca25d18d73g",
+            "startAt": 827,
+            "endAt": 1682,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c09uho98qso",
+            "startAt": 2882,
+            "endAt": 3264,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "3a8a13d5",
+            "startAt": 4279,
+            "endAt": 4745,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3kjjgfr11o8",
+            "startAt": 6318,
+            "endAt": 6718,
+            "text": "그.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vf3ra3f6mq8",
+            "startAt": 7882,
+            "endAt": 8863,
+            "text": "출동 갔나요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5884n6f1df",
+            "startAt": 9218,
+            "endAt": 10763,
+            "text": "네 구급차 출동 했습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lp7qpvpgek8",
+            "startAt": 15163,
+            "endAt": 17427,
+            "text": "무슨일이시죠? 왜, 왜 다시 전화 하신거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3si4ednnoig",
+            "startAt": 18190,
+            "endAt": 19808,
+            "text": "아니, 안오는거 같아가지구요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d81nrdmhjm8",
+            "startAt": 20063,
+            "endAt": 23663,
+            "text": "그 액, 때리고 그 막, 때리지말라 라고 소리지르던데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_oaso2rpt0b",
+            "startAt": 24008,
+            "endAt": 27835,
+            "text": "아, 저희 저 119쪽으로 신고 들어온지 지금.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mcc3kdq54k",
+            "startAt": 27981,
+            "endAt": 30244,
+            "text": "얼마 안됐어요. 지금 1분지났네, 1분.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fmons611vdo",
+            "startAt": 31053,
+            "endAt": 35844,
+            "text": "저기 아까 경찰에 전화하신거죠? 경찰에 전화하신거잖아요? 저희 그 119쪽은.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3799vnnarsg",
+            "startAt": 31072,
+            "endAt": 32762,
+            "text": "지금 1분 지났어",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_i73jlfms6eo",
+            "startAt": 36435,
+            "endAt": 40671,
+            "text": "저기 그 저기 119쪽으로 지금 넘어가는데 시간이 걸려요. 경찰은 이미 출동 하셨구요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3brpvr83bag",
+            "startAt": 40717,
+            "endAt": 41253,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_upeh9umrt1g",
+            "startAt": 41180,
+            "endAt": 45935,
+            "text": "저희쪽으로 이렇게 지금 넘어온게 그 1분전에 저희쪽으로 넘어와가지고 지금 출동을 나갔어요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9cclijr791g",
+            "startAt": 46780,
+            "endAt": 47516,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0qleitutujg",
+            "startAt": 46889,
+            "endAt": 50398,
+            "text": "저희 119 저희 구급차는 출발 했으니까요, 조금만 기다려 주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "c05dc572",
+            "startAt": 50434,
+            "endAt": 51886,
+            "text": "20분은 됐을 건데.",
+            "speaker": 1
+        },
+        {
+            "id": "00d95281",
+            "startAt": 52161,
+            "endAt": 55738,
+            "text": "아 저 아까 그 경찰에 신고하신 거잖아요?",
+            "speaker": 0
+        },
+        {
+            "id": "d0cd079b",
+            "startAt": 55924,
+            "endAt": 59465,
+            "text": "아니, 처음에 119에 신고했더니 거기서 경찰로 넘겨줬어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_i2omreg5uqo",
+            "startAt": 60071,
+            "endAt": 61370,
+            "text": "아 그래요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_l7vhkvu9lco",
+            "startAt": 61352,
+            "endAt": 61780,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9aq79pvk7t8",
+            "startAt": 61734,
+            "endAt": 64907,
+            "text": "그동안 환자가 지금 생긴, 생겼다는거잖아요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_oc610g4e3r8",
+            "startAt": 66298,
+            "endAt": 71206,
+            "text": "일단 아래집에서 이렇게 싸우고 막 부수고 때리고 난리가 났대니까.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1hb2u98glt8",
+            "startAt": 70416,
+            "endAt": 75270,
+            "text": "아, 아 아, 보니까 아까 그 신고 접수 받으신분이.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mbk0ijmpcrg",
+            "startAt": 75234,
+            "endAt": 75734,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ofkplulfov",
+            "startAt": 75752,
+            "endAt": 81006,
+            "text": "아 그 환자가 없으신줄 알고 경찰쪽으로 이제 연락을, 연결을 해드린거 같애요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jjlcjmumomo",
+            "startAt": 80988,
+            "endAt": 81697,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_s14gavkkufo",
+            "startAt": 81688,
+            "endAt": 86279,
+            "text": "아 그래서 이제 경찰쪽에서 이 환자가 생긴거 같다고 해가지고 저희쪽으로 다시 넘어와가지고.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9d7nkrup25",
+            "startAt": 86106,
+            "endAt": 87233,
+            "text": "아 그랬어요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_u7eh9ddmfhg",
+            "startAt": 87024,
+            "endAt": 88679,
+            "text": "예 예, 그래서 저 이게.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hl8cors5vu",
+            "startAt": 87879,
+            "endAt": 89269,
+            "text": "지금 경찰이 왔나요 그럼?",
+            "speaker": 1
+        },
+        {
+            "id": "68154f55",
+            "startAt": 89553,
+            "endAt": 96133,
+            "text": "어, 경찰은 아마 지금 가고 있을 거예요, 저희 이제 소방차도 지금 가고 있으니까요, 아 조금만 더 기다려주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "b10f682f",
+            "startAt": 96438,
+            "endAt": 97706,
+            "text": "네. 예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "기타부정",
+    "symptom": [],
+    "triage": ""
+}

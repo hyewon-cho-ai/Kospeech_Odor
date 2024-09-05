@@ -1,0 +1,75 @@
+{
+    "_id": "64dd752b1ef84058319a7f88",
+    "audioPath": "20230815/Incheon/2023/02/25/011/converted_20230225085259_4011-011.wav",
+    "recordId": "e492567f05c19d1cc70c",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 38280,
+    "utterances": [
+        {
+            "id": "wavesurfer_kr9tuao09fo",
+            "startAt": 27562,
+            "endAt": 28108,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "f9ccd5a4",
+            "startAt": 28575,
+            "endAt": 29463,
+            "text": "여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8cdoa083u",
+            "startAt": 29789,
+            "endAt": 30880,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vivr4cnf6n8",
+            "startAt": 30853,
+            "endAt": 31844,
+            "text": "대송파인아파트.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_b5rgnjd6oog",
+            "startAt": 31817,
+            "endAt": 33289,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pghn1kun6uo",
+            "startAt": 33735,
+            "endAt": 34407,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_q4bsd247to8",
+            "startAt": 34380,
+            "endAt": 36162,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "30851af9",
+            "startAt": 36330,
+            "endAt": 37475,
+            "text": "예, 알겠어요.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "기타부정",
+    "symptom": [],
+    "triage": ""
+}

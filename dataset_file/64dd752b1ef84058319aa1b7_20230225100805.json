@@ -1,0 +1,306 @@
+{
+    "_id": "64dd752b1ef84058319aa1b7",
+    "audioPath": "20230815/Incheon/2023/02/25/076/converted_20230225100805_7-076.wav",
+    "recordId": "138c8b9fe1aa4165748d",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 82960,
+    "utterances": [
+        {
+            "id": "c99954d5",
+            "startAt": 0,
+            "endAt": 1198,
+            "text": "119입니다. 여보세요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1ki4ob0390g",
+            "startAt": 872,
+            "endAt": 2155,
+            "text": "네, 안녕하세요 여기.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_irpfaqm1c3g",
+            "startAt": 2082,
+            "endAt": 2400,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "0f6694ed",
+            "startAt": 2785,
+            "endAt": 5676,
+            "text": "그, 새마을, 먼우금로 파스쿠찌거든요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f53cj8emqq8",
+            "startAt": 5519,
+            "endAt": 5919,
+            "text": "네?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qe41qsmv2u",
+            "startAt": 6446,
+            "endAt": 8701,
+            "text": "먼우금로에 있는 파스쿠찌인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8u0fttrlvp8",
+            "startAt": 8663,
+            "endAt": 9909,
+            "text": "먼우금로에 있는 ",
+            "speaker": 0
+        },
+        {
+            "id": "12ebd80d",
+            "startAt": 10282,
+            "endAt": 11220,
+            "text": "파스쿠찌요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pcoddhg4vlg",
+            "startAt": 11549,
+            "endAt": 12367,
+            "text": "파스쿠찌?",
+            "speaker": 0
+        },
+        {
+            "id": "72c07011",
+            "startAt": 12947,
+            "endAt": 15533,
+            "text": "네, 그 CGV 건물 앞에 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e4bq7uqfjd",
+            "startAt": 16791,
+            "endAt": 19682,
+            "text": "선생님, 거기 파스쿠찌에 무슨 점이라고 써 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8poa7u5f2u8",
+            "startAt": 20095,
+            "endAt": 21786,
+            "text": "파스쿠찌 연수역점이에요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qd1u3i29uj8",
+            "startAt": 21837,
+            "endAt": 23855,
+            "text": "파스쿠찌 연수역점? 무슨 일이세요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k3ha4qt3ang",
+            "startAt": 24467,
+            "endAt": 26722,
+            "text": "아 여기 지금 불이 났었는데, 불 껐거든요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_baeagkjrkg8",
+            "startAt": 26745,
+            "endAt": 28945,
+            "text": "연수역점이고 불이 났었다고요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_g1pltt0qaf",
+            "startAt": 29290,
+            "endAt": 31963,
+            "text": "네, 저거에 불이 났던 거 같아요.",
+            "speaker": 1
+        },
+        {
+            "id": "756b9092",
+            "startAt": 29762,
+            "endAt": 33128,
+            "text": "불이 어디에서 났어요, 어디에서 불이 났다구요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fr7srpn9oj",
+            "startAt": 34040,
+            "endAt": 37950,
+            "text": "그까 담배꽁초를 버리셨는데 거기 폐지랑 섞여서 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ot8c2q5e0lo",
+            "startAt": 37487,
+            "endAt": 38041,
+            "text": "어. ",
+            "speaker": 0
+        },
+        {
+            "id": "fe4f4f0b",
+            "startAt": 38164,
+            "endAt": 40998,
+            "text": "밖, 매장 안에서 불이 난 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sp7enf6t0jg",
+            "startAt": 38274,
+            "endAt": 41165,
+            "text": "불이 났었다가, 불",
+            "speaker": 1
+        },
+        {
+            "id": "247e8fb1",
+            "startAt": 41354,
+            "endAt": 46003,
+            "text": "아니요, 아니요, 매장, 매장 안은 아닌데 저희 건물 관리되는 데에요. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rfk4r1dc7gg",
+            "startAt": 42973,
+            "endAt": 43637,
+            "text": "밖에?",
+            "speaker": 0
+        },
+        {
+            "id": "62eb4331",
+            "startAt": 46499,
+            "endAt": 50499,
+            "text": "아 그 그럼 밖에 그 테라스 같은 데에서 불이 났다가 꺼진 거예요?  ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4dbhkff38n",
+            "startAt": 49133,
+            "endAt": 50460,
+            "text": "네, 네, 네, 맞아요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vtob93evp7o",
+            "startAt": 50787,
+            "endAt": 51287,
+            "text": "네. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3p7r44oer2o",
+            "startAt": 51211,
+            "endAt": 52702,
+            "text": "아, 그런데요, 지금?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u382vd00hqg",
+            "startAt": 52913,
+            "endAt": 53813,
+            "text": "그랬는데 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_c7cf27ke6u8",
+            "startAt": 53738,
+            "endAt": 54147,
+            "text": "네. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_02fdi8pcjog",
+            "startAt": 53898,
+            "endAt": 55225,
+            "text": "여기 전기가 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0bqn1hr6q2o",
+            "startAt": 55307,
+            "endAt": 55625,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "f8a469c8",
+            "startAt": 56285,
+            "endAt": 59851,
+            "text": "그 전선이 연결되 있는 게 하나가 녹아서 단전, 이 끊겨 있어요.  ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_sjdlbjb1v8o",
+            "startAt": 59471,
+            "endAt": 60144,
+            "text": "네, 네. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_h5v21nl0tno",
+            "startAt": 60261,
+            "endAt": 61879,
+            "text": "그래서 혹시 몰라서 전화드렸어요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0l0n9ke8dpg",
+            "startAt": 61622,
+            "endAt": 63468,
+            "text": "안전 조치 요청하시는 거예요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lfh16qk8ke",
+            "startAt": 63679,
+            "endAt": 64316,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3fjjibtgapo",
+            "startAt": 64036,
+            "endAt": 67409,
+            "text": "네, 저희 일단 나가서 볼게요. 선생님,  파스쿠찌 연수역점 맞죠? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c2ml38ag8u8",
+            "startAt": 67624,
+            "endAt": 68524,
+            "text": "네, 맞아요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_s7lu4la9h9",
+            "startAt": 67985,
+            "endAt": 74276,
+            "text": "네, 지금 그쪽으로 가고 있어요, 가면서 전화 드릴 수 있으니까 전화 잘 받고 계세요. 가고 있습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "1f5da528",
+            "startAt": 73422,
+            "endAt": 74982,
+            "text": "네, 감사합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7kq58fn1n5o",
+            "startAt": 74277,
+            "endAt": 75104,
+            "text": "네. ",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 연수구 청학동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

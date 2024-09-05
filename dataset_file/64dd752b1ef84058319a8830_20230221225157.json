@@ -1,0 +1,194 @@
+{
+    "_id": "64dd752b1ef84058319a8830",
+    "audioPath": "20230815/Incheon/2023/02/21/009/converted_20230221225157_4009-009.wav",
+    "recordId": "399b176c5e161d74723e",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 51560,
+    "utterances": [
+        {
+            "id": "4430624f",
+            "startAt": 1113,
+            "endAt": 2503,
+            "text": "119입니다. 어디세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9526lh5o5to",
+            "startAt": 2353,
+            "endAt": 5671,
+            "text": "예 수고하십니다. 여기 부평구",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1hqkr1e22lg",
+            "startAt": 5762,
+            "endAt": 6188,
+            "text": "청천",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ldn4fn5ugg",
+            "startAt": 6177,
+            "endAt": 7260,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nho2cdmmvu8",
+            "startAt": 7680,
+            "endAt": 8320,
+            "text": "청천",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lul05bgl3qg",
+            "startAt": 8960,
+            "endAt": 9693,
+            "text": "청천로",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b2sf92ttaog",
+            "startAt": 9689,
+            "endAt": 10516,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3931jml953",
+            "startAt": 10679,
+            "endAt": 11592,
+            "text": "청천로",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dpc7kmaddjg",
+            "startAt": 11602,
+            "endAt": 12376,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_v4a526gk248",
+            "startAt": 12653,
+            "endAt": 13693,
+            "text": "예 저기",
+            "speaker": 1
+        },
+        {
+            "id": "0240b8a8",
+            "startAt": 14220,
+            "endAt": 18240,
+            "text": "작전 사이 저기 뭐야 저기",
+            "speaker": 1
+        },
+        {
+            "id": "2f102e8c",
+            "startAt": 18636,
+            "endAt": 21006,
+            "text": "여기 상담대 몇 층에 계세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_npln83s07tg",
+            "startAt": 21033,
+            "endAt": 21497,
+            "text": "아니",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hd56uonlgmg",
+            "startAt": 21591,
+            "endAt": 23180,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_grkk9jfsdj",
+            "startAt": 23553,
+            "endAt": 26316,
+            "text": "별이 빛나는 밤 앞에 정문 나와있을게요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2bug0dm1tog",
+            "startAt": 26680,
+            "endAt": 29827,
+            "text": "그 앞에 나오실 거예요? 무슨 일로 전화하신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_effre8qmp7",
+            "startAt": 30069,
+            "endAt": 34389,
+            "text": "드라마 보는데 원래 장애가, 장애가 있는데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_470490e5goo",
+            "startAt": 34760,
+            "endAt": 36327,
+            "text": "선학이거든요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2v9lp2sp1h8",
+            "startAt": 36756,
+            "endAt": 38869,
+            "text": "좀 걸어 119좀 그래서 전화했습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "7a6e5cf4",
+            "startAt": 39830,
+            "endAt": 42123,
+            "text": "그 집에 가실 거예요, 병원에 가실 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4cumoaisrp8",
+            "startAt": 42107,
+            "endAt": 44600,
+            "text": "아니 저기 가까 가깝 집에 갈 겁니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rf4tjnifso",
+            "startAt": 44653,
+            "endAt": 49507,
+            "text": "죄송합니다, 119는 귀가조치를 도와드리지 않습니다. 택시 이용하셔야 돼요.",
+            "speaker": 0
+        },
+        {
+            "id": "168e072d",
+            "startAt": 49860,
+            "endAt": 50853,
+            "text": "예 알았습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nvp013gdi9g",
+            "startAt": 50693,
+            "endAt": 51120,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hvt0jls3olg",
+            "startAt": 51180,
+            "endAt": 51413,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

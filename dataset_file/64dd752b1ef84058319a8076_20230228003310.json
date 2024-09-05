@@ -1,0 +1,201 @@
+{
+    "_id": "64dd752b1ef84058319a8076",
+    "audioPath": "20230815/Incheon/2023/02/28/071/converted_20230228003310_2-071.wav",
+    "recordId": "994719c27a70b093cc05",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 74040,
+    "utterances": [
+        {
+            "id": "wavesurfer_oklmnl50hb",
+            "startAt": 0,
+            "endAt": 791,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_svbpo2csf08",
+            "startAt": 1646,
+            "endAt": 2455,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9q70lm75r2",
+            "startAt": 3491,
+            "endAt": 4646,
+            "text": "네 여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_q6v0hsefiko",
+            "startAt": 3937,
+            "endAt": 7955,
+            "text": "여기 여기 이 주 익, 익숙한 데 아시죠?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_20kgm7hihko",
+            "startAt": 9855,
+            "endAt": 11373,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tbecclkn9bg",
+            "startAt": 11346,
+            "endAt": 12973,
+            "text": "사람이 나왔는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ehjsi794u8g",
+            "startAt": 14746,
+            "endAt": 16246,
+            "text": "지금 한.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b8t2f282ps",
+            "startAt": 17037,
+            "endAt": 18819,
+            "text": "3, 4일 됐나?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_86cchnsacbg",
+            "startAt": 19501,
+            "endAt": 21128,
+            "text": "전화된 게 없네요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_aq24h6idag8",
+            "startAt": 21192,
+            "endAt": 22256,
+            "text": "그리고는.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1bbasesk9f",
+            "startAt": 22856,
+            "endAt": 26992,
+            "text": "그 이후 계속 욕, 욕하면서.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9v1n09p3e58",
+            "startAt": 28856,
+            "endAt": 31602,
+            "text": "그럼 나는 어떻게 살아야 돼.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2r0qt9t8kh",
+            "startAt": 32183,
+            "endAt": 34238,
+            "text": "방법이 없습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fq9uojp27i8",
+            "startAt": 33183,
+            "endAt": 35656,
+            "text": "선생님 여기 인천에 119거든요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6mpr1eu3hj",
+            "startAt": 35702,
+            "endAt": 36975,
+            "text": "119 소방서?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bhqlmtadopo",
+            "startAt": 36320,
+            "endAt": 36938,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dgq0g5t86q8",
+            "startAt": 37493,
+            "endAt": 38338,
+            "text": "응?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1hf28u1urp",
+            "startAt": 37984,
+            "endAt": 40302,
+            "text": "인천에 119 소방서 전화하신 거 맞아요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1jgflm8lpk",
+            "startAt": 41602,
+            "endAt": 44184,
+            "text": "그거하고 여기하고 또 달라요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ljnnem53ad",
+            "startAt": 45730,
+            "endAt": 47330,
+            "text": "지금 어디로 전화하신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7ni5eeun2kg",
+            "startAt": 47375,
+            "endAt": 48430,
+            "text": "114.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_73trmkv1kto",
+            "startAt": 48830,
+            "endAt": 50084,
+            "text": "114예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dl6nlk5551o",
+            "startAt": 50184,
+            "endAt": 50739,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_uj1d6gn8e",
+            "startAt": 51884,
+            "endAt": 54548,
+            "text": "여기는 119예요 114로 다시 전화하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2hisi6ukb3g",
+            "startAt": 54903,
+            "endAt": 58257,
+            "text": "예, 고맙습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nmog9ehcrlg",
+            "startAt": 63721,
+            "endAt": 65330,
+            "text": "오늘 이상한 사람 많네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "기타부정",
+    "symptom": [],
+    "triage": ""
+}

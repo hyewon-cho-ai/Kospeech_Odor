@@ -1,0 +1,467 @@
+{
+    "_id": "64dd752b1ef84058319a7f79",
+    "audioPath": "20230815/Incheon/2023/02/28/007/converted_20230228192657_4007-007.wav",
+    "recordId": "273c7d65676e75042ba7",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 158480,
+    "utterances": [
+        {
+            "id": "b062565e",
+            "startAt": 29,
+            "endAt": 877,
+            "text": "네, 119입니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_655d9tiu6u",
+            "startAt": 2414,
+            "endAt": 3129,
+            "text": "여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nl0h5b3ofeo",
+            "startAt": 4186,
+            "endAt": 5129,
+            "text": "119죠?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gh6lg44dm3",
+            "startAt": 5150,
+            "endAt": 5750,
+            "text": "네,네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_23o1skvoi28",
+            "startAt": 7316,
+            "endAt": 9066,
+            "text": "아니 제가",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a23hj23k5cg",
+            "startAt": 9807,
+            "endAt": 12293,
+            "text": "몸 상태가 안좋아가지고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_97se84ovgv",
+            "startAt": 11963,
+            "endAt": 12834,
+            "text": "예 뭐라고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4na7cuan1q8",
+            "startAt": 14072,
+            "endAt": 16932,
+            "text": "아이, 몸 상태가 안좋아가지고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p2r76i9llpo",
+            "startAt": 18159,
+            "endAt": 18750,
+            "text": "내가",
+            "speaker": 1
+        },
+        {
+            "id": "d347af5a",
+            "startAt": 20790,
+            "endAt": 21998,
+            "text": "어디가 안 좋으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_atjc2t09cm",
+            "startAt": 21577,
+            "endAt": 21934,
+            "text": "무슨",
+            "speaker": 1
+        },
+        {
+            "id": "a9c54155",
+            "startAt": 22989,
+            "endAt": 23845,
+            "text": "아이 저잇,",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gou30cupjfg",
+            "startAt": 25188,
+            "endAt": 27066,
+            "text": "간경화 중신이에요.",
+            "speaker": 0
+        },
+        {
+            "id": "29904c9e",
+            "startAt": 28170,
+            "endAt": 33561,
+            "text": "네 간경화가 있고 뭐 며칠 전에도 피 토했다고 하시네요? 했었네요? 지금도 그래요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pu994fcg2vg",
+            "startAt": 31557,
+            "endAt": 32207,
+            "text": "응",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_80lqg4oabno",
+            "startAt": 35075,
+            "endAt": 36007,
+            "text": "아이",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7njlap5sa4",
+            "startAt": 38513,
+            "endAt": 41263,
+            "text": "아, 그 주소가 지금 병원",
+            "speaker": 0
+        },
+        {
+            "id": "aefd3fc4",
+            "startAt": 38603,
+            "endAt": 41173,
+            "text": "지금은 아니 이게",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1qkshpma2ro",
+            "startAt": 41659,
+            "endAt": 43259,
+            "text": "병원가실꺼예요? 그래서 지금?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gb9deopokq",
+            "startAt": 42231,
+            "endAt": 42595,
+            "text": "응",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6m2vqsvt978",
+            "startAt": 44379,
+            "endAt": 44893,
+            "text": "아이",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lurl8ce09c",
+            "startAt": 45938,
+            "endAt": 47409,
+            "text": "부르면 안돼예요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8d3p7cnatu",
+            "startAt": 47590,
+            "endAt": 49104,
+            "text": "네? 병원 안가신다구요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_eipmmc47mmo",
+            "startAt": 49584,
+            "endAt": 49920,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "9db0ac6b",
+            "startAt": 50974,
+            "endAt": 52649,
+            "text": "왜. 왜그렇냐면",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qgtqqu5o218",
+            "startAt": 53183,
+            "endAt": 55417,
+            "text": "중환자실에 보내기때문에",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_l14cpgafvt8",
+            "startAt": 55281,
+            "endAt": 56317,
+            "text": "예 뭐라구요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tvftm9qp148",
+            "startAt": 57051,
+            "endAt": 59336,
+            "text": "중환자실 보내기때문에",
+            "speaker": 1
+        },
+        {
+            "id": "4af11587",
+            "startAt": 59362,
+            "endAt": 60346,
+            "text": "중환자실이요?",
+            "speaker": 0
+        },
+        {
+            "id": "50abe893",
+            "startAt": 60992,
+            "endAt": 64759,
+            "text": "응, 내가 중환자실 가기가 싫거든",
+            "speaker": 1
+        },
+        {
+            "id": "d94a07af",
+            "startAt": 65122,
+            "endAt": 66649,
+            "text": "중환자실에 가고 싶다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "2cbefdb3",
+            "startAt": 67838,
+            "endAt": 69765,
+            "text": "아이 가기가 싫다고",
+            "speaker": 1
+        },
+        {
+            "id": "b96d7225",
+            "startAt": 69422,
+            "endAt": 73035,
+            "text": "가기 싫으시다고요? 근데 몸 안 좋은데 일단 치료를 받으셔야 되잖아요.",
+            "speaker": 0
+        },
+        {
+            "id": "9d9ce0eb",
+            "startAt": 74162,
+            "endAt": 81281,
+            "text": "아니, 근데 그, 암투병이니 뭐 피친거아니겠어요.",
+            "speaker": 1
+        },
+        {
+            "id": "ee13630f",
+            "startAt": 81757,
+            "endAt": 90618,
+            "text": "에 피토는 지금 안 하셨고, 그 지금 뭐 몸 상태가 안 좋다고 하는데 어디가 어떻게 안 좋으신거예요? 일단 저희가 가서 확인을 해봐야 되지 않을까요? 안 해도 되나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k6jr3j311eo",
+            "startAt": 91831,
+            "endAt": 92310,
+            "text": "해.",
+            "speaker": 1
+        },
+        {
+            "id": "e6c4e6fd",
+            "startAt": 93317,
+            "endAt": 94445,
+            "text": "길병원에",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t1hkaj1m25g",
+            "startAt": 94587,
+            "endAt": 95044,
+            "text": "네?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_g52i7483su8",
+            "startAt": 95608,
+            "endAt": 97115,
+            "text": "길병원.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2e9hdtbah4o",
+            "startAt": 97826,
+            "endAt": 98569,
+            "text": "거기",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4smmmqvm5r",
+            "startAt": 99019,
+            "endAt": 103390,
+            "text": "우리 대준이나, 선생님한테 입, 입원할려하는데",
+            "speaker": 1
+        },
+        {
+            "id": "c364800d",
+            "startAt": 103458,
+            "endAt": 106206,
+            "text": "길병원 쪽으로 입원하신, 입원할려고 하신다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "432921a2",
+            "startAt": 106729,
+            "endAt": 107198,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_is0mmhru348",
+            "startAt": 107358,
+            "endAt": 107865,
+            "text": "근데",
+            "speaker": 1
+        },
+        {
+            "id": "d4f2bed1",
+            "startAt": 107982,
+            "endAt": 114233,
+            "text": "입원 목적으로 저희가 그, 가는 거 아니고 저 응급실 가는 목, 거 밖에 안되거든요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2352igecsao",
+            "startAt": 114880,
+            "endAt": 115737,
+            "text": "아니 일일",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t2f81nlb09o",
+            "startAt": 115390,
+            "endAt": 118455,
+            "text": "일단 그 입원은, 그리고 또 의사선생님이 판단하시는거라.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sjt5ceat0tg",
+            "startAt": 120344,
+            "endAt": 123044,
+            "text": "그쪽 저희가 일단은 가서 확인을 해드려요? 일단?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_p99q733esr",
+            "startAt": 123626,
+            "endAt": 126083,
+            "text": "아예 아니에요. 내가",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fpad58fqc3g",
+            "startAt": 126133,
+            "endAt": 126419,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nljfs4m3l9",
+            "startAt": 126505,
+            "endAt": 126869,
+            "text": "그",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k2f3dhqouu",
+            "startAt": 127323,
+            "endAt": 128730,
+            "text": "안좋아지고있으면",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_78u6sjs9a28",
+            "startAt": 128894,
+            "endAt": 129251,
+            "text": "네?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_n5f3shvoasg",
+            "startAt": 129507,
+            "endAt": 129957,
+            "text": "거기",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kovr0ilr8eo",
+            "startAt": 130142,
+            "endAt": 132553,
+            "text": "송림마을쯤에 지나가는 집이 있거든요",
+            "speaker": 1
+        },
+        {
+            "id": "a0c10b89",
+            "startAt": 132273,
+            "endAt": 133424,
+            "text": "네, 뭐라고요?",
+            "speaker": 0
+        },
+        {
+            "id": "e8d8cba2",
+            "startAt": 133803,
+            "endAt": 140009,
+            "text": "아니 제가 몸 상태가 안좋으면 전원 부를께요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ej9tui3lnto",
+            "startAt": 140641,
+            "endAt": 141291,
+            "text": "아.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_99u7nvnvj3",
+            "startAt": 141391,
+            "endAt": 143455,
+            "text": "더 안좋아지면 다시 연락 주신다구요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3hf9vo0t47g",
+            "startAt": 143828,
+            "endAt": 144528,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_eigs4h863a8",
+            "startAt": 144632,
+            "endAt": 152225,
+            "text": "아 예. 만약에 몸 많이 안좋아지시면 병원, 아니, 저희 불러주시거나 미리 병원가서 검사 한 번 받아보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_g9obrl8vl0g",
+            "startAt": 152862,
+            "endAt": 154519,
+            "text": "네 알겠습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t3tnof2ku7",
+            "startAt": 154276,
+            "endAt": 155284,
+            "text": "알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_92al4h1t9mg",
+            "startAt": 155526,
+            "endAt": 156405,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

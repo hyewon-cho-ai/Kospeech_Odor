@@ -1,0 +1,264 @@
+{
+    "_id": "64dd752b1ef84058319aad35",
+    "audioPath": "20230815/Incheon/2023/02/25/009/converted_20230225165304_4009-009.wav",
+    "recordId": "c90bb80164b9d49b7c17",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 104920,
+    "utterances": [
+        {
+            "id": "d84131bd",
+            "startAt": 885,
+            "endAt": 1875,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "7166da4f",
+            "startAt": 2505,
+            "endAt": 6559,
+            "text": "아, 예. 저기 여기 송현동 솔빛공원이거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "48dd76cc",
+            "startAt": 6759,
+            "endAt": 7525,
+            "text": "무슨 공원이요?",
+            "speaker": 0
+        },
+        {
+            "id": "728c57cd",
+            "startAt": 8045,
+            "endAt": 9320,
+            "text": "송현동 솔빛공원",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_00ihfui1i6o",
+            "startAt": 9337,
+            "endAt": 10300,
+            "text": "솔빛공원이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_a8cacorpvq",
+            "startAt": 10437,
+            "endAt": 11364,
+            "text": "예예예.",
+            "speaker": 1
+        },
+        {
+            "id": "5d9ee7c2",
+            "startAt": 10973,
+            "endAt": 12384,
+            "text": "지금 솔빛 공원 안에 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ru05u6rrhs8",
+            "startAt": 12737,
+            "endAt": 18082,
+            "text": "예. 솔빛공원 그 이게 뭐냐. 인라인스케이트 인라인스케이트장",
+            "speaker": 1
+        },
+        {
+            "id": "a6858dd1",
+            "startAt": 18111,
+            "endAt": 19792,
+            "text": "아, 네. 스케이트장으로 가면 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_li32oght4u",
+            "startAt": 18637,
+            "endAt": 22773,
+            "text": "네. 예. 예예예. 거기 뭐냐면은",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_oc5meo0qbcg",
+            "startAt": 22819,
+            "endAt": 30955,
+            "text": "애들이 차 축구 차다 이제 공이 나뭇가지에 걸렸는데 그걸 뺄라고 하다가. 야구 방망이까지 나뭇가지에 걸렸는데",
+            "speaker": 1
+        },
+        {
+            "id": "e0439cd2",
+            "startAt": 31010,
+            "endAt": 36895,
+            "text": "이게 사람들 산책하시는데 나무 방망이가 바람 불어 떨어지면 상당히 위험할 거 같아가지고.\n",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_q2q9mvjjpt8",
+            "startAt": 37028,
+            "endAt": 41255,
+            "text": "아, 잠시만요. 그니까 지금 나무에. 나무에 축구공이 걸려있었어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ujrd3jki91o",
+            "startAt": 39728,
+            "endAt": 40164,
+            "text": "야",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_71euke1vckg",
+            "startAt": 41455,
+            "endAt": 42346,
+            "text": "예, 그래서 그",
+            "speaker": 1
+        },
+        {
+            "id": "902b6b12",
+            "startAt": 42517,
+            "endAt": 45755,
+            "text": "응. 걸려서 이걸 빼려 그니까 축구공",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9j1lq06g058",
+            "startAt": 46146,
+            "endAt": 47301,
+            "text": "뺄려고 하다가",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_j5tcrmu8g5o",
+            "startAt": 47255,
+            "endAt": 48264,
+            "text": "고 하다가",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4rr2npkvke",
+            "startAt": 48655,
+            "endAt": 54165,
+            "text": "이 야구방망이가 그 그 위에 나뭇가지에 걸렸는데 이 이게 바람 불어서 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kfgvg3k6ba",
+            "startAt": 54592,
+            "endAt": 59319,
+            "text": "떨어지면 이게 여기 운동하시는 분한테 상당히 위험할 거 같아가지고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_297d2ms4q58",
+            "startAt": 59783,
+            "endAt": 61665,
+            "text": "아 나중에 떨 그니까 떨어졌을 때",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bfgnlnlj6ho",
+            "startAt": 61992,
+            "endAt": 62883,
+            "text": "예예예예예.",
+            "speaker": 1
+        },
+        {
+            "id": "fb4428b7",
+            "startAt": 64001,
+            "endAt": 65656,
+            "text": "공원 산책하는 분들요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hpvg73t1368",
+            "startAt": 65710,
+            "endAt": 66510,
+            "text": "예예예.",
+            "speaker": 1
+        },
+        {
+            "id": "2fc090a8",
+            "startAt": 67078,
+            "endAt": 72704,
+            "text": "지금 걸려있는 게 한, 한 7m 위에 좀 걸려있거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "7da63432",
+            "startAt": 74143,
+            "endAt": 76364,
+            "text": "아, 일일 지금 그래서 119 신고하시는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "944d1643",
+            "startAt": 76655,
+            "endAt": 77372,
+            "text": "예예예.",
+            "speaker": 1
+        },
+        {
+            "id": "e860740a",
+            "startAt": 78710,
+            "endAt": 84240,
+            "text": "아, 우선은 저희가 저기 그 구조차 보낼 거고요. 나무 높이가 얼마나 되나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vd8gkncu6f",
+            "startAt": 82429,
+            "endAt": 82883,
+            "text": "예예.",
+            "speaker": 1
+        },
+        {
+            "id": "4dcfcbbb",
+            "startAt": 84850,
+            "endAt": 90697,
+            "text": "나무 높이가 한 10m 정도 되는데, 그 지금 걸려있는 데는 한, 한 6, 7m 정도 될 거 같아요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gq6pjpq7ako",
+            "startAt": 91447,
+            "endAt": 92138,
+            "text": "높이가",
+            "speaker": 1
+        },
+        {
+            "id": "3fcdde94",
+            "startAt": 92086,
+            "endAt": 93290,
+            "text": "아, 6m 정도?",
+            "speaker": 0
+        },
+        {
+            "id": "c7b9a864",
+            "startAt": 93755,
+            "endAt": 94205,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "278243b4",
+            "startAt": 95951,
+            "endAt": 101148,
+            "text": "아, 네, 알겠습니다. 저희가 이거 보낼 거고요. 전화 받아주세요. 저 인라인 스케이트장으로 가면 되는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8bv30vi5788",
+            "startAt": 101320,
+            "endAt": 102793,
+            "text": "예예예예. 네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 동구 송현동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

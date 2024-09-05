@@ -1,0 +1,96 @@
+{
+    "_id": "64dd752b1ef84058319a899b",
+    "audioPath": "20230815/Incheon/2023/02/25/004/converted_20230225191404_4004-004.wav",
+    "recordId": "a40d444073246864b954",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 39480,
+    "utterances": [
+        {
+            "id": "8c24dd86",
+            "startAt": 688,
+            "endAt": 1532,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "0d586693",
+            "startAt": 2780,
+            "endAt": 4233,
+            "text": "예 여, 여 여보세요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d41jao5gj38",
+            "startAt": 4476,
+            "endAt": 9193,
+            "text": "여기 연, 연수, 대, 대동 아파트인데요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mihanpi8u58",
+            "startAt": 9218,
+            "endAt": 9801,
+            "text": "예예",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8s972db70bo",
+            "startAt": 9538,
+            "endAt": 13414,
+            "text": "저기, 어그, 경찰들이 와 가지고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_glc46lki40o",
+            "startAt": 13300,
+            "endAt": 13767,
+            "text": "예",
+            "speaker": 0
+        },
+        {
+            "id": "b68a0642",
+            "startAt": 13738,
+            "endAt": 18140,
+            "text": "제, 제대로 조사를 안 해주니까 저 태워서",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0gop737ng78",
+            "startAt": 18703,
+            "endAt": 21820,
+            "text": "지구대에 좀 보내주시면 안 될까요? ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0bhai1omeb8",
+            "startAt": 22622,
+            "endAt": 29390,
+            "text": "아, 선생님, 그러면은 경찰 요청하셔야 될 거 같아요. 112에 112에 전화해주셔야 될 거 같애요, ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vq8ers47l0g",
+            "startAt": 29897,
+            "endAt": 33689,
+            "text": "예예, 119가 좀 와주세요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_oe3vcvvbj48",
+            "startAt": 33939,
+            "endAt": 36481,
+            "text": "112에 전화 주셔야 될 거 같애요.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

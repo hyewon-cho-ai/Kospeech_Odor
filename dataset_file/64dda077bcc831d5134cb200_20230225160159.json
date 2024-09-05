@@ -1,0 +1,397 @@
+{
+    "_id": "64dda077bcc831d5134cb200",
+    "audioPath": "20230816/Incheon/2023/02/25/003/converted_20230225160159_4003-003.wav",
+    "recordId": "2402bf076d62c5a1c86e",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 121520,
+    "utterances": [
+        {
+            "id": "wavesurfer_c0gi8ov60qg",
+            "startAt": 318,
+            "endAt": 1127,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fdvvkrdba68",
+            "startAt": 2473,
+            "endAt": 3264,
+            "text": "아 네 여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a32qh5pmup8",
+            "startAt": 3373,
+            "endAt": 4236,
+            "text": "네 말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_n1ceq9u5agg",
+            "startAt": 4700,
+            "endAt": 7955,
+            "text": "아 이거를 여기다 전화를 드려야 될지 모르겠는데요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8cp0ilque4",
+            "startAt": 8462,
+            "endAt": 14198,
+            "text": "아 네 그 여기는 그 부평에 있는 역전 할머니 맥주고요. 부평역점 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dp7vuaiapno",
+            "startAt": 14537,
+            "endAt": 17755,
+            "text": "예 앞에 그 담배꽁 담배 아 잠시만요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_g4v7em475s",
+            "startAt": 17931,
+            "endAt": 24177,
+            "text": "담배꽁초를 넣는 함이 있어요. 이거 부평 새마을거리 상가 번영회에서 만든 설치물이고요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jujflode188",
+            "startAt": 24408,
+            "endAt": 28580,
+            "text": "근데 이 안에서 불이 나는 것처럼 완전 연기가 새까맣게 위로 올라와서",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_phmjn9fbebg",
+            "startAt": 28633,
+            "endAt": 29615,
+            "text": "연기가 많이나와요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pf9hec1hvt",
+            "startAt": 30200,
+            "endAt": 31628,
+            "text": "그 함에서만 나와요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kljtahdjuho",
+            "startAt": 30664,
+            "endAt": 31673,
+            "text": "네 좀 많이나와요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k8c0n6apvko",
+            "startAt": 32335,
+            "endAt": 35908,
+            "text": "계속 나오네요. 뭐 안에 그 하얀 연기가 뭐 미친듯이 나와서",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_793okujglpg",
+            "startAt": 35664,
+            "endAt": 36737,
+            "text": "하얀 연기요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_88cabd4eq3g",
+            "startAt": 36077,
+            "endAt": 40013,
+            "text": "안에 안에 담배꽁초를 넣어놔서 그런지 불이 계속 나거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8p5o8v195s8",
+            "startAt": 40035,
+            "endAt": 41581,
+            "text": "아 혹시 소화기 같은거 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_abdh1b8gcqo",
+            "startAt": 40919,
+            "endAt": 41628,
+            "text": "연기가",
+            "speaker": 1
+        },
+        {
+            "id": "4bde5c99",
+            "startAt": 42172,
+            "endAt": 42427,
+            "text": "네?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_h27bme1s9dg",
+            "startAt": 42553,
+            "endAt": 43762,
+            "text": "소화기 같은 거 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "411e017d",
+            "startAt": 44112,
+            "endAt": 47492,
+            "text": "주변에 소화기는 안 보이고 가게들은 그래도 있거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "5087204e",
+            "startAt": 47852,
+            "endAt": 49291,
+            "text": "아 그래요? 그러면",
+            "speaker": 0
+        },
+        {
+            "id": "3f523614",
+            "startAt": 49786,
+            "endAt": 50764,
+            "text": "예, 아니야 세워놔",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tqeu0qcg9ng",
+            "startAt": 50997,
+            "endAt": 54315,
+            "text": "소방차 예 가서 확인해볼테니까요.",
+            "speaker": 0
+        },
+        {
+            "id": "be5cb09e",
+            "startAt": 54651,
+            "endAt": 56131,
+            "text": "예 확인차요. 예예, ",
+            "speaker": 1
+        },
+        {
+            "id": "34655a45",
+            "startAt": 56172,
+            "endAt": 58341,
+            "text": "그 소방차 보이면 안내 좀 해주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "4029415c",
+            "startAt": 58976,
+            "endAt": 61379,
+            "text": "예, 역전할머니네 그 부평역점입니다.",
+            "speaker": 1
+        },
+        {
+            "id": "cc837530",
+            "startAt": 61451,
+            "endAt": 63848,
+            "text": "그 혹시 주소만 다시 한번 불러주시겠어요?",
+            "speaker": 0
+        },
+        {
+            "id": "c0bc33e4",
+            "startAt": 64366,
+            "endAt": 66302,
+            "text": "주소 정확히 말씀드리자면 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gpu0vg6upt",
+            "startAt": 66788,
+            "endAt": 69425,
+            "text": "그냥 새마을식당 부평역점",
+            "speaker": 1
+        },
+        {
+            "id": "92b10e60",
+            "startAt": 69594,
+            "endAt": 71352,
+            "text": "아 예 혹시 부평동 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ojpiam15vl",
+            "startAt": 71336,
+            "endAt": 72963,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "593177f2",
+            "startAt": 73639,
+            "endAt": 74284,
+            "text": "부평동 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_l78srllthho",
+            "startAt": 74254,
+            "endAt": 76627,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "3f71db31",
+            "startAt": 76769,
+            "endAt": 77828,
+            "text": "시장로 12번길",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_aqc94trkj2",
+            "startAt": 77796,
+            "endAt": 78442,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "72dc0273",
+            "startAt": 79178,
+            "endAt": 83583,
+            "text": "아 잠시만요. 네, 혹시 지금 맨 지도 보고 계시죠? ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_uahfo6unn08",
+            "startAt": 84081,
+            "endAt": 86518,
+            "text": "그 주변에 역전 할머니도 있고 뭐 다 있죠?",
+            "speaker": 1
+        },
+        {
+            "id": "c9b7393a",
+            "startAt": 86718,
+            "endAt": 88758,
+            "text": "파리바게트 있고 장모 족발 있는데 맞아요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_olai1gmu748",
+            "startAt": 89309,
+            "endAt": 90581,
+            "text": "네, 맞아요. 파리바게트",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gue2eo6no3g",
+            "startAt": 89936,
+            "endAt": 90954,
+            "text": "보 보강빌딩?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qqdmea54ge8",
+            "startAt": 91678,
+            "endAt": 93605,
+            "text": "아 아 저기 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9rcpkfttsm",
+            "startAt": 94181,
+            "endAt": 100245,
+            "text": "아 아 여기 지금 여기 역전 할머니 쪽에 있는 직원들이 물 들고 나와서 막 물 붓고 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "0ab09280",
+            "startAt": 100266,
+            "endAt": 104517,
+            "text": "아 일단은 가서 확인해볼 테니까요. 그 소방차 보이면 안내 좀 해주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_i2p7g4f1i9g",
+            "startAt": 104969,
+            "endAt": 108678,
+            "text": "아 예, 저희는 근데 지금 이동하다가 발견한 시민인데요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pi2nc9etuoo",
+            "startAt": 108987,
+            "endAt": 110260,
+            "text": "그니까 지금 금방 가니까",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mqq7nl86mu8",
+            "startAt": 109169,
+            "endAt": 110942,
+            "text": "저 택시 타고 빨리 집 가야 돼서",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e6gus5p1nmg",
+            "startAt": 110665,
+            "endAt": 110993,
+            "text": "네?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2sa9n802rfg",
+            "startAt": 111014,
+            "endAt": 111305,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6c6tparh6i",
+            "startAt": 111400,
+            "endAt": 111800,
+            "text": "뭐라고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qegpnrrhjn",
+            "startAt": 111814,
+            "endAt": 114360,
+            "text": "바로 저희는 가봐야 되는데 어 연기가 좀 잡히는 거 같기도 하고",
+            "speaker": 1
+        },
+        {
+            "id": "639730ae",
+            "startAt": 114384,
+            "endAt": 116047,
+            "text": "아 그래요? 일단 저희 가볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_83jdig4lrj",
+            "startAt": 116074,
+            "endAt": 118011,
+            "text": "알겠습니다. 딴 데 이동하셔야 된다는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "e7db9206",
+            "startAt": 118398,
+            "endAt": 119120,
+            "text": "예예,",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8dlvf82pv5o",
+            "startAt": 118675,
+            "endAt": 119838,
+            "text": "예 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bv9ste5toc8",
+            "startAt": 120156,
+            "endAt": 120711,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 부평구 부평동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "중",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

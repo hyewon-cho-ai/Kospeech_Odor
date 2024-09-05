@@ -1,0 +1,355 @@
+{
+    "_id": "64ec27f62be6ffc66cc6aa29",
+    "audioPath": "20230827/Incheon/2023/06/19/007/converted_20230619043510_4007-007.wav",
+    "recordId": "c4b01d9e6325ecff2e1f",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 170280,
+    "utterances": [
+        {
+            "id": "9b2ffe56",
+            "startAt": 64,
+            "endAt": 1638,
+            "text": "네, 119입니다.여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qdvhqas130g",
+            "startAt": 2254,
+            "endAt": 3118,
+            "text": "아 여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1i5bkqdk7",
+            "startAt": 3072,
+            "endAt": 4690,
+            "text": "네 말씀하세요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_aa1226nfqd",
+            "startAt": 3900,
+            "endAt": 6227,
+            "text": "아 예 다름이 아니고 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rashq2b3ab8",
+            "startAt": 6386,
+            "endAt": 9929,
+            "text": "예, 제가 여기 저 인천 을왕리에 있는데 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6bb5ateqba8",
+            "startAt": 10720,
+            "endAt": 16307,
+            "text": "어 잠시만요. 저 여기 차가 지금 백사장에 빠졌는데 이게 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_flnm6ag0nr8",
+            "startAt": 16553,
+            "endAt": 20534,
+            "text": "차를 갖다 견인을 할라해도 지금 이게 하나 이 렉카하는데도 없고 해가지고 혹시 이거 견인",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_494ehmv3ua",
+            "startAt": 20743,
+            "endAt": 22379,
+            "text": "좀 차를 빼주실 수 있습니까?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kqe4bsrnoco",
+            "startAt": 22382,
+            "endAt": 30959,
+            "text": "저희 대원들이 확실하게 빼드릴 수 있다고는 말씀은 못 드리고요. 저희 대원들이 현장 출동해서 확인을 해드릴텐데 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_d762bmhhilg",
+            "startAt": 31286,
+            "endAt": 33553,
+            "text": "그 처리는 안될 수도 있어요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lnlcthbliao",
+            "startAt": 35687,
+            "endAt": 39164,
+            "text": "저희 이제 차가 이제 무조건 나가서 100% 이제 뭐",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kc9hljjb4v8",
+            "startAt": 39437,
+            "endAt": 43275,
+            "text": "견인을 해드린다 이렇게 말씀을 못 드리거든요. 어쨌든. 왜",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_m1a3qvarrh",
+            "startAt": 42357,
+            "endAt": 43484,
+            "text": "잠시만요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_l4l1mt6qda8",
+            "startAt": 44372,
+            "endAt": 49707,
+            "text": "저 을왕리 저 혹시나 혹시나 모르니까 한 번 좀 그 여쭤봐 주실 수 있나요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pq9hbbuqfpg",
+            "startAt": 49897,
+            "endAt": 56517,
+            "text": "근데 저희가 이제 말씀을 드리는 게 현장 확인을 해드릴 해 해 현장 대원들이 가서 확인은 할 수 있어요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3mj9ht1v9e",
+            "startAt": 56471,
+            "endAt": 64826,
+            "text": "근데 이게 저희가 원래 사실은 이 업무 담당이 아니잖아요. 그냥 안전조치를 원하셔가지고 저희가 가서 확인을 하고 도와드릴 수 있으면 도와드리는 건데 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_h4btpd24e3g",
+            "startAt": 64808,
+            "endAt": 68825,
+            "text": "예, 사전에 저희가 안될 수도 있다고 말씀을 드리는 거예요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pi66dc3qq48",
+            "startAt": 70271,
+            "endAt": 70952,
+            "text": "여보세요? ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_emobko2m8ko",
+            "startAt": 70943,
+            "endAt": 71689,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bq4ojjra2co",
+            "startAt": 72064,
+            "endAt": 74037,
+            "text": "예예, 혹시 가능할까요? ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ksdna624kpo",
+            "startAt": 74316,
+            "endAt": 78197,
+            "text": "그니까 계속 말씀을 드렸다시피 현장 대원들이 가서 확인을 하고 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2rejjnkvef8",
+            "startAt": 78356,
+            "endAt": 82595,
+            "text": "될 수도 있고 안될 수도 있는데 정확히 저희가 된다라고 이렇게 말씀을 못 드려요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_b9p93lr91fg",
+            "startAt": 83267,
+            "endAt": 86452,
+            "text": "어 그러면 빠르게 확인하고 연락 좀 주시겠어요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dsmb4ho6f08",
+            "startAt": 86062,
+            "endAt": 91816,
+            "text": "아이 그니까 신고자 분, 그러니까 저희 대원들이 가야 돼요. 가서 눈으로 보고 확인을 해야 되니까 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_t0spvemf9ko",
+            "startAt": 92094,
+            "endAt": 94143,
+            "text": "계신 곳 주소가 어떻게 되세요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_njgh8tv8uho",
+            "startAt": 94543,
+            "endAt": 96766,
+            "text": "여기 을왕리 해수욕장이에요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9s8nodsjndo",
+            "startAt": 97094,
+            "endAt": 98605,
+            "text": "을왕리 해수욕장 어디요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_a8476gvgon8",
+            "startAt": 99486,
+            "endAt": 104199,
+            "text": "여기 지금 여수 맛 여수 횟집이라고 치시면 될 거 같은데 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vfkonjf12h",
+            "startAt": 104208,
+            "endAt": 106554,
+            "text": "여수 맛집이요? 잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_apoebvp2ido",
+            "startAt": 105853,
+            "endAt": 109480,
+            "text": "여수횟집이요. 횟집. 아니면 목포 회조개구이 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_u3v0p6uuf78",
+            "startAt": 107536,
+            "endAt": 108808,
+            "text": "잠시만요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_62u5qeiapeg",
+            "startAt": 110867,
+            "endAt": 112776,
+            "text": "을왕리에서 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mnokf9jrj08",
+            "startAt": 118231,
+            "endAt": 122212,
+            "text": "응 가게 이름이 여수 횟집이 여수 횟집이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_si1lpgss16g",
+            "startAt": 122558,
+            "endAt": 123131,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nbo2jlo46hg",
+            "startAt": 123349,
+            "endAt": 126135,
+            "text": "여수 횟집은 잠시만요, 안 나오는데 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o2p82fc3mpo",
+            "startAt": 126389,
+            "endAt": 128980,
+            "text": "그러면 전라도 목포 회 조개구이 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dosrka7mbug",
+            "startAt": 130006,
+            "endAt": 131633,
+            "text": "전라 여수 횟집 아니에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6qc3qc16kbo",
+            "startAt": 133317,
+            "endAt": 137434,
+            "text": "전라 여수 횟집이라고 말고 그냥 여수 횟집이라고 적혀있는데 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p4j068ofa3",
+            "startAt": 136925,
+            "endAt": 141132,
+            "text": "아, 전라목포회 조개구이예요? 혹시 옆에 있는 데가?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ehece5u51n8",
+            "startAt": 141458,
+            "endAt": 144285,
+            "text": "예예 전라도 목포 회 조개구이 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_affcjna8kq8",
+            "startAt": 144399,
+            "endAt": 146751,
+            "text": "아 저희 네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1d89cmd52q",
+            "startAt": 145770,
+            "endAt": 146424,
+            "text": "어어",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_v8f0ih90uk",
+            "startAt": 147315,
+            "endAt": 151842,
+            "text": "네 지금 뭐 견인차도 뭐 지금 연락이 안 된다 하시는 거죠? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_t3kfccqc4dg",
+            "startAt": 154702,
+            "endAt": 156575,
+            "text": "예예. 말씀해주세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2ri4s215e1o",
+            "startAt": 155493,
+            "endAt": 159638,
+            "text": "네. 네. 그니까 견인차도 지금 연락이 안 된다는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_a0r6in3lbj",
+            "startAt": 160559,
+            "endAt": 161259,
+            "text": "예예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o6kta3nnk9",
+            "startAt": 161286,
+            "endAt": 167188,
+            "text": "네, 알겠습니다. 일단 대원들이 가서 확인하고요, 그 상황에 따라 조치 불가할 수도 있습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_igahk2olrl",
+            "startAt": 167243,
+            "endAt": 167925,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 중구 을왕동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

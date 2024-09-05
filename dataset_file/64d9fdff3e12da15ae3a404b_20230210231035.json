@@ -1,0 +1,159 @@
+{
+    "_id": "64d9fdff3e12da15ae3a404b",
+    "audioPath": "20230814/Incheon/2023/02/10/085/converted_20230210231035_16-085.wav",
+    "recordId": "97e2a50dc43ebdebac6c",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 55640,
+    "utterances": [
+        {
+            "id": "wavesurfer_n7csdqbtqb8",
+            "startAt": 9,
+            "endAt": 6069,
+            "text": "아, 안녕하세요. 혹시 저 애기가 지금 두 달됐는데, 오늘 접종 했거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_079b4dntgog",
+            "startAt": 5470,
+            "endAt": 6180,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j2i7sarmfpo",
+            "startAt": 6172,
+            "endAt": 9581,
+            "text": "네, 지금 열이 37.7도 올라가는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f2d52898t7g",
+            "startAt": 9535,
+            "endAt": 9945,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2njdfqth26o",
+            "startAt": 10026,
+            "endAt": 14271,
+            "text": "해열제를 집에서 먹이는게 나을까요? 아니면 병원으로 응급실 가는게 나을까요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_53vlmirrd18",
+            "startAt": 14914,
+            "endAt": 15969,
+            "text": "무슨 접종이에요? 혹시?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3cie0al3s3",
+            "startAt": 16969,
+            "endAt": 19369,
+            "text": "어, 2개월때 맞는거.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_s7kr7e4e0bg",
+            "startAt": 19505,
+            "endAt": 19859,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mufll6l4t2g",
+            "startAt": 19724,
+            "endAt": 23288,
+            "text": "어, 뭐지 뭐. 어 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4q54odp7ngg",
+            "startAt": 21698,
+            "endAt": 22661,
+            "text": "그 오늘",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_s5ol2rgf4qo",
+            "startAt": 24416,
+            "endAt": 26379,
+            "text": "뭐, 종합병원으로 오늘 접종 받았다는 거에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0trac0m3dpo",
+            "startAt": 26749,
+            "endAt": 31239,
+            "text": "네 네 네, 주사 두 개랑 장염 관련돼서 약 하나 맞았거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9oqgun2b6hg",
+            "startAt": 31456,
+            "endAt": 34147,
+            "text": "일단 저희가 그 상담 부서 연결해 드릴테니까요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_af20ehckvio",
+            "startAt": 34538,
+            "endAt": 38092,
+            "text": "일단 그 상담 받아보세요. 전, 전화 끊지 마시고 게세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_apd3kfhjdug",
+            "startAt": 34566,
+            "endAt": 35011,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_h8hnbq92aeo",
+            "startAt": 38393,
+            "endAt": 39038,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dhljfd29528",
+            "startAt": 40629,
+            "endAt": 42229,
+            "text": "거기 마스크 서랍에",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o3c4u3j0o88",
+            "startAt": 45314,
+            "endAt": 46723,
+            "text": "네, 종합센터입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pn5nga2opig",
+            "startAt": 46300,
+            "endAt": 48018,
+            "text": "네, 상담 요청입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_d5rnlcqtg7g",
+            "startAt": 47683,
+            "endAt": 48674,
+            "text": "네. 말씀",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

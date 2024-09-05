@@ -1,0 +1,264 @@
+{
+    "_id": "64ec361829e61fb514579abc",
+    "audioPath": "20230828/Incheon/2023/06/04/016/converted_20230604014229_4016-016.wav",
+    "recordId": "4782ca299e2b21613b87",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 116760,
+    "utterances": [
+        {
+            "id": "7fb5ce3f",
+            "startAt": 632,
+            "endAt": 2189,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_73qnd1sb76",
+            "startAt": 2905,
+            "endAt": 4160,
+            "text": "네, 죄송한데요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_siiiilbfdq8",
+            "startAt": 4146,
+            "endAt": 5301,
+            "text": "네, 말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2lbgv4gefig",
+            "startAt": 5262,
+            "endAt": 9481,
+            "text": "여기 지금 오벨리스크에 사는 주민이에요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_v633g478ph8",
+            "startAt": 10010,
+            "endAt": 16247,
+            "text": "제가 지금 퇴근을 하다 보니까, 주차장 그 안에요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7ohen9f7ajg",
+            "startAt": 16329,
+            "endAt": 18639,
+            "text": "천장 그, 배관 있잖아요.",
+            "speaker": 1
+        },
+        {
+            "id": "31ec4e8c",
+            "startAt": 18719,
+            "endAt": 19859,
+            "text": "천장 배관이요?",
+            "speaker": 0
+        },
+        {
+            "id": "2f30e4cd",
+            "startAt": 20031,
+            "endAt": 26317,
+            "text": "에네네네, 거기서 물, 물폭탄이 일어났는데요. 물이 막 떨어져요.",
+            "speaker": 1
+        },
+        {
+            "id": "611eeddf",
+            "startAt": 26557,
+            "endAt": 27857,
+            "text": "아, 그래요?",
+            "speaker": 0
+        },
+        {
+            "id": "30106e9e",
+            "startAt": 28187,
+            "endAt": 30437,
+            "text": "예, 이런 건 어디다 전화해야 되죠?",
+            "speaker": 1
+        },
+        {
+            "id": "2b213435",
+            "startAt": 30542,
+            "endAt": 35983,
+            "text": "아. 거기 따로 주택 관리하시는 분들이 없어요? 관리하는 업체 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "9577e84c",
+            "startAt": 34337,
+            "endAt": 42957,
+            "text": "에. 네. 업체가 저기, 오벨리스크 관리실이 있긴 있는데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pb2ga5ojdbo",
+            "startAt": 43159,
+            "endAt": 50269,
+            "text": "지금 이 시간에, 아는 사람이 1명 있어서 걸로 문자는 했는데요, 답이 없네요?",
+            "speaker": 1
+        },
+        {
+            "id": "21c29337",
+            "startAt": 50717,
+            "endAt": 51901,
+            "text": "답이 없다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "79817252",
+            "startAt": 51950,
+            "endAt": 59236,
+            "text": "에에, 그래서 지금 제가. 예, 그냥 이거 이대로 밤새 물 떨어지면",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k5hhkacgfl8",
+            "startAt": 59548,
+            "endAt": 62248,
+            "text": "이거 안 될 거 같은데 이거 어떻게 해야 되죠?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vdiv68c7mf",
+            "startAt": 62335,
+            "endAt": 65563,
+            "text": "아, 연락했는데도 응답이 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c5hp0tmal2",
+            "startAt": 66072,
+            "endAt": 66827,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "0feb466c",
+            "startAt": 67271,
+            "endAt": 75419,
+            "text": "일단 저희가 한번 나가서 확인을 해볼텐데요. 저희도 뭐, 조치가 불가능할 수도 있어요. 고건 좀 알고 계세요.",
+            "speaker": 0
+        },
+        {
+            "id": "381bc9da",
+            "startAt": 75985,
+            "endAt": 82516,
+            "text": "아. 네네, 에. 여기 남인천방송 바로 맞은편에요.",
+            "speaker": 1
+        },
+        {
+            "id": "59ef58b4",
+            "startAt": 82501,
+            "endAt": 84951,
+            "text": "네, 주소 알려주세요. 주안동 몇 번지예요?",
+            "speaker": 0
+        },
+        {
+            "id": "163fbd9c",
+            "startAt": 85042,
+            "endAt": 86025,
+            "text": "주안서로.",
+            "speaker": 1
+        },
+        {
+            "id": "d81d08b6",
+            "startAt": 86035,
+            "endAt": 86812,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f0lgibanu28",
+            "startAt": 86799,
+            "endAt": 88263,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "9d3d6bf7",
+            "startAt": 88681,
+            "endAt": 90491,
+            "text": "에, 오벨리스크",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0sf73n77v4g",
+            "startAt": 90636,
+            "endAt": 93781,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_he137q5nqc8",
+            "startAt": 93761,
+            "endAt": 96025,
+            "text": "주차타워 천장",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0h8k24cqha8",
+            "startAt": 96035,
+            "endAt": 97271,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "e28a9982",
+            "startAt": 97290,
+            "endAt": 99642,
+            "text": "타워 천장이에요? 주차타워?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_80hjb7v0048",
+            "startAt": 98930,
+            "endAt": 101376,
+            "text": "에. 네, 주차타워.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8qrpo1cbil",
+            "startAt": 101357,
+            "endAt": 103321,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "5d531bc8",
+            "startAt": 103315,
+            "endAt": 104719,
+            "text": "천장을 보면.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_h8j581u5gi8",
+            "startAt": 104729,
+            "endAt": 110284,
+            "text": "이렇게 배관들이 막. 저기, 수도 배관이 어디 터진 거 같애요.",
+            "speaker": 1
+        },
+        {
+            "id": "3a2f88d1",
+            "startAt": 110358,
+            "endAt": 113138,
+            "text": "알겠습니다, 저희 나가볼게요. 잠깐만 계세요.",
+            "speaker": 0
+        },
+        {
+            "id": "c768186c",
+            "startAt": 113168,
+            "endAt": 114538,
+            "text": "네네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 미추홀구 주안동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

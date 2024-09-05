@@ -1,0 +1,285 @@
+{
+    "_id": "64f6c5a62e27824aa01bc219",
+    "audioPath": "20230829/Incheon/2023/06/17/013/converted_20230617033728_4013-013.wav",
+    "recordId": "359df2fc4d787e54542a",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 109440,
+    "utterances": [
+        {
+            "id": "f7539897",
+            "startAt": 837,
+            "endAt": 2129,
+            "text": "119 입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "9d314d32",
+            "startAt": 2226,
+            "endAt": 6126,
+            "text": "여기 혹시 용현 5동 SK 스카이뷰 아파트인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "e5546ca4",
+            "startAt": 6206,
+            "endAt": 6885,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hcpdi6mg1u8",
+            "startAt": 7114,
+            "endAt": 9278,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "62834249",
+            "startAt": 9289,
+            "endAt": 11370,
+            "text": "화재 발생. 발생. 뭐 신고 있나요? ",
+            "speaker": 1
+        },
+        {
+            "id": "561e1c7d",
+            "startAt": 12391,
+            "endAt": 14604,
+            "text": "아니요, 뭐 차 확인 들어온 건 없는데요?",
+            "speaker": 0
+        },
+        {
+            "id": "b0434613",
+            "startAt": 15213,
+            "endAt": 17659,
+            "text": "여기 지금 도어락에서.",
+            "speaker": 1
+        },
+        {
+            "id": "affa4392",
+            "startAt": 17878,
+            "endAt": 18118,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7ptk93ejm2o",
+            "startAt": 18360,
+            "endAt": 19978,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "1b75af92",
+            "startAt": 19988,
+            "endAt": 25814,
+            "text": "화재가 발생했다고 뜨는데 혹시 그 오작동인가, 아니면 신고 들어간 게 있나 해서",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4q8vu9tge0o",
+            "startAt": 24110,
+            "endAt": 26546,
+            "text": " 도어락, 도어락이요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u561rkqdag",
+            "startAt": 26813,
+            "endAt": 29849,
+            "text": "예, 이거 공동 현관에서.",
+            "speaker": 1
+        },
+        {
+            "id": "eb3e6ce1",
+            "startAt": 29868,
+            "endAt": 30168,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "5fa4e08c",
+            "startAt": 30648,
+            "endAt": 31991,
+            "text": "이게 뜨거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "2bfe0078",
+            "startAt": 32387,
+            "endAt": 35968,
+            "text": "그 도어락이 뭐 개인이 설치한 거예요, 아니면은? 아파트",
+            "speaker": 0
+        },
+        {
+            "id": "d50510a8",
+            "startAt": 35313,
+            "endAt": 40577,
+            "text": "아니 아니요. 아파트 공동 공동 공동 장비요.",
+            "speaker": 1
+        },
+        {
+            "id": "35d5865a",
+            "startAt": 41449,
+            "endAt": 44049,
+            "text": "어, 그 지금 뭐 신고 들어온 건 없거든요.",
+            "speaker": 0
+        },
+        {
+            "id": "5368bb2e",
+            "startAt": 44699,
+            "endAt": 46387,
+            "text": "아 네, 알겠습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "90b56a8e",
+            "startAt": 45469,
+            "endAt": 48873,
+            "text": "그게 뭐 리폿 하거나 그럴 수 있는 게 아니에요?",
+            "speaker": 0
+        },
+        {
+            "id": "ec90d5c8",
+            "startAt": 49166,
+            "endAt": 52076,
+            "text": "그것도 모르겠어요, 봐야 머 먹통이고.",
+            "speaker": 1
+        },
+        {
+            "id": "ab0e363c",
+            "startAt": 52139,
+            "endAt": 52459,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_be2t265gm1o",
+            "startAt": 53627,
+            "endAt": 55563,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "16b9a3ad",
+            "startAt": 55921,
+            "endAt": 59834,
+            "text": "화재가 발생하였습니다. 이렇게만 메세지가 떠서요.",
+            "speaker": 1
+        },
+        {
+            "id": "fc5b64a2",
+            "startAt": 59887,
+            "endAt": 63060,
+            "text": "그까 지금 전화 주신 분 거주하는 거예요 거기?",
+            "speaker": 0
+        },
+        {
+            "id": "7f85c0d1",
+            "startAt": 63382,
+            "endAt": 72170,
+            "text": "아니, 저 지나 지나가다가. 이게 시끄러운데 시끄러워서 와서 봤더니 화재가 발생하였다고 이 떠서 지금 전화해본 거거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "235a87e4",
+            "startAt": 73068,
+            "endAt": 75787,
+            "text": "그니까 지금 지나가다라니 그게 무슨 말씀이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ma6icgot6dg",
+            "startAt": 76184,
+            "endAt": 76738,
+            "text": "그니까 저는",
+            "speaker": 1
+        },
+        {
+            "id": "a716c483",
+            "startAt": 76757,
+            "endAt": 77360,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qcikj48cako",
+            "startAt": 77356,
+            "endAt": 80665,
+            "text": "사는데 그 앞으로 이렇게 지나가고 있는데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_80jbvleu9j8",
+            "startAt": 81237,
+            "endAt": 87131,
+            "text": "이게 너무 시끄러워서 가서 봤더니 지금 화재 화재 발생 뭐 메세지가 떠서요.",
+            "speaker": 1
+        },
+        {
+            "id": "70188b75",
+            "startAt": 87404,
+            "endAt": 88274,
+            "text": "그 1 층에서요?",
+            "speaker": 0
+        },
+        {
+            "id": "0497752f",
+            "startAt": 88819,
+            "endAt": 89374,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "e3a022e7",
+            "startAt": 90112,
+            "endAt": 92182,
+            "text": "1 층에 지금 그 소리가 지금 난다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "3462b32e",
+            "startAt": 92572,
+            "endAt": 93142,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "917beb1c",
+            "startAt": 93892,
+            "endAt": 96825,
+            "text": "어, 관리실에 혹시는 전화는 해보셨나요?",
+            "speaker": 0
+        },
+        {
+            "id": "28390737",
+            "startAt": 96282,
+            "endAt": 105168,
+            "text": "아 저 저 저게 아예 먹통이라서 안되네요. 한번 계속 관리실에 전화해보고 또 무슨 일 있으시면 다시 전화할게요.",
+            "speaker": 1
+        },
+        {
+            "id": "99069458",
+            "startAt": 105198,
+            "endAt": 106698,
+            "text": "아 예, 알겠습니다 예.",
+            "speaker": 0
+        },
+        {
+            "id": "ace751d5",
+            "startAt": 106818,
+            "endAt": 107368,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 미추홀구 용현동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

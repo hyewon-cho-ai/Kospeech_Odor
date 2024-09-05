@@ -1,0 +1,145 @@
+{
+    "_id": "64dd752b1ef84058319a8e9d",
+    "audioPath": "20230815/Incheon/2023/02/16/016/converted_20230216041838_4016-016.wav",
+    "recordId": "a7029cf11fd11dc9d2cb",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 41240,
+    "utterances": [
+        {
+            "id": "ab401dd2",
+            "startAt": 865,
+            "endAt": 2029,
+            "text": "네, 119입니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hq649rliet8",
+            "startAt": 2267,
+            "endAt": 6627,
+            "text": "예, 안녕하세요, 유케어인데요, 저희 서구 쪽 출동 확인차 전화드렸습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ncdvh3m57e",
+            "startAt": 7422,
+            "endAt": 9662,
+            "text": "아 잠시만요, 유케어상황실이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_co5lt9ppu1",
+            "startAt": 9893,
+            "endAt": 10380,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jd1qh356o1g",
+            "startAt": 11020,
+            "endAt": 13360,
+            "text": "출, 서구쪽 출동 문의하시는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1c2gvr4r1q",
+            "startAt": 13633,
+            "endAt": 14133,
+            "text": "예예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8usnjbvv5n8",
+            "startAt": 14111,
+            "endAt": 15624,
+            "text": "출동 나간 거 있는지요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_i6nqreh7vdg",
+            "startAt": 15920,
+            "endAt": 16433,
+            "text": "네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_c4n6urjhk2g",
+            "startAt": 17993,
+            "endAt": 21873,
+            "text": "잠시만요, 네 지금 네 석남동 게 하나 나간 거 있어요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_54d7jcpngpo",
+            "startAt": 22200,
+            "endAt": 24140,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kc2lrlj2roo",
+            "startAt": 24667,
+            "endAt": 26347,
+            "text": "아 잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k2sfclaf5og",
+            "startAt": 26418,
+            "endAt": 26844,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9mabp92uan8",
+            "startAt": 31830,
+            "endAt": 33394,
+            "text": "어 이름은 여기에는 안돼,",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_n7v9t43ioh",
+            "startAt": 33385,
+            "endAt": 34767,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "63157eff",
+            "startAt": 34788,
+            "endAt": 36587,
+            "text": "81세 복통으로 신고하셨네요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_s3a93hmietg",
+            "startAt": 36653,
+            "endAt": 37747,
+            "text": "네 맞습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e62lsoui6fo",
+            "startAt": 38027,
+            "endAt": 38907,
+            "text": "감사합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tl00lu133f8",
+            "startAt": 38940,
+            "endAt": 40400,
+            "text": "아 네 알겠습니다.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "중립",
+    "symptom": [],
+    "triage": ""
+}

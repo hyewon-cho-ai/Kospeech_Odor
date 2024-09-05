@@ -1,0 +1,327 @@
+{
+    "_id": "64dd752b1ef84058319a897d",
+    "audioPath": "20230815/Incheon/2023/02/26/021/converted_20230226204859_4021-021.wav",
+    "recordId": "a5a424dc6d4624819403",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 138160,
+    "utterances": [
+        {
+            "id": "baefafb7",
+            "startAt": 329,
+            "endAt": 1873,
+            "text": "예 구급상황 여보세요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_prdmjv4rgvo",
+            "startAt": 3345,
+            "endAt": 4059,
+            "text": "여보세요",
+            "speaker": 0
+        },
+        {
+            "id": "ec58f446",
+            "startAt": 3547,
+            "endAt": 9104,
+            "text": "예 그기 힐링팜약국 그 얘기해주셨는데 전화 안 받는데요? 거기에",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hafp5uu7q7g",
+            "startAt": 8677,
+            "endAt": 9636,
+            "text": "전화 안 받아요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jqjo3de6m5g",
+            "startAt": 10150,
+            "endAt": 10482,
+            "text": "예",
+            "speaker": 1
+        },
+        {
+            "id": "9654ea76",
+            "startAt": 11409,
+            "endAt": 14029,
+            "text": "지금 두 개잖아요 두 개 두 군데 다 안 받는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "02a142de",
+            "startAt": 14599,
+            "endAt": 15169,
+            "text": "예",
+            "speaker": 1
+        },
+        {
+            "id": "2872d79f",
+            "startAt": 16208,
+            "endAt": 19928,
+            "text": "어 저 두 개 전화 저 안 받는다?",
+            "speaker": 0
+        },
+        {
+            "id": "b86a4b63",
+            "startAt": 26979,
+            "endAt": 28699,
+            "text": "두 군데가 어디를 얘기하는 거예요?",
+            "speaker": 1
+        },
+        {
+            "id": "d7f331c8",
+            "startAt": 29309,
+            "endAt": 34399,
+            "text": "두 군데 문자 보냈잖아요 주소하고 그걸 얘기하는 거지 뭐 두 군데가 다 아까 문자 보냈잖아요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_45ro8qkv78o",
+            "startAt": 33032,
+            "endAt": 34000,
+            "text": "어 힐",
+            "speaker": 1
+        },
+        {
+            "id": "93fd395a",
+            "startAt": 34979,
+            "endAt": 36809,
+            "text": "힐링팜 하나만 보내주셨는데?",
+            "speaker": 1
+        },
+        {
+            "id": "843343ae",
+            "startAt": 37002,
+            "endAt": 38409,
+            "text": "어 두 개를 보냈는데?",
+            "speaker": 0
+        },
+        {
+            "id": "56291796",
+            "startAt": 40418,
+            "endAt": 44028,
+            "text": "어디 보광약국이요? 그거는 다산콜에서 보내줬는데",
+            "speaker": 1
+        },
+        {
+            "id": "5d1e136c",
+            "startAt": 44598,
+            "endAt": 46288,
+            "text": "어 그쪽에서도 했다구요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qlre1laden8",
+            "startAt": 47400,
+            "endAt": 48364,
+            "text": "예 한 코",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0rm4fpeqmb8",
+            "startAt": 47432,
+            "endAt": 49964,
+            "text": "일단 그 저 어",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j149l5t4l38",
+            "startAt": 50150,
+            "endAt": 52237,
+            "text": "아 한 군데 더 가르켜주세요 힐링팜 말고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e9ogrmdb7uo",
+            "startAt": 51805,
+            "endAt": 53587,
+            "text": "그 그러면 저기",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0rudnmcaecg",
+            "startAt": 59469,
+            "endAt": 60669,
+            "text": "구월1동쪽이구요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4ecg1bh9r78",
+            "startAt": 61964,
+            "endAt": 62200,
+            "text": "예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o8hcvjke1g",
+            "startAt": 62360,
+            "endAt": 64914,
+            "text": "예 그 그것도 문자 보내드릴게요 두 군데",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2246voj7k38",
+            "startAt": 66191,
+            "endAt": 66937,
+            "text": "구월1동",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_27j0r1kph7o",
+            "startAt": 66696,
+            "endAt": 68941,
+            "text": "그 전화를 안 받는데예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1pa447jk868",
+            "startAt": 68469,
+            "endAt": 72655,
+            "text": "안 받으면은 뭐 안 할 수도 있어요 일찍 끝날 수도 있어요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9ke7p9asf7",
+            "startAt": 73810,
+            "endAt": 76551,
+            "text": "아 그런 데 해주시면 안되죠",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ihd8vbh545",
+            "startAt": 75500,
+            "endAt": 76923,
+            "text": "아 그거는 알 수가 없잖아요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ce9s2tdanno",
+            "startAt": 77778,
+            "endAt": 79746,
+            "text": "아 그 법적으로 그 반",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k0pglbvkfs8",
+            "startAt": 79028,
+            "endAt": 80587,
+            "text": "아 법적으로도 그거 없어요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_g3su51lii5",
+            "startAt": 80960,
+            "endAt": 81978,
+            "text": "안 연 걸 어떡해요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_51nqg4aak3o",
+            "startAt": 81196,
+            "endAt": 81737,
+            "text": "없어요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_uefgddgi63",
+            "startAt": 82146,
+            "endAt": 84319,
+            "text": "뭐 이거 뭐 이거 마 장사하는 건데 그것도",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ehtf6nokc1o",
+            "startAt": 85078,
+            "endAt": 87746,
+            "text": "개인적인 거고 그것도 정부에서 하는 게 아니잖아요? 예",
+            "speaker": 0
+        },
+        {
+            "id": "dbf1339b",
+            "startAt": 88238,
+            "endAt": 89179,
+            "text": "아 그래요?",
+            "speaker": 1
+        },
+        {
+            "id": "bd4c98ff",
+            "startAt": 88472,
+            "endAt": 95503,
+            "text": "우리나라엔 뭐 그거는 자기가 편한 대로 뭐 일찍 손님 없어서 일찍 뭐 그 일이 있어서 닫을 수가 있는 거기 때문에",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8s9c30fets",
+            "startAt": 95873,
+            "endAt": 101982,
+            "text": "정부는 뭐 그거를 어떻게 강제적인 저기는 없는 거예요 우리나라 뭐 강제적으로 해 뭐 아 그런",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5pgakegh0a",
+            "startAt": 101578,
+            "endAt": 104937,
+            "text": "아 그러면 우리가 뭐 계속 여기저기 쫓아다녀야 되네?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0hqftmgd8eg",
+            "startAt": 104633,
+            "endAt": 114373,
+            "text": "일단은 뭐 전화 뭐 있으니까 전화 해보세요 일단은 늦게까지 한다는 거로 저희가 조사된 거를 보내드리는 거니깐 그 사정상 일찍 될 수도 있고",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3slc8qjt1c",
+            "startAt": 114455,
+            "endAt": 120219,
+            "text": "전화를 또 잠깐 못 받을 수도 있고 그러니깐요. 일단은 또 보냈어요 구월동 1, 1동 쪽으로",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ti5grrtaeng",
+            "startAt": 120042,
+            "endAt": 121296,
+            "text": "하나 더 보내주세요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cjbnabndha",
+            "startAt": 121596,
+            "endAt": 125955,
+            "text": "예 지금 뭐 구월1동쪽 말고 간석동이나 이런 쪽으로도 보내드릴게요 그러면",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mvl50vrcr48",
+            "startAt": 127469,
+            "endAt": 132455,
+            "text": "아 예 간석동에 120번에서는 보내줬는데 너무 멀어서",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3bptf4st6rg",
+            "startAt": 131155,
+            "endAt": 136146,
+            "text": "예 그렇게 뭐 예 그러면 그럼 구월동쪽으로 안 되면 지금 지금 보냈으니까 그거 확인하세요",
+            "speaker": 0
+        },
+        {
+            "id": "5c0065ee",
+            "startAt": 136106,
+            "endAt": 136636,
+            "text": "예",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

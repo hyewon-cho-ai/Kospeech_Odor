@@ -1,0 +1,180 @@
+{
+    "_id": "64dd752b1ef84058319a7d41",
+    "audioPath": "20230815/Incheon/2023/02/15/072/converted_20230215001035_3-072.wav",
+    "recordId": "6c5048fcecc3a671b9cc",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 67080,
+    "utterances": [
+        {
+            "id": "wavesurfer_btn2grb4bi",
+            "startAt": 0,
+            "endAt": 1091,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sao1he1j4to",
+            "startAt": 1427,
+            "endAt": 5563,
+            "text": "아 네, 방금 애기 열나서 전화드렸는데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_i6510m58vio",
+            "startAt": 5809,
+            "endAt": 9427,
+            "text": "지금 뭐 길병원 전화하니까 119 전화해서.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2u0ghibmecg",
+            "startAt": 9500,
+            "endAt": 14436,
+            "text": "그 뭐 다시 전화 연결 해달라고 하더라고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2l69i9kfglg",
+            "startAt": 14754,
+            "endAt": 16754,
+            "text": "네 근데 혹시 어떻게 해야 되는 건지?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p41ln5stioo",
+            "startAt": 16636,
+            "endAt": 19290,
+            "text": "뭐 다시 연, 연결해달라는게 무슨 말씀이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_e6biemth2vo",
+            "startAt": 19409,
+            "endAt": 22399,
+            "text": "그니까 제가 길병원을 전화를 했는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_n53640t4gko",
+            "startAt": 22408,
+            "endAt": 24399,
+            "text": "119 전화해서.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1pqq73a90kg",
+            "startAt": 24599,
+            "endAt": 26254,
+            "text": "뭐 에 연 뭐.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2sqqmg0ccag",
+            "startAt": 26372,
+            "endAt": 30845,
+            "text": "치료가 가능한지 여부를 119한테 전화를 하라고 하더라고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dfadhp99n48",
+            "startAt": 30017,
+            "endAt": 34226,
+            "text": "아 길병원 치료가 가능한지 여, 여쭤보라고요? 아.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2t08hlq3h8o",
+            "startAt": 34572,
+            "endAt": 35881,
+            "text": "잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mh43j4dolv8",
+            "startAt": 37090,
+            "endAt": 41753,
+            "text": "그 길병원 전화번호는 어떻게 아, 아신 거예요? 직접 전화하신 거예요? 전화번호 안내 받으신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ppjkggh9dt",
+            "startAt": 41826,
+            "endAt": 44626,
+            "text": "응급실로 전화했어요 인터넷 찾아보고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5rnhnaa6i1o",
+            "startAt": 43308,
+            "endAt": 44062,
+            "text": "아 그냥?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rmopcujjdeo",
+            "startAt": 44235,
+            "endAt": 45799,
+            "text": "아 그냥 인터넷 찾아보고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4pvqjai2nf",
+            "startAt": 45726,
+            "endAt": 49244,
+            "text": "아 우선은 그 그 상담 부서 연결해드릴게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_og0bi51qoe",
+            "startAt": 45944,
+            "endAt": 46571,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_m0h915upkl8",
+            "startAt": 49226,
+            "endAt": 51999,
+            "text": "전화 좀 받으세요 애기 100일 애기예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o7te1bqf4kg",
+            "startAt": 52335,
+            "endAt": 53253,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hhd6ruo498o",
+            "startAt": 52671,
+            "endAt": 55062,
+            "text": "아 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ct3fgleckvg",
+            "startAt": 58317,
+            "endAt": 59462,
+            "text": "잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_55dgf14fpto",
+            "startAt": 59471,
+            "endAt": 60080,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

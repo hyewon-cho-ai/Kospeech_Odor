@@ -1,0 +1,145 @@
+{
+    "_id": "64ec27f62be6ffc66cc6b803",
+    "audioPath": "20230827/Incheon/2023/06/06/014/converted_20230606224635_4014-014.wav",
+    "recordId": "6ddb2956de69a398a6b5",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 59000,
+    "utterances": [
+        {
+            "id": "wavesurfer_92bb6cui2og",
+            "startAt": 455,
+            "endAt": 1182,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_d0voek0f01g",
+            "startAt": 2127,
+            "endAt": 7664,
+            "text": "예, 지금 건물에서 네 소화전 벨이 울리고 있거든요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7g2v0eapl0o",
+            "startAt": 7655,
+            "endAt": 9118,
+            "text": "아 경보기가 울린다는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qe3omjh9sg",
+            "startAt": 9191,
+            "endAt": 10145,
+            "text": "네네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8v0fmk45tug",
+            "startAt": 9673,
+            "endAt": 11500,
+            "text": "혹시 연기나 냄새 같은 것도 나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8s6mn9kkkc8",
+            "startAt": 12036,
+            "endAt": 17418,
+            "text": "아니요, 연기하고 그런 건 지금 보이진 않는데요. 지금 여기서는.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ul0fnqoqqr8",
+            "startAt": 17491,
+            "endAt": 19809,
+            "text": "예 신고자분 그 계신 곳 위 주소 좀 알려주세요?",
+            "speaker": 0
+        },
+        {
+            "id": "52dcd1cb",
+            "startAt": 20340,
+            "endAt": 29382,
+            "text": "네 동 인천 중구 축항대로 86번길.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lpiul4kjnmg",
+            "startAt": 30082,
+            "endAt": 31055,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "ec4b4183",
+            "startAt": 31572,
+            "endAt": 33251,
+            "text": "축항대로 86번길.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_it697450kko",
+            "startAt": 33249,
+            "endAt": 34031,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_puusol6lv0g",
+            "startAt": 34591,
+            "endAt": 35236,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_22brihdks0g",
+            "startAt": 35318,
+            "endAt": 36109,
+            "text": "잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mbic5mstm38",
+            "startAt": 36573,
+            "endAt": 46318,
+            "text": "이게 이 전에도 이 이렇게 오작동이 한 적이 있었거든요. 예, 근데 불은 불이나 연기는 보이지 않구요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gqbsvtstvvo",
+            "startAt": 46000,
+            "endAt": 47891,
+            "text": "아 그 정우빌딩 맞아요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3qm08ldu4r",
+            "startAt": 48982,
+            "endAt": 51527,
+            "text": "으 네네네, 그런 예 그런 거 같애요.",
+            "speaker": 1
+        },
+        {
+            "id": "7560f1c1",
+            "startAt": 51594,
+            "endAt": 55026,
+            "text": "아 네네, 알겠습니다, 저희 출동할게요,",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8ibgbeap0g",
+            "startAt": 56636,
+            "endAt": 58409,
+            "text": "아 가좌 특별 여섯 비발중.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 중구 항동7가",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

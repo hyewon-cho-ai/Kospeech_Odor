@@ -1,0 +1,194 @@
+{
+    "_id": "64d9fdff3e12da15ae3a3943",
+    "audioPath": "20230814/Incheon/2023/02/04/004/converted_20230204064849_4004-004.wav",
+    "recordId": "7b7e49cac607079993a0",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 74880,
+    "utterances": [
+        {
+            "id": "wavesurfer_5f70ncdph7o",
+            "startAt": 172,
+            "endAt": 1162,
+            "text": "예, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fk8t998501o",
+            "startAt": 1600,
+            "endAt": 3433,
+            "text": "네, 수고하십니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pmvh6dm1pqg",
+            "startAt": 3717,
+            "endAt": 4650,
+            "text": "추우세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_64gue0ouu7g",
+            "startAt": 3933,
+            "endAt": 5000,
+            "text": "아니, 여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nqan910nvng",
+            "startAt": 4983,
+            "endAt": 5733,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kl260lf1d1",
+            "startAt": 6116,
+            "endAt": 15558,
+            "text": "아니 아침에, 이 시간이면 잠을 자는데, 아침에 내가 일어나갖고 보니까 우리 아저씨가 이 시간에, 차도 없어요. 우리 아저씨가 전화도 안 받아. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_v45lnhdkgmg",
+            "startAt": 18785,
+            "endAt": 20661,
+            "text": "그 뭐 어떻게 하라는 거예요, 그래서?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dosikp7cfv8",
+            "startAt": 20949,
+            "endAt": 22216,
+            "text": "예예 예?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_omd2l9ag44",
+            "startAt": 22382,
+            "endAt": 24099,
+            "text": "남편 차가 없다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1apvegh18j",
+            "startAt": 23966,
+            "endAt": 31615,
+            "text": "예 우리 아저씨가 차도 없고 우리 아저씨도 없어요. 이 시간에 나가는 사람이 아닌데, 지금 내가 지금 지금 금방 일어나면은.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_q5takf56428",
+            "startAt": 31582,
+            "endAt": 36215,
+            "text": "거실에서 잠을 자는데, 없어 전화해도 안 받아요. 아무 전화도 안 받아.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_u1lnolq4j7o",
+            "startAt": 37929,
+            "endAt": 38807,
+            "text": "어떡해.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6bcc49si17o",
+            "startAt": 38948,
+            "endAt": 45265,
+            "text": "울지 마시고 선생님, 뭐 실종 같은 경우에는 뭐 남편, 112 경찰 쪽에 전화를 한번 해보시겠어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ops708uoul",
+            "startAt": 45298,
+            "endAt": 46365,
+            "text": "어디로요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_m20nn9c2mqo",
+            "startAt": 46215,
+            "endAt": 48681,
+            "text": "경찰 쪽에 전화를 해보시라구요. 실.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ggq0npcqepg",
+            "startAt": 47015,
+            "endAt": 53114,
+            "text": "어 경찰, 그러면은, 저기, 어 경찰, 저기.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qkv8bgonrvo",
+            "startAt": 52948,
+            "endAt": 57931,
+            "text": "전화번호로, 거기 전화번호 알려주실래요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_u6u8egbc8eg",
+            "startAt": 57847,
+            "endAt": 60964,
+            "text": "112번이라구요. 112 경찰은.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rcjv3vqbo8",
+            "startAt": 62363,
+            "endAt": 63206,
+            "text": "몇 번이요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2vjeounr3to",
+            "startAt": 63894,
+            "endAt": 65382,
+            "text": "112번이요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_n9vr1rbtio8",
+            "startAt": 66480,
+            "endAt": 68230,
+            "text": "122번?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_eceubf89ru8",
+            "startAt": 68503,
+            "endAt": 70637,
+            "text": "112번이요. 112번.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ne8ddpf5poo",
+            "startAt": 69880,
+            "endAt": 71280,
+            "text": "112번?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8ac8i51bnh",
+            "startAt": 71147,
+            "endAt": 71880,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tekh49a2ca",
+            "startAt": 72097,
+            "endAt": 73586,
+            "text": "예예. 감사합니다.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

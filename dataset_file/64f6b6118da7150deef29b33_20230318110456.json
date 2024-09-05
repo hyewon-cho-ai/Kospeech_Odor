@@ -1,0 +1,145 @@
+{
+    "_id": "64f6b6118da7150deef29b33",
+    "audioPath": "20230904/Incheon/2023/03/18/014/converted_20230318110456_4014-014.wav",
+    "recordId": "586e2882297d3e0d2ab9",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 46960,
+    "utterances": [
+        {
+            "id": "6651f0e9",
+            "startAt": 0,
+            "endAt": 1483,
+            "text": "119입니다. 여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "0d66dc3e",
+            "startAt": 2570,
+            "endAt": 3653,
+            "text": "네, 여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "e4772aac",
+            "startAt": 2946,
+            "endAt": 4557,
+            "text": "예, 119에요, 말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0kusqc4vhag",
+            "startAt": 5148,
+            "endAt": 10072,
+            "text": "아, 저 이게 어디 가고 있는데 고속도로에 범퍼가 떨어져 있어 봐가지구요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ftj0nla5sro",
+            "startAt": 9405,
+            "endAt": 10932,
+            "text": "범퍼가 떨어져 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "dbe86711",
+            "startAt": 11255,
+            "endAt": 15101,
+            "text": "네, 자동차 범퍼 앞에 범퍼가 떨어져 있어가지고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ojfniv890l8",
+            "startAt": 14117,
+            "endAt": 18117,
+            "text": "그 지금 저 위치가 선생님 어디쯤이신지 기억나세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_r48a1haj3s",
+            "startAt": 18671,
+            "endAt": 21617,
+            "text": "아 선생님 여기 어디냐면요 위치가 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1rq989jmgq8",
+            "startAt": 21032,
+            "endAt": 23768,
+            "text": "경인고속도로 들어가는 부평에서. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5mg4bt486n",
+            "startAt": 24250,
+            "endAt": 27095,
+            "text": "저 아 가좌 IC쪽으로 가다보면",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tvl4r6bt3f8",
+            "startAt": 26922,
+            "endAt": 29595,
+            "text": "부평, 그니까 부평에서 가좌죠? 부평에서 가좌?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8dtem0j10jg",
+            "startAt": 30004,
+            "endAt": 31776,
+            "text": "네 부평에서 가좌",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ovdt5lkm8gg",
+            "startAt": 31870,
+            "endAt": 34825,
+            "text": "가좌 IC 한 1키로 못 가서 우 우측",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_uqg8pp03tqg",
+            "startAt": 34876,
+            "endAt": 38349,
+            "text": "4차선에 뱅글뱅글 돌고 있는데 위험해",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_avjqtj9pq3o",
+            "startAt": 35879,
+            "endAt": 37243,
+            "text": "어 가좌 I",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_f9rbvdj3j98",
+            "startAt": 38385,
+            "endAt": 41776,
+            "text": "가좌 IC 우측, 가좌 IC 가기 1키로 전에 우측이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0e65sn1qmfg",
+            "startAt": 41894,
+            "endAt": 42785,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "044fa414",
+            "startAt": 41947,
+            "endAt": 45334,
+            "text": "네, 알겠습니다, 한번 확인해볼게요, ",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 서구 가좌동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "중",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

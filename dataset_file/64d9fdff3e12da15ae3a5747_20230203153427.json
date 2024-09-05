@@ -1,0 +1,131 @@
+{
+    "_id": "64d9fdff3e12da15ae3a5747",
+    "audioPath": "20230814/Incheon/2023/02/03/079/converted_20230203153427_10-079.wav",
+    "recordId": "8d19bb4dd12d9cee9919",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 40920,
+    "utterances": [
+        {
+            "id": "d3765cba",
+            "startAt": 0,
+            "endAt": 870,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "bdae7056",
+            "startAt": 2029,
+            "endAt": 4459,
+            "text": "아, 네, 여기 송도동인데 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ufsnj797jo8",
+            "startAt": 5042,
+            "endAt": 9451,
+            "text": "예, 송도동, 그 송도 힐스테이트 주상 주상복합 3단지요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t2ffprod718",
+            "startAt": 10123,
+            "endAt": 11668,
+            "text": "송도 힐스테이트  ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_80kbldkuci8",
+            "startAt": 12123,
+            "endAt": 14113,
+            "text": "예 3단지",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d24uv03vvcg",
+            "startAt": 14320,
+            "endAt": 15147,
+            "text": "주상복합",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sg6a60qakgo",
+            "startAt": 15152,
+            "endAt": 16016,
+            "text": "3단지요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_b0ieiogg4k",
+            "startAt": 16047,
+            "endAt": 16520,
+            "text": "예 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_daf3gc3rg3",
+            "startAt": 16440,
+            "endAt": 16831,
+            "text": "예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7n2520uohb",
+            "startAt": 17448,
+            "endAt": 20229,
+            "text": "그 건물 주변에 인도 맨홀에서",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2vn31p0tejo",
+            "startAt": 20241,
+            "endAt": 27154,
+            "text": "아, 그거 지금 4시까지 예, 4시까지 그 연막 소독하고 있는 거예요. 예, 맨홀에서 온수관 시험하는 거라서요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_69cf0c7516",
+            "startAt": 21316,
+            "endAt": 23070,
+            "text": "아 고치고 있어요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_359n4ueb83o",
+            "startAt": 25775,
+            "endAt": 27084,
+            "text": "그래요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_s5riv57pe2o",
+            "startAt": 27438,
+            "endAt": 30601,
+            "text": "아 4시까지 나온다니까 걱정 안 하셔도 됩니다. 네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3tqirjl2308",
+            "startAt": 27799,
+            "endAt": 29008,
+            "text": "아 네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ffnnq9g4gg8",
+            "startAt": 30529,
+            "endAt": 31720,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "중립",
+    "symptom": [],
+    "triage": ""
+}

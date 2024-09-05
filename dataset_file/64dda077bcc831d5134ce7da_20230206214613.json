@@ -1,0 +1,229 @@
+{
+    "_id": "64dda077bcc831d5134ce7da",
+    "audioPath": "20230816/Incheon/2023/02/06/003/converted_20230206214613_4003-003.wav",
+    "recordId": "a0212c4f8f17c095f084",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 73920,
+    "utterances": [
+        {
+            "id": "wavesurfer_n02577j2e1g",
+            "startAt": 9,
+            "endAt": 1245,
+            "text": "119에선 안 오는 거야?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_55itq8o5i4g",
+            "startAt": 1255,
+            "endAt": 2927,
+            "text": "예, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j463846rshg",
+            "startAt": 3609,
+            "endAt": 4536,
+            "text": "여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e5d616rc35o",
+            "startAt": 3610,
+            "endAt": 4519,
+            "text": "아",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dt5v17471tg",
+            "startAt": 4500,
+            "endAt": 5382,
+            "text": "여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_do99ic5a9k",
+            "startAt": 6464,
+            "endAt": 8955,
+            "text": "아니 옆에 여기 노블리안힐스예요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_son9rjnft6g",
+            "startAt": 10037,
+            "endAt": 11400,
+            "text": "노블 뭐라고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5lmfeil1dsg",
+            "startAt": 11646,
+            "endAt": 16419,
+            "text": "노블리안힐 저 이거 지금 10분째 지금 이 오작동하고 있는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_97t5i1bglh8",
+            "startAt": 16509,
+            "endAt": 18973,
+            "text": "노블리안이요? 잠깐만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vu636dhlbp",
+            "startAt": 19119,
+            "endAt": 22791,
+            "text": "지금 노블리안이 여러 군데 있는데 어디에 있는 노블리안이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_djeo7danck",
+            "startAt": 22419,
+            "endAt": 24346,
+            "text": "저 동구 동구요 동구.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_uhr9hjieofo",
+            "startAt": 25046,
+            "endAt": 26928,
+            "text": "무슨 동이에요 송림동이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_apn577ca148",
+            "startAt": 27973,
+            "endAt": 30246,
+            "text": "동구 송림동.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8jjifjfvfc",
+            "startAt": 31283,
+            "endAt": 33001,
+            "text": "이게 산새있대는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qo6e328b748",
+            "startAt": 32892,
+            "endAt": 35855,
+            "text": "잠깐만요 지금 뭐 연기나거나 그런건 없고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ika4lcatfng",
+            "startAt": 36092,
+            "endAt": 38510,
+            "text": "아무것도 없어요 오작동이거든요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3vj9d2aoc98",
+            "startAt": 38465,
+            "endAt": 39801,
+            "text": "저게 옆에.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ppfc10fpfig",
+            "startAt": 38501,
+            "endAt": 39956,
+            "text": "그 건물 관리원은요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0jddfam5qbo",
+            "startAt": 40956,
+            "endAt": 44174,
+            "text": "관리자들 애들은 여기에 없으니까.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gkge2f1pbc",
+            "startAt": 44574,
+            "endAt": 46092,
+            "text": "아 잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j8brodurijo",
+            "startAt": 49419,
+            "endAt": 52774,
+            "text": "지금 송림동 노블리안 하면 검색이 안되는데.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ktg1u7jhrm",
+            "startAt": 53519,
+            "endAt": 55383,
+            "text": "거기 번지수가 어떻게 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k09auvibve8",
+            "startAt": 53529,
+            "endAt": 55883,
+            "text": "예? 아래하 옛날 옛날.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9k68u3ck968",
+            "startAt": 56138,
+            "endAt": 56965,
+            "text": "어 샛골",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bm2n6ruj5io",
+            "startAt": 56965,
+            "endAt": 57947,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9lhm9eul448",
+            "startAt": 58174,
+            "endAt": 58829,
+            "text": "샛골로",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_cbahhp361qg",
+            "startAt": 58820,
+            "endAt": 59656,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0i13glj8ku8",
+            "startAt": 60083,
+            "endAt": 61029,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_eqkic8fsddo",
+            "startAt": 63347,
+            "endAt": 70165,
+            "text": "예 지금 그 저희 소방차 출동해가지고 그 건물 확인 좀 해볼게요 잠깐 기다리고 계세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_cf2nk8usnao",
+            "startAt": 70211,
+            "endAt": 71829,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 동구 송림동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

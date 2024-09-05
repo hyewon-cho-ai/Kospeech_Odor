@@ -1,0 +1,187 @@
+{
+    "_id": "64ec361829e61fb51457b4a2",
+    "audioPath": "20230828/Incheon/2023/06/13/080/converted_20230613065854_11-080.wav",
+    "recordId": "65e84b1166626f17f97c",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 75040,
+    "utterances": [
+        {
+            "id": "9e537430",
+            "startAt": 0,
+            "endAt": 880,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5nnlmm2l0vg",
+            "startAt": 1509,
+            "endAt": 5609,
+            "text": "나 지금 어디다 전화 할 지를 몰라서 지금 요쪽에 전화하는 건데요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kh2nhde0j78",
+            "startAt": 5527,
+            "endAt": 6200,
+            "text": "예예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_63vs6slb93",
+            "startAt": 6647,
+            "endAt": 11328,
+            "text": "예, 여긴 청천동에 CGV 건너서 공장 지역 있는 덴데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t6vs9ugadb8",
+            "startAt": 12334,
+            "endAt": 18061,
+            "text": "그 이게 지금 소리가 들리시나요? 이게 화재 경보 신호인지",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_otlkcf2mb98",
+            "startAt": 18595,
+            "endAt": 20740,
+            "text": "싸이 저기서 그러는지 파",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3crs4qu6lvg",
+            "startAt": 19295,
+            "endAt": 20677,
+            "text": "경보기 작동 해요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9gg3e87pnao",
+            "startAt": 20908,
+            "endAt": 25125,
+            "text": "정확한 선생님, 정확히 경보기 어느 건물에서 작동하는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kjb0qlpqjbo",
+            "startAt": 21242,
+            "endAt": 22015,
+            "text": "파악 좀",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ccbucq00e5o",
+            "startAt": 25489,
+            "endAt": 29062,
+            "text": "어 몰라요. 어디서 자는지 주위에서 즈 나긴 하는데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kmr6q583auo",
+            "startAt": 29052,
+            "endAt": 29371,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6hknfpch7v",
+            "startAt": 30116,
+            "endAt": 35080,
+            "text": "소리가 지금 청천동 주소가 어 지금 여기 우리집이",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nld8om8bni8",
+            "startAt": 35096,
+            "endAt": 37132,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_br7erbvqkl",
+            "startAt": 37197,
+            "endAt": 38461,
+            "text": "크리스탈 빌라 거든요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6bssn8mrms8",
+            "startAt": 38132,
+            "endAt": 38886,
+            "text": "청천동",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1v0adhvfdmo",
+            "startAt": 39503,
+            "endAt": 42366,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_97m79qda1og",
+            "startAt": 42524,
+            "endAt": 43851,
+            "text": "잠시만요 선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_69fs9q76de",
+            "startAt": 42846,
+            "endAt": 44573,
+            "text": "그 크리스탈 빌라.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6gjn57p9vq8",
+            "startAt": 44884,
+            "endAt": 47893,
+            "text": "선생님 집 근처에서 지금 경보기가 작동 한다는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "8e9e1017",
+            "startAt": 48002,
+            "endAt": 55001,
+            "text": "네 경보기인지 크락셀인지 한 30분째 계속 울리고 있거든요? 두 번.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3e9g0eundbo",
+            "startAt": 55596,
+            "endAt": 56678,
+            "text": "응",
+            "speaker": 0
+        },
+        {
+            "id": "618dac68",
+            "startAt": 58353,
+            "endAt": 62884,
+            "text": "아 예, 알겠습, 제가 나가서 한번 확인해보겠습니다. 선생님. 전화 좀 받아주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8hgc78som18",
+            "startAt": 61445,
+            "endAt": 62354,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hovt2gond1o",
+            "startAt": 63077,
+            "endAt": 63904,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 부평구 청천동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "중",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

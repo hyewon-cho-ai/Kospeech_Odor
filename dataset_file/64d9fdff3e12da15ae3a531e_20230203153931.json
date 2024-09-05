@@ -1,0 +1,411 @@
+{
+    "_id": "64d9fdff3e12da15ae3a531e",
+    "audioPath": "20230814/Incheon/2023/02/03/085/converted_20230203153931_16-085.wav",
+    "recordId": "f0ef7f8ce90a7528aa9c",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 144440,
+    "utterances": [
+        {
+            "id": "21fed08f",
+            "startAt": 0,
+            "endAt": 430,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "22caf977",
+            "startAt": 901,
+            "endAt": 3636,
+            "text": "119입니다. 네 말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_i21tione9mo",
+            "startAt": 1282,
+            "endAt": 1945,
+            "text": "예",
+            "speaker": 1
+        },
+        {
+            "id": "82e9055a",
+            "startAt": 4353,
+            "endAt": 7576,
+            "text": " 저 오늘 아이 저 저거 아이 저.",
+            "speaker": 1
+        },
+        {
+            "id": "da058c3d",
+            "startAt": 8060,
+            "endAt": 8601,
+            "text": "아 뭐.",
+            "speaker": 0
+        },
+        {
+            "id": "022c4dee",
+            "startAt": 8510,
+            "endAt": 8948,
+            "text": "저",
+            "speaker": 1
+        },
+        {
+            "id": "a97eb26f",
+            "startAt": 9208,
+            "endAt": 12814,
+            "text": "선생님 하시는 말씀을 못 알아듣겠어요, 또박또박 얘기해 주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "cbe0c0b3",
+            "startAt": 14415,
+            "endAt": 16483,
+            "text": "저 아픈 센터예요.",
+            "speaker": 1
+        },
+        {
+            "id": "a8caad2b",
+            "startAt": 16759,
+            "endAt": 17529,
+            "text": "아프다구요?",
+            "speaker": 0
+        },
+        {
+            "id": "6926ab99",
+            "startAt": 18391,
+            "endAt": 18811,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "2a8d445a",
+            "startAt": 19481,
+            "endAt": 19881,
+            "text": "주소요.",
+            "speaker": 0
+        },
+        {
+            "id": "7bf5ff7d",
+            "startAt": 22816,
+            "endAt": 25281,
+            "text": "그냥 오세요, 그냥 와.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lgs39uvlveo",
+            "startAt": 24292,
+            "endAt": 25747,
+            "text": "주소요 주소. 주소",
+            "speaker": 0
+        },
+        {
+            "id": "5cf61e44",
+            "startAt": 26756,
+            "endAt": 29122,
+            "text": "주소를 알아야 저희가 가죠. 주소를 불러주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "b074b3e8",
+            "startAt": 32790,
+            "endAt": 34862,
+            "text": "아 지금 어떻게 알",
+            "speaker": 1
+        },
+        {
+            "id": "2937a266",
+            "startAt": 34677,
+            "endAt": 39381,
+            "text": "네 저희가 갈 건데 주소가 어떻게 돼요? 선학시영아파트 맞아요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8pj1jc5efco",
+            "startAt": 39385,
+            "endAt": 40503,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1g5uu24opn8",
+            "startAt": 40512,
+            "endAt": 41220,
+            "text": "맞아요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fldhcrjdhf",
+            "startAt": 41717,
+            "endAt": 46271,
+            "text": "아니요. 배가, 큰일도 아니고",
+            "speaker": 1
+        },
+        {
+            "id": "d61facd2",
+            "startAt": 42816,
+            "endAt": 43908,
+            "text": "어디가 아프세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_87f38o8ttdg",
+            "startAt": 47328,
+            "endAt": 50491,
+            "text": "그냥 식구서 오급 하는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_prbhrp548do",
+            "startAt": 52053,
+            "endAt": 57380,
+            "text": "제가 저 엘추포가 아파 갖고 일도 못해. 살기 위해서.",
+            "speaker": 1
+        },
+        {
+            "id": "b6a38c15",
+            "startAt": 55659,
+            "endAt": 59099,
+            "text": "아니, 주소를 정확히 말하세요. 시영아파트 맞아요?",
+            "speaker": 0
+        },
+        {
+            "id": "7d712d4d",
+            "startAt": 59897,
+            "endAt": 60611,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "534606e8",
+            "startAt": 61097,
+            "endAt": 62512,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jki5vo45ggo",
+            "startAt": 62522,
+            "endAt": 63594,
+            "text": "호가 아니에요?",
+            "speaker": 0
+        },
+        {
+            "id": "cd3fe6e2",
+            "startAt": 65851,
+            "endAt": 69001,
+            "text": "저 그 너무 추운데요.",
+            "speaker": 1
+        },
+        {
+            "id": "53399ce8",
+            "startAt": 69421,
+            "endAt": 71901,
+            "text": "저희가 주소를 모르면은 갈 수가 없어요.",
+            "speaker": 0
+        },
+        {
+            "id": "e65b3db3",
+            "startAt": 73673,
+            "endAt": 74013,
+            "text": "네?",
+            "speaker": 1
+        },
+        {
+            "id": "cf0c7e13",
+            "startAt": 74478,
+            "endAt": 76692,
+            "text": "주소를 모르면은 갈 수가 없어요.",
+            "speaker": 0
+        },
+        {
+            "id": "b84f4dcd",
+            "startAt": 78816,
+            "endAt": 80942,
+            "text": "저가 갑자기 이거.",
+            "speaker": 1
+        },
+        {
+            "id": "493b81a3",
+            "startAt": 81123,
+            "endAt": 84673,
+            "text": "근까 저희가 출동해야 되는 상황이에요? 아니에요? 그것만 말하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_q86n2304kco",
+            "startAt": 81588,
+            "endAt": 82661,
+            "text": "네 그",
+            "speaker": 1
+        },
+        {
+            "id": "d08ab2f6",
+            "startAt": 86046,
+            "endAt": 87429,
+            "text": "너무 아픈데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3ssscrb9j8g",
+            "startAt": 87540,
+            "endAt": 87849,
+            "text": "에?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_oma8f020nbo",
+            "startAt": 88949,
+            "endAt": 91108,
+            "text": "너무 아프고",
+            "speaker": 1
+        },
+        {
+            "id": "7c5de9a3",
+            "startAt": 90037,
+            "endAt": 92490,
+            "text": "그니까 아프면 주소를 말씀해달라고요. 선학시영",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pj002347s2o",
+            "startAt": 92492,
+            "endAt": 93492,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9h8ebktrfp",
+            "startAt": 93485,
+            "endAt": 94000,
+            "text": "맞아요?",
+            "speaker": 0
+        },
+        {
+            "id": "232746ed",
+            "startAt": 98518,
+            "endAt": 100844,
+            "text": "집에 전화했는데 오던데.",
+            "speaker": 1
+        },
+        {
+            "id": "ac504d53",
+            "startAt": 100872,
+            "endAt": 104204,
+            "text": "춥고 또 오고 근데 이거",
+            "speaker": 1
+        },
+        {
+            "id": "838c01f1",
+            "startAt": 100879,
+            "endAt": 102862,
+            "text": "네 구급차, 집에 있는 거 맞죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0e5985cetlo",
+            "startAt": 107124,
+            "endAt": 109060,
+            "text": "그 자꾸 저 온대요",
+            "speaker": 1
+        },
+        {
+            "id": "39140dfc",
+            "startAt": 109045,
+            "endAt": 112990,
+            "text": "아 그러니까 저희 갈 테니깐 기다리세요.  전화 전화 대기하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1b4cb905an",
+            "startAt": 113595,
+            "endAt": 115486,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "fafb5171",
+            "startAt": 116094,
+            "endAt": 117310,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ti21tcck1",
+            "startAt": 117308,
+            "endAt": 118763,
+            "text": "어디예요, 어디 아파트예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ig7dealtn7o",
+            "startAt": 119418,
+            "endAt": 121072,
+            "text": "아 고잔 특별 여섯 구급출동",
+            "speaker": 0
+        },
+        {
+            "id": "4a5e8b50",
+            "startAt": 120713,
+            "endAt": 123245,
+            "text": "아 그 뭐 그 판넬",
+            "speaker": 1
+        },
+        {
+            "id": "17c28124",
+            "startAt": 123225,
+            "endAt": 126682,
+            "text": "네 일도 그 일 어제 오늘 아니야",
+            "speaker": 1
+        },
+        {
+            "id": "177353a1",
+            "startAt": 123245,
+            "endAt": 125125,
+            "text": "저희가 가요, 말아요? 그것만 얘기하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hsbl79kra2",
+            "startAt": 125743,
+            "endAt": 128316,
+            "text": "오늘 전 오늘 전화를 몇 번 하시는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qrslsjbcg8o",
+            "startAt": 127351,
+            "endAt": 129378,
+            "text": "뭐 여 안 넣어줘 빨리 내",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hahon93joco",
+            "startAt": 129381,
+            "endAt": 134390,
+            "text": "댈 수 아 택시도 보내 드렸다 뭐",
+            "speaker": 1
+        },
+        {
+            "id": "b4ca8873",
+            "startAt": 134834,
+            "endAt": 136424,
+            "text": "일단 갈게요, 기다리세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9ttbiqb67do",
+            "startAt": 134904,
+            "endAt": 135659,
+            "text": "으 아니에요.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "기타부정",
+    "symptom": [],
+    "triage": ""
+}

@@ -1,0 +1,152 @@
+{
+    "_id": "64dd752b1ef84058319a8b59",
+    "audioPath": "20230815/Incheon/2023/02/16/016/converted_20230216161819_4016-016.wav",
+    "recordId": "384a88090ead615d432c",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 64360,
+    "utterances": [
+        {
+            "id": "6f841e22",
+            "startAt": 0,
+            "endAt": 917,
+            "text": "예, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_uvb392n2au",
+            "startAt": 1682,
+            "endAt": 2382,
+            "text": "여보세요? ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rlr6ve9nn58",
+            "startAt": 2218,
+            "endAt": 3100,
+            "text": "예, 여보세요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_r9ai3ofartg",
+            "startAt": 3509,
+            "endAt": 6418,
+            "text": "예, 저희 남편이 몸이 좀 안 좋은데요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_iq8ma8r4a6o",
+            "startAt": 6072,
+            "endAt": 6981,
+            "text": "아, 예예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9fleg3it2k8",
+            "startAt": 7254,
+            "endAt": 13108,
+            "text": "병원 가자 그랬다 안 가고. 지금 하도 그래서 전화를 드렸거든요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o2js1t6n2fo",
+            "startAt": 13572,
+            "endAt": 21272,
+            "text": "아, 선생님 근데 저희가 먼저. 그 예. 먼저 말씀 좀 드릴게요. 일단 저희가 출동 가능해서 현장 확인 가능하구요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u4jfom5q7uo",
+            "startAt": 14208,
+            "endAt": 15599,
+            "text": "어제 하루 동안.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_40f37bo27r",
+            "startAt": 21530,
+            "endAt": 23212,
+            "text": "다만 환자분이",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jc9tql95u88",
+            "startAt": 23504,
+            "endAt": 29760,
+            "text": "그, 가시고 싶지 않다고 하면 저희가 강제로 이송할 수 있는 범위는 굉장히 적어요 그러니까 지금 같은 경우에는 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_flgmojdan0g",
+            "startAt": 29976,
+            "endAt": 34907,
+            "text": "뭐 따로 뭐, 저희가 강제이송은 할 수 없구요. 예예. 지금 현장 확인이 필요한 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_cu4ka0vn1po",
+            "startAt": 35816,
+            "endAt": 36907,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "1894488d",
+            "startAt": 36876,
+            "endAt": 38089,
+            "text": "주소가 어떻게 되세요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_n1epuhbber",
+            "startAt": 37262,
+            "endAt": 42134,
+            "text": "아, 그러면. 제 차로 그냥 병원을 가도 될까요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jk9dl1ccro",
+            "startAt": 42525,
+            "endAt": 49797,
+            "text": "아, 예. 고거는 가능하구요. 만약에 선생님께서 자체적으로 가신다 그러면 저희가 병원 안내는 도와드릴 수 있어요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3j4sgsod7pg",
+            "startAt": 50115,
+            "endAt": 53633,
+            "text": "그, 병원 안내 도와드리면 될까요? 자체적으로 이동 가능하세요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_i6cho844jho",
+            "startAt": 52597,
+            "endAt": 53633,
+            "text": "예예예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_aebhffcf1b",
+            "startAt": 53970,
+            "endAt": 57915,
+            "text": "아, 예예. 잠시만 계세요, 저희 담당자분 연결시켜드릴게요.",
+            "speaker": 0
+        },
+        {
+            "id": "c04b3b27",
+            "startAt": 58409,
+            "endAt": 59403,
+            "text": "네. 예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

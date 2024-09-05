@@ -1,0 +1,217 @@
+{
+    "_id": "64dd752b1ef84058319aa19f",
+    "audioPath": "20230815/Incheon/2023/02/27/009/converted_20230227094204_4009-009.wav",
+    "recordId": "1a6784f3e2c996e6206f",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 38600,
+    "utterances": [
+        {
+            "id": "wavesurfer_8ngh7slatr8",
+            "startAt": 91,
+            "endAt": 1291,
+            "text": "네, 119입니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_smcedn06kuo",
+            "startAt": 1318,
+            "endAt": 3727,
+            "text": "네, 지금 어르신이 낙상하셨는데 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_c8shf141cl8",
+            "startAt": 3782,
+            "endAt": 4236,
+            "text": "네, ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2ug9a8029tg",
+            "startAt": 4176,
+            "endAt": 8031,
+            "text": "움직일 수가 없어서 병원을 좀 모시고 가셨으면 해서요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_500a9epi76g",
+            "startAt": 7576,
+            "endAt": 8876,
+            "text": "의식은요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_od293ue9fto",
+            "startAt": 8800,
+            "endAt": 9209,
+            "text": "예? ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5akgb0uqhag",
+            "startAt": 9129,
+            "endAt": 10074,
+            "text": "의식은요? ",
+            "speaker": 0
+        },
+        {
+            "id": "f1d53bdb",
+            "startAt": 10018,
+            "endAt": 12275,
+            "text": "있으신데 몸이, 어 잠깐만요 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9pahmjrhuu8",
+            "startAt": 11015,
+            "endAt": 12224,
+            "text": "추워해요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_t3j1i61kddo",
+            "startAt": 12702,
+            "endAt": 14674,
+            "text": "어 몸, 만지지마 만지지마 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1vc52kmm03",
+            "startAt": 14240,
+            "endAt": 15640,
+            "text": "거기 위치가 어디예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6ul73898ijg",
+            "startAt": 15570,
+            "endAt": 16463,
+            "text": "여기 서달로",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2be5ea33sb8",
+            "startAt": 16447,
+            "endAt": 17323,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rsa7vo1f8uo",
+            "startAt": 17341,
+            "endAt": 18622,
+            "text": "아 인천 서구 서달로",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_21qdberp6t",
+            "startAt": 18618,
+            "endAt": 19209,
+            "text": "***[개인정보]\n",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_66of2n27hho",
+            "startAt": 19205,
+            "endAt": 19687,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_l0sgi84mdf",
+            "startAt": 19988,
+            "endAt": 20531,
+            "text": "저기 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mpr78nvvg78",
+            "startAt": 20514,
+            "endAt": 22076,
+            "text": "***[개인정보] ",
+            "speaker": 1
+        },
+        {
+            "id": "2f4f567b",
+            "startAt": 22147,
+            "endAt": 22808,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_cqvfrgngeo8",
+            "startAt": 22810,
+            "endAt": 23789,
+            "text": "무슨 요양원이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2i7vr24e738",
+            "startAt": 23561,
+            "endAt": 25407,
+            "text": "아 저기 백세주간보호센터요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9a738sbu39",
+            "startAt": 25544,
+            "endAt": 28362,
+            "text": "백세주간보호센터, 어디 다치신, 다치신 데가?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_numsngqob98",
+            "startAt": 27643,
+            "endAt": 34234,
+            "text": "이거 오른쪽 다리 안 좋으신 부분을 넘어지시면서 완전히 그냥 체중 실려서 넘어지",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9729uuee6jg",
+            "startAt": 30555,
+            "endAt": 31082,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tt0uocihgt8",
+            "startAt": 32067,
+            "endAt": 35859,
+            "text": "아 구급차 보내드릴 거고요. 움직이지 말고 그대로 계세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pb2ohm41a78",
+            "startAt": 35459,
+            "endAt": 36259,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9h4ulksr768",
+            "startAt": 36150,
+            "endAt": 36740,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_naeh9qvrm8",
+            "startAt": 36694,
+            "endAt": 37603,
+            "text": "아냐아냐 만",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 서구 석남동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "중",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "타박상"
+    ],
+    "triage": "준응급증상"
+}

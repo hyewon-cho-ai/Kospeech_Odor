@@ -1,0 +1,313 @@
+{
+    "_id": "64d9fdff3e12da15ae3a44d3",
+    "audioPath": "20230814/Incheon/2023/02/04/019/converted_20230204223114_4019-019.wav",
+    "recordId": "6b5c6eb7bc4ebba3f9c4",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 101480,
+    "utterances": [
+        {
+            "id": "96b30a68",
+            "startAt": 148,
+            "endAt": 1284,
+            "text": "구급 상황 센터입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_p6jpo6o972",
+            "startAt": 1864,
+            "endAt": 8164,
+            "text": "네, 안녕하세요. 그 애 6살 애기가요. 떡볶이 먹다가 지금 목에 걸렸다가 지금 괜찮아졌거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_euc10ac0leg",
+            "startAt": 8160,
+            "endAt": 10260,
+            "text": "좀 목은 아프다고는 하는데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4ak6b6gjtsg",
+            "startAt": 8189,
+            "endAt": 8434,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_atp6uco8b78",
+            "startAt": 9805,
+            "endAt": 10133,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "11a6ca44",
+            "startAt": 10606,
+            "endAt": 13258,
+            "text": "혹시, 병원을 가야 되나 해가지고요.",
+            "speaker": 1
+        },
+        {
+            "id": "cdaa7d0f",
+            "startAt": 14363,
+            "endAt": 17113,
+            "text": "떡볶이는 크게 문제가 될 거 같진 않은데요.",
+            "speaker": 0
+        },
+        {
+            "id": "9e99277f",
+            "startAt": 18148,
+            "endAt": 23406,
+            "text": "아. 근데 목이 계속 아프다고 해서요. 혹시 어떻게 해야 되나 그냥 좀 지켜봐도 될까 해서요.",
+            "speaker": 1
+        },
+        {
+            "id": "dd10ffcc",
+            "startAt": 24515,
+            "endAt": 27705,
+            "text": "애기가 떡볶이 걸렸을 때 전혀 숨을 못 쉰 건 아니죠?",
+            "speaker": 0
+        },
+        {
+            "id": "408a6838",
+            "startAt": 28146,
+            "endAt": 31611,
+            "text": "아, 그건 아니고요. 넘어갈 때 잘못 넘어간 거 같긴 하거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "52cad00f",
+            "startAt": 31164,
+            "endAt": 36083,
+            "text": "식도로 그니까 숨 쉬는 거에 문제가 없고. 사래 걸려서 켁켁거리는 게 심하게 뭐.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_osb316m47k8",
+            "startAt": 32085,
+            "endAt": 32294,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kfehjegceqg",
+            "startAt": 36107,
+            "endAt": 37516,
+            "text": "그런 증상이 있었어요?",
+            "speaker": 0
+        },
+        {
+            "id": "e12987e7",
+            "startAt": 37835,
+            "endAt": 39265,
+            "text": "예, 잠깐이요 잠깐.",
+            "speaker": 1
+        },
+        {
+            "id": "822d38d3",
+            "startAt": 40289,
+            "endAt": 42869,
+            "text": "그니까 그게 구역질이에요? 사례 켁, 켁, 기침이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "c4b61bff",
+            "startAt": 43329,
+            "endAt": 47569,
+            "text": "아, 그건 아니고요. 갑자기 소리 지르면서 목이 맵다고 그랬어요. 계속.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bgiehpqf39o",
+            "startAt": 47544,
+            "endAt": 48499,
+            "text": "소리를 지른 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_l51mb6ogvn8",
+            "startAt": 48908,
+            "endAt": 49254,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_sb4q27aihfg",
+            "startAt": 49241,
+            "endAt": 51532,
+            "text": "소리를 냈죠? 그럼 기도 쪽은 아니라서.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4dpet6if34o",
+            "startAt": 50430,
+            "endAt": 50703,
+            "text": "네 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6123kc6ldbg",
+            "startAt": 51991,
+            "endAt": 52290,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_q5lm41ud42g",
+            "startAt": 52263,
+            "endAt": 57735,
+            "text": "이비인후과 쪽인데. 글쎄요, 저희가 뭐 정확하게 목 안을 본 건 아니라서.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bdsuj14omvo",
+            "startAt": 57798,
+            "endAt": 62817,
+            "text": "근데, 생각해볼 때 떡볶이가 크게 상처를 입히거나 하는 것도 아니라서.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hic13et0uko",
+            "startAt": 63135,
+            "endAt": 68608,
+            "text": "아마 그거 어른들도 껌 삼킬 때, 사탕 그냥 삼킬 때, 그 이물감 때문에 좀 불편할 수 있잖아요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fncabruiqvo",
+            "startAt": 63684,
+            "endAt": 64002,
+            "text": "아.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_aphdg4chf18",
+            "startAt": 68842,
+            "endAt": 69197,
+            "text": "네 네.",
+            "speaker": 1
+        },
+        {
+            "id": "0d624c46",
+            "startAt": 68932,
+            "endAt": 72680,
+            "text": "그런 것도 있어서 조금 지켜보셔도 큰 문제는 없어 보이긴 하는데요.",
+            "speaker": 0
+        },
+        {
+            "id": "fc33e272",
+            "startAt": 72811,
+            "endAt": 77307,
+            "text": "아, 의식을 잃거나 이렇게 호흡 곤란 오거나 이런 건 아니라서 좀 괜찮겠죠, 그럼?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_muefa3pt2e8",
+            "startAt": 77753,
+            "endAt": 82471,
+            "text": "어, 그렇죠. 우선은 들어갈 때부터 기도는 아니었던 거 같아요. 아이 소리 지른 거 보면.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kg38tr2v5kg",
+            "startAt": 81669,
+            "endAt": 82215,
+            "text": "아.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nid7aljk388",
+            "startAt": 82544,
+            "endAt": 85271,
+            "text": "기도로 들어가면 소리를 지를 수 없고, 사래 걸린 듯이.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dcf1t5l6a98",
+            "startAt": 84849,
+            "endAt": 85049,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gfnls5ce3f8",
+            "startAt": 85522,
+            "endAt": 88831,
+            "text": "계속 기침을 해야 되는데, 그런 증상이 없었던 걸로 봐서는.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bs0lep7e3vo",
+            "startAt": 88951,
+            "endAt": 89342,
+            "text": "네 네.",
+            "speaker": 1
+        },
+        {
+            "id": "52a80fab",
+            "startAt": 89298,
+            "endAt": 94607,
+            "text": "식도 쪽으로 그냥 덩어리가 넘어갔든지, 네. 씹진 않고, 뭐 그런 거 같거든요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tq9borvndpo",
+            "startAt": 92244,
+            "endAt": 92598,
+            "text": "아.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gpk314n1hro",
+            "startAt": 94506,
+            "endAt": 95451,
+            "text": "아, 네 네 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ca8tvfskfa8",
+            "startAt": 95644,
+            "endAt": 97207,
+            "text": "지금은 조금 지켜볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "34da4960",
+            "startAt": 97737,
+            "endAt": 100767,
+            "text": "예, 알겠습니다, 감사합니다 네, 감사합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kl15qsqcvho",
+            "startAt": 98480,
+            "endAt": 98716,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_os5u5r9gk8g",
+            "startAt": 99016,
+            "endAt": 99398,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rfnsvp7d1co",
+            "startAt": 100280,
+            "endAt": 100698,
+            "text": "예.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

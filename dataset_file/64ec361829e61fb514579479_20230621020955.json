@@ -1,0 +1,187 @@
+{
+    "_id": "64ec361829e61fb514579479",
+    "audioPath": "20230828/Incheon/2023/06/21/006/converted_20230621020955_4006-006.wav",
+    "recordId": "dda66f5926da06b8a895",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 62520,
+    "utterances": [
+        {
+            "id": "wavesurfer_erot2ene5u8",
+            "startAt": 7,
+            "endAt": 833,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_v5qqto9pa",
+            "startAt": 1107,
+            "endAt": 3700,
+            "text": "아, 네, 안녕하세요? 뭐 하나 여쭤보고 싶어서 연락 드렸습니다. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9bcoh6b9dj",
+            "startAt": 3584,
+            "endAt": 4431,
+            "text": "네, 말씀하세요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9tj3vuckg2",
+            "startAt": 4599,
+            "endAt": 11066,
+            "text": "저는 전각구 토스인데요. 네, 지금 북창구 북창대로 167번길 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0uiiu28jei",
+            "startAt": 11046,
+            "endAt": 12560,
+            "text": "아까, 네네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_uvgqutm1o2",
+            "startAt": 12859,
+            "endAt": 14251,
+            "text": "여 167번길에",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6fo9epee0s",
+            "startAt": 14242,
+            "endAt": 14626,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "28706666",
+            "startAt": 14616,
+            "endAt": 19471,
+            "text": "는데, 여기 화재수신반이 계속 울리는데 저희가 화재수신반을 못 찾고 있거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hqd0iktsjj",
+            "startAt": 19582,
+            "endAt": 20976,
+            "text": "어, 좀 나가볼게요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_l4lusg1935",
+            "startAt": 21439,
+            "endAt": 22812,
+            "text": "아, 네. 알겠습니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "291791bb",
+            "startAt": 22485,
+            "endAt": 23628,
+            "text": "잠, 주소가? 다시요.",
+            "speaker": 0
+        },
+        {
+            "id": "dea2a252",
+            "startAt": 24421,
+            "endAt": 27095,
+            "text": "주소가 이제 부평대로167번길.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_psujm92ci3g",
+            "startAt": 27547,
+            "endAt": 28620,
+            "text": "잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "24f64c86",
+            "startAt": 34806,
+            "endAt": 35714,
+            "text": "부평대로?",
+            "speaker": 0
+        },
+        {
+            "id": "34298721",
+            "startAt": 36380,
+            "endAt": 37860,
+            "text": "167번길.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_87nn1te5pe",
+            "startAt": 37854,
+            "endAt": 39315,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2d02aep4acg",
+            "startAt": 39938,
+            "endAt": 40418,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qo7562a2bsg",
+            "startAt": 44818,
+            "endAt": 46272,
+            "text": "어. 네, 나가보겠습니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nfd71v98p2o",
+            "startAt": 46674,
+            "endAt": 48361,
+            "text": "아, 이거 몇 분 정도 걸릴까요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1gddpgstifg",
+            "startAt": 48092,
+            "endAt": 52212,
+            "text": "선생님. 그건 없죠? 경보 설비, 뭐 화재 징후는 없죠?",
+            "speaker": 0
+        },
+        {
+            "id": "89831f5d",
+            "startAt": 52885,
+            "endAt": 55910,
+            "text": "에, 주변에를 봤는데 화재 일어난 곳은 없구요, ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vdtnd6bn0a",
+            "startAt": 55488,
+            "endAt": 57719,
+            "text": "아, 화재 징후 없구요? 가볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_i669fqt3th",
+            "startAt": 57083,
+            "endAt": 58365,
+            "text": "네 네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vrt1i67se4",
+            "startAt": 58338,
+            "endAt": 58711,
+            "text": "알",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 부평구 부평동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

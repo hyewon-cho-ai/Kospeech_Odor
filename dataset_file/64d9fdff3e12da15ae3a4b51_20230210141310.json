@@ -1,0 +1,215 @@
+{
+    "_id": "64d9fdff3e12da15ae3a4b51",
+    "audioPath": "20230814/Incheon/2023/02/10/011/converted_20230210141310_4011-011.wav",
+    "recordId": "96623de94cd3fb1062d0",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 53280,
+    "utterances": [
+        {
+            "id": "wavesurfer_c04dfjjutog",
+            "startAt": 191,
+            "endAt": 1454,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6c5954365mg",
+            "startAt": 1936,
+            "endAt": 7327,
+            "text": "아 네, 저희 그 연막탄 같은 거 터트리려구요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_honqneirhr8",
+            "startAt": 6169,
+            "endAt": 7714,
+            "text": "연막 구조 하신다구요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_evcib5fogg8",
+            "startAt": 7932,
+            "endAt": 8641,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a8fe2lug4so",
+            "startAt": 8105,
+            "endAt": 9132,
+            "text": "주소 어디세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9ac5dnlv078",
+            "startAt": 9723,
+            "endAt": 10996,
+            "text": "부평구",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_64vl8krjrs8",
+            "startAt": 11163,
+            "endAt": 11636,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_cg22sfq64b8",
+            "startAt": 12260,
+            "endAt": 13341,
+            "text": "부평2동",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k97t3rn908",
+            "startAt": 13307,
+            "endAt": 14543,
+            "text": "부평2동",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3ke83dle7b8",
+            "startAt": 14733,
+            "endAt": 16705,
+            "text": "안남로 5번길",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_94k8sga0db",
+            "startAt": 16516,
+            "endAt": 18315,
+            "text": "안남로 5번길이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_loi6k5akhu",
+            "startAt": 18632,
+            "endAt": 19168,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bredt4mkgbo",
+            "startAt": 19268,
+            "endAt": 19841,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ncpql5smpjo",
+            "startAt": 20427,
+            "endAt": 25981,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4eka734f9ag",
+            "startAt": 26072,
+            "endAt": 27426,
+            "text": "언, 몇시간 하세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_a3sob465g68",
+            "startAt": 27995,
+            "endAt": 28959,
+            "text": "2시간이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_592a5chbf8g",
+            "startAt": 29024,
+            "endAt": 29706,
+            "text": "2시간.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bacqsg29d1g",
+            "startAt": 30363,
+            "endAt": 31090,
+            "text": "3시간?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_102elsdjnjo",
+            "startAt": 31316,
+            "endAt": 32288,
+            "text": "3시간이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hgkubfb922",
+            "startAt": 32032,
+            "endAt": 33196,
+            "text": "저, 5시까지요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a1kjja48t6g",
+            "startAt": 33986,
+            "endAt": 34995,
+            "text": "5시까지요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5age3re0ku8",
+            "startAt": 35032,
+            "endAt": 36013,
+            "text": "5시까지요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3k799jsesf",
+            "startAt": 36468,
+            "endAt": 37031,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a5ju5jcj31o",
+            "startAt": 37484,
+            "endAt": 40420,
+            "text": "예, 알겠고요, 그, 이게 주택이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o7fdi6rf29o",
+            "startAt": 40731,
+            "endAt": 43295,
+            "text": "네, 그냥 일반 연립주택이에요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pvgecbn3438",
+            "startAt": 42413,
+            "endAt": 48140,
+            "text": "연립주택. 그러면 현관문에다가 소독한다고 좀 써 붙여놔 주시겠어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_q9k282ceqig",
+            "startAt": 48404,
+            "endAt": 50722,
+            "text": "아, 네. 알겠습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_r30gf2kjiqo",
+            "startAt": 49958,
+            "endAt": 50949,
+            "text": "네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

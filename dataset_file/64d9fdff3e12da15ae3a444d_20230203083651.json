@@ -1,0 +1,208 @@
+{
+    "_id": "64d9fdff3e12da15ae3a444d",
+    "audioPath": "20230814/Incheon/2023/02/03/013/converted_20230203083651_4013-013.wav",
+    "recordId": "6f1ed28a93bce4566acc",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 75520,
+    "utterances": [
+        {
+            "id": "wavesurfer_69diiu8c7bo",
+            "startAt": 8090,
+            "endAt": 8657,
+            "text": "여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jo5d9quh6a",
+            "startAt": 10267,
+            "endAt": 10834,
+            "text": "여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_g13l4m1due",
+            "startAt": 12231,
+            "endAt": 12814,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0o6msc41ps",
+            "startAt": 12831,
+            "endAt": 14214,
+            "text": "아 예 여기 119인데요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c5atvjhv84",
+            "startAt": 16597,
+            "endAt": 17214,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d1r6o7itrig",
+            "startAt": 17227,
+            "endAt": 18827,
+            "text": "예 저희한테 연락 주신거 맞지요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fbmi5pst5do",
+            "startAt": 19761,
+            "endAt": 20194,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8rib5a7vt8",
+            "startAt": 20208,
+            "endAt": 21891,
+            "text": "예 지금 어떤 상황이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4sfisdhd838",
+            "startAt": 29111,
+            "endAt": 29695,
+            "text": "여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "17a9c013",
+            "startAt": 30211,
+            "endAt": 30804,
+            "text": "예예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b2ckcsm5qgo",
+            "startAt": 30811,
+            "endAt": 32228,
+            "text": "예 말씀하세요, 어디가 불편하세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qrh92km9hm",
+            "startAt": 33265,
+            "endAt": 34798,
+            "text": "아니 불편한데는 없어.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tlgm9hhlt78",
+            "startAt": 35465,
+            "endAt": 37082,
+            "text": "뭐 119 구급차가 필요하신거에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jhtiqjvhh9",
+            "startAt": 38162,
+            "endAt": 38828,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lujirfbqn4o",
+            "startAt": 38982,
+            "endAt": 39282,
+            "text": "예?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_87m6hp30seg",
+            "startAt": 43745,
+            "endAt": 44345,
+            "text": "신고자분.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_duqci0vvur8",
+            "startAt": 49332,
+            "endAt": 49882,
+            "text": "여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hlf92hgc9sg",
+            "startAt": 57709,
+            "endAt": 58376,
+            "text": "여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_en8m6bjmiho",
+            "startAt": 60413,
+            "endAt": 61013,
+            "text": "여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bv7c6jk2jbo",
+            "startAt": 61109,
+            "endAt": 62376,
+            "text": "예 여기 119예요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_37vv8pu0g8o",
+            "startAt": 63199,
+            "endAt": 63599,
+            "text": "예?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rj16mdf6vo",
+            "startAt": 63736,
+            "endAt": 65136,
+            "text": "119라구요 119.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_v0pb0ugujc",
+            "startAt": 65583,
+            "endAt": 68766,
+            "text": "아 아니 나 안보여서 그르지 둘둘 일이번이.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qh1mvob79n8",
+            "startAt": 68866,
+            "endAt": 71300,
+            "text": "아 잘못 누르신 거예요? 잘못 연결된 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fgcml86h8pg",
+            "startAt": 71550,
+            "endAt": 72133,
+            "text": "예예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4v9ua7ojd38",
+            "startAt": 71883,
+            "endAt": 73717,
+            "text": "예 알았습니다. 끊겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_s8e1qstdfp",
+            "startAt": 73817,
+            "endAt": 74500,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

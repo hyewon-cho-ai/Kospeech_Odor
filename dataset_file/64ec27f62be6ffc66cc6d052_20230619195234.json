@@ -1,0 +1,292 @@
+{
+    "_id": "64ec27f62be6ffc66cc6d052",
+    "audioPath": "20230827/Incheon/2023/06/19/003/converted_20230619195234_4003-003.wav",
+    "recordId": "43ef502fda4251bcb666",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 104360,
+    "utterances": [
+        {
+            "id": "a9ae6914",
+            "startAt": 196,
+            "endAt": 1150,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_n6v1ehm5isg",
+            "startAt": 2809,
+            "endAt": 3745,
+            "text": "네, 여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a41uds2tp8g",
+            "startAt": 3836,
+            "endAt": 4563,
+            "text": "여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ndsmh9s9rao",
+            "startAt": 5027,
+            "endAt": 5936,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ddc0u0i5t2",
+            "startAt": 7182,
+            "endAt": 8791,
+            "text": "아. 뭐야?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hajrpd8dcoo",
+            "startAt": 9536,
+            "endAt": 10209,
+            "text": "여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e7iai81mqi8",
+            "startAt": 13854,
+            "endAt": 14590,
+            "text": "여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "f31bf649",
+            "startAt": 14531,
+            "endAt": 18315,
+            "text": "소방, 소방 그, 거기에 주차를 해 놨는데요.",
+            "speaker": 1
+        },
+        {
+            "id": "829e7bdd",
+            "startAt": 18988,
+            "endAt": 19500,
+            "text": "소방.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pesqsoflhi8",
+            "startAt": 20145,
+            "endAt": 23681,
+            "text": "소방 거기 금지구역 있잖아요, 왜 소화전 있는 데.",
+            "speaker": 1
+        },
+        {
+            "id": "326540a2",
+            "startAt": 23712,
+            "endAt": 25980,
+            "text": "소화전 불법주정차 신고하시는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ocdh9skcjl8",
+            "startAt": 25281,
+            "endAt": 26445,
+            "text": "예. 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_27k6gckllm",
+            "startAt": 26745,
+            "endAt": 31308,
+            "text": "거기 그 소화전에. 몇 호라고 써있어요, 숫자?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ief1sn7gf3g",
+            "startAt": 31599,
+            "endAt": 32717,
+            "text": "잠깐만요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lfkkm03rku8",
+            "startAt": 43362,
+            "endAt": 44244,
+            "text": "잠깐만요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9a4hppfsld8",
+            "startAt": 56343,
+            "endAt": 57343,
+            "text": "소화전에요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bdpl6t16t1g",
+            "startAt": 57307,
+            "endAt": 57798,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2a9h41milbo",
+            "startAt": 58334,
+            "endAt": 60143,
+            "text": "두 대기. 이거 그거든요, 지금?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o43ge4eeokg",
+            "startAt": 60007,
+            "endAt": 60607,
+            "text": "몇 호요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ks3veq9olco",
+            "startAt": 61652,
+            "endAt": 66261,
+            "text": "여. 어, 뭐야. 도림안전센터",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_08qictkddh8",
+            "startAt": 66225,
+            "endAt": 69107,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2p8aapm49n",
+            "startAt": 69089,
+            "endAt": 69780,
+            "text": "잠깐만.",
+            "speaker": 1
+        },
+        {
+            "id": "24003bf4",
+            "startAt": 69808,
+            "endAt": 72454,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_aul491svjd",
+            "startAt": 72925,
+            "endAt": 73525,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "ef1b328c",
+            "startAt": 73248,
+            "endAt": 76459,
+            "text": "아, 예. 그 지금, 거기 계시는 그 차가 거기 서 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "f6d3fef9",
+            "startAt": 74720,
+            "endAt": 77534,
+            "text": "거기, 네. 2대.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_op8vm3bbfqg",
+            "startAt": 77997,
+            "endAt": 78961,
+            "text": "2대 서 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_blmla675pg",
+            "startAt": 79106,
+            "endAt": 79706,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "44b99b2a",
+            "startAt": 79588,
+            "endAt": 82830,
+            "text": "아. 지금 거기 계실 수 있어요? 아니면 딴 데 이동하셔야 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "5389049c",
+            "startAt": 83328,
+            "endAt": 85327,
+            "text": "아, 저 좀 이동해야 되는데.",
+            "speaker": 1
+        },
+        {
+            "id": "2ad7e786",
+            "startAt": 84921,
+            "endAt": 88539,
+            "text": "아, 그래요? 저희가 화, 그 현장 확인해보겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7c3beg3kl6o",
+            "startAt": 86324,
+            "endAt": 86879,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "9372d9fc",
+            "startAt": 87972,
+            "endAt": 92750,
+            "text": "딱지 띠세요, 그냥 무조건. 아주 그냥 전화하지 말고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tmro5nj7ma8",
+            "startAt": 90697,
+            "endAt": 97242,
+            "text": "그건 저희가. 저희가 출동해서 확인할 거고. 일단 거기 안 계시, 그 딴 데 이동하셔야 된다는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2djsbdlc118",
+            "startAt": 94760,
+            "endAt": 95542,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "78631457",
+            "startAt": 97667,
+            "endAt": 100318,
+            "text": "예. 거기 있을 수도 있어요, 갔다가.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8eh0m5uv0k",
+            "startAt": 98260,
+            "endAt": 98887,
+            "text": "예, 아.",
+            "speaker": 0
+        },
+        {
+            "id": "680fcab4",
+            "startAt": 100731,
+            "endAt": 102820,
+            "text": "아. 일단 그쪽으로 한번 가서 확인해볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_m94hbh8psog",
+            "startAt": 102433,
+            "endAt": 103196,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 남동구 남촌동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

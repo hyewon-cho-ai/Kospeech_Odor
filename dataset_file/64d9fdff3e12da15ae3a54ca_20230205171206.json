@@ -1,0 +1,257 @@
+{
+    "_id": "64d9fdff3e12da15ae3a54ca",
+    "audioPath": "20230814/Incheon/2023/02/05/072/converted_20230205171206_3-072.wav",
+    "recordId": "956b3cc11aed1d4e0088",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 99080,
+    "utterances": [
+        {
+            "id": "wavesurfer_52cec16vpfg",
+            "startAt": 18462,
+            "endAt": 21752,
+            "text": "아, 네, 선생님 119 상황실인데요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7hpb7ehcdeg",
+            "startAt": 18889,
+            "endAt": 20207,
+            "text": "여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8mr6h8lodr",
+            "startAt": 21337,
+            "endAt": 24937,
+            "text": "그 저희가 그 양꼬치집 검색하는데, ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5k255ac1da",
+            "startAt": 24903,
+            "endAt": 28548,
+            "text": "그 이름이 안 나와가지고 그 혹시 혹시 뭐 모텔 바로 옆에 있는 거예요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ad5t0tvjnh8",
+            "startAt": 28833,
+            "endAt": 30533,
+            "text": "아니, 구이가 앞에요, ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_iob9fk5iaho",
+            "startAt": 30642,
+            "endAt": 30851,
+            "text": "예?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lk30hk5mbfo",
+            "startAt": 31527,
+            "endAt": 32399,
+            "text": "구이가",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cua2pe89bgo",
+            "startAt": 32473,
+            "endAt": 36418,
+            "text": "그 여 부평역 1번 출구 앞에 구이가 앞에요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_86dgi5gii18",
+            "startAt": 35965,
+            "endAt": 37110,
+            "text": "구이가 앞이라고요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tlipv5mla98",
+            "startAt": 37215,
+            "endAt": 37906,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_52cq626eou8",
+            "startAt": 38301,
+            "endAt": 39619,
+            "text": "이디야 커피 있고 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ucgnkrdq9",
+            "startAt": 40845,
+            "endAt": 42372,
+            "text": "이디야 커피 알아요? 이디야 커피?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_cq77qujdifo",
+            "startAt": 42772,
+            "endAt": 46826,
+            "text": "이디야 커피 앞에서 지나 조금 지나가고 오른쪽에요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d2i1jugml1",
+            "startAt": 47055,
+            "endAt": 47991,
+            "text": "미니스톱 지나서?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ahh1td4gv9o",
+            "startAt": 48507,
+            "endAt": 50671,
+            "text": "아 예, 근데 손님 지금 일어났어요, ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qmabrkl5978",
+            "startAt": 50596,
+            "endAt": 51650,
+            "text": "일어나긴 했다고요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_cg3gfiv3p3",
+            "startAt": 51963,
+            "endAt": 52935,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rf4b1l5mkgo",
+            "startAt": 53525,
+            "endAt": 57206,
+            "text": "아 잠시만요. 그 양꼬, 네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_42kfmfme4vg",
+            "startAt": 56182,
+            "endAt": 58973,
+            "text": "여기 현장에서 경찰관들 전화를 드릴게요/",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_58nq4maukh8",
+            "startAt": 58932,
+            "endAt": 59686,
+            "text": "아 에.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rpa7oij8igo",
+            "startAt": 60720,
+            "endAt": 61756,
+            "text": "예 여보세요, ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f5au23qi69g",
+            "startAt": 61125,
+            "endAt": 64279,
+            "text": "아 네 선생님 119 종합상황실이구요. 그 양꼬치집 이름이 뭐예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3crmde5kcpo",
+            "startAt": 64804,
+            "endAt": 69603,
+            "text": "여기가 그 부평 구이가 바로 앞이에요. 부평 남부점 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vttupskvs48",
+            "startAt": 68941,
+            "endAt": 71596,
+            "text": "남부점 구이가 바로 앞이에요? 네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4g203grtoj",
+            "startAt": 70372,
+            "endAt": 75263,
+            "text": "근데 저희가 그 대상자 선별했, 그 대상자 대면 했는데 이분이 주취자세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_46t27dj7e68",
+            "startAt": 75633,
+            "endAt": 78533,
+            "text": "예, 그래가지고 지금 현재 아픈 곳은 없다고 하구요. ",
+            "speaker": 1
+        },
+        {
+            "id": "c05e00b0",
+            "startAt": 78869,
+            "endAt": 80856,
+            "text": "술에 취해서 잠깐 넘어진 거 같아요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_eu0ldp3uti",
+            "startAt": 80391,
+            "endAt": 82536,
+            "text": "아 그러면 저희 어떻게 구철해도 될까요?",
+            "speaker": 0
+        },
+        {
+            "id": "7b5c48b6",
+            "startAt": 82986,
+            "endAt": 84620,
+            "text": "아 예 괜찮을 것 같습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "ca1b1e34",
+            "startAt": 83966,
+            "endAt": 86006,
+            "text": "아 혹시나 필요하시면 다시 신고 주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "088cecc6",
+            "startAt": 86652,
+            "endAt": 87652,
+            "text": "예, 알겠습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "b2c33f23",
+            "startAt": 87282,
+            "endAt": 88786,
+            "text": "네 감사합니다. 수고하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vfv1sk0oero",
+            "startAt": 87989,
+            "endAt": 89589,
+            "text": "예 수고하십시오. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kn20ugk3vso",
+            "startAt": 88883,
+            "endAt": 89347,
+            "text": "네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

@@ -1,0 +1,194 @@
+{
+    "_id": "64dd752b1ef84058319a8d80",
+    "audioPath": "20230815/Incheon/2023/02/16/011/converted_20230216234214_4011-011.wav",
+    "recordId": "6b6b50eace302526ff0a",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 84880,
+    "utterances": [
+        {
+            "id": "136bd2a5",
+            "startAt": 375,
+            "endAt": 1135,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "bc630ed9",
+            "startAt": 1844,
+            "endAt": 11380,
+            "text": "네, 아까 여기 그 강아지가 잃어버려가지고 혹시 혹시 여기서 인수인계 동물병원에 해주셨다 그러는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_on76fkkm1do",
+            "startAt": 5591,
+            "endAt": 7037,
+            "text": "강아지를 잃어버린 뒤에 ",
+            "speaker": 0
+        },
+        {
+            "id": "46b98425",
+            "startAt": 11885,
+            "endAt": 16697,
+            "text": "동물병원에 했다고요? 저희가요? 연락을 받으신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_igd7goplm68",
+            "startAt": 14328,
+            "endAt": 16656,
+            "text": "네네 여기가 저기",
+            "speaker": 1
+        },
+        {
+            "id": "fcf24f0f",
+            "startAt": 17066,
+            "endAt": 22240,
+            "text": "네, 서구 여기가 서구거든요. 지금 루얼 센트럴 타운인데",
+            "speaker": 1
+        },
+        {
+            "id": "b4cda08b",
+            "startAt": 22267,
+            "endAt": 27768,
+            "text": "루얼 센트럴 잠 잠시만요. 저희가 구조대원한테 전화를 받은 건가요?",
+            "speaker": 0
+        },
+        {
+            "id": "7465a7f6",
+            "startAt": 28177,
+            "endAt": 31581,
+            "text": "아 아니요, 관리소에서 전화 받은 건데",
+            "speaker": 1
+        },
+        {
+            "id": "6c3ce222",
+            "startAt": 31842,
+            "endAt": 32638,
+            "text": "관리소요?",
+            "speaker": 0
+        },
+        {
+            "id": "850fa410",
+            "startAt": 33132,
+            "endAt": 37417,
+            "text": "네네, 저희 관리소에서 소방서로 인 인계해주셨다 그래서",
+            "speaker": 1
+        },
+        {
+            "id": "c1af2e01",
+            "startAt": 38447,
+            "endAt": 42343,
+            "text": "음 잠시만요, 어 센트럴 아파트 예예예예",
+            "speaker": 0
+        },
+        {
+            "id": "c4ed10ca",
+            "startAt": 42909,
+            "endAt": 46366,
+            "text": "네, 그 동물병원을 어디로 인계하셨는지 ",
+            "speaker": 1
+        },
+        {
+            "id": "5fe433d1",
+            "startAt": 45439,
+            "endAt": 51034,
+            "text": "응 예, 저희가 전화번호 좀 알려드릴게요. 예, 출동한 전화번호 좀 알려드릴게요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ooh1cp7d0d8",
+            "startAt": 51468,
+            "endAt": 52050,
+            "text": "네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bu0tc6rj49g",
+            "startAt": 52104,
+            "endAt": 53223,
+            "text": "잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rvq8h35e11g",
+            "startAt": 53323,
+            "endAt": 55896,
+            "text": "저기 생활구자 생활구조대원",
+            "speaker": 0
+        },
+        {
+            "id": "b3ca8e23",
+            "startAt": 54615,
+            "endAt": 56543,
+            "text": "대원 번호 알려주시는 거예요?",
+            "speaker": 1
+        },
+        {
+            "id": "d8dbff75",
+            "startAt": 56979,
+            "endAt": 57189,
+            "text": "예?",
+            "speaker": 0
+        },
+        {
+            "id": "93a2bb5e",
+            "startAt": 57830,
+            "endAt": 60065,
+            "text": "대원 소방대원분 전화번호",
+            "speaker": 1
+        },
+        {
+            "id": "f5fe4a75",
+            "startAt": 58470,
+            "endAt": 60770,
+            "text": "아니 아니요 센터 전화번호",
+            "speaker": 0
+        },
+        {
+            "id": "bf0947ea",
+            "startAt": 61739,
+            "endAt": 66314,
+            "text": "센터 그 개인 전화번호는 받았는데요. 그",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_i85ro97t8lo",
+            "startAt": 66869,
+            "endAt": 73261,
+            "text": "그 센터에 개인 전화번호는 받았는데 혹시 그 동물병원 이름을 좀 알아야 돼서",
+            "speaker": 1
+        },
+        {
+            "id": "04833e6c",
+            "startAt": 73639,
+            "endAt": 80873,
+            "text": "그러니까요, 제가 전화번호 아마 통화하시면 전화 받을 거예요, 물어보시면 돼요. 제가 문자로 보내드리겠습니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j2mtval5jeo",
+            "startAt": 81080,
+            "endAt": 81852,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tor00slsm2g",
+            "startAt": 82316,
+            "endAt": 83744,
+            "text": "[개인정보]",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

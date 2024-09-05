@@ -1,0 +1,110 @@
+{
+    "_id": "64d9fdff3e12da15ae3a5190",
+    "audioPath": "20230814/Incheon/2023/02/05/011/converted_20230205124328_4011-011.wav",
+    "recordId": "7d432ff73bef3e5e1de3",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 32360,
+    "utterances": [
+        {
+            "id": "d53c4719",
+            "startAt": 786,
+            "endAt": 1693,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "a445335f",
+            "startAt": 2021,
+            "endAt": 3469,
+            "text": "음 통화 타이시시죠?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_q3jaot8jthg",
+            "startAt": 3709,
+            "endAt": 4436,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ftok7tnapa",
+            "startAt": 4663,
+            "endAt": 6499,
+            "text": "선생님 뭐 말씀 좀 드여쭤볼게요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vuo9d82ebng",
+            "startAt": 6499,
+            "endAt": 7154,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gm9ss2l4mo",
+            "startAt": 7426,
+            "endAt": 12490,
+            "text": "제가 정선에 의한 정신지체 장애자에요. 장애 상금 복지카드가 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t92gu86cqlo",
+            "startAt": 13126,
+            "endAt": 19407,
+            "text": "근데 저기 뭔말할때 말이 뜨 떨리고 막 불안하고 머리가 아프고, 머리가.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9ittghmqblo",
+            "startAt": 19998,
+            "endAt": 22852,
+            "text": "상당히 아프고 그러거든요, 어떻게 하면 좋을까요?",
+            "speaker": 1
+        },
+        {
+            "id": "44419c81",
+            "startAt": 22849,
+            "endAt": 26203,
+            "text": "네, 의료상담하시는분 연결해드릴게요, 잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dcqnj6snvcg",
+            "startAt": 28933,
+            "endAt": 30133,
+            "text": "예 인천 슴돠.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6cvcsab0v18",
+            "startAt": 30051,
+            "endAt": 31306,
+            "text": "예, 의료상담입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pef5ouk011g",
+            "startAt": 30706,
+            "endAt": 31778,
+            "text": "예 여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ongeqeumtk",
+            "startAt": 32033,
+            "endAt": 32315,
+            "text": "예,여",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

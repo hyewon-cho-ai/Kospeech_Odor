@@ -1,0 +1,103 @@
+{
+    "_id": "64d9fdff3e12da15ae3a50dc",
+    "audioPath": "20230814/Incheon/2023/02/01/017/converted_20230201121831_4017-017.wav",
+    "recordId": "e9cbaaa73c89f96245aa",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 32520.000000000004,
+    "utterances": [
+        {
+            "id": "wavesurfer_ipi74svo2co",
+            "startAt": 433,
+            "endAt": 1578,
+            "text": "119입니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "52fc87b5",
+            "startAt": 2227,
+            "endAt": 2545,
+            "text": "네. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_g15vuh6o05g",
+            "startAt": 2555,
+            "endAt": 3889,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dbqb1udmdno",
+            "startAt": 3889,
+            "endAt": 5311,
+            "text": "어르신 테스트요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_modm9ea8ni",
+            "startAt": 6293,
+            "endAt": 8517,
+            "text": "테스트? 아 잠시만요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_439ismr38ng",
+            "startAt": 8524,
+            "endAt": 9751,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "be730a28",
+            "startAt": 11992,
+            "endAt": 14218,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "191a712b",
+            "startAt": 16054,
+            "endAt": 18512,
+            "text": "예, 맞아요, 예, 그거요? 그리고 연락처 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sfb773m9feg",
+            "startAt": 18523,
+            "endAt": 26007,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gclmq84d41",
+            "startAt": 26414,
+            "endAt": 27805,
+            "text": "예예 맞습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_g9j2fphjl3g",
+            "startAt": 26967,
+            "endAt": 28504,
+            "text": "예 예 맞습니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hs2arnb9ia8",
+            "startAt": 28920,
+            "endAt": 30245,
+            "text": "예. 예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "중립",
+    "symptom": [],
+    "triage": ""
+}

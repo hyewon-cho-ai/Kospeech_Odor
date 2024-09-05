@@ -1,0 +1,173 @@
+{
+    "_id": "64dd752b1ef84058319a8e5a",
+    "audioPath": "20230815/Incheon/2023/02/26/007/converted_20230226090902_4007-007.wav",
+    "recordId": "41ec8e87f67dfc897ba9",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 45960,
+    "utterances": [
+        {
+            "id": "3d5d55f4",
+            "startAt": 596,
+            "endAt": 1747,
+            "text": "네 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lhevvmr4lso",
+            "startAt": 2527,
+            "endAt": 5209,
+            "text": "예, 여기 동춘 초등학교인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_as9na12k7j8",
+            "startAt": 5194,
+            "endAt": 6476,
+            "text": "동춘 초등학교요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_f5ifscq934",
+            "startAt": 6709,
+            "endAt": 9999,
+            "text": "예, 근데 저희가 청소 일을 하고 있는데 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4reuc4akug8",
+            "startAt": 10716,
+            "endAt": 13379,
+            "text": "그 잘못 누른 것 같아요. 그 소화전",
+            "speaker": 1
+        },
+        {
+            "id": "2567505c",
+            "startAt": 12633,
+            "endAt": 13970,
+            "text": "경보기가 울리고 있는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k844r9sdpio",
+            "startAt": 14275,
+            "endAt": 15148,
+            "text": "예예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3cb82fs6q68",
+            "startAt": 15179,
+            "endAt": 17424,
+            "text": "아 학교 관계자는 없는 거죠 지금?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_r584lg4tmmg",
+            "startAt": 17642,
+            "endAt": 21396,
+            "text": "예, 지금 아무도 안 계시고 관계자분이세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_akdimblr0e",
+            "startAt": 19326,
+            "endAt": 20317,
+            "text": "음, 알겠",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_glr2s4jq2e8",
+            "startAt": 21542,
+            "endAt": 22942,
+            "text": "어 아 관계자분 오셨네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_om56kaue1o",
+            "startAt": 23714,
+            "endAt": 25596,
+            "text": "어 이거 하다가 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_00er6j08c1g",
+            "startAt": 26080,
+            "endAt": 29925,
+            "text": "그 다른 나라 사람이 그 말 잘 못 알아듣는 사람이 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_haot7kjvqoo",
+            "startAt": 29967,
+            "endAt": 31657,
+            "text": "거기다 물건 놓다가 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bpnjmf0lij",
+            "startAt": 31697,
+            "endAt": 32579,
+            "text": "던진 거 같아요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ovbcuiqptpg",
+            "startAt": 31776,
+            "endAt": 33757,
+            "text": "그러면은 우선은 한번 보시고",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ohvrlesc0h",
+            "startAt": 34034,
+            "endAt": 36397,
+            "text": "예, 조치가 안되면 다시 한번 신고를 해주시겠어요?",
+            "speaker": 0
+        },
+        {
+            "id": "784877bb",
+            "startAt": 37045,
+            "endAt": 38370,
+            "text": "아 지금은 일단 꺼졌어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gipn63hk1oo",
+            "startAt": 38392,
+            "endAt": 40682,
+            "text": "아 예 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_906bs4c0lv",
+            "startAt": 40724,
+            "endAt": 42178,
+            "text": "네, 죄송합니다. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mj03hs7v4t",
+            "startAt": 41824,
+            "endAt": 42724,
+            "text": "아닙니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_81f52u95aeg",
+            "startAt": 42751,
+            "endAt": 43751,
+            "text": "예, ",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

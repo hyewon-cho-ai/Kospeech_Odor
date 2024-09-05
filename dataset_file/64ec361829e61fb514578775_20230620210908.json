@@ -1,0 +1,180 @@
+{
+    "_id": "64ec361829e61fb514578775",
+    "audioPath": "20230828/Incheon/2023/06/20/004/converted_20230620210908_4004-004.wav",
+    "recordId": "6154f511101e37d41c78",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 71480,
+    "utterances": [
+        {
+            "id": "wavesurfer_6ssf34n6lhg",
+            "startAt": 1527,
+            "endAt": 2454,
+            "text": "119입니다",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8drdt9ibrs8",
+            "startAt": 2609,
+            "endAt": 4418,
+            "text": "네 여보세요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lia3fcdk8lg",
+            "startAt": 4476,
+            "endAt": 11160,
+            "text": "네, 여기 그 부평 인천 부평구 더시티뷰라는 오피스텔인데요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rjt2cphhe58",
+            "startAt": 11285,
+            "endAt": 13503,
+            "text": "부, 그 부평역 근처에 있는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0i2g5qemapo",
+            "startAt": 13616,
+            "endAt": 15307,
+            "text": "네네 바로 옆에요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_93t1e88ansg",
+            "startAt": 15381,
+            "endAt": 18545,
+            "text": "더시티뷰. 잠깐만요 주소 좀 알고계세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6iknpsdcjog",
+            "startAt": 19150,
+            "endAt": 20623,
+            "text": "어 여기가 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hvapfpodggg",
+            "startAt": 20858,
+            "endAt": 21967,
+            "text": "잠시만요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ca9ancus79o",
+            "startAt": 22316,
+            "endAt": 25570,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9phfmhibcd8",
+            "startAt": 25827,
+            "endAt": 27417,
+            "text": "광장로 4번길이요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bapp5r47l3g",
+            "startAt": 27908,
+            "endAt": 28708,
+            "text": "광장로4번,",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kv8k2pg08lg",
+            "startAt": 28759,
+            "endAt": 29441,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8q5vetuimj",
+            "startAt": 29516,
+            "endAt": 31179,
+            "text": "몇 동. 왜 어떤거 때문에 그러세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_15b2nk0prbo",
+            "startAt": 31621,
+            "endAt": 39979,
+            "text": "어 여기 건물에 지금 여기 불났다고 계속 사이렌 올려가지고 저희가 전부 밑에 다 대피해있거든요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mttlnsad85o",
+            "startAt": 39788,
+            "endAt": 43733,
+            "text": "아 지금 어때요? 지금 뭐 화재징후는 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5geku930o1o",
+            "startAt": 44370,
+            "endAt": 48988,
+            "text": "아니, 그건 없는데 그 특정 층에",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7l36mj20ch",
+            "startAt": 48697,
+            "endAt": 49824,
+            "text": "몇 층에요? 몇 층",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ied421c2re8",
+            "startAt": 50377,
+            "endAt": 57031,
+            "text": "그게 12층이랑 11층, 그 라인을 밖에서 보면 전부 다 깜빡깜빡.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ld6ik2p2lo8",
+            "startAt": 57084,
+            "endAt": 64349,
+            "text": "아 저희가 한번 차 한대 가볼게요. 지금 뭐 연기나 뭐 불꽃 이런 건 안보이는다는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kkufmeun33g",
+            "startAt": 64913,
+            "endAt": 66331,
+            "text": "네네네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7529krjaj28",
+            "startAt": 65697,
+            "endAt": 67651,
+            "text": "네 저희 일단 가볼게요. 시티뷰",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_de9ubrunik8",
+            "startAt": 68151,
+            "endAt": 68696,
+            "text": "예",
+            "speaker": 1
+        },
+        {
+            "id": "a0a02968",
+            "startAt": 68633,
+            "endAt": 70557,
+            "text": "네, 저희 갈게요 ",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 부평구 부평동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

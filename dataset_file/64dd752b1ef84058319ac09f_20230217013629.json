@@ -1,0 +1,159 @@
+{
+    "_id": "64dd752b1ef84058319ac09f",
+    "audioPath": "20230815/Incheon/2023/02/17/016/converted_20230217013629_4016-016.wav",
+    "recordId": "ee82d2438f780e985034",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 46960,
+    "utterances": [
+        {
+            "id": "wavesurfer_mipoa2ak7ug",
+            "startAt": 245,
+            "endAt": 1227,
+            "text": "119입니다",
+            "speaker": 0
+        },
+        {
+            "id": "94934ee0",
+            "startAt": 1567,
+            "endAt": 5851,
+            "text": "아 더샵 퍼스트 월드 아파트 방재실 직원인데요. 예.",
+            "speaker": 1
+        },
+        {
+            "id": "f3165a60",
+            "startAt": 6376,
+            "endAt": 9775,
+            "text": "여기 혹시 다가 시나요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o3a4ptcv6j",
+            "startAt": 9854,
+            "endAt": 13853,
+            "text": "아니야 그래서 아 이. 아뗴여",
+            "speaker": 1
+        },
+        {
+            "id": "e08c996c",
+            "startAt": 9892,
+            "endAt": 13929,
+            "text": "근데 지금 전화가 끊겨요. 선 전화가 끊. 여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fmbo04v0sv8",
+            "startAt": 14608,
+            "endAt": 15253,
+            "text": "들리세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9lb1ro1b3to",
+            "startAt": 15208,
+            "endAt": 15962,
+            "text": "예 예",
+            "speaker": 0
+        },
+        {
+            "id": "b0a6f03f",
+            "startAt": 16152,
+            "endAt": 20063,
+            "text": "아 여기 퍼스트 월드 아파트 주변에는 화재 신고 들어온게 있나요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1tqhkvr97vo",
+            "startAt": 20289,
+            "endAt": 22944,
+            "text": "화재 신고요? 지금 화재. 예. 신고 들어온건 없어요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_44ondhh4k28",
+            "startAt": 23298,
+            "endAt": 24380,
+            "text": "아 들어온거 없어요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6orvsc771d",
+            "startAt": 24344,
+            "endAt": 24744,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nm5vel8qt18",
+            "startAt": 25216,
+            "endAt": 29370,
+            "text": "지금 주변에서 거의 창문 열면은 타는 냄새가 좀 많이 나고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_sjuednk1ai8",
+            "startAt": 29770,
+            "endAt": 35034,
+            "text": "아 타는 냄새요? 저희 어 저희 일단 한번 나가서 확인해볼게요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kjabruq707g",
+            "startAt": 30061,
+            "endAt": 32052,
+            "text": "있나해서요. 네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_568vbdk4c8o",
+            "startAt": 35070,
+            "endAt": 36424,
+            "text": "아 예 감사합니다",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ao3g0b2uupg",
+            "startAt": 35179,
+            "endAt": 37661,
+            "text": "그 냄새만 난다는 거죠. 뭐 보이는 건 없고?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_creegckk8j8",
+            "startAt": 37715,
+            "endAt": 40170,
+            "text": "예, 보이는거 없고 일단 냄새가 좀. 음. 심하게 나가지고",
+            "speaker": 1
+        },
+        {
+            "id": "2389d617",
+            "startAt": 40151,
+            "endAt": 43830,
+            "text": "오 그래요. 어 일단. 예, 나가서 확인해볼게요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1jgrl1qp05o",
+            "startAt": 43397,
+            "endAt": 45033,
+            "text": "예, 감사합니다. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_egh1gf1uvsg",
+            "startAt": 44351,
+            "endAt": 44960,
+            "text": "예.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 연수구 송도동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

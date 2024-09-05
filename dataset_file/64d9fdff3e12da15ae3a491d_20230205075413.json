@@ -1,0 +1,327 @@
+{
+    "_id": "64d9fdff3e12da15ae3a491d",
+    "audioPath": "20230814/Incheon/2023/02/05/081/converted_20230205075413_12-081.wav",
+    "recordId": "848fe22d186e3c101655",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 120360,
+    "utterances": [
+        {
+            "id": "6e4adcb6",
+            "startAt": 3,
+            "endAt": 263,
+            "text": "다",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3co7899nej8",
+            "startAt": 936,
+            "endAt": 1654,
+            "text": "여보세요",
+            "speaker": 1
+        },
+        {
+            "id": "0430b2ff",
+            "startAt": 2059,
+            "endAt": 3137,
+            "text": "네, 말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bbqpufoakb8",
+            "startAt": 3909,
+            "endAt": 5073,
+            "text": "삼 잠깐만요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0757elbdgsg",
+            "startAt": 4873,
+            "endAt": 5536,
+            "text": "여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "126ebc77",
+            "startAt": 6359,
+            "endAt": 12877,
+            "text": "아니 여기 원당대로 대 대우아파트. 여기 원당대로인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_81qtodkk6eg",
+            "startAt": 12900,
+            "endAt": 13354,
+            "text": "예, 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jmf2m3hspag",
+            "startAt": 13827,
+            "endAt": 19472,
+            "text": "시동은 켜놓고 이렇게 아까부터 사람이 이렇게 있는데 차 안에.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_435caaqcru",
+            "startAt": 19581,
+            "endAt": 20699,
+            "text": "없는 거 같은데?",
+            "speaker": 1
+        },
+        {
+            "id": "1c2776c1",
+            "startAt": 19615,
+            "endAt": 22148,
+            "text": "차 안에서 뭐 사고 의심이 되는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "b57b8ffe",
+            "startAt": 22674,
+            "endAt": 28176,
+            "text": "예? 1시간 넘게 지금 저, 여기에 이렇게 정류장에 있거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "0f3ceaca",
+            "startAt": 28358,
+            "endAt": 29254,
+            "text": "그 어디죠?",
+            "speaker": 0
+        },
+        {
+            "id": "a2ebed74",
+            "startAt": 30771,
+            "endAt": 33749,
+            "text": "원당대로 저기 대우아파트 담 옆에요.",
+            "speaker": 1
+        },
+        {
+            "id": "4d3b086e",
+            "startAt": 34091,
+            "endAt": 35738,
+            "text": "대우아파트 담 옆에?",
+            "speaker": 0
+        },
+        {
+            "id": "3ee33352",
+            "startAt": 35742,
+            "endAt": 38275,
+            "text": "근데 지금, 지금 차 가는데요. 또.",
+            "speaker": 1
+        },
+        {
+            "id": "53d43f8c",
+            "startAt": 38356,
+            "endAt": 43067,
+            "text": "아 간다고요? 아 이제 간다고요? 뭐 가면은 괜찮은 괜찮은 거겠죠. 뭐.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j5hhl28h0r",
+            "startAt": 40381,
+            "endAt": 41762,
+            "text": "아, 이제 가는데,",
+            "speaker": 1
+        },
+        {
+            "id": "8faeae34",
+            "startAt": 43611,
+            "endAt": 46722,
+            "text": "아니 가는데, 저 사람 이렇게 폼이",
+            "speaker": 1
+        },
+        {
+            "id": "4c19e4c5",
+            "startAt": 46296,
+            "endAt": 47833,
+            "text": "제가 근데 쫓아갈 수가 없는데.",
+            "speaker": 0
+        },
+        {
+            "id": "0303b978",
+            "startAt": 48081,
+            "endAt": 50330,
+            "text": "이분이 아주 헤롱헤롱해요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kh1o2gbtcko",
+            "startAt": 48335,
+            "endAt": 48726,
+            "text": "차는?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_92n9hqos7co",
+            "startAt": 50380,
+            "endAt": 52326,
+            "text": "그 차를 그럼 멈춰놔야죠.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_r3c20q3ajt",
+            "startAt": 52508,
+            "endAt": 54898,
+            "text": "움직이는 차를 저희가 어떻게 갈 수가 없을 텐데요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_12loacdqtdo",
+            "startAt": 55280,
+            "endAt": 57780,
+            "text": "어, 여기서 1시간을 일을 이렇게 보네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_flk1umhnkho",
+            "startAt": 56580,
+            "endAt": 57880,
+            "text": "근데 갔다면서요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_l7bu3e18g98",
+            "startAt": 58226,
+            "endAt": 58635,
+            "text": "예?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_v9utsnc4im8",
+            "startAt": 58753,
+            "endAt": 59771,
+            "text": "근데 갔다면서",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gnjmbb4qst",
+            "startAt": 60135,
+            "endAt": 61962,
+            "text": "그 간 차를 저희가 어떻게 찾아요.",
+            "speaker": 0
+        },
+        {
+            "id": "da92dfc4",
+            "startAt": 62522,
+            "endAt": 66202,
+            "text": "아, 그러네 근데 저 사람 자다 사고 내겠는데 저거?",
+            "speaker": 1
+        },
+        {
+            "id": "6bb78891",
+            "startAt": 66871,
+            "endAt": 70533,
+            "text": "근데 그거 저희가 가는 거까진 저희가 어떻게 잡, 잡을 순 없어요.",
+            "speaker": 0
+        },
+        {
+            "id": "1dd1a53d",
+            "startAt": 70913,
+            "endAt": 73691,
+            "text": "어 그렇죠, 지금 근데 우리가 하도 이게",
+            "speaker": 1
+        },
+        {
+            "id": "6c1209e9",
+            "startAt": 72993,
+            "endAt": 77283,
+            "text": "근데 근데 제가 상식적으로 생각할 때 그분 그냥 자다가 깨서 가는 거 아닌가요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7cr1d2ap4kg",
+            "startAt": 77634,
+            "endAt": 78161,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3vllugjkso",
+            "startAt": 78234,
+            "endAt": 80116,
+            "text": "자다가 깨서 그냥 가는 걸 거 같은데",
+            "speaker": 0
+        },
+        {
+            "id": "f4967d30",
+            "startAt": 79715,
+            "endAt": 87121,
+            "text": "근데 무슨 약 먹은 거 같고, 어디냐면요 원당대에서 저기 소방서 집 있죠? 소방서 새로 난데.",
+            "speaker": 1
+        },
+        {
+            "id": "990a67dd",
+            "startAt": 88047,
+            "endAt": 91053,
+            "text": "근데 움직이는 차를 저희가 찾 찾을 수는 없다고요.",
+            "speaker": 0
+        },
+        {
+            "id": "f64baae5",
+            "startAt": 91122,
+            "endAt": 94804,
+            "text": "아니 아니, 근데 소방서 새로 생긴 데 있죠?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ghbvig8l8n",
+            "startAt": 94906,
+            "endAt": 95343,
+            "text": "예예",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_g3cbkdm8ke8",
+            "startAt": 95706,
+            "endAt": 97888,
+            "text": "예 골로 우회전했어요.",
+            "speaker": 1
+        },
+        {
+            "id": "2d411ca7",
+            "startAt": 98520,
+            "endAt": 101445,
+            "text": "아 그니까 저희가 그걸 어떻게 쫓아갈 수가",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8cr9top676",
+            "startAt": 102506,
+            "endAt": 105551,
+            "text": "허, 아니 그렇게 말씀하시면",
+            "speaker": 0
+        },
+        {
+            "id": "041d2b3f",
+            "startAt": 104513,
+            "endAt": 111281,
+            "text": "알겠어요. 어떻든 아까는 아주 좀 위험한 거 같아서 전화를 했더니 예, 알겠어요.",
+            "speaker": 1
+        },
+        {
+            "id": "cf9d8a33",
+            "startAt": 110820,
+            "endAt": 112600,
+            "text": "예, 감사합니다 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kbl6d9q38co",
+            "startAt": 112615,
+            "endAt": 113224,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

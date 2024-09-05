@@ -1,0 +1,194 @@
+{
+    "_id": "64dd752b1ef84058319a7d81",
+    "audioPath": "20230815/Incheon/2023/02/27/014/converted_20230227175520_4014-014.wav",
+    "recordId": "95f128b147fd73efca19",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 60760,
+    "utterances": [
+        {
+            "id": "32c15211",
+            "startAt": 0,
+            "endAt": 1858,
+            "text": "예 119입니다 여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_g9mne34reg8",
+            "startAt": 2054,
+            "endAt": 3139,
+            "text": "아 안녕하세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t0rec7kj3pg",
+            "startAt": 2823,
+            "endAt": 4139,
+            "text": "네 말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5rk8p2b6a48",
+            "startAt": 4270,
+            "endAt": 9066,
+            "text": "아이 예, 갈산 아이 도시 아 저희가 그 뭐지? 가스가. 예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2j56ftmfctg",
+            "startAt": 9433,
+            "endAt": 13302,
+            "text": "이 불꽃이 계속 튀어서요, 그 밸브도 다 잠궈져 있는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dp57mslbqgo",
+            "startAt": 12259,
+            "endAt": 13966,
+            "text": "아 불꽃이 튀고 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1b5k1o4mo9o",
+            "startAt": 14414,
+            "endAt": 17984,
+            "text": "아 이거 뭐라고 해야 되지 그 따다다다다다다 소리가 계속 그.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2d6dtrsrlpo",
+            "startAt": 17255,
+            "endAt": 21086,
+            "text": "일단은 그 저희가 가서 한번 현장 확인해볼게요. 어차피 가스공사도 나와 나와야 될 거 같고.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_i7h0q46b7uo",
+            "startAt": 21449,
+            "endAt": 22788,
+            "text": "주소지가 어떻게 되세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_t8f7hkb1qio",
+            "startAt": 23057,
+            "endAt": 24673,
+            "text": "갈산동 소망빌라.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_iun77m54euo",
+            "startAt": 24679,
+            "endAt": 26310,
+            "text": "잠 솜 세만이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vjn5e0lsong",
+            "startAt": 27257,
+            "endAt": 27427,
+            "text": "네?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_h4e17h5o0k",
+            "startAt": 27829,
+            "endAt": 30122,
+            "text": "야이 주소 다시 말씀해주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qc9hmje2pag",
+            "startAt": 29863,
+            "endAt": 32663,
+            "text": "갈산 그 인천시 부평구 갈산동.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jr4gv2ccahg",
+            "startAt": 32594,
+            "endAt": 33263,
+            "text": "갈산동.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rs21u9dsb98",
+            "startAt": 33901,
+            "endAt": 37340,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lhs2nmra6t",
+            "startAt": 37329,
+            "endAt": 38783,
+            "text": "소망빌라.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8hde8ridq8",
+            "startAt": 39197,
+            "endAt": 42505,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_h0gfhg04grg",
+            "startAt": 42474,
+            "endAt": 47020,
+            "text": "예, 그 불이 옆으로 나 나는 건 아니고 계속 그냥 빠다다다 전기가 튄다는 말씀하신 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1sru71kr69g",
+            "startAt": 47446,
+            "endAt": 52262,
+            "text": "네, 이게 불꽃 그 들어오는 그건 거 같애요. 도시가스 연락은 해봤는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4q1gqgp8lc8",
+            "startAt": 52585,
+            "endAt": 56701,
+            "text": "아직 연락이 없으셔서 좀 무서워가지고 가스 냄새도 나서.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cphp57teq48",
+            "startAt": 53685,
+            "endAt": 57239,
+            "text": "어 알겠어요. 저희가 나가볼게요. 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j6clrcnjog",
+            "startAt": 57247,
+            "endAt": 58624,
+            "text": "현장 확인해보겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qit2olk175",
+            "startAt": 57524,
+            "endAt": 59824,
+            "text": "네. 감사 감사합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_clh3ok42qog",
+            "startAt": 59339,
+            "endAt": 59962,
+            "text": "예.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 부평구 갈산동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

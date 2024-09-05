@@ -1,0 +1,124 @@
+{
+    "_id": "64d9fdff3e12da15ae3a582d",
+    "audioPath": "20230814/Incheon/2023/02/11/008/converted_20230211171633_4008-008.wav",
+    "recordId": "b966d00f371a986fd7ff",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 51600,
+    "utterances": [
+        {
+            "id": "wavesurfer_c92ph1d1tjg",
+            "startAt": 427,
+            "endAt": 1545,
+            "text": "네, 119 입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_haj6ijh06n8",
+            "startAt": 2364,
+            "endAt": 4527,
+            "text": "예, 그 충남 119인가요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_s91445a3hs8",
+            "startAt": 4482,
+            "endAt": 5682,
+            "text": "아뇨, 인천이요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9mmksikikao",
+            "startAt": 6691,
+            "endAt": 9855,
+            "text": "아, 그럼 충남 119, 구산 119하려면 어떻게 하죠?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jtd4koba4eo",
+            "startAt": 9955,
+            "endAt": 12255,
+            "text": "아, 저희가 그러면 연결해드릴게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fionin4c518",
+            "startAt": 12718,
+            "endAt": 13755,
+            "text": "잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_112lrlqs7o",
+            "startAt": 12727,
+            "endAt": 13218,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7go054c873",
+            "startAt": 39109,
+            "endAt": 40318,
+            "text": "네. 119 입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_favtl7cl7v8",
+            "startAt": 40173,
+            "endAt": 43527,
+            "text": "네, 인천에서 그, 충남쪽에 이관요청하십니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4gjhb50enu8",
+            "startAt": 43527,
+            "endAt": 44406,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_f4oa4sniri8",
+            "startAt": 44392,
+            "endAt": 45225,
+            "text": "들어갔나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9d5sl8870go",
+            "startAt": 45636,
+            "endAt": 46645,
+            "text": "예, 들어왔어요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_a6hegvcs078",
+            "startAt": 46464,
+            "endAt": 47727,
+            "text": "네, 고생하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mqphum5kc7",
+            "startAt": 48091,
+            "endAt": 49764,
+            "text": "네, 신고자분 말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_boafesgasvg",
+            "startAt": 50073,
+            "endAt": 51600,
+            "text": "예 뭐 좀 하나 여쭤볼게요.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "중립",
+    "symptom": [],
+    "triage": ""
+}

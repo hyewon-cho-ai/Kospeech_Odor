@@ -1,0 +1,236 @@
+{
+    "_id": "64d9fdff3e12da15ae3a6781",
+    "audioPath": "20230814/Incheon/2023/02/02/013/converted_20230202092826_4013-013.wav",
+    "recordId": "5d432f23606aa1c9780d",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 71560,
+    "utterances": [
+        {
+            "id": "wavesurfer_f8dffa9cut8",
+            "startAt": 545,
+            "endAt": 2076,
+            "text": "네, 119입니다. 말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_a4vbjm10bug",
+            "startAt": 2418,
+            "endAt": 5643,
+            "text": "다름이 아니고 얼음이 얼어서요? 많이 얼어서.",
+            "speaker": 0
+        },
+        {
+            "id": "22c32270",
+            "startAt": 5859,
+            "endAt": 8440,
+            "text": "비 떨어지면 밑에 집에 파손이 갈까봐.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jj46aruofko",
+            "startAt": 8530,
+            "endAt": 9821,
+            "text": "고드름이에요, 고드름?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_f5hvqq9aho",
+            "startAt": 9861,
+            "endAt": 11025,
+            "text": "예, 예, 예.예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6dv1vbdbtb",
+            "startAt": 11114,
+            "endAt": 12114,
+            "text": "주소 불러주시겠어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mkekfvg101o",
+            "startAt": 12894,
+            "endAt": 16221,
+            "text": "여기, 저 미추홀구.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3oadac7fjjo",
+            "startAt": 17214,
+            "endAt": 19241,
+            "text": "어 268번길",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_phdg1jl5hs",
+            "startAt": 19290,
+            "endAt": 20254,
+            "text": "무슨 길인데요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0ngmvbqtkq",
+            "startAt": 20944,
+            "endAt": 22399,
+            "text": "저, 경인로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7p0trrvnlig",
+            "startAt": 22533,
+            "endAt": 23379,
+            "text": "경인로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9i4vdriimbg",
+            "startAt": 23875,
+            "endAt": 26048,
+            "text": "268번길.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cs3rsasvb2o",
+            "startAt": 27686,
+            "endAt": 29904,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mrgdiemt11",
+            "startAt": 30098,
+            "endAt": 31689,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_egpkuit8g4",
+            "startAt": 32078,
+            "endAt": 32697,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_apj5mabbb18",
+            "startAt": 32733,
+            "endAt": 34306,
+            "text": "아, 이거 이름뭐예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_q4mrbpnhc5o",
+            "startAt": 34631,
+            "endAt": 36894,
+            "text": "한서 저, 베스트빌.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vks11t77fd8",
+            "startAt": 37074,
+            "endAt": 38284,
+            "text": "한서 베스트빌.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_p173bi5n1n8",
+            "startAt": 39442,
+            "endAt": 40569,
+            "text": "어.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_n8u6u7kkk58",
+            "startAt": 40914,
+            "endAt": 43432,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ea04g0f4au",
+            "startAt": 43431,
+            "endAt": 45240,
+            "text": "그, 고드름 몇층 매 달려 있는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tmlicihep8g",
+            "startAt": 45938,
+            "endAt": 46638,
+            "text": "2층에.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ojb35dvq4qg",
+            "startAt": 47676,
+            "endAt": 48421,
+            "text": "2층에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_am9qpuetb48",
+            "startAt": 48859,
+            "endAt": 49487,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vel25levt18",
+            "startAt": 51001,
+            "endAt": 56775,
+            "text": "2층, 네, 알겠어요, 저희가 가면서 전화드릴께요, 지금 매달려있는 데가 어디에요,  뭐 실외기 같은데에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_isa0csirnro",
+            "startAt": 53506,
+            "endAt": 54843,
+            "text": "이게 위험해 보이는데 이게",
+            "speaker": 1
+        },
+        {
+            "id": "616c2bcb",
+            "startAt": 57546,
+            "endAt": 62366,
+            "text": "아 예 저 그 그렇지 그 저 뭐야? 베란다, 난간 그쪽에 이렇게 쫙 붙어있어요, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cgm8s495768",
+            "startAt": 62904,
+            "endAt": 63886,
+            "text": "아.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_v2ftk5qeavg",
+            "startAt": 64068,
+            "endAt": 65795,
+            "text": "높게, 높으게. 많이.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_le2gsrjc508",
+            "startAt": 65986,
+            "endAt": 68804,
+            "text": "네, 알겠습니다. 저희 차 가면서 전화드릴께요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_e9nt8gnaaco",
+            "startAt": 69058,
+            "endAt": 70186,
+            "text": "네, 예, 예.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

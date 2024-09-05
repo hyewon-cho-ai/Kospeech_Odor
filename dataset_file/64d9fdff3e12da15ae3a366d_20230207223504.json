@@ -1,0 +1,215 @@
+{
+    "_id": "64d9fdff3e12da15ae3a366d",
+    "audioPath": "20230814/Incheon/2023/02/07/014/converted_20230207223504_4014-014.wav",
+    "recordId": "1697c656898dabc44077",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 61200,
+    "utterances": [
+        {
+            "id": "wavesurfer_4ecq61hi4gg",
+            "startAt": 18,
+            "endAt": 1236,
+            "text": "예 119 입니다. 여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ad3ra3jiuto",
+            "startAt": 545,
+            "endAt": 1236,
+            "text": "예, 여기왔",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ntj2r7rg0v8",
+            "startAt": 1200,
+            "endAt": 2318,
+            "text": "지금 부르고 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hqmnhh8p5j8",
+            "startAt": 2500,
+            "endAt": 3755,
+            "text": "예 무슨 일이에요. 어머니?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7jf506ha7c",
+            "startAt": 3891,
+            "endAt": 4945,
+            "text": "예, 아, 요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gouckq4ves",
+            "startAt": 5927,
+            "endAt": 7327,
+            "text": "말씀하세요. 무슨 일이에요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_on6f1visduo",
+            "startAt": 8808,
+            "endAt": 10508,
+            "text": "아, 지금 어머니가",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7bkhtshi1d8",
+            "startAt": 9971,
+            "endAt": 10916,
+            "text": "예, 어머니가",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sd8a8e7add8",
+            "startAt": 11413,
+            "endAt": 13440,
+            "text": "에, 집에 왔는데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ac9ri5akrpo",
+            "startAt": 13961,
+            "endAt": 17679,
+            "text": "에, 저 지금 꼼짝을 못해서 지금 119를 불렀는거든요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vv12t7o2qs",
+            "startAt": 16672,
+            "endAt": 18635,
+            "text": "아, 어머니가 꼼짝을 꼼짝을 못한다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_so3it2btplo",
+            "startAt": 19081,
+            "endAt": 21944,
+            "text": "예, 예, 예, 지금, 몸을, 몸을 지금, 예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rge0ljm1jh",
+            "startAt": 19586,
+            "endAt": 20640,
+            "text": "예, 잠깐만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o9a4vs4utk8",
+            "startAt": 21563,
+            "endAt": 23426,
+            "text": "음, 그 저기, 집이 어디예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vq0v3gcjev8",
+            "startAt": 24045,
+            "endAt": 26891,
+            "text": "예, 저기, 여기요, 마장로",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5ol4k9fvqi",
+            "startAt": 26946,
+            "endAt": 28056,
+            "text": "마장로",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7dombltldj8",
+            "startAt": 28832,
+            "endAt": 29351,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qorg31mo96g",
+            "startAt": 29693,
+            "endAt": 36303,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6red3dplgrg",
+            "startAt": 37235,
+            "endAt": 39635,
+            "text": "삼곡성당 바로 앞이에요. 삼곡성당 앞이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u8rg8g92m7",
+            "startAt": 39083,
+            "endAt": 39619,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7m34vemrrvg",
+            "startAt": 40712,
+            "endAt": 43384,
+            "text": "어머니, 어머니, 주소 좀 다시 한번, 삼곡성당으로 찍혀, 마장",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jq9haasj3k",
+            "startAt": 43355,
+            "endAt": 44831,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_b4lsft3tj68",
+            "startAt": 45266,
+            "endAt": 46074,
+            "text": "거기 아니라",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_leu4tm09vu8",
+            "startAt": 48441,
+            "endAt": 50496,
+            "text": "옛날 주소 같아, 옛날 주소, 옛날 주소",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2su1jiqnqc",
+            "startAt": 54325,
+            "endAt": 56680,
+            "text": "잠깐만 다시 좀, 연락 드릴게요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fgnkj0aug6g",
+            "startAt": 56707,
+            "endAt": 57471,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4em954bvtq8",
+            "startAt": 57407,
+            "endAt": 58553,
+            "text": "어머니가 아니시래요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_u45aen8iks",
+            "startAt": 58534,
+            "endAt": 59762,
+            "text": "알겠어요.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

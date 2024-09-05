@@ -1,0 +1,215 @@
+{
+    "_id": "64ec27f62be6ffc66cc6bb2d",
+    "audioPath": "20230827/Incheon/2023/06/24/003/converted_20230624001500_4003-003.wav",
+    "recordId": "bba8cf925b6fc072fc31",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 65239.99999999999,
+    "utterances": [
+        {
+            "id": "wavesurfer_meapju2lsp8",
+            "startAt": 0,
+            "endAt": 1255,
+            "text": "119입니다. 여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_m53vs2jga8g",
+            "startAt": 1246,
+            "endAt": 2518,
+            "text": "아 여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9pqqt6afi18",
+            "startAt": 2191,
+            "endAt": 3191,
+            "text": "네, 무슨 일이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_62mjr7pu4k",
+            "startAt": 3355,
+            "endAt": 5473,
+            "text": "아 저기 배달 하다가",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_07qshviqp4o",
+            "startAt": 5937,
+            "endAt": 8919,
+            "text": "저기 원당에 7587 군부대 혹시 아세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_va5l35t7f2o",
+            "startAt": 9101,
+            "endAt": 9673,
+            "text": "아니요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ubvio4o3i7o",
+            "startAt": 10264,
+            "endAt": 12501,
+            "text": "거기 보면 그 앞에 보면은 이게",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3hc8ga2psd8",
+            "startAt": 13146,
+            "endAt": 19565,
+            "text": "이게 재활용 수집하는 데 있거든, 거기서 계속 매캐한 냄새 연기가 계속 올라와요, 뭐 불은 안 보이는데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gvi21kk7sto",
+            "startAt": 18165,
+            "endAt": 22238,
+            "text": "수집하는 곳에. 네. 매캐한 연기가 있다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mkgq4n9qhqo",
+            "startAt": 20247,
+            "endAt": 23683,
+            "text": "예. 네 매캐한 네. 계속 올라와요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gaoemo7as5",
+            "startAt": 22856,
+            "endAt": 24129,
+            "text": "선생님. 선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lm60qd1qnv",
+            "startAt": 24638,
+            "endAt": 25101,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ilouet4q5kg",
+            "startAt": 24801,
+            "endAt": 26629,
+            "text": "거기가 지금 지번이 어떻게 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j2a4ag6jcqo",
+            "startAt": 27447,
+            "endAt": 31838,
+            "text": "아 지번은 모르겠고 군부대인데 7587거 근방에",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_r4o73adbla8",
+            "startAt": 30856,
+            "endAt": 35466,
+            "text": "7587군부대가 지금 검색이 안돼요. 선생님. 뭐 그 근처에 그 특별한 가게나 뭐가 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ucdrupbvar8",
+            "startAt": 35029,
+            "endAt": 38548,
+            "text": "네. 잠깐만요. 잠깐만요. 대, 대게가",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_g7aumlvsc5g",
+            "startAt": 38848,
+            "endAt": 40193,
+            "text": "원당 대게가",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_51n1dda0uu",
+            "startAt": 38911,
+            "endAt": 41175,
+            "text": "대, 대게가",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9tjarjdq17o",
+            "startAt": 41439,
+            "endAt": 43130,
+            "text": "그 꽃게할 때 그 게예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nig1jdqh4ao",
+            "startAt": 43039,
+            "endAt": 44148,
+            "text": "꽃게. 그쵸 그쵸",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_msg3d2edupo",
+            "startAt": 44130,
+            "endAt": 45648,
+            "text": "네. 대게가. 아",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_a4ij5daa63",
+            "startAt": 44530,
+            "endAt": 47630,
+            "text": "꽃게가 저 바로 뒤에 있는 거거든요? 재활용.",
+            "speaker": 1
+        },
+        {
+            "id": "36277e8d",
+            "startAt": 46539,
+            "endAt": 49939,
+            "text": "대게가 그 수집 쪽에? 아 그 인근에 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_n9snhe7o3sg",
+            "startAt": 50330,
+            "endAt": 50748,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "6c8384ab",
+            "startAt": 51199,
+            "endAt": 56626,
+            "text": "알겠습니다. 지금 네, 아 잠깐만 대게가 근처.",
+            "speaker": 0
+        },
+        {
+            "id": "2f601dcf",
+            "startAt": 57143,
+            "endAt": 59509,
+            "text": "네네, 그 매연이 계속 올라와요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k2gjrgaf0b",
+            "startAt": 57740,
+            "endAt": 62167,
+            "text": "알겠습니다. 아 예. 가서 볼게요. 출동 중입니다. 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7c8e1gss53",
+            "startAt": 61294,
+            "endAt": 63058,
+            "text": "네네. 네네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 서구 원당동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

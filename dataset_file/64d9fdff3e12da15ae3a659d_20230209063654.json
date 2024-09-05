@@ -1,0 +1,201 @@
+{
+    "_id": "64d9fdff3e12da15ae3a659d",
+    "audioPath": "20230814/Incheon/2023/02/09/080/converted_20230209063654_11-080.wav",
+    "recordId": "a71b49f7bbc2eca7d0f0",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 75200,
+    "utterances": [
+        {
+            "id": "wavesurfer_e89q37rk8bo",
+            "startAt": 0,
+            "endAt": 912,
+            "text": "119입니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1o6opcm7ef8",
+            "startAt": 1263,
+            "endAt": 3612,
+            "text": "아 네 수고하십니다. 지금 그.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6mj7fe8ukoo",
+            "startAt": 2500,
+            "endAt": 3813,
+            "text": "네네 말씀 좀 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sd5lim1n1m8",
+            "startAt": 3925,
+            "endAt": 6737,
+            "text": "네 그 큰일은 아닌데,",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_iout10d1598",
+            "startAt": 6638,
+            "endAt": 7262,
+            "text": "예예예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_op50mpjpe1",
+            "startAt": 7405,
+            "endAt": 11142,
+            "text": "지금 응급실 좀 아내를 데리고 가려고 그러는데,",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_456a9ojmlo8",
+            "startAt": 10742,
+            "endAt": 12067,
+            "text": "예 아내가 아프세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ruce8s9se3o",
+            "startAt": 12572,
+            "endAt": 16647,
+            "text": "예 코로나 일 코로나 양성 판정을 받았어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_60dvv7cvg2g",
+            "startAt": 16385,
+            "endAt": 17047,
+            "text": "어디서요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_68gu7eq53so",
+            "startAt": 18443,
+            "endAt": 20768,
+            "text": "아 일단 받아서 지금 격리중이예요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lk9a6nihfj8",
+            "startAt": 20505,
+            "endAt": 21968,
+            "text": "아 격리중이고 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_09u3uekuc38",
+            "startAt": 22373,
+            "endAt": 24885,
+            "text": "예 근데 지금 몸이 좀 많이 안 좋아서,",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7ptnop3f8l",
+            "startAt": 25005,
+            "endAt": 25918,
+            "text": "예예예예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_q70bdvasv98",
+            "startAt": 25462,
+            "endAt": 34112,
+            "text": "그 응급실을 좀 한번 가보려고 그러는데, 그 응급실에 전화를 하니깐, 일단 여기 119쪽에다가 신고를 하고 가야 된다 그러더라구요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_md671gf1478",
+            "startAt": 33637,
+            "endAt": 35950,
+            "text": "아 이 그런거 아니예요 선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ip5h06mohg",
+            "startAt": 36580,
+            "endAt": 39080,
+            "text": "아 신고 네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_so88229otio",
+            "startAt": 37308,
+            "endAt": 46458,
+            "text": "선생님이 자가로 가실 수 있으면 자가로 가는거고 못 가시면 저희 구급차로 해서 병원 가는거예요. 자가로 가실수 있나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_p41cptckbg8",
+            "startAt": 47287,
+            "endAt": 49837,
+            "text": "예 바로 앞이라서 갈 수 있을거 같아요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_anc3k089oao",
+            "startAt": 48398,
+            "endAt": 52073,
+            "text": "아 예 그럼 병원 안내를 해 드릴게요. 선생님 그럼 방화동에 계세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rsgo91vmf18",
+            "startAt": 52875,
+            "endAt": 55438,
+            "text": "아 차병원으로 지금 갈려고 그러거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cl7b9pmrttg",
+            "startAt": 54948,
+            "endAt": 55973,
+            "text": "아 그래요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gk4re2u381o",
+            "startAt": 56400,
+            "endAt": 56950,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cmja7fsjjng",
+            "startAt": 56900,
+            "endAt": 60075,
+            "text": "잠시만요 혹시 모르니깐 저희 담당자 한번 연결해 드릴게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_oa00oh2uq4",
+            "startAt": 64495,
+            "endAt": 65208,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vi3futgupu8",
+            "startAt": 65045,
+            "endAt": 66770,
+            "text": "네 확진자 병원 안내입니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_l48bubhckp",
+            "startAt": 66570,
+            "endAt": 67295,
+            "text": "네 여보세요.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

@@ -1,0 +1,285 @@
+{
+    "_id": "64d9fdff3e12da15ae3a4564",
+    "audioPath": "20230814/Incheon/2023/02/02/005/converted_20230202085424_4005-005.wav",
+    "recordId": "ea96e8234e81c51903ee",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 102120,
+    "utterances": [
+        {
+            "id": "274dbab0",
+            "startAt": 1670,
+            "endAt": 2450,
+            "text": "네 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sur1hmhs59g",
+            "startAt": 2946,
+            "endAt": 9582,
+            "text": "여보세요, 여기 저기 벨, 여기 부평인데요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_921i8uugcig",
+            "startAt": 9482,
+            "endAt": 10264,
+            "text": "네네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ibej8onn2sg",
+            "startAt": 9755,
+            "endAt": 15373,
+            "text": "부평4동 예 부평4동 부흥북로.",
+            "speaker": 1
+        },
+        {
+            "id": "8e33d561",
+            "startAt": 15373,
+            "endAt": 16376,
+            "text": "부흥북로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_d1n2ip30l2",
+            "startAt": 16691,
+            "endAt": 18209,
+            "text": "58번길",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hu46q0cnc1g",
+            "startAt": 18182,
+            "endAt": 19391,
+            "text": "58번길",
+            "speaker": 0
+        },
+        {
+            "id": "f3dfbd16",
+            "startAt": 20380,
+            "endAt": 21596,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kl8g31p8chg",
+            "startAt": 21673,
+            "endAt": 22428,
+            "text": "예",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_casm5158vvg",
+            "startAt": 22955,
+            "endAt": 24500,
+            "text": "더뷰 스테이트",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nb32m81ukn",
+            "startAt": 24599,
+            "endAt": 26272,
+            "text": "더뷰 스테이트.",
+            "speaker": 0
+        },
+        {
+            "id": "d74a6637",
+            "startAt": 26365,
+            "endAt": 28438,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "e6d68964",
+            "startAt": 28983,
+            "endAt": 30821,
+            "text": "예, 근데 여기 넘쳐가지구",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p2vur16h8og",
+            "startAt": 31164,
+            "endAt": 31946,
+            "text": "뭐가 넘쳐요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7nprebvar8o",
+            "startAt": 31301,
+            "endAt": 34192,
+            "text": "연기가 나가지고 여기 벨이 울렸는데 이거",
+            "speaker": 1
+        },
+        {
+            "id": "008c272e",
+            "startAt": 34213,
+            "endAt": 37193,
+            "text": "저번에도 한 번 옛날에도 한 번 그랬는데 또 그러네 이거.",
+            "speaker": 1
+        },
+        {
+            "id": "31ac994f",
+            "startAt": 37385,
+            "endAt": 39435,
+            "text": "아니, 그니까 뭐 뭐가 연기가 난 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_p2btgutnu3o",
+            "startAt": 39792,
+            "endAt": 44510,
+            "text": "연기가 났어요. 여기 국이 넘쳐가지고 연기가 나니까 아니",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kks0t85o6rg",
+            "startAt": 43919,
+            "endAt": 44374,
+            "text": " 물?",
+            "speaker": 0
+        },
+        {
+            "id": "eaa5fbf0",
+            "startAt": 45737,
+            "endAt": 54911,
+            "text": "여 불이 아니 그게 국이 넘쳐가지고 연기가 불에 연기가 나니까 예, 이거 이거 저거 아니니까 출동하지 마세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kn9gn47pqtg",
+            "startAt": 49528,
+            "endAt": 51419,
+            "text": "국, 국이 넘쳤다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "7977fde8",
+            "startAt": 54879,
+            "endAt": 58077,
+            "text": "아예, 알겠어요, 그거 환기 시켜놓으세요 그럼 꺼져요",
+            "speaker": 0
+        },
+        {
+            "id": "c2a3bfcc",
+            "startAt": 57480,
+            "endAt": 59882,
+            "text": "환기시켰고, 아니에요. 아니에요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_v66cvsmfiko",
+            "startAt": 60728,
+            "endAt": 61556,
+            "text": "여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fcp0sjmrp1o",
+            "startAt": 61810,
+            "endAt": 62565,
+            "text": "예, 예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_v8591sb8408",
+            "startAt": 62628,
+            "endAt": 64256,
+            "text": "환기 시켜놓으시라구요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6e6bupb8obo",
+            "startAt": 64265,
+            "endAt": 65720,
+            "text": "환기 시켰어요 지금",
+            "speaker": 1
+        },
+        {
+            "id": "32014b50",
+            "startAt": 65824,
+            "endAt": 71400,
+            "text": "아 그니까 그 지금 거기 계속 소리 들어오는 거 꺼야 되는 거 아니에요? ",
+            "speaker": 0
+        },
+        {
+            "id": "7e7c0fd3",
+            "startAt": 71498,
+            "endAt": 72424,
+            "text": "꺼야 돼요.",
+            "speaker": 1
+        },
+        {
+            "id": "a5587ffc",
+            "startAt": 72590,
+            "endAt": 74817,
+            "text": "그때도 알아서 제가 껐는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a2efmchlc38",
+            "startAt": 75010,
+            "endAt": 77401,
+            "text": "아 그니까 와 달라는 거예요, 무슨 말이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "441ba620",
+            "startAt": 78110,
+            "endAt": 82495,
+            "text": "아니, 이거 오셔가지고 이, 1층에서 끄셔야 될 걸요 이거? 벨 울리는 거?",
+            "speaker": 1
+        },
+        {
+            "id": "c3488d2b",
+            "startAt": 82171,
+            "endAt": 84132,
+            "text": "와 달라고 얘기를 해야죠, 그러니까 ",
+            "speaker": 0
+        },
+        {
+            "id": "fa3fcf64",
+            "startAt": 84314,
+            "endAt": 87655,
+            "text": "그거 소방차는 출발하지 마시고, 그때 그",
+            "speaker": 1
+        },
+        {
+            "id": "2b3ba237",
+            "startAt": 86855,
+            "endAt": 91938,
+            "text": "소방차는 출발하지 말고 꺼 달라는 거면 그럼 누가 꺼요 그러면 소방차 출동 출동을 안 하면.",
+            "speaker": 0
+        },
+        {
+            "id": "265decdf",
+            "startAt": 93157,
+            "endAt": 98857,
+            "text": "아 모르겠는데 그때 그 오셔가지고 한번 끄셨는데 그때도 한번 한시간 다 됐는데.",
+            "speaker": 1
+        },
+        {
+            "id": "dc219eb6",
+            "startAt": 99172,
+            "endAt": 100150,
+            "text": "네 알겠어요",
+            "speaker": 0
+        },
+        {
+            "id": "8951e210",
+            "startAt": 99518,
+            "endAt": 101537,
+            "text": "끄는 사람이, 예예",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 부평구 부평동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "기타부정",
+    "symptom": [],
+    "triage": ""
+}

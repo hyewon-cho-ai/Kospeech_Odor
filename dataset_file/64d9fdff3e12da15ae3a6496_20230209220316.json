@@ -1,0 +1,229 @@
+{
+    "_id": "64d9fdff3e12da15ae3a6496",
+    "audioPath": "20230814/Incheon/2023/02/09/019/converted_20230209220316_4019-019.wav",
+    "recordId": "b0d8230b818f2eaa7c2f",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 79960,
+    "utterances": [
+        {
+            "id": "wavesurfer_l1alob9r3c8",
+            "startAt": 818,
+            "endAt": 1909,
+            "text": "네 구급상황입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_322mffq0oso",
+            "startAt": 1509,
+            "endAt": 2854,
+            "text": "네. 약국안내 바랍니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_m1hls0b6ffo",
+            "startAt": 2536,
+            "endAt": 3309,
+            "text": "네. 여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ve11fgdhp2",
+            "startAt": 3273,
+            "endAt": 5018,
+            "text": "아, 네. 안녕하세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_h4idrcpuggg",
+            "startAt": 5027,
+            "endAt": 7272,
+            "text": "계양구 쪽에 약국 안내해드리면 될까요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ejaos376v88",
+            "startAt": 6872,
+            "endAt": 7281,
+            "text": "아니요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qoot567ol58",
+            "startAt": 7354,
+            "endAt": 12372,
+            "text": "계, 계양구가 아니구요. 그 양산시요. 경상남도 양산시에",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lujkj85dho",
+            "startAt": 9081,
+            "endAt": 9518,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_l7067roatk",
+            "startAt": 12499,
+            "endAt": 13199,
+            "text": "양산이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1p3u8421ja",
+            "startAt": 13708,
+            "endAt": 14281,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_00qlmgtb9g",
+            "startAt": 14754,
+            "endAt": 15481,
+            "text": "잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ffta5qog6k",
+            "startAt": 15781,
+            "endAt": 17317,
+            "text": "거 혹시, 뭐 부모님이 계시나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_179vhp1of5g",
+            "startAt": 18026,
+            "endAt": 24490,
+            "text": "아, 네. 아 지인이 지금 아픈데 약국을 가야되는데 못 찾고 있어 가지고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_asgroighnqg",
+            "startAt": 25281,
+            "endAt": 27471,
+            "text": "경상남도 나 양산시에요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qa0su67796o",
+            "startAt": 27999,
+            "endAt": 32644,
+            "text": "아, 저희가 그 분 경상남도 소방으로 저희 연결해드릴게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k8ilsjoarvo",
+            "startAt": 32971,
+            "endAt": 35389,
+            "text": "아, 또 다른가요? 네. 죄송합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6lug52tjat",
+            "startAt": 34471,
+            "endAt": 36817,
+            "text": "예, 예, 예. 잠시만요. 끊지 마세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jtcik402fbg",
+            "startAt": 37307,
+            "endAt": 37898,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fq4abaapm",
+            "startAt": 39171,
+            "endAt": 41234,
+            "text": "경, 양산시라고 하셨죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_cns5q22j8i",
+            "startAt": 41471,
+            "endAt": 43416,
+            "text": "네. 경상남도 양산시요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_daa09ou9sf",
+            "startAt": 42653,
+            "endAt": 44143,
+            "text": "예, 예. 잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_a80lpemq0no",
+            "startAt": 44553,
+            "endAt": 44834,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_j68dqggb6a",
+            "startAt": 60761,
+            "endAt": 62452,
+            "text": "네 119, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_005q35pkhc",
+            "startAt": 61743,
+            "endAt": 64643,
+            "text": "예, 예. 수고하십니다. 여기 인천 119인데요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_v8qtthqtrmo",
+            "startAt": 65161,
+            "endAt": 65915,
+            "text": "인천? 예",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nlfst3m3j7o",
+            "startAt": 65915,
+            "endAt": 71869,
+            "text": "예, 여기 양산시 약국 좀 안내해달라고 저희 이분이 연락이 와가지고 선생님 말씀해보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5g5dplm1ro",
+            "startAt": 72451,
+            "endAt": 74106,
+            "text": "아, 네. 안녕하세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t12ppsh1hg8",
+            "startAt": 74378,
+            "endAt": 74897,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nibfdsdjl68",
+            "startAt": 74824,
+            "endAt": 78896,
+            "text": "혹시 양산시에 24시간 약국 하는 데가 있나요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_r8dhq7cgnao",
+            "startAt": 78560,
+            "endAt": 79960,
+            "text": "아, 저 구급센터로",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

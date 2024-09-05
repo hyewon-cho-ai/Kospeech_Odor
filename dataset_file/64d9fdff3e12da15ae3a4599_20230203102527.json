@@ -1,0 +1,96 @@
+{
+    "_id": "64d9fdff3e12da15ae3a4599",
+    "audioPath": "20230814/Incheon/2023/02/03/016/converted_20230203102527_4016-016.wav",
+    "recordId": "57a2ceb56c46bafc5b11",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 39720,
+    "utterances": [
+        {
+            "id": "b49286d9",
+            "startAt": 516,
+            "endAt": 1606,
+            "text": "아 네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5hhgkdss418",
+            "startAt": 3166,
+            "endAt": 4216,
+            "text": "네, 여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kp2l5bffiig",
+            "startAt": 4833,
+            "endAt": 5449,
+            "text": "여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_a2asbdb7m0g",
+            "startAt": 6732,
+            "endAt": 7499,
+            "text": "아이 그냥.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4ihtv976cu",
+            "startAt": 8782,
+            "endAt": 9299,
+            "text": "여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "7ce3dfdd",
+            "startAt": 12719,
+            "endAt": 13602,
+            "text": "여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "fb9fef8e",
+            "startAt": 18670,
+            "endAt": 19579,
+            "text": "여보세요,",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_29dr1j6r468",
+            "startAt": 22097,
+            "endAt": 23064,
+            "text": "여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kvjea8ht49g",
+            "startAt": 24205,
+            "endAt": 29446,
+            "text": "수 쓴다고. 뭐가 아직 수송하고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kqpl89gsmpo",
+            "startAt": 30360,
+            "endAt": 33285,
+            "text": "선생님, 무슨 소리인지 못 알아듣겠어요, 여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ditf1muugao",
+            "startAt": 35434,
+            "endAt": 36101,
+            "text": "알았다.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "기타부정",
+    "symptom": [],
+    "triage": ""
+}

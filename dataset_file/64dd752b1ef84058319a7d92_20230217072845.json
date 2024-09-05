@@ -1,0 +1,152 @@
+{
+    "_id": "64dd752b1ef84058319a7d92",
+    "audioPath": "20230815/Incheon/2023/02/17/016/converted_20230217072845_4016-016.wav",
+    "recordId": "d148441da35a99f853e2",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 49840,
+    "utterances": [
+        {
+            "id": "wavesurfer_pjbmv71pndg",
+            "startAt": 5473,
+            "endAt": 6400,
+            "text": "여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_28mfd16a3vo",
+            "startAt": 6019,
+            "endAt": 7419,
+            "text": "아 선생님 119예요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_i1ea57ael7o",
+            "startAt": 7564,
+            "endAt": 8182,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_330tmdb3jhg",
+            "startAt": 8055,
+            "endAt": 12474,
+            "text": "어 저희 아드님 전화번호 같은 것 좀 알 수 있을까요? 저희 일단 도착은 했거든요, 인근에.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nnjm8qnkmc8",
+            "startAt": 12674,
+            "endAt": 18120,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ng1qsciagug",
+            "startAt": 18092,
+            "endAt": 20747,
+            "text": "뭐 다른 정보는 없어요? 선생님 혹시?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6q6c8rmg3n8",
+            "startAt": 21320,
+            "endAt": 23529,
+            "text": "네 없어요, 그냥 거기.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1ueru2h540o",
+            "startAt": 23511,
+            "endAt": 26966,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b44g6knehf8",
+            "startAt": 26938,
+            "endAt": 30029,
+            "text": "여기 뭐 지하가 몇 층까지 있는지 좀 알 수 있나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_430j9gs0k78",
+            "startAt": 30002,
+            "endAt": 31775,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2dk2q92tfmo",
+            "startAt": 31720,
+            "endAt": 34393,
+            "text": "아 주차장이 지하 4층까지 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c6v7r9l3ri",
+            "startAt": 34366,
+            "endAt": 35266,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_59d0lc8ooq",
+            "startAt": 35221,
+            "endAt": 36339,
+            "text": "지하 1층부터?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_us6qauejtsg",
+            "startAt": 36684,
+            "endAt": 37248,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ieb7d7c3du",
+            "startAt": 37166,
+            "endAt": 39848,
+            "text": "응 몇 층인지도 모르는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9620omhvreg",
+            "startAt": 39848,
+            "endAt": 42512,
+            "text": "네 저희는 지금 일산에 살고 있고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_c4cjmtgmb58",
+            "startAt": 44203,
+            "endAt": 46449,
+            "text": "일단 예 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_oe85nlgqu58",
+            "startAt": 47194,
+            "endAt": 47922,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f345nd42qj",
+            "startAt": 48549,
+            "endAt": 49831,
+            "text": "선생님 그 인상 착의 같은.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

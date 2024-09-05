@@ -1,0 +1,229 @@
+{
+    "_id": "64dd752b1ef84058319a8fb1",
+    "audioPath": "20230815/Incheon/2023/02/18/074/converted_20230218213233_5-074.wav",
+    "recordId": "8f181209b0a7ca08de9d",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 58000,
+    "utterances": [
+        {
+            "id": "e9a7a1bb",
+            "startAt": 1650,
+            "endAt": 2490,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9li0e5nvjro",
+            "startAt": 3389,
+            "endAt": 6762,
+            "text": "여기 그 부평구 열우물로 신명 오피스텔이거든요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_an67ftfjlso",
+            "startAt": 5560,
+            "endAt": 6678,
+            "text": "열우물로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1uv44bhcfk8",
+            "startAt": 7022,
+            "endAt": 8204,
+            "text": "네, 신명 오피스텔이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_km483vvl68o",
+            "startAt": 8200,
+            "endAt": 9891,
+            "text": "열우물로 몇 번지예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_edg1jcld3qg",
+            "startAt": 10425,
+            "endAt": 10780,
+            "text": "몇 번.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8v1uu8im7",
+            "startAt": 11964,
+            "endAt": 13182,
+            "text": "제가 무, 잠시만요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_38rrcn98mk8",
+            "startAt": 14709,
+            "endAt": 15410,
+            "text": "열우물로",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gtc8gv8rmcg",
+            "startAt": 15400,
+            "endAt": 16782,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_h4mpmg81bog",
+            "startAt": 16936,
+            "endAt": 17591,
+            "text": "열우물로",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_onluec1v45g",
+            "startAt": 17573,
+            "endAt": 18873,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rhaaujp4gqo",
+            "startAt": 19482,
+            "endAt": 20991,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cf5npiqa5l",
+            "startAt": 21486,
+            "endAt": 23767,
+            "text": "25번길 오피스텔인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_078630c8c2o",
+            "startAt": 23586,
+            "endAt": 25113,
+            "text": "예? 25번길이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o2c1eh86eo",
+            "startAt": 25571,
+            "endAt": 26080,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4uq0njfo7co",
+            "startAt": 26491,
+            "endAt": 28064,
+            "text": "25번길은 뭐예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_e9h9hu1f36o",
+            "startAt": 29355,
+            "endAt": 30473,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fd3oqe6noh8",
+            "startAt": 30469,
+            "endAt": 32251,
+            "text": "다음에 25번길 이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b9qk438dqko",
+            "startAt": 32531,
+            "endAt": 35149,
+            "text": "주소가 그런 건 없어요. 열우물로 25번길",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_q468sl47s2g",
+            "startAt": 35145,
+            "endAt": 36336,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dnre379h9lg",
+            "startAt": 36339,
+            "endAt": 36848,
+            "text": "혹시?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o67p3gbqjjo",
+            "startAt": 37364,
+            "endAt": 37918,
+            "text": "네, 맞",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ro7oh2va5k8",
+            "startAt": 38282,
+            "endAt": 39409,
+            "text": "무슨 일이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_l9crkuio078",
+            "startAt": 39882,
+            "endAt": 40382,
+            "text": "아 여기",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_va1h137i89",
+            "startAt": 40382,
+            "endAt": 41309,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_291d06s5hl",
+            "startAt": 41444,
+            "endAt": 43461,
+            "text": "경보음이 계속 울려가지구요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_prddg19fplg",
+            "startAt": 43373,
+            "endAt": 44736,
+            "text": "타는 냄새나 연기 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8568aet9oqo",
+            "startAt": 45205,
+            "endAt": 46360,
+            "text": "아니요, 없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_scnndmbir1o",
+            "startAt": 46905,
+            "endAt": 49324,
+            "text": "네, 알겠습니다, 저희 나가서 확인해볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_e4qfj9lemq8",
+            "startAt": 49513,
+            "endAt": 50131,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 부평구 십정동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

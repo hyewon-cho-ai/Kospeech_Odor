@@ -1,0 +1,124 @@
+{
+    "_id": "64d9fdff3e12da15ae3a5468",
+    "audioPath": "20230814/Incheon/2023/02/04/001/converted_20230204092039_4001-001.wav",
+    "recordId": "9ecf8ad50603a374b177",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 38760,
+    "utterances": [
+        {
+            "id": "f8bb0f25",
+            "startAt": 1196,
+            "endAt": 2266,
+            "text": "예, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "467a0616",
+            "startAt": 2668,
+            "endAt": 5946,
+            "text": "네, 안녕하세요. 그 연막 조사를 좀 할려고 하는데",
+            "speaker": 1
+        },
+        {
+            "id": "fa0bb5ed",
+            "startAt": 6256,
+            "endAt": 7709,
+            "text": "연막 소독하시는 거예요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jqttjlr9mm8",
+            "startAt": 7779,
+            "endAt": 9012,
+            "text": "네, ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2ltegvee6r",
+            "startAt": 8477,
+            "endAt": 10250,
+            "text": "거기 주소가 어떻게 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4v45jsio9f",
+            "startAt": 10377,
+            "endAt": 12477,
+            "text": "검단중앙교회부터",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tubetg04d6o",
+            "startAt": 12462,
+            "endAt": 14653,
+            "text": "예, 검단 중앙",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2l83mf92jrg",
+            "startAt": 15256,
+            "endAt": 20839,
+            "text": "네 검단중앙교회부터 복정역 사거리 그 인근이요,",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_51k88r8qp1g",
+            "startAt": 20926,
+            "endAt": 23759,
+            "text": "어 시간은 얼마나 걸리세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o7udbh2352o",
+            "startAt": 23793,
+            "endAt": 27343,
+            "text": "작업시간 지금부터 17시까지요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9gj9mir5fgo",
+            "startAt": 27400,
+            "endAt": 28758,
+            "text": "17시까지요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0n3eq41ppb",
+            "startAt": 28845,
+            "endAt": 29695,
+            "text": "네,",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_675nts2mb2o",
+            "startAt": 29770,
+            "endAt": 31720,
+            "text": "아 예, 알겠습니다, ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_t3phbeft72g",
+            "startAt": 31920,
+            "endAt": 35237,
+            "text": "네, 신고 들어오면 전화 좀 부탁드리겠습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gdeetd69qao",
+            "startAt": 34326,
+            "endAt": 37295,
+            "text": "예, 알겠습니다, 네",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

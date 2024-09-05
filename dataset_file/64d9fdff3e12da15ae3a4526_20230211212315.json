@@ -1,0 +1,250 @@
+{
+    "_id": "64d9fdff3e12da15ae3a4526",
+    "audioPath": "20230814/Incheon/2023/02/11/004/converted_20230211212315_4004-004.wav",
+    "recordId": "e439a7c77eeee543879b",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 81200,
+    "utterances": [
+        {
+            "id": "wavesurfer_d0s4h118j2g",
+            "startAt": 143,
+            "endAt": 1057,
+            "text": "예, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0pcdhfsr9a",
+            "startAt": 1407,
+            "endAt": 2915,
+            "text": "예, 여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ksp9f4l4c4o",
+            "startAt": 2922,
+            "endAt": 3300,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_q4hj9o4iaqg",
+            "startAt": 3915,
+            "endAt": 7458,
+            "text": "여기, 저거, 이, 뭐라, 아우",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5n27ddtbrno",
+            "startAt": 8436,
+            "endAt": 12315,
+            "text": "예, 저 소방벨이 울려가지고요. 하 한, 오래됐는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lqenp97kg48",
+            "startAt": 13399,
+            "endAt": 15463,
+            "text": "어 불꽃이나 연기 같은 거 보이나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_66e6upca97g",
+            "startAt": 15797,
+            "endAt": 18254,
+            "text": "아니, 안 본 새로운 신축 빌라거든.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_og36ddgeeno",
+            "startAt": 19980,
+            "endAt": 21359,
+            "text": "예, 주소 좀 알려주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_veauk70v69g",
+            "startAt": 21895,
+            "endAt": 24688,
+            "text": "아 여기 저거 어 부영로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_edppl6e02e",
+            "startAt": 24688,
+            "endAt": 27967,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_djnuri0jm9",
+            "startAt": 28067,
+            "endAt": 31288,
+            "text": "예, 이 맞은 편에 그 신축빌라인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d27r9rh7j38",
+            "startAt": 31953,
+            "endAt": 34660,
+            "text": "구월동 어 주민센터, 집",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tulvnlsn86o",
+            "startAt": 33403,
+            "endAt": 34682,
+            "text": "빌라 이름이 뭔데요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_458vmj7btuo",
+            "startAt": 35175,
+            "endAt": 38268,
+            "text": "주민센터, 이, 저거 지났어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pn8f81il4v8",
+            "startAt": 38851,
+            "endAt": 42173,
+            "text": "그니까 건물에 벨 울리는 주소가 부영로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_98cbfpco1r8",
+            "startAt": 39164,
+            "endAt": 39782,
+            "text": "까치.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_43piauu469",
+            "startAt": 40655,
+            "endAt": 41136,
+            "text": "까.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0jncrk6vd78",
+            "startAt": 42151,
+            "endAt": 43094,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4dib3l5lr4o",
+            "startAt": 43675,
+            "endAt": 46561,
+            "text": "아 그거는 그거 한빛빌라인가?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jkeubrvcgg8",
+            "startAt": 48155,
+            "endAt": 49218,
+            "text": "신, 아.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qatihnlbdko",
+            "startAt": 49891,
+            "endAt": 50291,
+            "text": "어?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_67gktv4f918",
+            "startAt": 50582,
+            "endAt": 51736,
+            "text": "네가 한번 얘기해봐.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qh6t7psff18",
+            "startAt": 51847,
+            "endAt": 54733,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1mo1ft9i3j",
+            "startAt": 55498,
+            "endAt": 56548,
+            "text": "뭐라고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vu1ooedj6to",
+            "startAt": 56027,
+            "endAt": 56555,
+            "text": "이거요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2l0e76bqirg",
+            "startAt": 57184,
+            "endAt": 60434,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hmr2aakdn9o",
+            "startAt": 60963,
+            "endAt": 63248,
+            "text": "여기가 벨이 울리는 건물이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sa0e5t7cq0o",
+            "startAt": 63463,
+            "endAt": 64334,
+            "text": "예 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bfi0cqd5tgg",
+            "startAt": 64463,
+            "endAt": 66092,
+            "text": "예, 알겠습니다. 저희가 가서 확인해 볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vcdih17v45o",
+            "startAt": 66406,
+            "endAt": 68592,
+            "text": "예, 여기 신축빌라예요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lp6dc7b7a5g",
+            "startAt": 70244,
+            "endAt": 76681,
+            "text": "사람들이 아무도 없는데 여 빌라에 지어놓고 사람들이 없는데 지금 소방벨이 계속 울려가지고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_09pr1bi8p5g",
+            "startAt": 76688,
+            "endAt": 77745,
+            "text": "알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_77ioqjasnq8",
+            "startAt": 78131,
+            "endAt": 78795,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 부평구 부평동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

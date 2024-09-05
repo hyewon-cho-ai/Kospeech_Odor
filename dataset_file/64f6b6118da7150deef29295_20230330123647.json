@@ -1,0 +1,215 @@
+{
+    "_id": "64f6b6118da7150deef29295",
+    "audioPath": "20230904/Incheon/2023/03/30/016/converted_20230330123647_4016-016.wav",
+    "recordId": "2dcd84b266310611762d",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 64080,
+    "utterances": [
+        {
+            "id": "388f36c0",
+            "startAt": 167,
+            "endAt": 1652,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "ba77ce2a",
+            "startAt": 2035,
+            "endAt": 2846,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "ad8a676e",
+            "startAt": 2882,
+            "endAt": 4056,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "bf66de54",
+            "startAt": 4002,
+            "endAt": 8965,
+            "text": "네, 안녕하세요 여기 혹시 소화전 물 새는 거는 119 에다 신고하려면 어디 어따가",
+            "speaker": 1
+        },
+        {
+            "id": "eac7317a",
+            "startAt": 8268,
+            "endAt": 10121,
+            "text": "아 소화전에서 물이 새요?",
+            "speaker": 0
+        },
+        {
+            "id": "1f45f2a1",
+            "startAt": 10124,
+            "endAt": 12246,
+            "text": "네, 양쪽으로 지금 물이 엄청 나오는데,",
+            "speaker": 1
+        },
+        {
+            "id": "1d1224d5",
+            "startAt": 11839,
+            "endAt": 16261,
+            "text": "아, 양쪽으로 엄청 나와요? 혹시 어디예요, 지금 계신 곳이?",
+            "speaker": 0
+        },
+        {
+            "id": "93c55463",
+            "startAt": 16368,
+            "endAt": 21280,
+            "text": "여기 지금 어, 어디라 그래 신기 사거리 있는데.",
+            "speaker": 1
+        },
+        {
+            "id": "5098383a",
+            "startAt": 21391,
+            "endAt": 24057,
+            "text": "네, 신기 사거리에서 어디 쪽이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "12a1c954",
+            "startAt": 24302,
+            "endAt": 26451,
+            "text": "여기 문학경기장 가는 방향이요.",
+            "speaker": 1
+        },
+        {
+            "id": "4bba522d",
+            "startAt": 26155,
+            "endAt": 28196,
+            "text": "신기사거리 맞아요, 계신 곳이?",
+            "speaker": 0
+        },
+        {
+            "id": "f5822d3a",
+            "startAt": 27704,
+            "endAt": 31097,
+            "text": "네 아, 여기 주소가 있네요, 여기 경인 경원대로",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f98ro3tvc68",
+            "startAt": 31090,
+            "endAt": 32654,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "7e39a82d",
+            "startAt": 32633,
+            "endAt": 34111,
+            "text": "경원대로",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_a08f26d2j48",
+            "startAt": 34072,
+            "endAt": 35708,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_h2u7dmlo4u8",
+            "startAt": 35677,
+            "endAt": 36841,
+            "text": "잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "c8a0e634",
+            "startAt": 35999,
+            "endAt": 37436,
+            "text": "네 고 앞에요. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "cafcc1c7",
+            "startAt": 37819,
+            "endAt": 40416,
+            "text": "잠시만요, 저희가 한번 위치 좀 확인해볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sei3s8kj3d",
+            "startAt": 40261,
+            "endAt": 40988,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ln71ci6ad8g",
+            "startAt": 40881,
+            "endAt": 43817,
+            "text": "여기 앞에 그 골목에 있는 소화전이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "8c16d8ae",
+            "startAt": 43934,
+            "endAt": 46131,
+            "text": "아니요, 대로변에 큰 대로변에 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "c57e80ba",
+            "startAt": 46242,
+            "endAt": 52531,
+            "text": "아, 그래요? 여기 대로변에는 저희 저희 쪽 빨간색 소화전, 저희 그 소방 있는거요?",
+            "speaker": 0
+        },
+        {
+            "id": "271f3275",
+            "startAt": 51738,
+            "endAt": 55120,
+            "text": "네, 맞아요. 네, 주정차 금지구역 돼 있고 여기",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gk7rfn1fikg",
+            "startAt": 55104,
+            "endAt": 55677,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gfi6jikvkq",
+            "startAt": 55635,
+            "endAt": 57407,
+            "text": "바로 앞에 있어요. 큰 대로변에,",
+            "speaker": 1
+        },
+        {
+            "id": "ade1536a",
+            "startAt": 57056,
+            "endAt": 61408,
+            "text": "아, 그래요? 아, 알겠습니다. 저희가 한번 나와서 확인해볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "c2c788c4",
+            "startAt": 61256,
+            "endAt": 63567,
+            "text": "네, 알겠습니다, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ktbpigroh",
+            "startAt": 62031,
+            "endAt": 62649,
+            "text": "네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시 미추홀구 주안동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

@@ -1,0 +1,152 @@
+{
+    "_id": "64f6c4c2eac2aceeda7f8edd",
+    "audioPath": "20230829/Incheon/2023/06/03/009/converted_20230603201220_4009-009.wav",
+    "recordId": "357cb28f5659f5578019",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 45080,
+    "utterances": [
+        {
+            "id": "38d2d139",
+            "startAt": 837,
+            "endAt": 1648,
+            "text": "네 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "7a091705",
+            "startAt": 2137,
+            "endAt": 4111,
+            "text": "네, 수고하십니다, 다름이 아니고요.",
+            "speaker": 1
+        },
+        {
+            "id": "0876afd3",
+            "startAt": 4105,
+            "endAt": 4475,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "7a1084ac",
+            "startAt": 4910,
+            "endAt": 5880,
+            "text": "네, 여 청천동",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_oia31mktioo",
+            "startAt": 5883,
+            "endAt": 8065,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "5f6e09be",
+            "startAt": 8418,
+            "endAt": 9493,
+            "text": "청천동",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_69gd2p6k46g",
+            "startAt": 9491,
+            "endAt": 11037,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "8e1a8bf3",
+            "startAt": 11380,
+            "endAt": 12790,
+            "text": "네, 네, 부평구",
+            "speaker": 1
+        },
+        {
+            "id": "c382ad92",
+            "startAt": 12875,
+            "endAt": 13295,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "d3b79bea",
+            "startAt": 14277,
+            "endAt": 21615,
+            "text": "그 변압기에서 전봇대 거기서 변압기에서 비 오듯이 물이 막 오는데 그 위험하지 않나 해서 전화 좀 드려봤어요.",
+            "speaker": 1
+        },
+        {
+            "id": "95d8f8d7",
+            "startAt": 20389,
+            "endAt": 22319,
+            "text": "변압 변압기에서 뭐가 와요?",
+            "speaker": 0
+        },
+        {
+            "id": "3ba18423",
+            "startAt": 22815,
+            "endAt": 24442,
+            "text": "예, 전봇대",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e856i2ftsu",
+            "startAt": 24804,
+            "endAt": 30041,
+            "text": "그 변압기 통에서 비 오듯이 막 물이 떨어지는데 그 왜 그런지 모르겠네, 위험한 거 같은데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_sqk2ejc5fo8",
+            "startAt": 29332,
+            "endAt": 31378,
+            "text": "그니까 변압기에서 물이 떨어진다는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_101keea2gog",
+            "startAt": 31508,
+            "endAt": 32954,
+            "text": "네, 네, 네, 맞습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "8183d1d6",
+            "startAt": 34942,
+            "endAt": 37293,
+            "text": "예, 알겠습니다. 그쪽으로 일단 차 한번 보내볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "713c03ef",
+            "startAt": 37766,
+            "endAt": 39996,
+            "text": "네, 네, 그 저 지금 뭐 계속 떨어져요.",
+            "speaker": 1
+        },
+        {
+            "id": "14c8ca19",
+            "startAt": 40141,
+            "endAt": 41523,
+            "text": "예, 알겠습니다, 가볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "dbe2ff8d",
+            "startAt": 42146,
+            "endAt": 42658,
+            "text": "네, 네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 부평구 청천동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

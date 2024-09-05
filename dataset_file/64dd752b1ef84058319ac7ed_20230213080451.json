@@ -1,0 +1,145 @@
+{
+    "_id": "64dd752b1ef84058319ac7ed",
+    "audioPath": "20230815/Incheon/2023/02/13/001/converted_20230213080451_4001-001.wav",
+    "recordId": "0b4ef6f9b3cf8bc74f00",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 61960,
+    "utterances": [
+        {
+            "id": "wavesurfer_j0hsu0gglk",
+            "startAt": 1546,
+            "endAt": 2373,
+            "text": "네 119입니다",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_264vmibcc9",
+            "startAt": 2618,
+            "endAt": 3882,
+            "text": "예예, 여보세요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_suaktn3ufi",
+            "startAt": 3864,
+            "endAt": 4728,
+            "text": "예 말씀하세요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_l8581e1cjgo",
+            "startAt": 4919,
+            "endAt": 9119,
+            "text": "예예, 여기 지금 그 간석동에 있는 센트라움이거든요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1huih0u5g",
+            "startAt": 9274,
+            "endAt": 11010,
+            "text": "센트라움이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_oad11ierqu8",
+            "startAt": 10471,
+            "endAt": 12894,
+            "text": "센트라움 예, 센트라움 오피스텔",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_g01n97e8asg",
+            "startAt": 13194,
+            "endAt": 15692,
+            "text": "근데 지금 안내방송에 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lohabmbno7",
+            "startAt": 15920,
+            "endAt": 22911,
+            "text": "사이렌이 울리고 그 다음에 그 저 뭐야? 화재가 발생했으니 대피하라는",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1h80ch73g1o",
+            "startAt": 23511,
+            "endAt": 26730,
+            "text": "그런 방 안내방송이 나와가지고 내려와 내려왔거든요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0udfmiug2f8",
+            "startAt": 26716,
+            "endAt": 30298,
+            "text": "예, 혹시 그럼 연기나 타는 냄새나 그런 건 안 보여요?",
+            "speaker": 0
+        },
+        {
+            "id": "990c058f",
+            "startAt": 31425,
+            "endAt": 34205,
+            "text": "아 영 연기는 뭐 안봬요",
+            "speaker": 1
+        },
+        {
+            "id": "a8a2819a",
+            "startAt": 34915,
+            "endAt": 36755,
+            "text": "예, 연기 안 보이고 타는 냄새도요?",
+            "speaker": 0
+        },
+        {
+            "id": "315a38fd",
+            "startAt": 37305,
+            "endAt": 42300,
+            "text": "예 여 냄새도 아 이 지금 일단 내려와 있어요 전부 다 많은 주민들이 내려와 있는데 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ag3h9fsrr2g",
+            "startAt": 43340,
+            "endAt": 50009,
+            "text": "지금 아무것도 저 둘러봤는데도 아무 게 없어요, 아무것도 없 안돼요",
+            "speaker": 1
+        },
+        {
+            "id": "40a634c2",
+            "startAt": 50123,
+            "endAt": 53921,
+            "text": "예 일단은 알겠어요, 그 뭐 관리하시는 분 거기 지금 없는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4qf0lqg7j6",
+            "startAt": 54150,
+            "endAt": 55196,
+            "text": "예예, 없습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_16l05tj69f",
+            "startAt": 55305,
+            "endAt": 56960,
+            "text": "예, 일단 한번 가볼게요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qdp5fu4ci3o",
+            "startAt": 57050,
+            "endAt": 58169,
+            "text": "예예예",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 남동구 간석동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

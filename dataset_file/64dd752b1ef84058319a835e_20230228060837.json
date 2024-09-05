@@ -1,0 +1,131 @@
+{
+    "_id": "64dd752b1ef84058319a835e",
+    "audioPath": "20230815/Incheon/2023/02/28/072/converted_20230228060837_3-072.wav",
+    "recordId": "7dbd6279b630ab5c0052",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 42280,
+    "utterances": [
+        {
+            "id": "wavesurfer_3n9qrbevbvo",
+            "startAt": 0,
+            "endAt": 842,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0jh2kbmkauo",
+            "startAt": 1342,
+            "endAt": 2175,
+            "text": "예, 그",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f0pkpgg5huo",
+            "startAt": 2692,
+            "endAt": 3709,
+            "text": "애기가",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mfovn7i18o",
+            "startAt": 3600,
+            "endAt": 4100,
+            "text": "예",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dq82qil5vuo",
+            "startAt": 4592,
+            "endAt": 7859,
+            "text": "자다가 어디 부딪혔는지 이 코피가 나는데 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_l8r3trlf1kg",
+            "startAt": 7773,
+            "endAt": 8190,
+            "text": "예",
+            "speaker": 0
+        },
+        {
+            "id": "f84227e9",
+            "startAt": 9043,
+            "endAt": 13979,
+            "text": "그 코피가 지금 계속 안 멈추거든요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qp1fg9e92fo",
+            "startAt": 14960,
+            "endAt": 16069,
+            "text": "애기 몇 살인데요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_n6btj2u68a8",
+            "startAt": 16602,
+            "endAt": 17385,
+            "text": "5살이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_omrdul67i9o",
+            "startAt": 17990,
+            "endAt": 20557,
+            "text": "지금 구급차가 필요하신 거예요, 상담이 필요하신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_22hj9m8431",
+            "startAt": 20618,
+            "endAt": 21560,
+            "text": "상담 정도요.",
+            "speaker": 1
+        },
+        {
+            "id": "0c3b5244",
+            "startAt": 22954,
+            "endAt": 24984,
+            "text": "지금 전화 돌려드릴게요. 끊지 말고 기다리세요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u20u4ip8oq8",
+            "startAt": 25065,
+            "endAt": 25590,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "c3065c93",
+            "startAt": 30416,
+            "endAt": 32291,
+            "text": "네 구급 상황 센터입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ostlkjhjv7g",
+            "startAt": 31348,
+            "endAt": 32298,
+            "text": "예 상담입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_henqqu1a3kg",
+            "startAt": 32703,
+            "endAt": 34353,
+            "text": "예, 그, 애",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

@@ -1,0 +1,166 @@
+{
+    "_id": "64d9fdff3e12da15ae3a5b60",
+    "audioPath": "20230814/Incheon/2023/02/01/085/converted_20230201011050_16-085.wav",
+    "recordId": "d4b67ff6649ab2052571",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 56360,
+    "utterances": [
+        {
+            "id": "wavesurfer_e30u9qjcsa8",
+            "startAt": 6800,
+            "endAt": 7418,
+            "text": "네, 여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_l2s1cot74ug",
+            "startAt": 7818,
+            "endAt": 9081,
+            "text": "네, 여기 119예요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_b2kti0d0hso",
+            "startAt": 9354,
+            "endAt": 9863,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ctogebm1c2g",
+            "startAt": 10168,
+            "endAt": 12859,
+            "text": "그 경찰 쪽에 그 신고하셨죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3mma0h78oco",
+            "startAt": 12820,
+            "endAt": 14020,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "2f0faa86",
+            "startAt": 14666,
+            "endAt": 17613,
+            "text": "예, 그 인기척 없는데 물 터져서 밑에 난리가 났다고",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_t2idu97ih9",
+            "startAt": 17799,
+            "endAt": 18254,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "1daaeac3",
+            "startAt": 18679,
+            "endAt": 20994,
+            "text": "아 이게 지금 상황이 어떤 상황인 거죠? 저희",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_eb4oq3s326g",
+            "startAt": 21009,
+            "endAt": 25717,
+            "text": "그 잘 모르겠어요. 지금 제가 여기 건물 총무랑 지금 전화하고 있거든, 일단 한번 와주시겠어요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cgqs2ckmkb8",
+            "startAt": 26517,
+            "endAt": 28881,
+            "text": "그 신고자분은 몇 호, 몇 호에 사시는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mguhnl3lj9o",
+            "startAt": 28890,
+            "endAt": 29781,
+            "text": "바로 밑에 층이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qmjvs2quj6",
+            "startAt": 30468,
+            "endAt": 31222,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_15fu5kcadvg",
+            "startAt": 31449,
+            "endAt": 31895,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ln99poilri",
+            "startAt": 32180,
+            "endAt": 33571,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_b8rn3vbknd",
+            "startAt": 33534,
+            "endAt": 36134,
+            "text": "인기척이 원래 없었는데 그 물이 터져서 이게 내려오고 있는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1elfbu4uoo",
+            "startAt": 36273,
+            "endAt": 36701,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_01pvt8uskj8",
+            "startAt": 37388,
+            "endAt": 39695,
+            "text": "아 혹시 두드려도 사람이 없어요. 안에?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k393kgn94vg",
+            "startAt": 39266,
+            "endAt": 40100,
+            "text": "네네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ovjon4moc2",
+            "startAt": 40256,
+            "endAt": 41523,
+            "text": "아 그래요.",
+            "speaker": 0
+        },
+        {
+            "id": "3a85827c",
+            "startAt": 42423,
+            "endAt": 45806,
+            "text": "아 네, 알겠습니다. 저희 일단 운기방도 필요할 수 있으니 구조대 같이 나갈게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_b6mcsv9ij",
+            "startAt": 45870,
+            "endAt": 46536,
+            "text": "네",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

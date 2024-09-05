@@ -1,0 +1,271 @@
+{
+    "_id": "64dda077bcc831d5134cd38c",
+    "audioPath": "20230816/Incheon/2023/02/20/008/converted_20230220013423_4008-008.wav",
+    "recordId": "7b800d15d8301b1b2dfa",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 142200,
+    "utterances": [
+        {
+            "id": "f732adc2",
+            "startAt": 1284,
+            "endAt": 2144,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bf76d8itnso",
+            "startAt": 3127,
+            "endAt": 3991,
+            "text": "예, 안녕하세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_teeuh21vp8",
+            "startAt": 4091,
+            "endAt": 4818,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_v9lonlq6d28",
+            "startAt": 5663,
+            "endAt": 8900,
+            "text": "저 산곡동에 거주하는 주민 인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "03de531d",
+            "startAt": 9759,
+            "endAt": 18296,
+            "text": "그 주방 위에 거기 저 보조 확산, 저 소화기 있잖아요, 이거 자동으로 확산 막아주는 소화기요.",
+            "speaker": 1
+        },
+        {
+            "id": "60742879",
+            "startAt": 17996,
+            "endAt": 19993,
+            "text": "스프링쿨러 말씀하시는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_23dg2ontf7o",
+            "startAt": 20741,
+            "endAt": 23450,
+            "text": "스프링쿨러 말고 그 주방 그 위에",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ucngm65466g",
+            "startAt": 25594,
+            "endAt": 32230,
+            "text": "이 자동으로 예, 그 자동으로 화재 났을 때 이렇게 터트려주는 그 소화기 있잖아요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_duj2q2hdkn",
+            "startAt": 25610,
+            "endAt": 26301,
+            "text": "주방",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bn8tj0lhcf8",
+            "startAt": 32775,
+            "endAt": 35575,
+            "text": "확산방지 소화기인가 그거",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2kb2mtuhbk",
+            "startAt": 36039,
+            "endAt": 42485,
+            "text": "그게 아무 저 뭐 이렇게 사용도 안 하고 있었는데 그게 확 터져가지고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f5cegopufng",
+            "startAt": 43796,
+            "endAt": 45714,
+            "text": "그 주방에 온 주방을 다 이렇게 ",
+            "speaker": 1
+        },
+        {
+            "id": "155ba82a",
+            "startAt": 47925,
+            "endAt": 53519,
+            "text": "이렇게 오염시켜 놨거든요. 근데 소리가 계속 나네 저 어떻게 대처하는 방법이 없어요?",
+            "speaker": 1
+        },
+        {
+            "id": "30ee1681",
+            "startAt": 54173,
+            "endAt": 56548,
+            "text": "아 가루 같은 게 다 쏟아진 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "83da7b7d",
+            "startAt": 57475,
+            "endAt": 64355,
+            "text": "엑상 액상 그거 나오는 거 액상 있잖아요. 그 모래 같은 자동으로 뽑아가지고 주방 위에",
+            "speaker": 1
+        },
+        {
+            "id": "c2863454",
+            "startAt": 64330,
+            "endAt": 65520,
+            "text": "소리가 계속 나요?",
+            "speaker": 0
+        },
+        {
+            "id": "8d5b7c7c",
+            "startAt": 66477,
+            "endAt": 70186,
+            "text": "예, 저 소리 진짜 이 소리 안 들려요? 이거",
+            "speaker": 1
+        },
+        {
+            "id": "024848fc",
+            "startAt": 70113,
+            "endAt": 72950,
+            "text": "소리가 여기서는 안 들리긴 하는데 혹시 아파트에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vs64f8udsl8",
+            "startAt": 70491,
+            "endAt": 70918,
+            "text": "이거",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vpm769251g8",
+            "startAt": 73645,
+            "endAt": 74154,
+            "text": "예",
+            "speaker": 1
+        },
+        {
+            "id": "24cb91e0",
+            "startAt": 79136,
+            "endAt": 87571,
+            "text": "근데 이렇게 보니까 뭐 특별하게 뭐 뭐 조치 취할 게 없는 거 같은데, 소리만 안 나면 그냥 내일 이렇게 하면 되는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t471dn3ljho",
+            "startAt": 85745,
+            "endAt": 87572,
+            "text": "아 그",
+            "speaker": 0
+        },
+        {
+            "id": "e4af8966",
+            "startAt": 88552,
+            "endAt": 90872,
+            "text": "관리사무소는 지금 운영을 안 하죠?",
+            "speaker": 0
+        },
+        {
+            "id": "ed9e9e25",
+            "startAt": 92261,
+            "endAt": 97842,
+            "text": "그렇지 경비가 있을 때 경비 아저씨 있을텐데, 글로는 아직 안 해봤어요.",
+            "speaker": 1
+        },
+        {
+            "id": "5852ab97",
+            "startAt": 103467,
+            "endAt": 105987,
+            "text": "어디세요? 저희가 한번 가서 확인 좀 해볼게요 그러면.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_60ujgjlulho",
+            "startAt": 107262,
+            "endAt": 112745,
+            "text": "아 여기가 저기 부평 한국 여기 ",
+            "speaker": 1
+        },
+        {
+            "id": "f778a81e",
+            "startAt": 115925,
+            "endAt": 119230,
+            "text": "샬레 아넬레스라고 아세요? 집인데 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_v1iqhthprfo",
+            "startAt": 117453,
+            "endAt": 117926,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_md23pl7evmg",
+            "startAt": 119258,
+            "endAt": 121831,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2t8f9e72h9g",
+            "startAt": 122385,
+            "endAt": 122748,
+            "text": "예",
+            "speaker": 1
+        },
+        {
+            "id": "ecf38092",
+            "startAt": 122923,
+            "endAt": 125013,
+            "text": "아 저희 한번 가볼게요, 잠깐만 기다리세요.",
+            "speaker": 0
+        },
+        {
+            "id": "4c095ffd",
+            "startAt": 125713,
+            "endAt": 130078,
+            "text": "예, 소리만 안 나면 그냥 내일 하겠는데 어떻게 멈추는 방법을 모르겠네요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3d8ujq69gho",
+            "startAt": 131394,
+            "endAt": 132731,
+            "text": "소리가 계속 나니까 얘가",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e4ub9ujrbt8",
+            "startAt": 135769,
+            "endAt": 136997,
+            "text": "예 알겠습니다. ",
+            "speaker": 1
+        },
+        {
+            "id": "27b5b56b",
+            "startAt": 136542,
+            "endAt": 138947,
+            "text": "네 한번 가볼게요, 잠깐만 기다리세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_h3liqe7l23",
+            "startAt": 137908,
+            "endAt": 139107,
+            "text": "예예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 부평구 산곡동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

@@ -1,0 +1,222 @@
+{
+    "_id": "64d9fdff3e12da15ae3a6426",
+    "audioPath": "20230814/Incheon/2023/02/11/074/converted_20230211190940_5-074.wav",
+    "recordId": "217a55b30279c855d4aa",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 99520,
+    "utterances": [
+        {
+            "id": "wavesurfer_qh3n0i6o848",
+            "startAt": 50,
+            "endAt": 683,
+            "text": "여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kns59pii75",
+            "startAt": 483,
+            "endAt": 2067,
+            "text": "네, 여기 119인데요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1agnpthso58",
+            "startAt": 2233,
+            "endAt": 2767,
+            "text": "예",
+            "speaker": 1
+        },
+        {
+            "id": "a2a719c1",
+            "startAt": 2717,
+            "endAt": 4407,
+            "text": "여기 그 직원이신가요?",
+            "speaker": 0
+        },
+        {
+            "id": "d657288a",
+            "startAt": 5204,
+            "endAt": 5891,
+            "text": "어디요?",
+            "speaker": 1
+        },
+        {
+            "id": "c9a833c7",
+            "startAt": 6311,
+            "endAt": 7751,
+            "text": "119 직원이신가요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ei8lk51o6g8",
+            "startAt": 7834,
+            "endAt": 10734,
+            "text": "아니요 아니요 의무실 직원 인데요 네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_egm07dnav08",
+            "startAt": 11317,
+            "endAt": 12617,
+            "text": "혹시",
+            "speaker": 1
+        },
+        {
+            "id": "61a28556",
+            "startAt": 11858,
+            "endAt": 14642,
+            "text": "어머님이 전화하셨나요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f7qupskhd8g",
+            "startAt": 13884,
+            "endAt": 17484,
+            "text": "네네 119를 타고 가셨다고 하셔가지고 이게",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_736b0qqg01",
+            "startAt": 17474,
+            "endAt": 19824,
+            "text": "119 아니고 사설 구급차구요 네네",
+            "speaker": 1
+        },
+        {
+            "id": "267e99d9",
+            "startAt": 20323,
+            "endAt": 21869,
+            "text": "따님이 네",
+            "speaker": 1
+        },
+        {
+            "id": "34fa5eb5",
+            "startAt": 22119,
+            "endAt": 25319,
+            "text": "어디서 쓰러졌는지 얘기하지 말아달라고 하셔가지고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_makprpp1of8",
+            "startAt": 26011,
+            "endAt": 28728,
+            "text": "구급차 타고 가고 있다고 설명을 드렸거든요",
+            "speaker": 1
+        },
+        {
+            "id": "2917e203",
+            "startAt": 28652,
+            "endAt": 31222,
+            "text": "아 네네네네네네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mo2tsu61dn8",
+            "startAt": 30421,
+            "endAt": 35121,
+            "text": "그래가지고 아마 전화를 하신거 같은데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_39218fegleo",
+            "startAt": 34074,
+            "endAt": 36808,
+            "text": "네 알겠습니다 예",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5pt2a13neb",
+            "startAt": 46185,
+            "endAt": 46785,
+            "text": "여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_10hsgu1roqg",
+            "startAt": 46705,
+            "endAt": 48272,
+            "text": "네 여기 119인데요 어머니",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_orukjga9dsg",
+            "startAt": 48328,
+            "endAt": 49012,
+            "text": "네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mmra5tmgh0g",
+            "startAt": 49215,
+            "endAt": 56649,
+            "text": "이분 그 뭐지 저희 119를 탄 게 아니에요. 119를 탄 게 아니라 사설 앰뷸런스를 타시는 거예요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4525l90v20o",
+            "startAt": 57032,
+            "endAt": 59015,
+            "text": "사설 앰뷸런스를 탔어요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_aaanr36fjt8",
+            "startAt": 59112,
+            "endAt": 65412,
+            "text": "그렇다 그 사설 앰뷸런스 직원이시라고 하시네요. 그 전화번호 지금 제가 전화해보니까",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ggpc7ru7n9o",
+            "startAt": 65519,
+            "endAt": 65936,
+            "text": "예",
+            "speaker": 1
+        },
+        {
+            "id": "23ac743f",
+            "startAt": 65753,
+            "endAt": 70628,
+            "text": "그분이 어 저희 대원인지 확인할려고 제가 전화했거든요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2tqpn0t4jkg",
+            "startAt": 70672,
+            "endAt": 71456,
+            "text": "네네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bg4k77kskig",
+            "startAt": 71169,
+            "endAt": 79419,
+            "text": "그랬더니 그분이 사설 구급차 그 그 이송하시는 그 직원분이시라서 저희가 모르는 내용이예요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8d8m842r6d",
+            "startAt": 80239,
+            "endAt": 86223,
+            "text": "그거는 이제 그쪽으로 문의를 하셔야 될 거 같아요. 요 전화 오신 분한테 문의를 하세요",
+            "speaker": 0
+        },
+        {
+            "id": "e7eefd3c",
+            "startAt": 87090,
+            "endAt": 89600,
+            "text": "아 예, 알겠습니다, 네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

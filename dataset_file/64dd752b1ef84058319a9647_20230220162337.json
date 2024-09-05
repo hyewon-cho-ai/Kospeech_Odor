@@ -1,0 +1,306 @@
+{
+    "_id": "64dd752b1ef84058319a9647",
+    "audioPath": "20230815/Incheon/2023/02/20/001/converted_20230220162337_4001-001.wav",
+    "recordId": "63939d894228ffc90278",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 119800,
+    "utterances": [
+        {
+            "id": "912ee1fc",
+            "startAt": 640,
+            "endAt": 1722,
+            "text": "예, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "12fc793b",
+            "startAt": 1784,
+            "endAt": 3364,
+            "text": "아니 아니 아니 아니, 여기 제물포역.",
+            "speaker": 1
+        },
+        {
+            "id": "50890f97",
+            "startAt": 3871,
+            "endAt": 4667,
+            "text": "여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nk770a6ila8",
+            "startAt": 4745,
+            "endAt": 6991,
+            "text": "예 여기 거기 저기 119죠?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gm598reik6o",
+            "startAt": 6855,
+            "endAt": 7545,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_cksaderonko",
+            "startAt": 7582,
+            "endAt": 9773,
+            "text": "예 여기 저 인천에 있는 제물포역인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7babrd6dvp",
+            "startAt": 9682,
+            "endAt": 10682,
+            "text": "제물포역이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ofc7ue38iu8",
+            "startAt": 10673,
+            "endAt": 11455,
+            "text": "예 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_42u4ncr1tc8",
+            "startAt": 10918,
+            "endAt": 12491,
+            "text": "예 무슨일때문에 그러세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_od0nsg2aerg",
+            "startAt": 12564,
+            "endAt": 17064,
+            "text": "저기 저희 손님 중에 그 12월, 작년 12월 27일날. 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ppvikmo4rj",
+            "startAt": 17327,
+            "endAt": 21291,
+            "text": "여기서 자빠지셔 저 넘어지셔가지고. 119를 불렀다고 그러는데. 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gvu8u5c5nd",
+            "startAt": 21491,
+            "endAt": 27691,
+            "text": "실제로 12월 27일날 저기 제물포역으로 119가 출동을 했는지 그거 좀 기록 좀 알아볼려고 하거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b938g9sa2c8",
+            "startAt": 27145,
+            "endAt": 28918,
+            "text": "12월 몇일이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gfmt5f5feq",
+            "startAt": 28882,
+            "endAt": 30036,
+            "text": "27일이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dfviap584o8",
+            "startAt": 29945,
+            "endAt": 31864,
+            "text": "12월 27일 작년?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1dfnrhkrvg8",
+            "startAt": 31236,
+            "endAt": 31964,
+            "text": "예 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bl4pcuujvk8",
+            "startAt": 32100,
+            "endAt": 33027,
+            "text": "제물포역이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1l0dldlc6gg",
+            "startAt": 32909,
+            "endAt": 37218,
+            "text": "그니까 작년 12월 27일에 그 역사내에서요?",
+            "speaker": 0
+        },
+        {
+            "id": "df60a3bc",
+            "startAt": 37356,
+            "endAt": 41996,
+            "text": "예 예, 거기 저희 그 남쪽에 보면 기름, 길가에 있는 저기 뭐 엘리베이터 에스컬레이터 있는 쪽이에요.",
+            "speaker": 1
+        },
+        {
+            "id": "a0c8c317",
+            "startAt": 42403,
+            "endAt": 46580,
+            "text": "일단은 어 12월 27, 혹시 시간은 언제쯤일까요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tpfq9genk58",
+            "startAt": 46345,
+            "endAt": 51309,
+            "text": "여 16 저 기분, 그 분 손님의 말에 의하면 16시에서 17시 사이랩니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0rrj1lloiqo",
+            "startAt": 51100,
+            "endAt": 52455,
+            "text": "아 잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_daqoq11qra",
+            "startAt": 52309,
+            "endAt": 58709,
+            "text": "예, 그거 아니더라도 저,저, 오 그 저 27일날 제물포역으로 이렇게 119가 출동했는지 그거 좀 봐주실래요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d7u2c2rtbf",
+            "startAt": 59464,
+            "endAt": 61118,
+            "text": "27일.",
+            "speaker": 0
+        },
+        {
+            "id": "e17c96b0",
+            "startAt": 64119,
+            "endAt": 68288,
+            "text": "근데 그 내용이 왜 확인이 필요하신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ajqk5brpq0o",
+            "startAt": 68318,
+            "endAt": 74618,
+            "text": "그 손님이 그 당시에 저희들한테 연락을 하고 이렇게 했었어야 되는데. 그 당시엔 연락을 안 하고 병원 다 치료하고서.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8fillveo868",
+            "startAt": 74727,
+            "endAt": 82009,
+            "text": "오늘 그렇게 좀 그, 그런 일 있었다고 연락이 왔어요. 그래 갖고 저희들이 사고 보고서를 좀 작성을 하는데 좀 필요해서 그렇습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fiig5lra48o",
+            "startAt": 81845,
+            "endAt": 83773,
+            "text": "아 잠시만요. 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gl276t08d7",
+            "startAt": 86036,
+            "endAt": 89327,
+            "text": "혹시 그 분이 뭐 할머니 신가요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rs1nkje4tpo",
+            "startAt": 89336,
+            "endAt": 90900,
+            "text": "예 예, 49년생이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mjuk7nbkpvg",
+            "startAt": 91391,
+            "endAt": 91755,
+            "text": "이름이.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_86528l78a0g",
+            "startAt": 91762,
+            "endAt": 93359,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jhadtki7gvg",
+            "startAt": 93809,
+            "endAt": 101936,
+            "text": "잠시만요. 일단은 어 십, 아 17시경 20 분경에 출동을 나간 게 있긴 한데요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7aonfjmvos",
+            "startAt": 101891,
+            "endAt": 103218,
+            "text": "네 어 어디요? 몇시요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pd2ipmq1llo",
+            "startAt": 102991,
+            "endAt": 104745,
+            "text": "17시 20분경이.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sjik8ah2pvg",
+            "startAt": 104582,
+            "endAt": 106491,
+            "text": "예 예 예, 어 얼로 갈거죠 그게?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9fui1i5qnug",
+            "startAt": 106582,
+            "endAt": 110818,
+            "text": "그 역사 제물포역 개찰구에 있는곳이라고 여기 신고들어온건이 있거든요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_g6mr0nbb0p",
+            "startAt": 110473,
+            "endAt": 113964,
+            "text": "아 개찰구역 있는 쪽으로요. 하튼 그런 일 하튼 그런 일이 있었다고요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o607g5t13c8",
+            "startAt": 113664,
+            "endAt": 114509,
+            "text": "예 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_54235kijmlo",
+            "startAt": 114564,
+            "endAt": 116998,
+            "text": "아 예, 예 알겠습니다 고맙습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_q0etnanbiuo",
+            "startAt": 116583,
+            "endAt": 117992,
+            "text": "예. 예",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

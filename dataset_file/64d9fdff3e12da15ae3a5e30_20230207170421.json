@@ -1,0 +1,180 @@
+{
+    "_id": "64d9fdff3e12da15ae3a5e30",
+    "audioPath": "20230814/Incheon/2023/02/07/011/converted_20230207170421_4011-011.wav",
+    "recordId": "163770e4453c8cffee0e",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 102080,
+    "utterances": [
+        {
+            "id": "wavesurfer_pm60tp2l4bg",
+            "startAt": 7751,
+            "endAt": 8551,
+            "text": "여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8p0rq30fvh",
+            "startAt": 8878,
+            "endAt": 9396,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_37lui92c7po",
+            "startAt": 9809,
+            "endAt": 12900,
+            "text": "저희한테 지금 속보설비 계속 누르시는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rjspi1l7ono",
+            "startAt": 13545,
+            "endAt": 19772,
+            "text": "예, 일단은 그 그래 가지고 제가 저 하자 테스트를 했잖아요? 한다고 제가 연락드렸고 했는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cfhjmjf2aeg",
+            "startAt": 20632,
+            "endAt": 23423,
+            "text": "그쪽에 멘트가 어떻게 나오지도 않고 어떻게 그 저.",
+            "speaker": 1
+        },
+        {
+            "id": "5e7ee93f",
+            "startAt": 23076,
+            "endAt": 30501,
+            "text": "멘트 안 나와요 예. 멘트 안 나오고 계속 계속 지금 계속 누르시는 거 같은데 저희한테 무슨 주소가.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_laeicaofmvg",
+            "startAt": 30163,
+            "endAt": 36699,
+            "text": "아니, 누르지도 않는데.  제가 안 눌렀는데도 제 전화번호가 저 위치를 파악 중에 있다고 뭐 그런 멘트만 나오거든요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5r357jrgaho",
+            "startAt": 36963,
+            "endAt": 38072,
+            "text": "저희 문자로다가요?",
+            "speaker": 1
+        },
+        {
+            "id": "73908c3a",
+            "startAt": 39279,
+            "endAt": 40649,
+            "text": "문자로요? 선생님 문자로요?",
+            "speaker": 0
+        },
+        {
+            "id": "7b6e278d",
+            "startAt": 41210,
+            "endAt": 46320,
+            "text": "예, 예 저 제 핸드폰에 문자로 그렇게 나와요. 제 핸드폰 위치를 파악 중에 있다고요.",
+            "speaker": 1
+        },
+        {
+            "id": "159fc64c",
+            "startAt": 46467,
+            "endAt": 56421,
+            "text": "일단은 저희한테는 계속 이제 전화가 속보설비가 들어오고 있는데 멘트가 하나도 안 들어와요. 들어오다 끊기고.",
+            "speaker": 0
+        },
+        {
+            "id": "8cda160d",
+            "startAt": 57091,
+            "endAt": 60741,
+            "text": "그러면 그 전화 들어오는 건 어떤 전화가 들어오는 거예요.",
+            "speaker": 1
+        },
+        {
+            "id": "99de0ce5",
+            "startAt": 61672,
+            "endAt": 68022,
+            "text": "그니까 저 우리한테 똑같이 전화가, 전화가 오고 뭐 저희가 받으면 녹음멘트가 들려드리는 거죠.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_irqi57u488",
+            "startAt": 68304,
+            "endAt": 68559,
+            "text": "예?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_uv8jppok2p",
+            "startAt": 68595,
+            "endAt": 71159,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_q7uk62qg558",
+            "startAt": 71522,
+            "endAt": 72668,
+            "text": "전화가 울려요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_q9g16pk8fd8",
+            "startAt": 71561,
+            "endAt": 73133,
+            "text": "전화번호 예 예 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1rvmp56kvog",
+            "startAt": 73762,
+            "endAt": 75599,
+            "text": "아, 그럼 또 들어는 오는데.",
+            "speaker": 1
+        },
+        {
+            "id": "3094ac45",
+            "startAt": 75828,
+            "endAt": 90241,
+            "text": "기계가 기계가 거는거 잖아요, 기계가. 기계가 자동으로 거는 거잖아요. 그러면 예, 이제 저희가 받으면 그 대상처, 만약 할라비발디하고 선생님 전화번호가 녹음된 대로 나와야 되는 거죠, 정상적으로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bal1233a05g",
+            "startAt": 75842,
+            "endAt": 77433,
+            "text": "멘트가 안들어온다고?",
+            "speaker": 1
+        },
+        {
+            "id": "37124bc3",
+            "startAt": 90801,
+            "endAt": 92380,
+            "text": "아, 그래요?",
+            "speaker": 1
+        },
+        {
+            "id": "322d3bd5",
+            "startAt": 92356,
+            "endAt": 95681,
+            "text": "이거 관리업체한테 한번 물어보시고 다시 한번 해보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "79033974",
+            "startAt": 96571,
+            "endAt": 98190,
+            "text": "예, 예, 알겠습니다.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

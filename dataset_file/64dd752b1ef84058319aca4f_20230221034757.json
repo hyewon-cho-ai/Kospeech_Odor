@@ -1,0 +1,145 @@
+{
+    "_id": "64dd752b1ef84058319aca4f",
+    "audioPath": "20230815/Incheon/2023/02/21/016/converted_20230221034757_4016-016.wav",
+    "recordId": "481e586914c0b1196581",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 53840,
+    "utterances": [
+        {
+            "id": "wavesurfer_udkpd5s53s8",
+            "startAt": 0,
+            "endAt": 1682,
+            "text": "아, 예 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "904b88e9",
+            "startAt": 1738,
+            "endAt": 5986,
+            "text": "네, 여기 인천인데요. 그랜드 펠리스 호텔인데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0lk02p3evj",
+            "startAt": 5949,
+            "endAt": 8222,
+            "text": "아, 그랜드 펠리스 호텔이에요? 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4gl6392n3ag",
+            "startAt": 8150,
+            "endAt": 9841,
+            "text": "지금 화재 뭐 접수 들어온 거 있어요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_is41ar4kp8",
+            "startAt": 10004,
+            "endAt": 11240,
+            "text": "아, 없어요, 없어요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8a270iscjho",
+            "startAt": 11239,
+            "endAt": 12248,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qihulj6rmrg",
+            "startAt": 12199,
+            "endAt": 15181,
+            "text": "화재발생했다고 계속 울리는데 지금 입실할라고 들어갈라 그러는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fmu53lpn03g",
+            "startAt": 15151,
+            "endAt": 18179,
+            "text": "아, 화재 발생했다 경보기가 울리고 있는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jsahor0lsv",
+            "startAt": 18244,
+            "endAt": 18890,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gu6dtiibog",
+            "startAt": 18991,
+            "endAt": 23864,
+            "text": "아 따로 뭐 타는 냄새나 연기 같은 것도 보이나요, 혹시?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_11rrc8esu78",
+            "startAt": 23818,
+            "endAt": 27618,
+            "text": "아 저는 지금 입실하러 들어왔는데 바깥에 보고 있는데 그런 건 딱히 안 보이거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_i0c4cfu6q98",
+            "startAt": 27510,
+            "endAt": 33065,
+            "text": "아, 그래요? 예, 잠시만요. 저희가 한번 나가서 확인을 해볼 거고요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kmdecuvamjg",
+            "startAt": 33058,
+            "endAt": 36986,
+            "text": "안에 객실 분들이 몇 몇 몇 나오고 있거든요. 지금 방송 듣고?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_50vnserrh4g",
+            "startAt": 38525,
+            "endAt": 39998,
+            "text": "네. 카운터에 아무도 없어가지고. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_biugj8hhlpo",
+            "startAt": 39978,
+            "endAt": 44715,
+            "text": "아, 그래요. 알겠습니. 그랜드팰리스호텔 그 호구포역 앞에 있는 거 맞죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6vjcp1m90a8",
+            "startAt": 46438,
+            "endAt": 47565,
+            "text": "네. 마오 맞아요.",
+            "speaker": 1
+        },
+        {
+            "id": "ab1726be",
+            "startAt": 47764,
+            "endAt": 49846,
+            "text": "예, 알겠습니다. 지금 한번 가볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8u2hsmdtrmo",
+            "startAt": 49820,
+            "endAt": 50193,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 남동구 논현동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

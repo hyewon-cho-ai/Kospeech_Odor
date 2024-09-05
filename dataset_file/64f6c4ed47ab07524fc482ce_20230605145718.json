@@ -1,0 +1,250 @@
+{
+    "_id": "64f6c4ed47ab07524fc482ce",
+    "audioPath": "20230829/Incheon/2023/06/05/001/converted_20230605145718_4001-001.wav",
+    "recordId": "9db59ea1620f1d6610d7",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 82640,
+    "utterances": [
+        {
+            "id": "b5cf5641",
+            "startAt": 95,
+            "endAt": 898,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "cffee4b2",
+            "startAt": 1588,
+            "endAt": 11508,
+            "text": "예 예, 아, 저 여기 도로변에서 어 예 약품을 싣고 가다가 도로, 약품통이 도로에 떨어졌는데.",
+            "speaker": 1
+        },
+        {
+            "id": "e1576682",
+            "startAt": 11448,
+            "endAt": 12945,
+            "text": "약품통이 무슨 약이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "e1ea6ab4",
+            "startAt": 13539,
+            "endAt": 16539,
+            "text": "아, 수지하고 경화제인데.",
+            "speaker": 1
+        },
+        {
+            "id": "23486455",
+            "startAt": 16419,
+            "endAt": 17915,
+            "text": "아, 수지 경화제 ",
+            "speaker": 0
+        },
+        {
+            "id": "36d46322",
+            "startAt": 18019,
+            "endAt": 21125,
+            "text": "예 예, 여기 그 좀 여기 저.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3mb4vbu4pdo",
+            "startAt": 22164,
+            "endAt": 22897,
+            "text": "어",
+            "speaker": 1
+        },
+        {
+            "id": "850020f4",
+            "startAt": 22538,
+            "endAt": 23521,
+            "text": "치워야 될 거 같애요?",
+            "speaker": 0
+        },
+        {
+            "id": "74dcccfb",
+            "startAt": 24327,
+            "endAt": 25611,
+            "text": "여보세요, 예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "1d4367d3",
+            "startAt": 25357,
+            "endAt": 27677,
+            "text": "치워야 될 거 같애요? 옆에 보이는 거 아무거나 얘기해보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "7d5e9d83",
+            "startAt": 28508,
+            "endAt": 35138,
+            "text": "아 여기 아 경서동, 저 저기 경서동, 그.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bs5hhejlsf",
+            "startAt": 28972,
+            "endAt": 29910,
+            "text": "위치 위치",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_b43p4dplp3o",
+            "startAt": 35433,
+            "endAt": 37833,
+            "text": "오 오거리, 그 저 저",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hvcci4t8g48",
+            "startAt": 38494,
+            "endAt": 41994,
+            "text": "뭐야 고속도로 들어가는데 그 입구 있는 데예요 그 거리.",
+            "speaker": 1
+        },
+        {
+            "id": "2d10b38d",
+            "startAt": 42188,
+            "endAt": 44585,
+            "text": "북인천 지하차도 있는데 말씀하시는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "61444c42",
+            "startAt": 44808,
+            "endAt": 46852,
+            "text": "예, 예, 예, 예, 그쪽에서 그",
+            "speaker": 1
+        },
+        {
+            "id": "f9c380c5",
+            "startAt": 45912,
+            "endAt": 49395,
+            "text": "그쪽에서 그쪽에서 뭐 작은 골목으로 들어가는 거예요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lsol3v01gi8",
+            "startAt": 48308,
+            "endAt": 49144,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2tupf0q59v8",
+            "startAt": 50695,
+            "endAt": 51713,
+            "text": "여보세요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0udrnb7scig",
+            "startAt": 51838,
+            "endAt": 54121,
+            "text": "예예 그 그 오 오 오",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_oqc7df3qp3o",
+            "startAt": 52256,
+            "endAt": 54098,
+            "text": "네 일단 차 보낼거고요",
+            "speaker": 0
+        },
+        {
+            "id": "58b9d9b8",
+            "startAt": 54315,
+            "endAt": 56308,
+            "text": "오거리에서 그래요. 오거리에서.",
+            "speaker": 1
+        },
+        {
+            "id": "cf09c85c",
+            "startAt": 55928,
+            "endAt": 57985,
+            "text": "네 그러니까 차 보낼 거고요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_b77h3bf7u1g",
+            "startAt": 58806,
+            "endAt": 59543,
+            "text": "신고자분",
+            "speaker": 0
+        },
+        {
+            "id": "1e46b4db",
+            "startAt": 58898,
+            "endAt": 61288,
+            "text": "그 액이 많이 쏘 쏟, 쏟아졌는데.",
+            "speaker": 1
+        },
+        {
+            "id": "fb2812fb",
+            "startAt": 61251,
+            "endAt": 64561,
+            "text": "신고자분 제 얘기 들으세요. 알겠고 내용은 알겠고.",
+            "speaker": 0
+        },
+        {
+            "id": "609b35ee",
+            "startAt": 64801,
+            "endAt": 68969,
+            "text": "제 얘기, 제 얘기를 들으시라고요. 거기 가면서 전화를 할 거니까 ",
+            "speaker": 0
+        },
+        {
+            "id": "04462fb8",
+            "startAt": 64855,
+            "endAt": 65488,
+            "text": "예예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_m3r6hovbhbg",
+            "startAt": 69184,
+            "endAt": 74635,
+            "text": "전화 잘 받으시고 경찰하고 이런 사람들 다 같이 가니까 전화 많이 갈 거니까 전화 잘 받으세요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_g3ugp7p5h2",
+            "startAt": 76324,
+            "endAt": 77300,
+            "text": "아시겠어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dl8bi9383do",
+            "startAt": 76566,
+            "endAt": 77637,
+            "text": "아 그 도로 아 이게 씨",
+            "speaker": 1
+        },
+        {
+            "id": "4ac0596e",
+            "startAt": 77930,
+            "endAt": 80230,
+            "text": "예예예예예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fucsf4f8jq",
+            "startAt": 78040,
+            "endAt": 79688,
+            "text": "여보세요 예",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시 서구 청라동",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "중",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}

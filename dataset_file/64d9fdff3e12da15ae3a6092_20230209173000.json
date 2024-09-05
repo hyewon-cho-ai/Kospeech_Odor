@@ -1,0 +1,474 @@
+{
+    "_id": "64d9fdff3e12da15ae3a6092",
+    "audioPath": "20230814/Incheon/2023/02/09/007/converted_20230209173000_4007-007.wav",
+    "recordId": "95f92ebe56cb859904f7",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 114240,
+    "utterances": [
+        {
+            "id": "447645b8",
+            "startAt": 0,
+            "endAt": 649,
+            "text": "누구세요? ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_auiv42a6bi8",
+            "startAt": 445,
+            "endAt": 1591,
+            "text": "네 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "86d72c63",
+            "startAt": 2270,
+            "endAt": 7120,
+            "text": "아 네, 여기 중산동에 있는 조향타워 9층인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "140d2d99",
+            "startAt": 7086,
+            "endAt": 8331,
+            "text": "조향타워요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_onso8glq78g",
+            "startAt": 8737,
+            "endAt": 9991,
+            "text": "조양타워요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8f0qj8pr5ng",
+            "startAt": 9955,
+            "endAt": 10891,
+            "text": "조양이요?",
+            "speaker": 0
+        },
+        {
+            "id": "57bbb861",
+            "startAt": 11413,
+            "endAt": 13266,
+            "text": "예, 하늘중앙로 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_66o6mrog1c",
+            "startAt": 11655,
+            "endAt": 12264,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ilutnjgo81g",
+            "startAt": 13273,
+            "endAt": 14664,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_sv6891g2pj",
+            "startAt": 14664,
+            "endAt": 16119,
+            "text": "다시 한 번만 불러주시겠어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5gk3lf9in4g",
+            "startAt": 16373,
+            "endAt": 17528,
+            "text": "하늘중앙로",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bttl9m3b818",
+            "startAt": 17510,
+            "endAt": 18601,
+            "text": "***[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_me4hds6rj9g",
+            "startAt": 18601,
+            "endAt": 19155,
+            "text": "로",
+            "speaker": 0
+        },
+        {
+            "id": "5abe4900",
+            "startAt": 19375,
+            "endAt": 21260,
+            "text": "***[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_i0a6ijpubdg",
+            "startAt": 22137,
+            "endAt": 24137,
+            "text": "건물 9층인데요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_126hn3u4gc8",
+            "startAt": 23583,
+            "endAt": 24119,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mavl4l2cr6o",
+            "startAt": 24255,
+            "endAt": 25401,
+            "text": "아이가 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gl3egvn9v4g",
+            "startAt": 25455,
+            "endAt": 25783,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "a96f34cd",
+            "startAt": 26094,
+            "endAt": 28360,
+            "text": "어, 이, 그, 대리석에 뭐 부딪 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_h9n12upfc48",
+            "startAt": 28374,
+            "endAt": 31374,
+            "text": "이 킥보드 타다가 지금 피가 많이 나거든요?",
+            "speaker": 1
+        },
+        {
+            "id": "88c4d5c2",
+            "startAt": 31696,
+            "endAt": 32685,
+            "text": "넘어진 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5ci1oi0pono",
+            "startAt": 32892,
+            "endAt": 33919,
+            "text": "네네네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_18bamllptm8",
+            "startAt": 34028,
+            "endAt": 35292,
+            "text": "아이 몇 살이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "7ffc90eb",
+            "startAt": 35903,
+            "endAt": 38328,
+            "text": "지금 일, 8살 되는 친구인데, ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_s21of0r28",
+            "startAt": 38165,
+            "endAt": 38492,
+            "text": "어이,",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pn2hcjl0jv8",
+            "startAt": 38465,
+            "endAt": 41083,
+            "text": "여기 건물 정형외과 있는데 바로 내려갈까요, 그냥?",
+            "speaker": 1
+        },
+        {
+            "id": "ca580b73",
+            "startAt": 41244,
+            "endAt": 41666,
+            "text": "아",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lqhpq1ua6io",
+            "startAt": 41638,
+            "endAt": 42183,
+            "text": "아어",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_67bqh9b24jg",
+            "startAt": 42174,
+            "endAt": 44456,
+            "text": "머리에서 피나요? 머리에서 피가 나요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_igno45lnu",
+            "startAt": 43801,
+            "endAt": 45101,
+            "text": "네 피, 나와",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ehmmsrbbte",
+            "startAt": 45411,
+            "endAt": 46729,
+            "text": "어디서 피가 나와, 음.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qrrjhpgug48",
+            "startAt": 45601,
+            "endAt": 46729,
+            "text": "근데 아이가, ",
+            "speaker": 1
+        },
+        {
+            "id": "4fa3b6fc",
+            "startAt": 47213,
+            "endAt": 49874,
+            "text": "머리에서 피가 나고 아이가 울고 있기는 한데 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_c0jej1bprio",
+            "startAt": 49847,
+            "endAt": 53356,
+            "text": "건물에 정형외과가 있는데 바로 데리고 내려가도 될까요?",
+            "speaker": 1
+        },
+        {
+            "id": "0473fadd",
+            "startAt": 53492,
+            "endAt": 56742,
+            "text": "어 아이 상태 뭐 먼저 가서 보시고 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_216js20dcuo",
+            "startAt": 56865,
+            "endAt": 57693,
+            "text": "네네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3l27lmiv5b",
+            "startAt": 56865,
+            "endAt": 60302,
+            "text": "안되면은 큰 병원 가실, 가셔야 될 수도 있어요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_54l2rat6ln8",
+            "startAt": 60447,
+            "endAt": 64711,
+            "text": "아니면은 밑에 내려가서 진료를 한번 보시고 안되시면 119로 재신고 하시겠어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_s6unvmb8fc8",
+            "startAt": 60456,
+            "endAt": 61366,
+            "text": "네네네",
+            "speaker": 1
+        },
+        {
+            "id": "e79170b5",
+            "startAt": 65120,
+            "endAt": 68220,
+            "text": "아, 재신고를 그럼요? 한번 내려가보구요? 아,",
+            "speaker": 1
+        },
+        {
+            "id": "802dafee",
+            "startAt": 67447,
+            "endAt": 70719,
+            "text": "아니면, 아니면은 큰 병원 가실 거면 지금 구급차에 먼저 보내드리고요.",
+            "speaker": 0
+        },
+        {
+            "id": "47dd5f5d",
+            "startAt": 71279,
+            "endAt": 76539,
+            "text": "아, 일단 그러면 저희 건물 내에 정형외과가 좀 입원실까지 있는 데가 있기는 하거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "fd765b76",
+            "startAt": 76429,
+            "endAt": 79061,
+            "text": "아 네, 그쪽으로 한번 먼저 내원하시겠어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_r87d899jogg",
+            "startAt": 77930,
+            "endAt": 78393,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "71c3dfd0",
+            "startAt": 79037,
+            "endAt": 81323,
+            "text": "예예 내원하고, 그러면",
+            "speaker": 1
+        },
+        {
+            "id": "8201bcee",
+            "startAt": 81259,
+            "endAt": 83568,
+            "text": "안 되시면 바로 119 다시 신고해주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_iep29g9d978",
+            "startAt": 83203,
+            "endAt": 84794,
+            "text": "다시 전화 드릴까요? 아",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kt4d3nf81e",
+            "startAt": 84357,
+            "endAt": 84812,
+            "text": "네네",
+            "speaker": 0
+        },
+        {
+            "id": "d43e079a",
+            "startAt": 85283,
+            "endAt": 86998,
+            "text": "네, 네네네 감사합",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2k5ocgv2q88",
+            "startAt": 85757,
+            "endAt": 86994,
+            "text": "아예 싫으시면",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mq7jo2coclg",
+            "startAt": 87757,
+            "endAt": 88976,
+            "text": "어 네 아이가",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_r0qfttr05ag",
+            "startAt": 89021,
+            "endAt": 89412,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "e7b78c20",
+            "startAt": 89383,
+            "endAt": 89890,
+            "text": "네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_39oahqcmnbo",
+            "startAt": 89866,
+            "endAt": 91212,
+            "text": "구토하거나 그러진 않아요?",
+            "speaker": 0
+        },
+        {
+            "id": "9cc666fc",
+            "startAt": 91702,
+            "endAt": 94247,
+            "text": "그런 건 없고 지금 많이 울었는데 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_h3lu95avkt8",
+            "startAt": 94330,
+            "endAt": 97249,
+            "text": "피가 머리에서 막 뚝뚝 떨어지기는 했거든요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_am0373hmdko",
+            "startAt": 97212,
+            "endAt": 99949,
+            "text": "일단 그, 네,",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rfqv839sjdg",
+            "startAt": 97567,
+            "endAt": 99367,
+            "text": "근데 아이가 눈물은 그쳤고,",
+            "speaker": 1
+        },
+        {
+            "id": "b6b3b154",
+            "startAt": 100643,
+            "endAt": 101406,
+            "text": "네네 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_v89mdq6dpj",
+            "startAt": 100649,
+            "endAt": 106331,
+            "text": "내원해 보신 다음에 안 되시고 거기서 진료가 안 된다 그러면 다시 신고해주세요, 저희가 구급차 보내드릴게요.",
+            "speaker": 0
+        },
+        {
+            "id": "1a38773d",
+            "startAt": 106868,
+            "endAt": 107762,
+            "text": "아 그래요? ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mll8ua8o38",
+            "startAt": 107731,
+            "endAt": 107994,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5eua1icarko",
+            "startAt": 107958,
+            "endAt": 109749,
+            "text": "네네네 알겠습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6stfekup5ug",
+            "startAt": 108813,
+            "endAt": 110531,
+            "text": "네, 네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_m1m8mmelkk8",
+            "startAt": 110513,
+            "endAt": 111294,
+            "text": "네",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "불안/걱정",
+    "symptom": [],
+    "triage": ""
+}

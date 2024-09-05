@@ -1,0 +1,173 @@
+{
+    "_id": "64d9fdff3e12da15ae3a4f54",
+    "audioPath": "20230814/Incheon/2023/02/09/071/converted_20230209161515_2-071.wav",
+    "recordId": "3acebbd0a2c623c1e800",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 40360,
+    "utterances": [
+        {
+            "id": "46c650c8",
+            "startAt": 0,
+            "endAt": 606,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ruu6qok08a8",
+            "startAt": 1031,
+            "endAt": 2300,
+            "text": "네 앞전 통화했죠?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4kndkgvhri",
+            "startAt": 2684,
+            "endAt": 2973,
+            "text": "네?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_oakocs3mj0g",
+            "startAt": 3709,
+            "endAt": 5504,
+            "text": "아니 앞전 통화햇잖아요 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bnb0qt528lg",
+            "startAt": 5627,
+            "endAt": 6669,
+            "text": "아이 무슨 일이예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ojms1dp410o",
+            "startAt": 7390,
+            "endAt": 8390,
+            "text": "아니.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d77tuj53h0o",
+            "startAt": 8028,
+            "endAt": 8402,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jnso82c41b",
+            "startAt": 9011,
+            "endAt": 12621,
+            "text": "나를 그 정신병원에 넣어 가지고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gih2f5a16do",
+            "startAt": 13374,
+            "endAt": 15311,
+            "text": "내가 수급자입니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a8nnk2ncqo",
+            "startAt": 15420,
+            "endAt": 17651,
+            "text": "아 누나들이 통장에 돈을 다 가져 갔다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_30iqfn55ft8",
+            "startAt": 15946,
+            "endAt": 16546,
+            "text": "그런데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vbh5gm6urkg",
+            "startAt": 18056,
+            "endAt": 18593,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kspjk7vsj0g",
+            "startAt": 18626,
+            "endAt": 20347,
+            "text": "아 경찰에 신고하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gbhdfpgh5s",
+            "startAt": 18946,
+            "endAt": 19793,
+            "text": "그래서 내가.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6p2ahlpbp2g",
+            "startAt": 21014,
+            "endAt": 21425,
+            "text": "예?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qhnnh2hh8ng",
+            "startAt": 21504,
+            "endAt": 23751,
+            "text": "경찰에 신고 하시라고요 112",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7iglff8ltm",
+            "startAt": 23230,
+            "endAt": 23798,
+            "text": "그러면.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_oa5f4l49a88",
+            "startAt": 24044,
+            "endAt": 26265,
+            "text": "그러면은 그쪽으로 연락좀 해주세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ob86gufnclg",
+            "startAt": 26478,
+            "endAt": 29783,
+            "text": "아니, 그니깐 전화끊고 112에 직접 하세요 저희가 내용을 모르니까.",
+            "speaker": 0
+        },
+        {
+            "id": "02472db2",
+            "startAt": 29849,
+            "endAt": 31005,
+            "text": "예, 알았어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fk4p3jstb5g",
+            "startAt": 29936,
+            "endAt": 30990,
+            "text": "112에 하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jusbo6ksnd8",
+            "startAt": 31412,
+            "endAt": 31828,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "인천광역시",
+    "disasterLarge": "기타",
+    "disasterMedium": "기타",
+    "urgencyLevel": "하",
+    "sentiment": "당황/난처",
+    "symptom": [],
+    "triage": ""
+}
